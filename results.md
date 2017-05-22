@@ -365,7 +365,6 @@
 - [Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters): Learn how to employ rate limiting to make your API more reliable in this article by Paul Tarjan.
 - [Free Font: Realist](https://pixelbuddha.net/freebie/realist-typeface-free-download): A beautiful classic, hand-written typeface by Graptail for Pixel Buddha.
 - [Google Gnome](https://store.google.com/magazine/gnome): Google's fun April Fool's prank: the smart gnome that manages yard tasks :)
-- [](https://tympanus.net/codrops/2017/03/30/experimental-3d-room-exhibition-layout/): A highly experimental 3D room layout for a gallery that aims to show exhibition details in an interesting way.
 
 # Collective #301
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf): Addy Osmani gives insight into Chrome's networking stack to provide clarity on how web loading primitives work behind the scenes so you can be more effective with them.
@@ -1280,7 +1279,7 @@
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk?utm_source=codropscollective): Paul Irish shows how to do magical debugging using Chrome dev tools. A recording from the Chrome Dev Summit 2016.
 - [How To Create A Dramatic Vector Illustration](https://www.smashingmagazine.com/2016/11/how-to-create-a-dramatic-vector-illustration/?utm_source=codropscollective): Igor Izhik gives an in-depth masterclass in vector illustration where he shows how to approach all stages of the process.
 - [Hollow](http://hollow.org.uk/?utm_source=codropscollective): A mind-blowing project that allows to explore the history of the planet with artist Katie Paterson and Zeller & Moye.
-- [DevFreeBooks](https://devfreebooks.github.io/utm_source=codropscollective): A collection of free and very useful eBooks for developers. Check out the GitHub repo here. By Caio Ribeiro Pereira.
+- [DevFreeBooks](https://devfreebooks.github.io/?utm_source=codropscollective): A collection of free and very useful eBooks for developers. Check out the GitHub repo here. By Caio Ribeiro Pereira.
 - [turbo.js](https://turbo.github.io/?utm_source=codropscollective): If you haven't heard about it yet: Turbo.js offloads complex client-side parallel calculations on the GPU so you can get JS-accessible results with a single call.
 - [Custom Elements: an ecosystem still being worked out](https://paul.kinlan.me/custom-elements-ecosystem/?utm_source=codropscollective): A very interesting article by Paul Kinlan where he shares his thoughts on the impact of Custom Elements and the hurdles yet to overcome.
 - [Free Font: Hentges](https://www.behance.net/gallery/44866229/Hentges-FREE-Typeface?utm_source=codropscollective): A lovely typeface with a soft, elegant look designed by Paula Hentges.
@@ -1450,7 +1449,7 @@
 - [CSS Only iPhone 6](http://codepen.io/fbrz/full/vlrnd/?utm_source=codropscollective): An incredibly detailed iPhone 6 made with CSS only by Fabrizio Bianchi.
 - [Graphic Design Icon Set (EPS, AI, SVG, PNG)](https://pixelbuddha.net/freebie/graphic-design-icon-set?utm_source=codropscollective): Some great graphic design icons made by Ecomm Design for Pixel Buddha.
 - [Best Of Halloween: All Things Spooky](https://www.smashingmagazine.com/2016/10/best-of-halloween-all-things-spooky/?utm_source=codropscollective): Get some first class Halloween inspiration from this great collection on Smashing Magazine.
-- [](https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.etcwaxhsp?utm_source=codropscollective): Emil Ong shares a couple of handy ES6 tricks
+- [Stupid ES6 tricks](https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.etcwaxhsp?utm_source=codropscollective): Emil Ong shares a couple of handy ES6 tricks
 - [Reactive Animations with CSS Variables](http://slides.com/davidkhourshid/reactanim#/?utm_source=codropscollective): The awesome slides of David Khourshid's CSSDevConf talk on reactive animations.
 - ["Instant Loading" with IndexedDB (Building a PWA, Part 2)](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/?utm_source=codropscollective): The second part of Ire Aderinokun's series on building a Progressive Web App; this part is on how to work with IndexedDB.
 - [Pure CSS Content Filter](http://csswizardry.com/2016/10/pure-css-content-filter/?utm_source=codropscollective): An interesting CSS-only content filter experiment utilizing the :target pseudo-selector by Harry Roberts.
@@ -1666,7 +1665,6 @@
 - [Ambient Canvas](http://codepen.io/mattjuggins/full/JRjEwB/?utm_source=codropscollective): A cool demo by Matthew Juggins of a musical drawing app.
 - [170 Retro Business icons for Sketch](http://freebiesbug.com/sketch-freebies/170-retro-business-icons-sketch/?utm_source=codropscollective): A really nice set of business icons for Sketch made by Designer Bundle.
 - [Don't ruin your <img>](https://medium.freecodecamp.com/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be#.kamasgjhb?utm_source=codropscollective): Some useful tips on how to handle images by Anthony Ng.
-- [](https://medium.com/@NicerStudio/we-launched-our-company-with-a-parody-product-600ffbbe0173#.1n8izglzn?utm_source=codropscollective): A very interesting read on the parody product invented by Nice Studio.
 - [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS?utm_source=codropscollective): Some practical insights on the vMin and vMax units by Dudley Storey.
 - [75 of the Smartest Resources for Web Designers](https://medium.com/cmd-t/75-of-the-best-resources-for-web-designers-98208e8709a#.1yy2kg2d4?utm_source=codropscollective): A very useful list of the best resources for web designers. 
 - [First impressions of React](https://remysharp.com/2016/09/13/first-impressions-of-react?utm_source=codropscollective): Remy Sharps first impressions of using React that will give you some valuable insight to the library.
@@ -2756,7 +2754,6 @@
 - [Building a Better Web Browser](https://www.youtube.com/watch?v=1uflg7LDmzI): James Mickens on building better, more robust and secure web browsers.
 - [Pseudo and pseudon’t](https://adactio.com/journal/10000): Icky or not, this CSS trick by Jeremy Keith makes filled inputs awesome.
 - [SVG icons are easy but the fallbacks aren't](http://maketea.co.uk/2015/12/14/svg-icons-are-easy-but-the-fallbacks-arent.html): Matt Hinchliffe shows how difficult it can be to provide straightforward fallbacks for SVG on the web.
-- [](http://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/): A great bundle of 110 Christmas icons and illustrations designed by Anastasia Kolisnichenko for Smashing Magazine.
 - [Urku HTML5 Portfolio Website](http://www.pixeden.com/html5-website-templates/urku-html5-portfolio-website): Urku Portfolio is a clean and flexible free website template made by Pixeden.
 - [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync?hl=en): Learn all about 'background sync', a new web API that lets you defer actions until the user has stable connectivity. By Jake Archibald.
 - [Compiling to WebAssembly: It's Happening!](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/): WebAssembly is a binary format for compilation to the web. Read why it's an exciting time now for it's design and implementation in this article by Alon Zakai.
@@ -2876,7 +2873,6 @@
 - [Free Font: Balqis](http://freedesignresources.net/balqis-free-font): A beautiful calligraphy typeface designed by Artimasa Studio.
 - [Uideo](https://uideo.net/): A great collection of design videos from 47 UI/UX conferences.
 - [API PLUG: Hassle-free API Generation (Beta)](https://apiplug.com/): Get deployment-ready API codes and docker containers from your data source with a few clicks. Still in beta but looking very promising.
-- [](http://www.tensorflow.org/): TensorFlow is an open source software library for numerical computation using data flow graphs.
 - [My first Service Worker](https://adactio.com/journal/9775): Jeremy Keith shares his excitement about Service Workers and shows how he did his first implementation of one.
 - [The Tantalum Renderer](https://benedikt-bitterli.me/tantalum): An amazing 2D light transport simulation powered by WebGL. Made by Benedikt Bitterli.
 - [Free Font: LIQUIDE](https://www.behance.net/gallery/31179233/LIQUIDE-Free-Typeface): Philip Fisser designed this smoothly rounded display typeface and offers it for free.
@@ -3198,7 +3194,7 @@
 - [canvid.js](https://github.com/gka/canvid): Canvid is a tiny dependency free library for playback of relatively short videos on canvas elements. Made by Gregor Aisch.
 
 # Collective #179
-- [Inspirational Website of the Week: Quant Agency](http://quant.agency/#main): A clean and fresh site with some interesting design details and interactions. Our pick this week.
+- [Inspirational Website of the Week: Quant Agency](http://quant.agency/#main?utm_source=codrops): A clean and fresh site with some interesting design details and interactions. Our pick this week.
 - [What The FlexBox?!](http://flexbox.io/#/?utm_source=codrops): A simple, free 20 video course that will help you master CSS Flexbox by Wes Bos.
 - [Stop pushing the web forward](http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html?utm_source=codrops): A reasonable call for not moving the web forward for a while so that we can learn and understand the current features for a more meaningful vision of the web.
 - [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs/?utm_source=codrops): Paul Irish shows how to use the Chrome DevTools and Filmstrip to diagnose slow page loading of several big websites.
@@ -3444,7 +3440,7 @@
 - [Makerbook](http://makerbook.net/): A collection of the most valuable free resources for creatives. Made by Craig Barber.
 - [GreenSock Cheat Sheet](https://ihatetomatoes.net/greensock-cheat-sheet/): A handy collection of useful GreenSock code snippets put together by Petr Tichy.
 - [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/): A very insightful article by Dominic Nguyen  on how to time animations and the science behind it.
-- [Sass Pixel Art](http://una.im/sass-pixel-art/): A genius tutorial by Una Kravets on how to use Sass to create pixelized art.
+- [Sass Pixel Art](http://una.im/sass-pixel-art/#????): A genius tutorial by Una Kravets on how to use Sass to create pixelized art.
 - [Animate Plus](https://github.com/bendc/animate-plus): Animate Plus is a JavaScript library for animating CSS properties and SVG attributes. Made by Benjamin De Cock.
 - [Tips For Avoiding Common SVG Pitfalls](http://slides.com/sarasoueidan/tips-for-avoiding-common-svg-pitfalls#/): Sara Soueidan's slides of Smashing Conf LA 2015 about how to avoid common SVG pitfalls.
 - [Voice Memos](https://aerotwist.com/blog/voice-memos/): An app by Paul Lewis that lets users record voice memos.
@@ -4045,7 +4041,6 @@ World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af
 - [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice): Eric Portis sums up what there is to know about using the responsive image markup and solutions in practice.
 - [Soundscape](http://defonic.com/): Sounscape combines the sounds of the world into a melody. Just pick your sounds, listen and relax.
 - [International Telephone Input](https://github.com/Bluefieldscom/intl-tel-input): A jQuery plugin for entering and validating international telephone numbers. By Mitoo.
-- [](http://codepen.io/CyrilLevallois/pen/JbrfI): Levallois Cyril experiments with SVG animations in this fabulous demo.
 - [TMI (Too Many Images)](https://github.com/addyosmani/tmi): Find out the image weight in your pages, compare to the HTTPArchive average and discover what images you can optimize further. Made by Addy Osmani.
 - [Free Font: Skinny Bastard](http://freegoodiesfordesigners.blogspot.se/2014/10/free-font-skinny-bastard-by-marcelo.html): Marcelo Reis Melo designed this interesting hand-written typeface.
 - [Freebie: Boldons Icon Set](http://www.smashingmagazine.com/2014/11/06/freebie-boldons-icon-set-45-icons-png-ai/): A lovely and well-designed icon set with 45 colorful icons.
@@ -4289,262 +4284,3037 @@ World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af
 - [Anatomy of a touch interaction: Swipe to peep](http://itchingpixels.com/anatomy-of-a-touch-interaction-swipe-to-peep/): Interaction designer Mark Szulyovszky analyzes the "swipe to peep" interaction concept and implements a prototype.
 
 # Collective #130
+- [Inspirational Website of the Week: One Design Company](http://onedesigncompany.com/): A perfect amount of classy transitions and animations make One Design Company our pick of the week.
+- [Monocle List](http://lab.hakim.se/monocle/): An awesome scrollable list that expands its items under a magnifying area. Made by Hakim El Hattab.
+- [One Step Ahead: Improving Performance with Prebrowsing](http://alistapart.com/article/one-step-ahead-improving-performance-with-prebrowsing): Santiago Valdarrama gives some insight on the interesting idea of prebrowsing in this A List Apart Article.
+- [High Performance Map Interactions Using HTML5 Canvas](http://chairnerd.seatgeek.com/high-performance-map-interactions-using-html5-canvas/): Ed Kelley from SeatGeek explains how HTML5 canvas and canvas tiles were used to speed up their interactive maps.
+- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates): A useful collection of common templates for transactional emails by the Mailgun team.
+- [Satellizer](https://github.com/sahat/satellizer): Satellizer is a token-based authentication module for AngularJS with built-in support for Google, Facebook, LinkedIn and Twitter authentication providers, plus Email and Password sign-in method. Made by Sahat Yalkabov.
+- [The Current State Of E-Commerce Search](http://www.smashingmagazine.com/2014/08/18/the-current-state-of-e-commerce-search/): A comprehensive article on the current state of e-commerce search by Christian Holst.
+- [Senna](http://sennajs.com/): Senna is a no-dependency, single page application engine that provides several low-level APIs for building modern web-based applications.
+- [Duo](http://duojs.org/): Duo is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+- [The Stocks](http://thestocks.im/): TheStocks.im shows the best royalty free stock photos in one place.
+- [Free Font: Plathorn Medium](http://www.myfonts.com/fonts/insigne/plathorn/): Plathorn is a beautiful new font family designed by Jeremy Dooley. The medium style is for free.
+- [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css): A comprehensive list of must-watch videos about CSS put together by Matt Smith.
+- [Advanced objects in JavaScript](http://bjorn.tipling.com/advanced-objects-in-javascript): Bjorn Tipling writes about advanced objects in JavaScript—sophisticated tools to create objects in interesting and useful ways.
+- [A Comprehensive Guide to Styling File Inputs](http://developer.telerik.com/featured/comprehensive-guide-styling-file-inputs/): TJ VanToll shows how build and style your own file upload component.
+- [sweep.js](http://rileyjshaw.com/sweep/): Sweep.js by Riley Shaw enables proper color transitions through the HSL and HUSL spaces. Read more about the need for HSL transitions his article Hue-Angle Transitions.
+- [Geek Pack (EPS)](http://field5.com/en/freebies/geek-pack): A really cool pack of vectors to create your unique geek by Field 5.
+- [Draw a cute lion in Illustrator](http://veerle.duoh.com/design/article/draw_a_cute_lion_in_illustrator): An in-depth tutorial on how to draw a über-cute lion in Adobe Illustrator by Veerle Pieters.
+- [Sharing beautiful travel moments](http://travelcoffeebook.tumblr.com/): A Tumblr with 10 new CC0 licensed travel photography every 10 days.
+- [Free Font: TT Souses Black Italic](http://www.myfonts.com/fonts/type-type/tt-souses/): TT Souses by TypeType is a font family full of character. The black italic style is for free.
 
 # Collective #129
+- [Inspirational Website of the Week: Follow Bubble](http://followbubble.com/): A beautiful site that gives flipping pages some new life. Our pick this week.
+- [Look and Feel](https://developers.google.com/web/fundamentals/look-and-feel/): An awesome section in the Web Fundamentals project by Google that will give you a better understanding of animations and their use in modern apps and sites.
+- [Beautiful Open](http://beautifulopen.com/): Beautiful Open is a showcase of well-designed sites for open source projects. Built and curated by Trek Glowacki.
+- [Hextris](http://hextris.github.io/hextris/): Tetris and Super Hexagon lovers, Hextris will be your ultimate game challenge this week.
+- [What you should know about JavaScript regular expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript): Explore regular expressions in JavaScript through this great article by Bjorn Tipling.
+- [Vintage Logo Kit Vol.3 (PSD, AI)](http://pixelbuddha.net/freebie/vintage-logo-kit3): A nice set of vintage logo designs. A freebie from PixelBuddha.
+- [Free Font: JAAPOKKI](http://mikkonuuttila.com/jaapokki/): A fantastic free font by Mikko Nuuttila with a unique flair.
+- [30 Foods Icons-Free Icon Set (AI)](https://dribbble.com/shots/1682997-30-Foods-Icons-Free-Icon-Set): A set of beautiful little food icons for your next gastronomic project.
+- [Typ.io](http://www.typ.io/): Typ.io is an ever-growing resource for beautiful font combinations. See how other designers mix and match fonts and find your perfect combo.
+- [One Weird Trick to Baseline-Align Text](http://blogs.adobe.com/webplatform/2014/08/13/one-weird-trick-to-baseline-align-text/): An interesting little trick to baseline-align text by Alan Stearns.
+- [A Better 404 Page](http://www.smashingmagazine.com/2014/08/12/a-better-404-page/): Learn how to make your 404 more helpful to visitors. An article by Donovan Hutchinson for Smashing Magazine. 
+- [Free Font: Bear & Loupe](http://pixelbuddha.net/freebie/bearandloupe-font): A creative free font designed by Rachid Aitouaissi for PixelBuddha.
+- [js13kGames](http://js13kgames.com/): The epic HTML5 and JavaScript game development competition is on again and challenges you to create a game in under 13k. The competition started at 13:00 CEST, 13th August 2014 and will end at 13:00 CEST, 13th September 2014.
+- [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home): A beginner's guide for understanding cross-DPI and cross-platform design. Written by  Sebastien Gabriel.
+- [DesignersPics](http://www.designerspics.com/): A new site where you can find Hi-Res photos for personal and commercial use.
+- [ColorRun](http://colorrun.pl/): A minimal and fun game where you need to click on the lighter color, fast, no mistakes allowed. By the folks from MakeTheWeb.
+- [PerfBar](http://lafikl.github.io/perfBar/): A project by Khalid Lafi that let's you collect and look at your website performance metrics quickly.
+- [Email Design Inspiration](http://htmlemaildesigns.com/): The site for email newsletter inspiration just got re-launched. See how others design their emails and get inspired.
+- [Free Font: AVENTURA](https://www.behance.net/gallery/19109931/AVENTURA-Free-Typeface): Aventura is a creative uppercase display font designed by Jimmy Kalman.
+- [Various free icons (AI)](https://dribbble.com/shots/1685550-Free-icons): A set of free, useful icons by Claire Paoletti.
+- [Introducing the New Slides Editor (Beta)](http://slides.com/news/new-editor#/): Slides has a brand new editor and it's available in public beta. 
 
 # Collective #128
+- [Inspirational Website of the Week: Volkshotel Amsterdam Centre](http://volkshotel.nl/en/): Our pick this week is a uniquely designed hotel website with a clever use of details and effects that fit the subject perfectly.
+- [Pure CSS parallax scrolling websites](http://blog.keithclark.co.uk/pure-css-parallax-websites/): A brilliant CSS-only technique by Keith Clark for parallax scrolling on a website using 3D transforms.
+- [Understanding SVG Coordinate Systems & Transformations (Part 3) – Establishing New Viewports](http://sarasoueidan.com/blog/nesting-svgs/): The third and final tutorial in an awesome series of SVG articles by Sara Soueidan that will help you become an expert at using SVG.
+- [JavaScript Face Tracking Demo](http://kdzwinel.github.io/JS-face-tracking-demo/): Konrad Dzwinel's cool face tracking demo that will create a GIF of your recording.
+- [Mondrian](https://www.behance.net/gallery/18907235/Mondrian-Font-Free-Font): Mondrian is a vector font designed by Tano Veron and inspired by the art of Piet Mondrian. 
+- [Sweet Sugar Text Effect in Photoshop](http://www.designpanoply.com/blog/sweet-sugar-text-effect-in-photoshop): A very nice and detailed Photoshop tutorial by John Shaver from Design Panoply how to create a really creative sugar text effect. 
+- [The Making of Aprilzero: Part 2](http://aprilzero.com/journal/making-of-aprilzero-part-2/): If you have seen the awesome website Aprilzero by Anand Sharma that we picked as WOTW in issue 124  then you'll love this two-part making of. You can read the first part here: The Making of Aprilzero
+- [Coloured lightmaps with CSS blend modes](http://codepen.io/keithclark/pen/ptHKv): Another gem by Keith Clark that shows the power of CSS blend modes for creating colored lightmaps.
+- [Free Retro Car Icons Set](https://dribbble.com/shots/1671911-Free-Retro-Car-Icons-Set): Two beautiful freebies by talented designer Vitaliy including motor cycles and retro cars vectors.
+- [Shrthnd](http://shrthnd.volume7.io/): Shrthnd is a handy tool that converts CSS properties into shorthand, making shorter and more readable stylesheets. Made by  Volume7.
+- [Experimenting with the element.animate() function](http://christofervilander.se/2014/08/01/element-animate-function/): Christofer Vilander experiments with the interesting the element.animate() function that was included in Chrome 36.
+- [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/): A fantastic tutorial by Barry Clark on how to build a static blog with Jekyll and host it on GitHub Pages.
+- [Free Font: BRIG](https://www.behance.net/gallery/18876427/BRIG-free-typeface): Filipe Rolim designed this beautiful uppercase display font and you can download it for free on Fontm.com.
+- [Digital trip](http://dt.htdt.ru/): An amazing Google Chrome Experiment game that showcases some modern web tech wizardry with three.js and headtrackr.
+- [Building A Line-by-Line File Reader Using HTML5 and JavaScript](http://matthewmeye.rs/blog/post/html5-line-reader/): Learn how to use the HTML5 File API to build a file reader in this great tutorial by Matthew Meyers.
+- [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/): An article by Ben Frain on his approach of writing CSS for enduring web projects.
+- [Free Font: Hans Kendrick](https://www.behance.net/gallery/13659815/Hans-Kendrick-Free-Regular-Font): Hans Kendrick 3.0 is a geometric grotesk typeface in regular and bold weights. It was designed by Alfredo Marco Pradil
+- [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide): A starting point for AngularJS development teams to provide consistency through good practices. A style guide by John Papa.
 
 # Collective #127
+- [Inspirational Website of the Week: DUNCKELFELD](http://www.dunckelfeld.de/en/): An incredibly smooth interactive experience and an impeccable design made this website our pick of the week.
+- [CSS Triggers](http://csstriggers.com/): A definitive reference for what work is triggered by changing various CSS properties. Read more about it in this article by Paul Lewis.
+- [Understanding SVG Coordinate Systems & Transformations (Part 2): The <transform> Attribute](http://sarasoueidan.com/blog/svg-transformations/): The second part of a really great guide to understanding the SVG coordinate system and transformations by Sara Soueidan.
+- [SVG Masks](http://codepen.io/yoksel/full/eIxmr/): A fantastic demo by Yoksel that shows the power of SVG masks.
+- [Fontface Ninja](http://fontface.ninja/): With Fontface Ninja you can instantly find out what fonts are used on a website and experiment with it.
+- [Points Of Interest](http://codyhouse.co/gem/points-of-interest/): A beautiful component by Claudia Romano from Cody for showing points of interests of products.
+- [Animating SVG text On A Path](http://jonibologna.com/svg-text-along-a-path/): Learn how to animate SVG text on a path in this great tutorial by Joni Trythall.
+- [Free Lined Icons (AI)](https://dribbble.com/shots/1658992-Free-Lined-Icons): A beautiful little freebie by buatoom.
+- [Let's Talk About RTL](http://alfy.me/2014/07/26/lets-talk-about-rtl.html): A great guide on how to create RTL websites by Ahmad Alfy.
+- [Creating dub delay effects with the Web Audio API](http://blog.chrislowis.co.uk/2014/07/23/dub-delay-web-audio-api.html): Chris Lowis shows you how to make some seriously cool dub delay effects with the Web Audio API.
+- [Free Font: Thin Line Font](https://www.behance.net/gallery/18588437/Thin-Line-Font): Gatis Vilaks shares this unique and harmonious font for free.
+- [baguetteBox.js](https://feimosi.github.io/baguetteBox.js/): A simple and easy-to-use JavaScript lightbox script.
+- [How we make RWD sites load fast as heck](http://filamentgroup.com/lab/performance-rwd.html): Some great advice and tips how to make responsive websites load fast. An article by Scott Jehl.
+- [T3](http://maurizzzio.github.io/t3/docs/): T3 is a template to build three.js applications without worrying about the common set up process and allowing multiple applications per page. Made by Mauricio Poppe.
+- [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31): Anne Gibson lists 26 personae as examples of why we need to make simple, readable, effective content on the web.
+- [Game About Squares](http://gameaboutsquares.com/): A really cool and addictive little game by Andrey Shevchuk.
+- [The jungle of mobile HTML5 development](https://medium.com/dev-rocket/the-jungle-of-mobile-html5-development-b06cca1f671d): A solid collection of HTML5 mobile development resources by Yacine Rezgui.
+- [Full-width pinned layouts with flexbox](http://zomigi.com/blog/full-width-pinned-layouts-with-flexbox/): Learn how to use flexbox to pin two things to opposite ends of the viewport with a heading centered in between. A tutorial by Zoe Mickley Gillenwater.
+- [Radio-Controlled Web Design](http://alistapart.com/article/radio-controlled-web-design): Radio-control the web? Art Lawry explains how the radio button technique can help spare some JS and therefore make websites lighter.
 
 # Collective #126
+- [Inspirational Website of the Week: Garden](http://gardenstudio.com.br/): Garden is a beautifully designed website with some smart line drawing effects and a lovely color scheme. Our pick this week.
+- [Ten CSS One-Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps/): Learn about how CSS Figures will help create complex page layouts with ease. An article by Håkon Wium Lie on A List Apart.
+- [DomFlags](http://domflags.com/): With DomFlags you can create keyboard shortcuts to DOM elements for a faster inspection when developing. By Philip LaPier.
+- [PatternBolt](http://buseca.github.io/patternbolt/): Patternbolt is a great selection of SVG pattern background, packed in a single CSS or SCSS file.
+- [The Principles of Adaptive Design](http://bradfrostweb.com/blog/post/the-principles-of-adaptive-design/): Brad Frost re-analyzes responsive design and summarizes the essential ingredients for an adaptive website.
+- [Responsive Images: Use Cases and Documented Code Snippets to Get You Started](http://dev.opera.com/articles/responsive-images/): A fantastic summery by Andreas Bovens on how to use the new true responsive image solution with the <picture> element.
+- [3D Items Quick View](http://codyhouse.co/gem/3d-items-quick-view/): A great tutorial on how to add a lovely 3D animation for gallery items. By Sebastiano Guerriero from Codyhouse.
+- [No JS Mini Demos](http://www.scottohara.me/article/mini-demos.html): Some examples of CSS only methods to display messages when filling out forms. By Scott O'Hara.
+- [Responsive Logos](http://responsivelogos.co.uk/): Joe Harrison's awesome experiment for resonsive logo design. Resize your window to see it in action.
+- [A Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/): A thorough collection of useful resources for everything related to SVG.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome lists of great resources for various programming languages. Collected by Alexander Bayandin.
+- [65 free icons (PSD, AI, EPS)](https://www.behance.net/gallery/18510719/65-free-icons): A lovely icon set by Pavel Kozlov.
+- [Image comparison slider with pure CSS](http://lea.verou.me/2014/07/image-comparison-slider-with-pure-css/): Lea Verou's elegant CSS only solution for an image comparison slider utilizing the resize property.
+- [Magic Tools](https://github.com/ellisonleao/magictools): A list of game development resources to make magic happen. By Ellison Leão.
+- [Free Font: Skip Leg Day](https://www.behance.net/gallery/18515345/Skip-Leg-Day-Typeface): Dilem Akiner designed this beautiful and playful font.
+- [Critical](https://github.com/addyosmani/critical): With Critical by Addy Osmani you can extract and inline critical-path CSS from HTML.
+- [How To Create an Origami Style Logomark in Illustrator](http://blog.spoongraphics.co.uk/tutorials/how-to-create-an-origami-style-logomark-in-illustrator): An Illustrator tutorial by Chris Spooner on how to create a lovely origami-style logo.
+- [<dialog> element: shipped in Chrome 37 Beta](http://updates.html5rocks.com/2014/07/dialog-element-shipped-in-Chrome-37-Beta): Chrome Beta has landed its native support for <dialog> element without needing the "Enable experimental Web Platform features" flag turned on.
+- [How Do You Design Interaction?](http://www.smashingmagazine.com/2014/07/21/how-do-you-design-interaction/): Luca Leone gives some insight on how he approaches designing interaction without drawing first.
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): A curated list of delightful Node.js packages and resources by Sindre Sorhus.
+- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/): Mark Otto gives us some interesting insight into GitHub's CSS.
+- [Resources for HTML5 game developers](https://hacks.mozilla.org/2014/07/resources-for-html5-game-developers/): A collection of resources for HTML5 game development on Mozilla Hacks.
 
 # Collective #125
+- [Inspirational Website of the Week: Adventure.com](http://adventure.com/): This week's inspirational website is Adventure, a beautifully designed site with excellent typography and some slick effects.
+- [Understanding SVG Coordinate Systems & Transformations (Part 1)](http://sarasoueidan.com/blog/svg-coordinate-systems/): A fantastic in-depth tutorial with interactive demo by Sara Soueidan that will make it easy for you to understand SVG viewBox and preserveAspectRatio.
+- [Hacks for dealing with specificity](http://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/): Harry Roberts gives advice and tips on how to tackle specificity in CSS better in order to avoid the side effects.
+- [Google Is Designing the Font of the Future. Here’s How.](http://nymag.com/daily/intelligencer/2014/07/google-is-designing-the-font-of-the-future.html): An interesting article on Google's work on Roboto, the Android typeface.
+- [The Creative Class of MMXIV](http://thecreativeclass.tv/): Get inspired with the musings of some of the most influential people within the creative industry.
+- [Ripple Click Effect](http://thecodeplayer.com/walkthrough/ripple-click-effect-google-material-design): A walkthrough that shows how to re-create the cool ripple click effect used in the Polymer Project by Google.
+- [Winter Icon Set](http://dribbble.com/shots/1646055-Winter-Icon-Set): A set of really beautiful winter icons designed by talented Tamara.
+- [Scaling Down The BEM Methodology For Small Projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/): An inisghtful article by Maxim Shirshin on how to use the BEM syntax effectively on smaller projects.
+- [Free Font: Aaram](http://www.behance.net/gallery/18308893/Aaram-Free-Font): A unique typeface with elegant curves designed by Tharique Azeez.
+- [Breach: A browser for the HTML5 era](http://breach.cc/): Breach is a free, modular browser written in JS that you can easily extend and develop with. 
+- [Three.js Interactive Template Generator](http://callum.com/apps/threejs_app_template_interactive/index.html): Generate a three.js application template using interactive controls. Made by Callum Prentice.
+- [Rome Date/Time Picker](http://bevacqua.github.io/rome/): Rome is a dependency-free and customizable date/time picker developed by Nicolas Bevacqua.
+- [40 Battery Vector Icons (AI, EPS, SVG and PNG)](http://www.dreamstale.com/free-download-40-battery-vector-icons/): A great set of battery icons in all kinds of states for your next app design.
+- [Mintie Flat Icons (PSD)](http://pixelbuddha.net/freebie/mintie-flat-icons): A set of cute flat icons by Oliver Stoian for Pixel Buddha.
+- [18 Surprises From Reading jQuery's Source Code](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code): David Aragon shares his interesting discoveries examining the jQuery source from top to bottom.
+- [Clear Icons - Solid (PSD, PNG, SVG and CSH)](http://appzgear.com/products/clear-icons-solid.htm): A set of 500 minimalistic and sharply designed icons by Appzgear.
+- [raumrot: FREE Hi-Res Pictures](http://www.raumrot.com/): A great resource for high-quality free, CC-BY licensed stock photos by raumrot.
+- [Brickapic](http://me.brickapic.com/): A fun site where you can turn your picture into a LEGO brick mosaic.
+- [Social Good Ipsum](http://socialgoodipsum.com/): Social Good Ipsum is the new kid on the block of Dummy text generators that will give you smart text for your comps.
 
 # Collective #124
+- [Inspirational Website of the Week: Aprilzero](http://aprilzero.com/): Anand Sharma's own data visualized in a fantastic way. Enjoy smooth animations and interesting effects on this extraordinary website.
+- [Clipping in CSS and SVG: The clip-path Property and <clipPath> Element](http://sarasoueidan.com/blog/css-svg-clipping/): Another insightful article by Sara Soueidan on SVG, this time about the clip-path property and the clipPath element.
+- [CSS is a Mess](http://vimeo.com/99877232): Jonathan Snook talks about the messiness of CSS and how we can avoid mistakes and organize large projects better.
+- [How to Create Your Own HTML Elements With Web Components](http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524): Kezz Bracey shows how to create your own HTML elements with the exciting new Web Components.
+- [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917): Learn some really interesting best practices for building Angular.js apps in this article by Jeff Dickey.
+- [DropKick.js 2.0](https://github.com/Robdel12/DropKick): Version 2.0 of the great JavaScript plugin for creating beautiful, graceful, and painless custom drop-downs. Made by Robert DeLuca.
+- [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback](http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback): A great solution for reaching equal height columns using flexbox with a JS fallback. By Osvaldas Valutis.
+- [Mazwai](http://mazwai.com/): A great stock video site with free HD videos that you can use in your projects. All videos are licensed under the CC 3.0 license.
+- [CSS Colorguard](https://github.com/SlexAxton/css-colorguard): CSS Colorguard helps detect similar colors in your CSS project for a more consistent color use. Made by Alex Sexton.
+- [GifLinks](http://tholman.com/giflinks/): Christmas is coming early this year with GIFLINKS! YES! By brilliant (and evil) Tim Holman :)
+- [Smart Fixed Navigation](http://codyhouse.co/gem/smart-fixed-navigation/): A smart navigation that will be where it's needed when scrolling down a page.
+- [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/): Some useful learning examples for Facebook's React framework. By Martin Angelov.
+- [Pixelvicon Icon Set (PSD, PNG, SVG, Webfont)](https://www.behance.net/gallery/18261945/Freebie-Pixelvicon-Icon-Set-%2880-Icons%29): 80 really pixel-perfect icons made by Mohammad Amiri.
+- [Making a SVG HTML Burger Button](https://raygun.io/blog/2014/07/making-svg-html-burger-button/): Learn how to make a nicely animated hamburger icon in this tutorial by Kyle Henwood.
+- [Optimising for 60fps everywhere](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript): Understand and learn how to optimize web sites and applications for efficient rendering. An article on the GoSquared Engineering Blog.
+- [elq.js](https://github.com/artlawry/elq): A really useful library by Art Lawry for detecting element-queries in your CSS, and implementing them in JavaScript.
+- [CSS only custom-styled select](http://jsbin.com/juvixufu/10/edit): A CSS-only way to style the closed state of the native select element by Todd Parker.
+- [PodStarUI (PSD)](http://pixelbuddha.net/freebie/podstarui): A beautiful freebie by PixelBuddha: a one-page template with a podcast theme.
+- [JavaScript must-watch videos](https://github.com/bolshchikov/js-must-watch): A useful list of must-watch videos about JavaScript. Collected by Sergey Bolshchikov.
+- [Please JS](http://www.checkman.io/please/): Please.js by Jordan Checkman uses the HSV color space to create random pleasing colors to make your projects beautiful.
+- [Free Font: Silent Lips](https://www.behance.net/gallery/18281129/Silent-Lips-Experimental-Free-Font): Vincent Labonne designed this hypnotic experimental typeface.
 
 # Collective #123
+- [Inspirational Website of the Week: Over the Hills](http://www.overthetinyhills.com/): Dive into this innovative digital experience that was made with the finest web technologies. Our pick this week.
+- [Smarty Pins](http://smartypins.withgoogle.com/): A fantastic Google Maps game that will test your geo knowledge.
+- [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/): Learn about the SVG <g>, <use>, <defs> and <symbol> elements in this great article by Sara Soueidan.
+- [Intense Images](http://tholman.com/intense-images/): A great JavaScript library for an undistracted fullscreen image view with smooth panning. Made by Tim Holman.
+- [Google I/O 2014 - Videos](https://www.google.com/events/io/io14videos): All the Google I/O 2014 videos in one place.
+- [Mobile UI Design Patterns 2014](http://uxpin.com/mobile-design-patterns.html): Learn about all the important mobile UI design patterns in this free e-book by Chris Banks.
+- [Star Wars - Long Shadow Flat Design Icons (PNG)](https://www.behance.net/gallery/17998561/Star-Wars-Long-Shadow-Flat-Design-Icons): Amazing flat-style Star Wars characters illustrated by Filipe Carvalho.
+- [Free Font: Anders](https://www.behance.net/gallery/18068463/Anders-(Free-Font)): A creative geometric font by Tom Anders Watkins.
+- [Web Components and concepts, ShadowDOM, imports, templates, custom elements](http://toddmotto.com/web-components-concepts-shadow-dom-imports-templates-custom-elements/): Learn about Web Components and how to actually build them in this great article by Todd Motto.
+- [Select or Die](http://vst.mn/selectordie/): A jQuery plugin for customizing the style of the <select> element.
+- [Buddha Line Icons Complete (PSD, PNG)](http://pixelbuddha.net/freebie/buddha-line-icons-100): A fantastic set of 100 beautifully designed line icons by Pixel Buddha.
+- [Inspecting Yosemite's Icons](http://martiancraft.com/blog/2014/07/inspecting-yosemite-icons/): Nick Keppol takes a closer look at those new Yosemite icons and provides a grid template to start designing your own. 
+- [3D CSS Typography](http://codepen.io/noahblon/pen/CsxfH): A beautiful 3D typography pen by Noah Blon.
+- [Flat UI Elements (AI, SVG)](https://dribbble.com/shots/1627561-): A set of fantastic flat UI elements for your next project. Made by talented Mario del Valle.
+- [Devicons](http://vorillaz.github.io/devicons/): A cool icon font that comes with dev related icons by Theodore Vorillas.
+- [Material Design for AngularJS Apps](https://github.com/angular/material): Material Design is a specification and collection of unified AngularJS-native UI elements.
+- [Pixels are expensive](http://aerotwist.com/blog/pixels-are-expensive/): Paul Lewis will tell you some important things on browser rendering and how your front-end code affects performance.
+- [lollytin](http://lollyt.in/): Still in beta, but already a very useful Bootstrap 3 template builder.
+- [deb.js](https://github.com/krasimir/deb.js): A small JavaScript library for debugging in the browser by Krasimir Tsonev.
+- [simpl.info](http://www.simpl.info/): A useful list of simplest possible examples of HTML, CSS and JavaScript by Sam Dutton.
+- [Lithium: HTML5 Responsive one page template](http://freebiesbug.com/code-stuff/lithium-html5-responsive-one-page-template/): A clean and professional one page template by Vadim Goncharov.
 
 # Collective #122
+- [Inspirational Website of the Week: Spintank](http://spintank.fr/): Beautiful typography, slick effects and some brilliant colors make Spintank our pick of the week.
+- [Google Design](http://www.google.com/design/): A site dedicated for all things Design at Google. You can read about guidelines, download assets, meet the design team and much more. 
+- [Favicon Generator](http://realfavicongenerator.net): A very complete favicon creation tool that will generate all necessary and up-to-date favicon assets and code for a modern website.
+- [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/): Learn about visualizing algorithms in this fantastic interactive article by Mike Bostock.
+- [Human JavaScript](http://read.humanjavascript.com/): The free online version of an interesting book by Henrik Joreteg that will teach you patterns for simple but powerful JavaScript apps. 
+- [5 Polaroids Icons](http://pmartinez.ch/5-polaroids-icons/): A set of beautiful, old school Polaroid camera icons by Patricia Martinez.
+- [Free Font: AXIS](https://www.behance.net/gallery/17890579/AXIS-Typeface): An urban geometry inspired sans serif typeface by Jean M. Wojciechowski.
+- [Wikipedia Concept](http://wikipedia.moesalih.com/): Moe Salih realized his vision of Wikipedia; and it's a beautiful concept!
+- [Giving Animations Life](https://medium.com/tictail-makers/giving-animations-life-8b20165224c5): Joel Besada will show you how to use Bounce.js and classical animation concepts to bring life to user interfaces.
+- [How to Overprint Colors to Create Cool Print Effects](http://blog.spoongraphics.co.uk/articles/how-to-overprint-colors-to-create-cool-print-effects): A great tutorial by Chris Spooner on how to create a cool overprint effect in Illustrator.
+- [Prefilling Forms with a Custom Bookmarklet](http://css-tricks.com/prefilling-forms-custom-bookmarklet/): Learn how to create a random data form filler bookmarklet in JavaScript. A tutorial by Adam Lichtenstein on CSS-Tricks.
+- [Gifffer](https://github.com/krasimir/gifffer): A JavaScript library that will add a play control to an animated Gif. Made by Krasimir Tsonev.
+- [Summer Icons (PSD, AI)](https://dribbble.com/shots/1614788-Summer-icons): A set of delightful summer icons created by Tamara.
+- [HTMLHint](http://htmlhint.com/): HTMLHint is a static code analysis tool for HTML. Made by Yanis Wang.
+- [Waviator](http://milesofdata.com/waviator/): One of the latest Chrome Experiments: The Waviator is a synthesizer that allows you to hand-draw a waveform for use as the synthesizer's oscillator. Made by Mikhail Shapiro.
+- [Cayley](https://github.com/google/cayley): Cayley is an open-source graph database inspired by the graph database behind Freebase and Google's Knowledge Graph. Created by Barak Michener.
+- [4 Notebook Mock-ups (PSD)](http://pixelbuddha.net/freebie/4-notebook-mockups): Beautiful high-quality notebook mockups by Vadim Sherbakov for Pixel Buddha.
+- [Wolfram Programming Cloud](http://www.wolfram.com/programming-cloud/): If you are familiar with the powerful Wolfram Language and want to create and deploy data-driven applications, this will be interesting for you.
+- [fast.js](https://github.com/codemix/fast.js): Re-implementations for several common built-in native JavaScript functions. Made by the team of codemix.
 
 # Collective #121
+- [Inspirational Website of the Week: Icon PR](http://www.iconpr.com.au/): Clean design, bold colors and solid typography make Icon PR our website of the week.
+- [Web Starter Kit](https://developers.google.com/web/starter-kit/): The ultimate boilerplate for responsive websites and multi-device experiences with a visual design system for documenting site components and many other features.
+- [Smallworld.js](http://mikefowler.me/smallworld.js/): A utility for quickly generating map overviews using GeoJSON and HTML Canvas. A project by Mike Fowler.
+- [Steady.js](http://lafikl.github.io/steady.js/): A jank-free module to do logic on the onscroll event without performance regressions in @media-query like conditions. Made by Khalid Lafi.
+- [SideComments.js](http://aroc.github.io/side-comments-demo/): SideComments.js is a UI component to give you Medium.com style comment management on the front-end. A project by Eric Anderson.
+- [Clothing Store eCommerce Theme (PSD)](https://www.behance.net/gallery/17711285/Online-Store-PSD): An excellently designed PSD template collection for an online clothing store.
+- [Free Font: Simple Stamp](https://www.behance.net/gallery/17828947/SimpleStamp-Free-Font): A creative and playful stamp font designed by Oleg Stepanov.
+- [Call to Idea](http://calltoidea.com/): An amazing collection site with design component categories for getting inspired. Made by Alexis Hill.
+- [Wavepot](http://wavepot.com/): Wavepot is a digital audio workstation in the browser that let's you live code music.
+- [Particles in Canvas](http://hop.ie/blog/particles/): A great tutorial by Donovan Hutchinson on how to get started with canvas for creating particles, bounce them around the screen and make them respond to gravity.
+- [The Future of WordPress](http://inside.envato.com/the-future-of-wordpress/): An insightful article by Natasha Postolovski on the future of WordPress. Read about the prospects and opportunities, the difficulties and hurdles of the most popular publishing platform on the web.
+- [Ballicons 2 Icon Set (PNG, PSD, SVG)](http://www.smashingmagazine.com/2014/06/19/freebie-ballicons-2-icon-set-png-psd-svg/): The second addition of the pixel perfect Ballicons with a free set exclusively published on Smashing Magazine.
+- [Homeless Fonts](http://www.homelessfonts.org/): A great project by the Arrels Foundation where you can purchase hand-written fonts to help their authors who are homeless people.
+- [Kick with Chrome](https://kickwithchrome.withgoogle.com): Pick one of three fun games and kick with Chrome on your mobile phone or tablet.
+- [collections.js](http://www.collectionsjs.com/): A Node.js package that provides JavaScript implementations of common collections, with many useful features.
+- [Are Hollow Icons Really Harder to Recognize Than Solid Icons? A Research Study](http://viget.com/inspire/are-hollow-icons-really-harder-to-recognize-a-research-study): Are warnings against using hollow icons in UI design justified? There's nothing better than to do some actual research to find out. Read about the result and conclusions in this brilliant article by Curt Arledge from Viget. 
+- [MobileVis](http://mobilev.is/): MobileVis is a collection of mobile data visualization examples. Created by Irene Ros from Bocoup.
+- [Favoring Curry](http://fr.umio.us/favoring-curry/): Learn about the process of "Currying" and how it can help you write better JavaScript code.
+- [Checkwave](http://codepen.io/hakimel/full/vDnmp/): Literally, a checkbox wave by Hakim El Hattab.
+- [Free Font: Raw](http://raw.noearaujo.com/): A unique font by talented designer Noe Araujo.
 
 # Collective #120
+- [Inspirational Website of the Week: Sismo Design, studio de design et innovation](http://www.sismodesign.com/fr/): A fantastic experience full of well-planned effects and a brilliant color scheme. Our pick this week.
+- [Outdated Browser](http://outdatedbrowser.com/): A really nice project by Büro that gives users an incentive to update their outdated browser.
+- [Odyssey.js](http://cartodb.github.io/odyssey.js/): A mind-blowing library to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. Made by CartoDB.
+- [Everything You Need to Know About the CSS will-change Property](http://dev.opera.com/articles/css-will-change-property/): An insightful article by Sara Soueidan on the new "will-change" property — a property that will help us write performance-optimized code.
+- [Type Sample](http://www.typesample.com/): A great tool for identifying and sampling web fonts.
+- [bounce.js](http://bouncejs.com/): A very useful tool for rapidly creating CSS3 powered animations for elements. Made by Joel Besada.
+- [Sable Kit Free (AI, EPS, PNG)](http://pixelbuddha.net/freebie/sable-kit-free): A great freebie with some creative elements for your next design, by PixelBuddha.
+- [Building a responsive SVG map](http://responsivenews.co.uk/post/87988072178/building-a-responsive-svg-map): An excellent article by BBC News developer Tian Yuan on how to create responsive SVG maps for data driven visual components as part of the 2014 local and european elections.
+- [100 Free Icons (PSD, AI, Webfont)](http://freebiesbug.com/psd-freebies/100-free-icons-psd-ai-webfont/): One hundred excellent vector based icons designed by Piotr Makarewicz.
+- [Starnight HTML5/CSS3 Website Template](https://dribbble.com/shots/1592140-Freebie-Starnight-HTML5-CSS3-Website-Template): A stunning website template coded by talented Peter Finlan and designed by Blaz Robar.
+- [Emulators written in JavaScript](http://www.cambus.net/emulators-written-in-javascript/): A super-cool compilation of emulators written in JavaScript by Frederic Cambus.
+- [Boba.js](http://boba.space150.com/): Boba.js is a small and extensible JavaScript library that makes working with Google Analytics easier. Created by space150.
+- [<github-card>](https://github.com/pazguille/github-card): A web component made by Guille Paz for showing a Github profile card.
+- [Getting Started with Browserify](www.sitepoint.com/getting-started-browserify/): A detailed guide on getting started with Browserify by Patrick Catanzariti from Sitepoint.
+- [Free Font: Draft Display](https://www.behance.net/gallery/17521595/Draft-Display-FREE-FONT): A beautiful and unique display typeface by Camille San Vicente.
+- [CSS Gradients with background-blend-mode](http://bennettfeely.com/gradients/): A collection of cool CSS gradients that are made using the new background-blend-mode property. Curated by Bennett Feely.
+- [Keylight](http://hakim.se/experiments/html5/keylight/03/): An amazing audio rhythm experiment that let's you play sounds by placing key notes in a room. Made by Hakim El Hattab.
+- [Share: The Icon No One Agrees On](https://bold.pixelapse.com/minming/share-the-icon-no-one-agrees-on): Min Ming Lo analyzes one of the most non-agreed-upon icons in the history of the web: the share icon.
+- [100 Free Icons (SVG, PNG, PSD & AI)](https://dribbble.com/shots/1589095-100-Free-Icons): Martin J.Berthelsen shares this fantastic set of one hundred pixel-perfect line icons.
+- [Icebreaker (PSD)](https://dribbble.com/shots/1593419-Icebreaker): A pixel-perfect set of desk items designed by Cory Ehrenberg.
+- [Sharing Data Between Sass and JavaScript with JSON](http://viget.com/extend/sharing-data-between-sass-and-javascript-with-json): Nate Hunzaker from Viget shows how to import variables as JSON into Sass.
 
 # Collective #119
+- [Inspirational Website of the Week: VOTD.tv](http://votd.tv/): Eye-catching logo animations and some smooth hover effects make the website of VOTD interesting to explore.
+- [webcompat.com](http://webcompat.com/): Webcompat is a collborative platform to report bugs and web compatibility issues from any website across the web. Read more about the project in the Mozilla Hacks article Introducing webcompat.com
+- [The Guide to Wireframing](http://uxpin.com/guide-to-wireframing.html): A free ebook that will teach you everything you need to know about wireframing. Written by Chris Bank from UXPin.
+- [Testing Responsive Images](http://alistapart.com/blog/post/testing-responsive-images): Read how you can help test and file bugs for the new <picture> element in Chrome Canary. 
+- [Sally Blocks (PSD)](http://pixelbuddha.net/freebie/sally-blocks): Sally Blocks is an amazing set of ready-to-use elements and components for simple and fast web design prototyping.
+- [Sketch Tutorial: Colorful switch](https://medium.com/@KounterB/sketch-tutorial_01-b76271a095e3): A step-by-step Sketch tutorial by Sebastien Gabriel that will get you started for real.
+- [Keyboard Shortcuts for Pagination](http://osvaldas.info/keyboard-shortcuts-for-pagination): Learn how to make it easy to navigate between pages thought pagination keyboard shortcuts in this great tutorial by Osvaldas Valutis.
+- [PSD Viewing & Diffing](https://github.com/blog/1845-psd-viewing-diffing): Image viewing and diffing on Github has now support for PSD files.
+- [Hands On The Sigmund Freud Typeface: Making A Font For Your Shrink](http://www.smashingmagazine.com/2014/06/02/hands-on-sigmund-freud-typeface-making-fonts/): An insightful and stunning introduction to creating handwriting fonts by Harald Geisler.
+- [How To Create Typography Illustrations the Easy Way](http://blog.spoongraphics.co.uk/tutorials/how-to-create-typography-illustrations-the-easy-way): Learn how to create a trendy hand lettering style quote illustration with a smart and easy technique. A tutorial by Chris Spooner.
+- [My design process of the "Digital Adaptation" book illustrations & layout](http://veerle.duoh.com/design/article/my_design_process_of_the_digital_adaptation_book_illustrations_layout): Read about Veerle Pieters' interesting design process for the layout and illustrations of one of Smashing Magazine's new books. 
+- [Write less, achieve meh?](http://christianheilmann.com/2014/06/04/write-less-achieve-meh/): An interesting article by Christian Heilman on how the web needs more sensible brick creation rather than apparently perfect solutions.
+- [Swift Cheat Sheet](https://github.com/grant/swift-cheat-sheet): A short guide by Grant Timmerman to using Apple's new programming language, Swift.
+- [InkTattoo (PSD)](http://theuncreativelab.com/portfolio/inktattoo-psd-template/): A creative tattoo studio website PSD template by The Uncreative.
+- [Free Font: REN](http://alt-foundry.com/fonts/ren-typeface/): A stylish and unique retro typeface with four weights by Andreas Leonidou.
+- [beeplay.js](http://watilde.github.io/beeplay/): Daijiro Wachi created this fantastic little gem that let's you write a song in JavaScript.
+- [A Light Year](http://alightyear.com/): See how far light travels in a year on this beautiful website by Debra Ohayon.
+- [Function Space](http://functionspace.org/): Function Space is a fantastic social learning network for all things science. You can learn anything from Quantum Physics to Computational Complexity.
+- [JSNice](http://jsnice.org/): JSNice is a new kind of statistical de-obfuscation and de-minification engine for JavaScript. Given a script, JSNice automatically suggests likely identifier names and types.
+- [Chapp](http://chapp.is/): Chapp is a discussion platform built by the people at smashLAB. Public Channels let you chat with the entire Chapp community. Private Channels allow for safe and secure discussions with friends.
 
 # Collective #118
+- [Inspirational Website of the Week: Build in Amsterdam](http://www.buildinamsterdam.com/): A clean design with a super-smooth interaction feel. Our pick this week.
+- [Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting-to-know-css-blend-modes/): Learn about CSS Blend Modes and how to use them for interesting effects in this article by Shwetank Dixit.
+- [Implement Custom Gestures](https://developers.google.com/web/fundamentals/input/touch-input/touchevents/): One of the great tutorials of the Web Fundamentals site by Google. This one will teach you how to add touch features to your site.
+- [Free Font: Enemy](https://www.behance.net/gallery/17194081/Enemy-Typeface-Lost-Type): Shiva Nallaperumal designed this unique stencil typeface.
+- [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs): Mark Phillips' pointers to useful, well-written, and otherwise beautiful documentation.
+- [Spell Up](https://spellup.withgoogle.com/): A great spelling game by Google that uses your microphone.
+- [Experiment](http://experiment.com/): Experiment is a great crowdfunding platform for science research grants. You can help fund research or start your own and get funded.
+- [48 Bubbles icon set (AI, EPS, PNG, PSD, SVG)](https://dribbble.com/shots/1569128-Freebie-48-Bubbles-Iconset): A slick lined icon set designed by Umar Irshad.
+- [Styling & Animating SVGs](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p): The excellent slides of Sara Soueidan's talk about styling and animating SVGs at the CSSConf.
+- [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git): A great guide to Git by Joseph Wynn, not just for hackers. 
+- [Cody](http://codyhouse.co/): A free library of HTML, CSS, JS resources. A project by Amber Creative.
+- [Editable Butcher Meat Cut Chart Illustrations](http://blog.spoongraphics.co.uk/freebies/7-free-editable-butcher-meat-cut-chart-illustrations): Although we'd prefer to see some veggies, this is a set of high-quality illustrations that you might find useful. Designed by Chris Spooner.
+- [flare.js](http://github.com/toddmotto/flare): An unobtrusive event emitter API for Google Universal Analytics event tracking. A project by Todd Motto.
+- [Random Color](http://llllll.li/randomColor/): A script for generating attractive random colors. Made by David Merfield.
+- [HTML5 Forms: JavaScript and the Constraint Validation API](http://www.sitepoint.com/html5-forms-javascript-constraint-validation-api/): The third excellent article about HTML5 forms by Craig Buckler on JavaScript integration and the Constraint Validation API. Check out the other two articles, as well.
+- [Unioncy](https://unioncy.com/): An interesting and useful web app that will keep a record of what you own with access to receipts, manuals and warranty information.
+- [Summer And Essentials Icon Set (50 Icons, EPS, AI, PNG)](http://www.smashingmagazine.com/2014/05/27/summer-essentials-icon-set-freebie-eps-png-ai/): A wonderful icon set designed by Elena Genova exclusively for Smashing Magazine.
+- [Client Feedback On the Creation of the Earth](http://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth): Just for fun: a humorous client feedback about the creation of the earth addressed to God.
+- [Free Font: Unveil](https://www.behance.net/gallery/17250777/UnveilFree-Vector-Font): An incredibly beautiful and unique display type face by Tré Seals.
 
 # Collective #117
+- [Inspirational Website of the Week: Ateliers Serge Thoraval](http://www.atelier-serge-thoraval.com/): This brilliantly designed website with adorable interactions and smart layouts. Our pick this week.
+- [808 Cube](http://www.808cube.com/): A fantastic demo by Ray McClure from the Google Cube Lab.
+- [HTML5 Needs a New Animation API to Compete with Native](http://marcgrabanski.com/html5-animation-api/): Marc Grabanski dives into animations and talks about everything from CSS Animations to tweening and requestAnimationFrame, explaining how we actually need a new and better animation API.
+- [Mobile And Accessibility: Why You Should Care And What You Can Do About It](http://www.smashingmagazine.com/2014/05/21/mobile-accessibility-why-care-what-can-you-do/): An excellent, in-depth article by TJ VanToll on mobile accessibility. 
+- [ShortcutMapper](http://waldobronchart.github.io/ShortcutMapper/): A very useful keyboard shortcuts visualizer developed by Waldo Bronchart.
+- [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/): Read about Object.observe(), a method for asynchronously observing changes to JavaScript objects, in this article by Addy Osmani.
+- [A More Compatible, Smoother Touch](http://updates.html5rocks.com/2014/05/A-More-Compatible-Smoother-Touch): Vivian Cromwell introduces Chrome's new Async Touchmove Model for a better scroll behavior on touch devices.
+- [Free Icon Set (PSD)](https://dribbble.com/shots/1563947-Free-Icon-Set): A fantastic icon set in a PSD by talented Catalin Fertu.
+- [VelocityJS demo](http://codepen.io/sol0mka/full/kzyjJ): A fantastic, mind-blowing Velocity.js demo by Oleg Solomka.
+- [oozled](http://oozled.com/): A collection of curated and categorized resources on the web, useful to any web designer and developer.
+- [iTunes Concept](http://kurocha.blogspot.pt/2014/05/itunes-concept.html): Brye Kobayashi shows his vision of a flat and stylish iTunes design.
+- [Web Design Field Manual](http://webfieldmanual.com/): A great collection of resources for all the important steps in web design by Jon Yablonski.
+- [Grouping related classes in your markup](http://csswizardry.com/2014/05/grouping-related-classes-in-your-markup/): An interesting idea for grouping class names for better scannability by Harry Roberts.
+- [Free Font: Garnata](https://www.behance.net/gallery/16437475/Garnata-Display-(free-font)): For a tweet you can get this interesting display font that comes in  many different styles.
+- [Underdog.io](https://www.underdog.io/): A nice concept for submitting applications to New York City’s top startups. Also interesting for startups that are hiring.
+- [Script-injected "async scripts" considered harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/): An article by Ilya Grigorik on how script-injected asynchronous scripts impact performance.
+- [The Illusion of Motion](http://paulbakaus.com/tutorials/performance/the-illusion-of-motion/): A compelling and interesting article by Paul Bakaus on the perception of vision, frame and refresh rate, motion blur, and TV displays.
+- [Summer Beach colorful labels set (EPS, AI)](http://ohfreebie.wordpress.com/2014/05/21/summer-beach-colorful-labels-set/): A really nice set of colorful beach and summer labels and logos in vector format.
+- [Blopboard](https://www.blopboard.com/): An interesting web app where you can ask and answer questions and see real-time visualizations of everyone's answers.
+- [INQUIT Font (EPS)](https://www.behance.net/gallery/17013345/INQUIT-Free-Display-font): An experimental display font inspired by alchemical symbols, in vector EPS format.
+- [Tumblr Boilerplate](http://www.tumblrboilerplate.com/): A Tumblr boilerplate by Andy Leverenz for developing Tumblr themes.
+- [The Dangers of Stopping Event Propagation](http://css-tricks.com/dangers-stopping-event-propagation/): Philip Walton shows what can go wrong when stopping event propagation and what to do instead.
 
 # Collective #116
+- [Inspirational Website of the Week: Purple, Rock, Scissors](http://www.purplerockscissors.com/): Stunning web design meets smooth interaction: that's how a visit to Purple Rock Scissors feels like. Our pick this week.
+- [WTF, forms?](http://wtfforms.com/): Some great styles for nicer looking HTML form controls by Mark Otto.
+- [CSS Shapes Polyfill](http://blogs.adobe.com/webplatform/2014/05/12/css-shapes-polyfill/): If you are excited about CSS Shapes (who isn't?) then you'll definitely find this polyfill interesting.
+- [Responsive Images Done Right: A Guide To <picture> And srcset](http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/): The definite guide to the <picture> element and srcset by Eric Portis.
+- [Using the :target pseudo-selector for alternative layouts](http://nerd.vasilis.nl/using-target-pseudo-selector-alternative-layouts/): A super-smart technique for a grid view using the :target pseudo-selector by Vasilis van Gemert.
+- [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/): A set of fantastic one-element CSS loaders by Luke Haas
+- [SportHere Template (PSD, HTML)](http://pixelbuddha.net/freebie/sporthere-template): A really well designed template that comes with PSD and HTML, ready to use and customize.
+- [Free Font: Berlin](https://www.behance.net/gallery/5683349/Berlin): Berlin, Berlina, Slaberlin and Überlin, all in three weights (Regular, Bold and X-Bold, plus Berlin’s Regular Italics) are versatile typefaces by Antonio Rodrigues Jr.
+- [Using Small Caps & Text Figures on the Web](http://usabilitypost.com/2014/05/10/using-small-caps-and-text-figures-on-the-web/): Dmitry Fadeyev will show you how it's possible to use some great typographic features, like small caps and text figures, on the Web.
+- [Filtrex](https://github.com/joewalnes/filtrex): A simple, safe, JavaScript expression engine made by Joe Walnes.
+- [Stashhh.me](http://stashhh.me/): With Stashbox you can save memories, ideas and inspiration or simply create collections of what you love.
+- [Charts and Diagrams Kit (PSD)](http://www.webappers.com/2014/05/13/free-download-charts-and-diagrams-kit-psd/): A useful kit of charts and diagrams by WebAppers.
+- [Finch](https://meetfinch.com/): With Finch you can test local websites on any internet connected device. It's free during a limited beta period.
+- [Can Email Be Responsive?](http://alistapart.com/article/can-email-be-responsive): Jason Rodriguez talks about HTML emails and how to make them responsive using flexible images, flexible layouts, and media queries.
+- [Good-Looking Shapes Gallery](http://blogs.adobe.com/webplatform/2014/05/13/good-looking-shapes-gallery/): Maybe not really beauty-pageant-winning "good-looking" but definitely a good reference of CSS shapes in action.
+- [October](http://octobercms.com/): October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+- [Octotree](https://github.com/buunguyen/octotree/): A browser extension by Buu Nguyen to display GitHub code in tree format.
+- [Source Serif Pro](http://adobe.github.io/source-serif-pro/): Source Serif Pro is a set of OpenType fonts to complement the Source Sans Pro family by Adobe.
+- [Linea](http://linea.io/): A fantastic line icon set by Dario Ferrando with new additions coming throughout the month.
+- [Trolldor](https://www.trolldor.com/): Trolldor will analyze a Twitter account and check if it's on the global blacklist of twitter trolls.
 
 # Collective #115
+- [Inspirational Website of the Week: Jam3](http://www.jam3.com/): Jam3 will suprise you with some nifty transitions and smart effects. Our pick this week.
+- [WebComponents.org](http://webcomponents.org/): WebComponents.org is a new platform for discussing and evolving web component best-practices.
+- [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map): Mike Bostock will show you how to create a bubble map with TopoJSON and D3 in this excellent in-depth tutorial.
+- [World Under Water](http://worldunderwater.org/): An interactive project by Carbon Story built with WebGL and Google Street View to alert about climate change.
+- [Quill](http://quilljs.com/): Quill is a light-weight and extensible rich text editor. Created by Jason Chen and Byron Milligan.
+- [rangeslider.js](http://andreruffert.github.io/rangeslider.js/): A useful polyfill for the HTML5 range input slider element by André Ruffert.
+- [Your website should stop doing this right now](https://medium.com/building-things-on-the-internet/a0c3eb525200): Goran Peuc tells you what you should stop doing in order to make your user's life easier. Also, check out the second part mentioned in the end of the article.
+- [Styling with STRINGS](http://simurai.com/blog/2014/05/04/cssconf/): Simurai's CSSConf talk about how Flexbox, currentColor and EMs can be used inside components to quickly style entire web apps in the browser.
+- [Leaving Pixels Behind: A Vector Workflow For Designers](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/preview?sle=true#slide=id.p): Todd Parker's interesting talk slides from the Artifakt conference about using vector graphics on the web.
+- [Free Font: Hovel](https://www.behance.net/gallery/16622585/Hovel-Free-font): An interesting font with creative shapes by Sergey Karas.
+- [Physical Typography](http://codepen.io/soulwire/full/ezpuK): Justin Windle's title screen for his talk at Resonate.io: mind-blowing physical typography.
+- [The Absolute Beginner's Guide to Node.js](http://blog.codeship.io/2014/05/07/nodejs-beginners-guide.html): If you are just about to start with Node.js, this top-notch primer by Manuel Weiss will make your first steps easier.
+- [Yebo Bicycle Template](http://drbl.in/kXtq): A very elegant and clean one page template by Peter Finlan.
+- [36 SEO Vector Icons (EPS, AI, PNG)](http://www.dreamstale.com/free-download-36-seo-vector-icons): A set of clean and flat SEO vector icons from Dreamstale.
+- [Audio Session Kit (AI)](https://dribbble.com/shots/1541558-Audio-Session-Kit-FREE): A stunning audio kit freebie by Hamo Studio.
+- [StyleStats](http://www.stylestats.org/): StyleStats by Koji Ishimoto is a useful Node.js library to collect CSS statistics.
+- [Free Font: RECKONER](http://www.philbossdesign.com.au/reckoner-typeface): A creative and modern typeface inspired by typefaces such as Bebas Neue, Alegre Sans and Dharma Gothic.
+- [Efficiently Simplifying Navigation, Part 2: Navigation Systems](http://www.smashingmagazine.com/2014/05/09/efficiently-simplifying-navigation-systems/): Anastasios Karafillis' insightful advice on how to choose the right type of navigation menu for a website.
+- [Optimizilla](http://optimizilla.com/): A very useful image optimization tool that let's you control the compression level.
+- [Free Halftone Pack (PSD)](https://dribbble.com/shots/1545439-Free-Halftone-Pack): Dustin Lee shares some useful high resolution halftone textures.
+- [5 Principles for Great Interface Copywriting](http://www.gv.com/lib/5-principles-for-great-interface-copywriting): John Zeratsky's excellent principles on copy writing for interfaces.
 
 # Collective #114
+- [Inspirational Website of the Week: Guillaume JUVENET](http://www.guillaumejuvenet.com/): Control a robot and explore the creative website of Guillaume Juvenet. Our pick this week.
+- [CSS Shapes 101](http://alistapart.com/article/css-shapes-101): Learn about CSS Shapes and how you will be able to use them from this great article by Sara Soueidan on A List Apart.
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/): An in-progress handbook for best practices regarding multi-device web experiences. Get involved and help extend this resource.
+- [Velocity.js](http://julian.com/research/velocity/): Velocity by Julian Shapiro is a jQuery plugin that re-implements $.animate() to produce significantly greater performance (making Velocity also faster than CSS animation libraries) while including new features to improve the animation workflow.
+- [UI Kit (PSD)](http://www.unity.hr/ui-kit/): A really nice mobile and web UI Kit PSD by Unity Interactive.
+- [And They All Look Just the Same](https://medium.com/web-design-code/590bd966055): A very interesting read by Greg Storey from Happy Cog on the boring uniformity of website design.
+- [Free Font: TOTEM](https://www.behance.net/gallery/16490287/TOTEM-Free-Typeface): A beautifully artistic typeface by Benito Ruiz. 
+- [GestureKit](http://www.gesturekit.com/): An interesting open source SDK for creating custom gestures in applications.
+- [DRY-ing Out Your Sass Mixins](http://alistapart.com/article/dry-ing-out-your-sass-mixins): Sam Richard will show you how to optimize your Sass mixins and keep them DRY.
+- [code:deck](http://varianto25.com/#home): Finally a card deck for developers! Get inspired with this creative code:deck. 
+- [Kindling Grid](http://timothy-long.com/kindling/): A responsive grid system by Timothy Long that let's you use offsets for items.
+- [Designing for Moments With Media Queries](http://typecast.com/blog/designing-for-moments-with-media-queries): Jordan Moore shows how to improve mobile website experiences by employing some useful media queries.
+- [Free Font: DUAL](https://www.behance.net/gallery/15991027/DUAL-typeface): Charles Daoud created this interesting typeface with an experimental touch. The 300 weight is available for free.
+- [New Logo and Identity for PayPal](http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_paypal_by_fuseproject.php): An analysis of the new logo and identity for PayPal by fuseproject.
+- [Panoramic (pure CSS)](http://codepen.io/thebabydino/details/vyJGl/): Ana Tudor creates a fantastic panorama view of an image with pure CSS.
+- [Codassium](http://codassium.com/): With a video chat and a collaborative code editor, Codassium can be used for interactive interview sessions.
+- [Marvel Developer Portal](http://developer.marvel.com/): Attentions, Marvel comic fans! The Marvel Comics API, a RESTful service, allows you to access information about Marvel's vast library of comics for usage in your app or website.
+- [bl.ocksplorer.org](http://bl.ocksplorer.org/): A great search for d3.js developers who need to find a specific d3 example of how to use a particular API call.
+- [Payment webfont](https://github.com/orlandotm/payment-webfont): An SVG webfont of the main payment systems created by Orlando Merone using Icomoon.
+- [Waypoints.io](https://waypoints.io/): Waypoints looks like a promising tool for collaborating on visual timelines and keeping track of project progress.
+- [import.io](https://import.io/): With this app you can easily transform any website into a table of data or an API.
 
 # Collective #113
+- [Inspirational Website of the Week: Aquatilis Expedition](http://aquatilis.tv/): The website of the Aquatilis Expedition is a beautifully designed experience that transmits the excitement and feel of this amazing scientific journey. Check out Tim Holman's pen of the background particles.
+- [CSS True Titles](http://tylergaw.com/articles/css-true-titles): A very interesting CSS experiment by Tyler Gaw of a title sequence à la True Detective using CSS masking.
+- [Sorting](http://sorting.at/): An amazing project for visualizing and comparing sorting algorithms. This is simply fantastic for understanding the workings of sorting algorithms.
+- [Isomer](http://jdan.github.io/isomer/): Isomer by Jordan Scales is an easy-to-use graphics library for drawing isometric scenes.
+- [Captain Icon (EPS, PSD, PNG, SVG, Web Font)](http://mariodelvalle.github.io/CaptainIconWeb/): Captain Icon is a huge set of thoughtfully designed vector icons by Mario del Valle.
+- [Inline SVG vs Icon Fonts](http://css-tricks.com/icon-fonts-vs-svg/): Chris Coyier compares using inline SVG to using icon fonts and concludes that SVG is a winner if older browsers don't need to be supported.
+- [Everyone Deserves Great Design](http://www.everyonedeservesgreatdesign.com/): Ehsan Noursalehi writes about a new mindset for product designers and how to make products that matter.
+- [Project Parfait](https://projectparfait.adobe.com/): Project Parfait is a new beta service by Adobe that allows you to extract everything you need from PSD comps for further coding.
+- [Politespace](https://github.com/filamentgroup/politespace): Politespace by Filament Group let's you add spaces to numeric form values to increase readability, for example, when asking for credit card or phone numbers.
+- [Hutt](https://hu.tt/): Hutt is a dead-simple instant video chat in the browser. You just have to share the link and others can join.
+- [Rethinking Mobile Tutorials: Which Patterns Really Work?](http://www.smashingmagazine.com/2014/04/22/rethinking-mobile-tutorials-which-patterns-really-work/): Theresa Neil and Rich Malley will show you how to improve tutorial patterns with the help of game design principles.
+- [Free Font: Anke](http://ankesans.com/): Anke Sans is an elegant geometric typeface designed by Noe Araujo.
+- [seen.js](http://seenjs.io/): Seen.js is a really cool library that renders 3D scenes into SVG or HTML5 Canvas.
+- [Triangles](http://msurguy.github.io/triangles/): Maks Surguy created this interesting triangle background generator with many useful options.
+- [Free Font: JollyGood](http://www.myfonts.com/fonts/pixilate/jollygood-sans/): Another alternative to Comic Sans? Kemie Guaida does a great job in designing this fun and playful typeface with a free basic version.
+- [Project Naptha](http://projectnaptha.com/): Project Naptha is a browser extension that lets you highlight, copy, and translate text from any image.
+- [Feather (PSD, CSH, SVG, Webfont)](http://colebemis.com/feather/): Feather is a set of 130 carefully crafted icon by Cole Bemis. This new version of the vector icons is now avaliable for free.
+- [Graphic Designer Icon Pack (AI)](https://www.behance.net/gallery/16428369/Graphic-Designer-Icon-Pack-(Free)): Some stylish icons with nicely-dropping flat shadows by Antonio Di Nardo.
 
 # Collective #112
+- [Inspirational Website of the Week: Studio Songes](http://studio-songes.fr/fr/): The creative navigation experience and extravagant style of Studio Songes made it our pick this week.
+- [Understanding CSS Timing Functions](http://www.smashingmagazine.com/2014/04/15/understanding-css-timing-functions/): Stephen Greig will teach you everything you need to know about CSS timing functions in this excellent article over on Smashing Magazine.
+- [shine.js](http://bigspaceship.github.io/shine.js/): A great library for creating beautiful shadow effects with dynamic light source positions.
+- [Understanding Vector Shapes in Illustrator](http://mattdsmith.com/understanding-vector-shapes-in-illustrator/): A complete, in-depth tutorial by Matt D. Smith that will help you understand and master vector shapes in Adobe Illustrator.
+- [VLEX](https://github.com/indus/VLEX): VLEX is a great script for overcoming SVG shortcomings regarding layout responsiveness.
+- [Free Font: Polar Vertex](https://www.behance.net/gallery/Typeface-Polar-Vertex/16225181): Katharine Howard designed this dreamy geometric display typeface and you can get it for a tweet.
+- [Web Components and you – dangers to avoid](http://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/): Christian Heilmann summarizes some dangers that might mess up Web Components and encourages developers to get involved defining them.
+- [CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/): What's a block and what's a selector? This page by Ville Vanninen will help you learn the basic terms of CSS and understand the vocabulary visually. 
+- [Wikipedia concept](https://dribbble.com/shots/1508672-Wikipedia-concept): A fantastic Wikipedia design concept by Salomon Aurélien with an additional prototype preview by Vinny Fonseca.
+- [PourOver](http://nytimes.github.io/pourover/): PourOver is a powerful JavaScript library that allows for fast filtering and sorting of very large item collections.
+- [Improve the payment experience with animations](https://medium.com/p/3d1b0a9b810e): Michaël Villar from Stripe shows how the payment experience can be enhanced with some really nice animations.
+- [Google I/O 2014](https://www.google.com/events/io): The beautifully creative and interactive website of this year's Google I/O event.
+- [Champicons (AI)](https://dribbble.com/shots/1511236-Champicons-icons-of-champions-FREE-AI): A lovely set of champion icons by Emanuel Serbanoiu.
+- [Jeet Grid System](http://jeet.gs/): No more needlessly nesting elements and no more rigid twelve column rules: Jeet is an human-understandable grid system by MojoTech.
+- [Trianglify](http://qrohlf.com/trianglify/): Trianglify by Quinn Rohlf is a JavaScript library for generating colorful triangle meshes.
+- [Juggle](http://codepen.io/noahblon/full/guFvw): A lovely juggle animation pen by Noah Blon.
+- [Are Magazine Apps Dead? A State of the Art Roundtable](http://www.robertnewman.com/are-magazine-apps-dead-a-state-of-the-art-roundtable/): A very interesting read with opinions of great magazine makers on the current (grim-looking) state of digital magazine apps for tablets.
+- [12 Little-Known CSS Facts](http://www.sitepoint.com/12-little-known-css-facts/): An interesting compilation of some little-known, yet useful CSS facts by Louis Lazaris.
+- [Free Font: Adria Slab](http://www.myfonts.com/fonts/facetype/adria-slab/): Adria Slab is a clean and elegant slab serif typeface and you can get the regular style for free. Designed by Marcus Sterz.
+- [Prototypo](http://www.prototypo.io/): A promising looking font creation project that is currently being developed in the open. A successful crowdfunding campaign is making the development of the first version possible.
 
 # Collective #111
+- [Inspirational Website of the Week: Active Theory](http://activetheory.net/): A truly inspirational digital experience. The website of Active Theory makes use of some unusual shapes and interesting scrolling and hover effects. Our pick this week.
+- [Post Flat Design](http://blog.collectiveray.com/post/82108622609/post-flat): Wells Riley points out the over-simplification in UI design that happened due to the flat design trend and suggests a less strict approach that embraces the reintroduction of skeuomorphic styles and depth where sensible.
+- [Advanced animation path](http://blog.legomushroom.com/2014/03/defining-advanced-animation-path/): A great tutorial by Oleg Solomka on how to animate SVG paths and animate along them.
+- [The Z-Axis: Designing for the Future](http://alistapart.com/article/the-z-axis-designing-for-the-future): Wren Lanier explains how exploring a new dimension, the z-axis, in layout thinking can solve design problems in this A List Apart article.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet): A compilation of all the hidden and not hidden features of Git and GitHub by Tim Green.
+- [How to Use steps() in CSS Animations](http://designmodo.com/steps-css-animations/): An excellent article by Joni Trythall on understanding and using steps() in CSS Animations with some great demos.
+- [CSS and SVG Masks](http://codepen.io/yoksel/full/fsdbu/): See which masking technique has most browser support in this great overview by yoksel.
+- [280 Vector Line Icons Pack (EPS)](http://pixelbuddha.net/freebie/280-line-icons-pack): An absolutely stunning free icon pack with lots of fresh vector line icons designed by Jonas Nullens for PixelBuddha.
+- [Picker](http://lonely-pixel.com/projects/picker/): An easy-to-use and customizable color picker by suffick.
+- [Really Good Emails](http://reallygoodemails.com/): An inspiring collection of really good email designs by Matthew Smith.
+- [Treed](https://github.com/jaredly/treed): Treed is an extensible tree editor with VIM inspired keyboard navigation and drag and drop functionality. Made by Jared Forsyth.
+- [Building The Web App For Unicef's Tap Campaign: A Case Study](http://www.smashingmagazine.com/2014/04/09/building-the-web-app-for-unicefs-tap-campaign-a-case-study-2/): A great case study on how the challenging web app, Tap, Unicef's latest campaign, was made. By Nick Jonas and Francis Villanueva.
+- [Creating Style Guides](http://alistapart.com/article/creating-style-guides): A very insightful article on how to build and maintain style guides by Susan Robertson on A List Apart.
+- [Awesome kit](http://awesomekit.me/): A free set of 26 AI wireframe templates for iOS with two custom brushes designed by George Vasyagin.
+- [Cognitive Lode](http://coglode.com/): Understand the latest behavioral economics & consumer psychology research in a easy-to-understand and simple manner.
+- [Colorful Ficons Icons 42+ (PSD)](http://dribbble.com/shots/1501691-Free-Set-Colorful-Ficons-Icons-42): A set of delicious flat-style icons by Alexander Kutuzov.
+- [Chicks & Types](http://www.chicksandtypes.com/): "It's all love" - Cosimo Lorenzo Pancini celebrates his favorite typefaces with the versatile beauty of ladies.
+- [Defining the Pinterest Illustrated Style](http://hellomattstevens.com/blog/new-work-pinterest-pin-illustrations): 
+- [Torpedo](https://usetorpedo.com/): Torpedo is a useful, new file sharing app that let's you share files, passwords, and more with self-destructing private links.
+- [Raising The Bar](http://rtbposters.tumblr.com/): Raising the Bar is a non-profit initiative aimed at turning educational content into a part of the pop-culture.
+- [Papercraft](http://jxnblk.github.io/papercraft/): Papercraft by Brent Jackson is a creative, hand-coded experimental type made with SVG and inspired by folded paper.
+- [Responsive Email Patterns](http://responsiveemailpatterns.com/): Published already some time ago, this is a really useful resource of patterns and modules for responsive emails.
 
 # Collective #110
+- [Inspirational Website of the Week: 1979 by Deru](http://www.1979.la/): A compelling artistic website which makes use of some modern web techniques, introducing the new album by composer Benjamin Wynn, a.k.a. Deru.
+- [Google Night Walk](https://nightwalk.withgoogle.com/en/home): An immersive night journey through Cours Julien, a neighborhood of Marseille famous for its unique atmosphere and street art. A fantastic digital experience by Google.
+- [Magic of CSS](http://adamschwartz.co/magic-of-css/): An excellent textbook by Adam Schwartz with a very practical approach to learning the twisted magic of CSS.
+- [Font-To-Width](http://font-to-width.com/): A script by Nick Sherman and Chris Lewis that will fit text into their containers by setting a fitting width or weight variant and allowing for letter- and word-spacing adjustments as needed.
+- [GitBook](http://www.gitbook.io/): A fantastic command line utility for generating books and exercises using GitHub/Git and Markdown. Made by Codebox.
+- [Free Font: MODERNE SANS](https://www.behance.net/gallery/MODERNE-SANS-FREE-TYPEFACE/15574861): Marius Kempken designed this clean sans serif typeface with an art deco flair.
+- [Bringing Responsive Images to Browsers](http://alistapart.com/blog/post/bringing-responsive-images-to-browsers): The feature will help slim down resource-heavy websites, the picture element, is now official. Read about its story in this article by Mat Marquis on A List Apart.
+- [GridList](https://github.com/uberVU/grid): An interesting drag and drop library for two-dimensional, resizable and responsive lists by uberVU.
+- [Designing for Touch](http://brianthurston.com/2014/04/designing-for-touch-part-1-josh-clarks-workshop-at-an-event-apart/): The notes by Brian Thurston Bralczyk on Josh Clark's insightful workshop at An Event Apart on designing for touch. The next part can be found here.
+- [JavaScript OCR](http://kdzwinel.github.io/JS-OCR-demo/): A great JavaScript OCR demo by Konrad Dzwinel that uses some modern technology and libraries.
+- [Infinite Creativity](https://medium.com/editors-picks/672c4f8ffec1): A very inspirational article by Twitter co-founder Biz Stone on how his creative career began.
+- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/): If you know and use RegExr, you'll love this new HTML/JS based version with a clean and modern UI.
+- [Pure CSS Taj Mahal](http://codepen.io/jannypie/full/kbdDg): A stunning CSS Taj Mahal artwork by Jan Dennison made with Sass.
+- [Flat Icon Set (60 Icons, PNG, SVG, EPS, PSD, AI)](http://www.smashingmagazine.com/2014/04/01/freebie-flat-icon-set-60-icons-png-svg-eps-psd-ai/): A set of well designed and carefully crafted icons by Roundicons.
+- [Free Font: Densia Sans](http://www.harbortype.com/densia-sans/): Densia Sans is an elegant and economic sans serif typeface by Harbor Type. You can name your price for this carefully crafted font.
+- [Dynamically generated SVG through SASS + A 3D animated RGB cube!](http://lea.verou.me/2014/04/dynamically-generated-svg-through-sass-a-3d-animated-rgb-cube/): An interesting technique by Lea Verou for generating masked SVG gradients employing Sass.
+- [High impact typography with background-clip: text](http://blog.typekit.com/2014/04/04/high-impact-typography-with-background-clip-text/): Some cool examples of how to use background-clip: text to create some stunning typography by David Parker. Note that this is only supported in Chrome and Safari.
+- [Avatars and Emoticons Vector Set (AI, EPS)](http://www.webappers.com/2014/03/26/free-download-avatars-and-emoticons-vector-set/): A great set of avatar components that allow you to create a huge set of different combinations. Designed by FreePik.com.
+- [The Most Useful Websites and Web Apps](http://www.labnol.org/internet/101-useful-websites/): If you haven't come across this yet: A fantastic collection of links to web tools that do at least one job. Collected by Amit Agarwal. Definitely one for the bookmarks.
+- [Resources](https://medium.com/design-ux/799d16952a56): Dan Edwards has compiled this highly useful list of qualitative resources for designers.
+- [BeardSwipe](http://beardswipe.me/): Fingerprint recognition is for sissies, follicle pattern as passwords are the future! A hairily amusing April Fools Day joke by iStrategyLabs.
 
 # Collective #109
+- [Inspirational Website of the Week: NZK](http://www.nizuka.fr/): Nicolas Zezuka makes some magic happen on his excellently crafted website. Our pick this week.
+- [devices.css](http://marvelapp.github.io/devices.css/): A set of eight beautiful flat design mobile devices made with CSS by Oleg Tsaplin.
+- [WTF, HTML and CSS?](http://wtfhtmlcss.com/): A collection of frustrating HTML and CSS quandaries, miscues, and dilemmas. Curated by Mark Otto.
+- [Spring-cleaning Unused CSS With Grunt, Gulp, Broccoli or Brunch](http://addyosmani.com/blog/removing-unused-css/): A great write-up by Addy Osmani on build tasks for removing unused CSS in your pages.
+- [A Modern Designer's Canvas](http://www.smashingmagazine.com/2014/03/25/a-modern-designers-canvas/): A truly inspiring article by Andrew Clarke that looks beyond the usual technicalities of being a good designer or developer.
+- [Patatap](http://www.patatap.com/): With Patatap you can use your keyboard to play interesting sounds and create groovy visuals.
+- [Forms: The Complete Guide](http://boxesandarrows.com/forms-the-complete-guide/): An in-depth look at forms by Martin Polley. Read part 1 on layout and alignment of forms, too.
+- [Free Font: Pinto No_04](http://www.myfonts.com/fonts/facetype/pinto/no-04/): An artistic and playfull font designed by Georg Herold-Wildfellner. No_04 is for free.
+- [Get Lucky](http://codepen.io/matthewcopeland/full/hDpae): Pharrell Williams, Daft Punk and Nile Rodgers jamming in animated SVG style. Made by Matthew Copeland.
+- [Srcset and sizes](http://ericportis.com/posts/2014/srcset-sizes/): Eric Portis describes a responsive image solution using sizes and sizes that might be interesting for the future.
+- [Dribbbox](http://dribbbox.com/): Dribbbox displays your work in a clean, easy-to-browse gallery site that you can self-host.
+- [IxD (Interaction Design) Checklist](http://ixdchecklist.com/): An interesting checklist that you can use to evaluate your work and create a better understanding of interactions.
+- [Playing with CSS3 Animations](http://designmodo.com/css3-animations/): A tutorial by Vincent Tantardini on how to create some nifty animations for a menu and content layout.
+- [Medical Icon Pack](http://dribbble.com/shots/1482124-Freebie-Medical-Icon-Pack): A great set of 18 meaningful icons by Iris Eda Atalay for your next medical-related project.
+- [Velositey](http://www.dandkagency.com/velositey/): Velositey is an interesting Photoshop plugin for rapid prototype designing. Made by Dan Ross and Kieran Black. Pay with a Tweet.
+- [CSS Cityscape](http://codepen.io/oknoblich/full/ILmpw): The skyline of (S)CSS city crafted by Oliver Knoblich.
+- [Content-out Layout](http://alistapart.com/article/content-out-layout): Nathan Ford shows how using a ratio-based, modular approach to grids creates a harmonious composition on a website. 
+- [Soundslice](http://www.soundslice.com/): Soundslice offers a fantastic new way to transcribe your music to interactive notation and tabs.
+- [Free Font: Modum](http://www.myfonts.com/fonts/northernblock/modum/): Modum is a contemporary serif font family designed by The Northern Block Ltd. Get the regular and italic styles for free.
 
 # Collective #108
+- [Inspirational Website of the Week: Zulu](http://www.zulfeekar.com/#en/site/home): It takes a moment to get used to navigate this site but it's just such a high-tech experience that we had to pick it!
+- [CSS Diner](http://flukeout.github.io/): CSS Diner is a fun game for learning CSS selectors. Type the right selectors and reach the next level. Made by Luke Pacholski.
+- [CSSynth](http://bennettfeely.com/cssynth/): A fantastic and useful CSS generator for animations by Bennett Feely.
+- [Free Font: Gist Rough Light Three](http://www.myfonts.com/fonts/yellow-design/gist-rough/light-three/): A playful and unique typeface by Yellow Design Studio. The Light Three style is for free.
+- [A Q&A on the Picture Element](http://alistapart.com/blog/post/picture-element-qa): How will the picture element work? Find out in this insightful QA over at A List Apart.
+- [Get on the CSS Grid!](http://updates.html5rocks.com/2014/03/Get-on-the-CSS-Grid): CSS Grids are coming and you can already try it out in IE and Chrome (behind an experimental flag). Learn more about it in this HTML5 Rocks article and the video.
+- [A Closer Look at Color Lightness](http://robots.thoughtbot.com/closer-look-color-lightness): Reda Lemeden will teach you a great bit about color brightness that will be very useful for choosing colors in your designs. Check out the tool, too.
+- [The state of Interaction Design tools](https://medium.com/p/f755c6515368): Pasquale D'Silva brings it to the point: tools for interaction design are great but how they work together leaves much to be desired. Don't forget to read the fantastic second part as well.
+- [Gridzzly](http://gridzzly.com/): With Gridzzly you can make your own custom grid (or line) paper and print it easily.
+- [Flat Preloaders (GIF, AEP, PNG)](http://pixelbuddha.net/freebie/flat-preloaders): Another awesome freebie by Pixel Buddha: a set of flat preloaders in various formats and sizes.
+- [A Pocket Guide to Master Every Day’s Typographic Adventures](http://typogui.de/): A great pocket guide on typography with some excellent tips by Benedikt Lehnert.
+- [Flexbox in the real world](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/): Flexbox expert Sean Fioritto shows you how you can use flexbox for real, in production, while offering an solid fallback for legacy browsers (down to IE8).
+- [How To Plan Your Next Mobile E-Commerce Website](http://mobile.smashingmagazine.com/2014/03/19/how-to-plan-your-next-mobile-ecommerce-website/): Lawrence Howlett will teach you some really great tips for building your next mobile e-commerce site.
+- [Animal Characters Set (EPS)](http://pixelbuddha.net/freebie/animal-characters-set): A set of 11 really fantastic character designs by Oksana Golubets for Pixel Buddha.
+- [Webdesignrepo](http://www.webdesignrepo.com/): If you didn't know it already: a great resource collection site for your bookmarks, with helpful links for web designers and web developers. It's curated by Ben Mildren.
+- [Stroke 7 Icon Font Set](http://www.pixeden.com/icon-fonts/stroke-7-icon-font-set): A great set of 140 thin stroke icons inspired by iOS 7. An awesome web font by Pixeleden.
+- [RWD List to Table](http://codepen.io/geoffyuen/pen/FCBEg): A responsive table method using display:block and data attributes for column titles by Geoff Yuen.
 
 # Collective #107
+- [Inspirational Website of the Week: MY/STATIC/SELF](http://mystaticself.com/): The portfolio site of software developer John Iacoviello is a fantastic game-like experience. Our pick this week.
+- [Web at 25: Celebrating the 25th Anniversary of the Invention of the Web](http://www.webat25.org/): The official anniversary site hosted by the World Wide Web Consortium and the World Wide Web Foundation to honor the 25th birthday of our World Wide Web.
+- [150 outlined icons (PSD, AI, SVG, Webfont)](http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/): A fantastic set of 150 outlined icons designed by Dario Ferrando for Freebiesbug. The package includes PSD, AI, sliced SVGs and a Webfont ready to be included in your website.
+- [Brick Webfonts](http://brick.im/): Webfonts served by Brick are clones of the original, converted without modification to WOFF format for high-quality rendering and fast loading across all modern browsers.
+- [Custom CSS preprocessing](http://nicolasgallagher.com/custom-css-preprocessing/): Nicolas Gallagher shows how you can create your own custom CSS preprocessor with Rework, an arbitrary CSS preprocessing library for Node.js.
+- [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/): Chris Coyier shows how to make a modern icon system with the <use> technique and an inline SVG. 
+- [Device-Agnostic](http://trentwalton.com/2014/03/10/device-agnostic/): An insightful article by Trent Walton on what designing websites based on the device-agnostic approach involves.
+- [Geomicons Open](http://jxnblk.github.io/geomicons-open/): Brent Jackson created this open source icon project for the web that was build with performance in mind.
+- [Drop shadow for two elements preserving the intersection in CSS](http://helloanselm.com/2014/drop-shadows-for-two-coherent-elements-preserving-intersection-in-css/): If you have ever tried adding a box shadow to two overlapping elements, you'll appreciate this CSS technique by Anselm Hannemann for making it work.
+- [Taking A Second Look At Free Fonts](http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/): Take a second look at free fonts with Jeremiah Shoaf and learn how the quality has improved over the recent years.
+- [Aesop Story Engine](http://aesopstories.com/story-engine/): An interesting set of open-source tools that allows for the creation of feature-rich, interactive, storytelling themes for WordPress.
+- [MakeHuman](http://www.makehuman.org/): After many years of development, MakeHuman, a fantastic, free and open source software to create realistic 3D humans, got released.
+- [The Latest in Web Font Trends](http://alistapart.com/blog/post/web-font-trends): Jenn Lukas looks into the latest Web Font trends and collects the top used fonts from the most popular web fonts providers.
+- [Wedding Icons (AI, EPS)](http://dribbble.com/shots/1461892-FREE-Wedding-Icons): Rinat Rozilio shares these cute wedding related vector icons for free.
+- [Redesigning IMDB](https://medium.com/p/2e9e865dd83): Read about the very thoughtful redesign concept of the Internet Movies Database by Rémi Fayolle?and Gilles Bertaux.
+- [Nobody expects 3D](http://aerotwist.com/tutorials/protip-nobody-expects-3d/): Although we all do expect 3D by now, this is a nice primer on how to add some 3D jazz to your elements.
+- [2048 Game](http://gabrielecirulli.github.io/2048/): A super addictive tile game created by Gabriele Cirulli. Move the tiles with the arrow keys and make pairs sum. Try to get to the 2048 tile! Really cool on your mobile.
+- [Loading... This could take a while](http://jxnblk.github.io/loading/): Seriously? Still loading? Awesome SVG loaders by Brent Jackson.
+- [Iconion Icon Creator](http://iconion.com/): Sometimes you just need some PNG icons for your projects and with Iconion you can easily create them from any icon font.
+- [Metalsmith: Static Site Generator](http://www.metalsmith.io/): An interesting website generator that works by reading files in a directory, manipulating them with plugins, and then outputting the static site.
+- [Mac-Slow Clock in SVG](https://github.com/apnadmin/Macslow--clocks): A Web port of Linux Mac-Slow clocks done in SVG.
+- [Feedback Ideas for Buttons](http://creativespooks.com/ui-feedbacks/): Some nice inspiration for feedback ideas for your buttons or other UI elements.
 
 # Collective #106
+- [Inspirational Website of the Week: Optimo Chicago](http://optimo.com/): A brilliantly designed website with interesting transitions and a very creative way of showing the product. Our pick this week.
+- [Rethinking Responsive SVG](http://coding.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/): A very inspiring article by Ilya Pukhalski on how to see beyond the traditional way of making SVGs responsive and explore new possibilities.
+- [What browser am I using?](http://www.whatsmybrowser.org/): A fantastic web app that will make it easy to know what browser your client or anybody is using. 
+- [A Typographic Approach to Email](http://blog.weare1910.com/post/78113100010/a-typographic-approach-to-email): A brilliant article and experiment on functionally improving email through better typography. By 1910 Design & Communication.
+- [Animatron](http://animatron.com/): Animatron is an interesting online tool that allows you to create HTML5 animations and interactive content by designing frames on a timeline. 
+- [ScrollMagic](http://janpaepke.github.io/ScrollMagic/): ScrollMagic by Jan Paepke is a jQuery plugin for scroll interactions. It's a complete rewrite of its predecessor Superscrollorama by John Polacek. 
+- [Speed Design with Illustrator](http://www.designsprint.net/): Vincent Le Moign will show you why Illustrator is one of the hottest choices for quick interface design. Check out the 14 useful tips and download the free template.
+- [PixelBuddha](http://pixelbuddha.net/): A brand new, high-quality resource site for professional designers, brought to you by the folks behind Smallicons and Ballicons.
+- [Wireframe & UI Kit](http://theycallmecrowe.com/advice/crowe-wireframekit.html): Christopher Rowe has designed this UI kit for smarter wireframes that provide more visual cues than the default ones.
+- [You jacked my scroll bro](https://medium.com/design-idea/7764db6a9987): Read Matthew Smith's thoughts on "scrolljacking" in this article on Medium.
+- [How to make a Flappy Bird in HTML5 - Part 1](http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-1/): Thomas Palef will show you how to create Flappy Bird in HTML5 as part of his "one html5 game per week" challenge.
+- [Select to Switch](https://github.com/mnmly/select-switch/): A brilliant little script that converts a select input into a on-click switch. Very useful for short lists of options.
+- [Lessons learnt building ViziCities](https://hacks.mozilla.org/2014/03/lessons-learnt-building-vizicities/): Read about the lessons learnt during the development of ViziCities, the recently released 3D city and data visualisation platform.
+- [Build with Chrome](http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/): Hans Eklund shares some learnings from the "Build with Chrome" project, especially regarding the move from a desktop-only experience to a multi-screen solution that supports both mouse and touch input.
+- [rowGrid.js](http://brunjo.github.io/rowGrid.js/): A useful and light-weight jQuery plugin for placing items in straight rows like seen on Google Image Search, flickr, Shutterstock and Google+ images.
+- [What We Mean When We Say "responsive"](http://alistapart.com/column/what-we-mean-when-we-say-responsive): Lyza Danger Gardner analyses the "responsive" word and the confusion around Responsive Web Design and why we might simply have to drop the expression.
+- [iPhone and Android (PSD)](http://dribbble.com/shots/1452842-iPhone-and-Android-PSD-FREE): A great freebie by Billy Kiely: a fully-editable vector PSD of devices.
+- [The Art of HTML Semantics: Part 1](http://kevinsuttle.com/posts/the-art-of-html-semantics-pt1/): Kevin Suttle dives into HTML semantics and shares some interesting facts and use cases of common tags.
+- [Selectors as Sass Variables?](http://www.scottohara.me/article/sass-selector-variables.html): Scott O'Hara explores the usefulness of adding entire selectors to a variable and shows why it can be problematic in some cases.
+- [Sport glyph vector icons (PSD)](http://dribbble.com/shots/1454854-Sport-glyph-vector-icons-freebie): A nice set of sports-related icons by Alex Pronsky.
+- [Free Font: Anglecia Pro Text](http://www.myfonts.com/fonts/konstantynov/anglecia-pro/): A delicate serif font typeface designed by Andriy Konstantynov from Mint Type. The regular and italic styles are for free.
 
 # Collective #105
+- [Inspirational Website of the Week: Hologram Studio](http://hologram.io/): The website of Hologram Studio has a futuristic touch with some interesting transitions and effects. Our pick this week.
+- [Sticker.js](http://stickerjs.cmiscm.com/): Sticker.js is an awesome JavaScript library that creates a peeling sticker look and interaction on elements.
+- [Code Guide](http://mdo.github.io/code-guide/): Code Guide is a collection of standards for developing flexible, durable, and sustainable HTML and CSS. Curated by GitHub designer Mark Otto.
+- [Off The Beaten Canvas: Exploring The Potential Of The Off-Canvas Pattern](http://mobile.smashingmagazine.com/2014/02/24/exploring-potential-off-canvas-pattern-ux/): Kyle Peatt is exploring off-canvas layouts and some interesting use cases in this Smashing Magazine article.
+- [Matter.js](http://brm.io/matter-js/): Matter.js is a 2D HTML5 JavaScript physics engine by Liam Brummitt.
+- [CSS Shake](http://elrumordelaluz.github.io/csshake): Sometimes you just need to shake things up a little bit. With CSSShake by Lionel you can easily add some jiggle to elements.
+- [Responsive Strategy](http://bradfrostweb.com/blog/post/responsive-strategy/): A great overview of the current strategies that are used to make sites responsive, or better, make them viewable on smaller devices. An article by Brad Frost.
+- [I want to use](http://www.iwanttouse.com/): Powered by data from caniuse.com, this site tells you how many users will be able to use a specific feature you intend to use in your project. 
+- [Atom](https://atom.io/): A text editor by GitHub. It's modern, approachable, and hackable to the core, and you can request a beta invite.
+- [background vs background-color CSS Performance Investigation](http://www.youtube.com/watch?v=wooovVDLUU8): Learn how to use the timeline in Chrome Dev Tools by watching Paul Irish analyse the performance of background and background-color. 
+- [Honest logos](http://www.viktorhertz.com/50717/439429/gallery/honest-logos): A very sincere and quite funny logo series that reveals the actual content of a company. A project by Victor Hertz.
+- [Peek](http://peek.usertesting.com/): With Peek you can get a 5-minute video of a real person using your site.
+- [Gmail Redesign Concept](https://www.behance.net/gallery/Gmail-Redesign-Concept/14412073): Ruslan Aliev put a lot of creativity and thought into this fantastic Gmail redesign.
+- [Float Labels with CSS](http://css-tricks.com/float-labels-css/): A very nice tutorial by Chris Coyier on how to create some floating labels for form inputs.
+- [Albumarium – Find & give inspiration](http://albumarium.com/): Find and share free images from different categories. A project by Vilem Ries.
+- [Using blend modes in HTML Canvas](http://blogs.adobe.com/webplatform/2014/02/24/using-blend-modes-in-html-canvas/): Learn about canvas blend modes and check out some interesting usage examples in designing games or photo editing.
+- [The Troublesome Misconception of Parallax in Web Design](https://medium.com/p/2a55ad1459f7): Rob Palmer talks about the misconception of the parallax effect and tries to rectify the erroneous views.
+- [How Nesting 3D Transformed Elements Works](http://davidwalsh.name/3d-transforms): Ana Tudor will guide you step by step through the process of nesting animated 3D transform elements.
+- [Only 90s Web Developers Remember This](http://zachholman.com/posts/only-90s-developers/): Remember using the 1x1.gif for positioning elements? Or abusing on the non-breaking space? Then you might be one of those veteran web developers who will get nostalgic when reading this satiric and delightful article by Zach Holman.
+- [Ocean: Realistic water shader for Three.js](https://github.com/jbouny/ocean): A Three.js shader by Jérémy Bouny to provide a realistic plane water effect. It can be used to render water, like a complete ocean or small surfaces of water in real time. 
+- [Circle, square, triangle, dolphin](http://codepen.io/bleepbloop/full/Kkdzq): Literally what it says in the title... be careful, you might want to watch this for at least an hour :) A really nice pen by Max Gruson.
+- [40 Free Stroke Icons](http://freebiesbug.com/psd-freebies/40-free-stroke-icons-sympletts-pack/): 40 free sample line icons from the Sympletts icon pack by Bogdan Rosu.
+- [Free Font: Pesaro Light](http://www.myfonts.com/fonts/hoftype/pesaro/light/): Pesaro is an elegant new type family by Hoftype and you can get the light style for free.
 
 # Collective #104
+- [Inspirational Website of the Week: LiveAreaLabs](http://livearealabs.com/): Subtle transitions and thoughtful interactions combined with a smart color and typography choice, make exploring the website of LiveAreaLabs a great experience. Our pick this week.
+- [ViziCities](https://github.com/robhawkes/vizicities): ViziCities is a 3D city and data visualization platform powered by WebGL. A fantastic project by Robin Hawkes and Peter Smart.
+- [Type Quest: Beautiful OpenType Features](http://typequest.org/): Type Quest is designed to help educate graphic designers and web designers understand the power of OpenType in Web fonts while giving insightful information from current professionals in the industry. A project by Tyler Sanguinette.
+- [Responsive Design Frameworks: Just Because You Can, Should You?](http://mobile.smashingmagazine.com/2014/02/19/responsive-design-frameworks-just-because-you-can-should-you/): Jen Kramer dives into Responsive Design Frameworks and explains why despite some criticism they are great base for a responsive website, when used adequately.
+- [Stackicons](http://stackicons.com/): Stackicons use a layered technique for icon fonts that let you color your icons and do more with their style. Read Parker Bennett's article over at CSS-Tricks and find out more.
+- [One Page Website Wireframes (PSD)](http://graphicburger.com/one-page-website-wireframes/): A really useful wireframe set of one-page websites for creating rapid prototypes.
+- [Creating a geometric star in Illustrator](http://veerle.duoh.com/design/article/creating_a_geometric_star_in_illustrator): Polygonal shapes are very much in style these days and Veerle Pieters will teach you how to create a beautiful star shape in Illustrator.
+- ["Scroll-Jacking" in Full Screen](http://www.hugeinc.com/ideas/perspective/scroll-jacking-on-hugeinc): Wes Hatch writes about how and why the fullscreen "work" navigator on Hugeinc.com's homepage was made.
+- [The Icons: 100 Free Icons (PSD)](http://graphicburger.com/the-icons-100-free-icons/): Another awesome freebie by GraphicBurger: 100 useful icons made by PixelBazaar.
+- [FontPrep Web Font Generator](http://fontprep.com/): FontPrep is a Web font generator for Mac OSX and it's now open source. It takes your TTF and OTF font files and generates all of the respective font-formats for the web: WOFF, EOT, and SVG.
+- [How designers can create interactive prototypes with Illustrator](http://tomgermeau.com/2014/02/how-designers-can-create-interactive-prototypes-with-illustrator/): In this tutorial, Tom Germeau shows you how you can quickly create interactive prototypes in the browser without actually writing HTML, using Illustrator.
+- [Grid Style Sheets: CSS polyfills from the future](http://gridstylesheets.org/): GSS re-imagines CSS layout and replaces the browser's layout engine with one that harnesses the Cassowary Constraint Solver, the same algorithm Apple uses to compute native layout. GSS was created by Dan Tocchini.
+- [Free Font: Modum](http://www.behance.net/gallery/Modum-Regular-Italic-FREE-FONT/14335847): Modum is an elegant and contemporary serif font that comes with two free weights: regular and italic.
+- [On Creative Direction](http://danielmall.com/articles/on-creative-direction/): An insightful primer by Daniel Mall on creative direction as compared to art direction and design; and what they all mean in a digital context.
+- [HTML5 Guitar Tuner](http://www.freetuner.co/): An HTML5 guitar tuner by Tom Hoddes. Turn your microphone, play the notes and tune!
+- [Office monkey life icons](http://www.behance.net/gallery/One-day-of-the-office-monkey-life-Icons-set/14218147): Live through one day of an office monkey and check out these interesting icons made my Sergey Kondratev. He offers these public domain icons over at The Noun Project for download.
+- [Live Editing Sass and Less in the Firefox Developer Tools](https://hacks.mozilla.org/2014/02/live-editing-sass-and-less-in-the-firefox-developer-tools/): Firefox 29 developer tools let you now debug your Sass and Less using source maps.
+- [Ice Cream Icons (PSD)](http://www.blugraphic.com/2014/02/18/ice-cream-icons-vector-psd/): A lovely set of ice cream icons over at Blugraphic.
 
 # Collective #103
+- [Inspirational Website of the Week: Weecom Digital Agency](http://weecom.com.br/): Weecom's website has a refreshing color scheme and some creative animations. Our pick this week.
+- [Grid](http://www.adamkaplan.me/grid/): A beautiful and well-made guide to responsive web design and the usage of grids by Adam Kaplan.
+- [Placeholdem](http://placeholdem.jackrugile.com/): Jack Rugile created this little JavaScript plugin that animates placeholder carets on inputs and textareas.
+- [Dug.js: A JSONP to HTML Script](http://rog.ie/blog/dugjs-a-jsonp-to-html-script): A very useful, light-weight script for pulling JSONP from various APIs and display it using customized markup. Made by Rogie King.
+- [Outdated UX patterns and alternatives](http://sideproject.io/outdated-ux-patterns/): A great summery and analysis of the "Outdated UX Patterns" section of North. By Brian Krall.
+- [Design Lab](http://www.sharpandnimble.com/design-lab/): Bilal Mechairia's animation explorations will give you some wonderful inspiration.
+- [Random User Generator Photoshop extension](http://randomuser.me/extension/): The Random User Generator can now be used in Photoshop with this useful extension.
+- [New CSS Shapes Syntax](http://blogs.adobe.com/webplatform/2014/02/11/new-css-shapes-syntax/): Read all about the new syntax for CSS Shapes in this article on the Web Platform Team Blog.
+- [Creating A Client-Side Shopping Cart](http://coding.smashingmagazine.com/2014/02/13/create-client-side-shopping-cart/): Gabriele Romanato explains how to use session storage on the example of a simple shopping cart in this in-depth tutorial. 
+- [Free Font: Streetwear](http://www.behance.net/gallery/Streetwear-(Free-Font)/14302297): A bold and stylish retro inspired script typeface designed by Artimasa.
+- [UI Animation and UX: A Not-So-Secret Friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship): A nice article about animations with tips on how to use them properly by Val Head on A List Apart.
+- [pageres](https://github.com/sindresorhus/pageres): Get screenshots of websites in different resolutions with this little app. It generates 100 screenshots from 10 different websites in just over a minute. Made by Sindre Sorhus.
+- [Make a Flippin’ 3D Countdown with CSS & JavaScript](http://viget.com/inspire/make-a-flippin-3d-countdown-with-css-and-javascript): Doug Avery shows how the countdown component from the Gear in Action interactive lookbook works.
+- [GitHub goes to school](https://github.com/blog/1775-github-goes-to-school): GitHub launches education.github.com, a site dedicated to using GitHub at school with free micro accounts for students and teachers and great educational discounts.
+- [Free Font: Mink Type](http://www.behance.net/gallery/Mink-Type-Free-Font/11690871): A creative, hand-drawn display typeface by Filiz Sahin.
+- [HTML5, CSS3, and the Bookmarklet that Shook the Web](https://hacks.mozilla.org/2014/02/html5-css3-and-the-bookmarklet-that-shook-the-web/): Read how the fun Harlem Shake bookmarklet was done in this article on Mozilla Hacks.
+- [CMS Administration – Profile Details (PSD)](http://sm-artists.com/?page_id=1029): A lovely and clean Photoshop design from sm-artists.com.
+- [Recordit](http://recordit.co/): For Mac users who would like to create screencasts super quickly.
+- [Year of the Horse](http://happyyearof.com/): Send your happy horse year wishes by creating your own rider and horse on this classy website by Knock.
 
 # Collective #102
+- [Inspirational Website of the Week: 100 Years of Design | AIGA](http://celebratedesign.org/): The American Institute of Graphic Arts, AIGA, turns 100 this year and they are celebrating with an outstanding website full of beauty and great effects.
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript): An in-depth tutorial on MDN that re-introduces JavaScript as a powerful language for web applications.
+- [LessMilk](http://www.lessmilk.com/): Thomas Palef wants to learn how to make HTML5 games. Follow him on his learning journey and see him creating a new game every week. He already created seven games so far.
+- [One Solution To Responsive Images](http://mobile.smashingmagazine.com/2014/02/03/one-solution-to-responsive-images/): Gavyn McKenzie explains what responsive image solution is implemented at Etch's portfolio website in this insightful Smashing Magazine article.
+- [Facebook's Paper photo tilt feature in HTML5](http://jt.io/2014/photo-tilt/): John Tregoning created a HTML5 clone of the photo tilt feature found in Facebook's Paper app.
+- [WOW.js](http://mynameismatthieu.com/WOW/): WOW.js is another great library for revealing animations on scroll with some easy to customize features. Made by Matt Aussaguel.
+- [CSS A/Z](http://cssaz.tumblr.com/): An entirely HTML/CSS animated sketch for each letter made every day for 26 days. 
+- [Bouncy Balls](http://bouncyballs.org/): Want to bounce some balls with sounds? Bouncy Balls is a fun way to visualize music or monitor sounds. Made by Paule Neave.
+- [Simple Grids with CSS Multi-Column Layout](http://dbushell.com/2014/02/03/simple-grids-with-css-multi-column-layout/): See the magic of CSS multi-column layouts at work in this this menu example by David Bushell. 
+- [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb): In this more advanced tutorial by Christopher Buecheler, you'll learn how to create aRESTful web app with Node.js, Express, and MongoDB.
+- [Octocard](http://octocard.info/): Octocard is a highly flexible GitHub info card for every GitHub lover made by MZhou.
+- [Creditly.js](http://wangjohn.github.io/creditly/): An intuitive and ease to customize credit card form including two themes made by John J. Wang.
+- [Lemanz](https://github.com/grayghostvisuals/lemanz): A starting point for all of Dennis Gaebel's personal and work-related projects using Sass and Compass.
+- [Free Font: Tesla](http://www.behance.net/gallery/Tesla-Font-Free-Download/14228781): A wonderfully creative font inspired by amazing Nikola Tesla's work. Designed by Lexi Griffith.
+- [App Wireframes Kit](http://graphicburger.com/app-wireframes-kit/): A great app wireframe kit for starting designing new projects. Made by Vlad Cristea.
+- [Casual](https://github.com/boo1ean/casual): Casual is a fake data generator for JavaScript made by Egor Gumenyuk.
+- [Reading Fonts for Children](http://shinythingssw.tumblr.com/post/42480431755/reading-fonts-for-children): Learn what typeface is suitable for projects that are targeted to children in this excellent article.
+- [Combining Contextual Inquiry with Eye Tracking](http://uxmag.com/articles/combining-contextual-inquiry-with-eye-tracking): Learn how contextual inquiry together with eye tracking can help improve design decisions in this interesting article by James Breeze.
+- [Designing for Easy Interaction](http://alistapart.com/article/designing-for-easy-interaction): An excerpt from Chapter 5 of A Web for Everyone: Designing Accessible User Experiences by Sarah Horton and Whitney Quesenbery over at A List Apart.
 
 # Collective #101
+- [Inspirational Website of the Week: soppo](http://soppo.co/): The website of Soppo, an interactive production studio, is filled with creativity and fluid effects. Our pick this week!
+- [Image Lightbox, Responsive and Touch-friendly](http://osvaldas.info/image-lightbox-responsive-touch-friendly): ImageLightbox.js is a minimlistic, responsive and touch-friendly image lightbox implementation by the talented Osvaldas Valutis.
+- [Custom Elements](http://customelements.io/): Custom Elements is a fantastic collection of web components for modern web apps.
+- [Free Font: Hitchhiker](http://www.behance.net/gallery/Hitchhiker-Free-Font/14178133): Slava Krivonosov designed this creative and playful typeface inspired by Jack Kerouac's novel "On the road".
+- [Tempo.](http://www.tempotempotempo.com/feb/): See some great dance moves by this futuristic dancer on Tempo. Made Vince Mckelvie.
+- [Working with quota on mobile browsers](http://www.html5rocks.com/en/tutorials/offline/quota-research/): Eiji Kitamura will teach you some really useful stuff on browser storage in this great HTML5 Rocks article.
+- [A Pattern Apart](http://patterns.alistapart.com/): Another great pattern library got published: A List Apart's pattern library.
+- [CSS Regions Matter](http://flippinawesome.org/2014/01/27/css-regions-matter/): CSS Regions were a promising new CSS feature but unfortunately they are facing a grim future as some doubts have risen on their performance and implementation in Blink and their usefulness. Read about why CSS Regions do matter in this great article by Sara Soueidan. 
+- [Optimize CSS delivery](http://www.feedthebot.com/pagespeed/optimize-css-delivery.html): Is your beautifully written CSS killing the performance of web pages? Learn how to optimize CSS delivery from this insightful article by Patrick Sexton over at feedthebot.com.
+- [Free Font: Blenda](http://www.behance.net/gallery/Blenda-Script-Free-Font/13832171): A beautiful experimental typface by Seniors Studio. The bold weight is for free.
+- [Pragmatic UX Techniques For Smarter Websites](http://uxdesign.smashingmagazine.com/2014/01/27/pragmatic-ux-techniques-for-smarter-websites/): An excellent article by Marko Dugonjić on user experience techniques for startups, in-house teams, big corporations and anyone who wants to improve their website, product or service.
+- [appear.in](https://appear.in): Hassle-free peer-to-peer video conversations with up to 8 people for free.
+- [Apple Store](http://ambercreative.co/experiments/apple-store/): A beautiful, unofficial redesign of the Apple store by Amber.
+- [oimo.js](http://www.chromeexperiments.com/detail/oimojs/): Oimo.js is light-weight 3D physics engine for JavaScript developed by Laurent Thillet.
+- [The Markdown Mark](http://dcurt.is/the-markdown-mark): Dustin Curtis designed a universal symbol for identifying Markdown support.
+- [Free Font: TYPOLY](http://kristiankreaktive.com/#item=typoly): Geometry meets typography with this interesting type experiment by Kreaktive.
+- [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation): Chris Sevilleja will show you how to do form validation with Angular in this in-depth tutorial.
+- [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks): A useful collection of frameworks started by Edinei Cavalcanti.
+- [My Grid System](http://sam.roon.io/my-grid-system): If you don't fancy grid systems for your project, then you might find this simple but effective approach by Sam Soffes very useful.
+- [Bring Me The Head Of Tim Berners-Lee](http://www.muleradio.net/thebigwebshow/109/): A rational and important conversation with Robin Berjon about EME, DRM, the MPAA, and the W3C in episode of "The Big Web Show" hosted by Jeffrey Zeldman.
+- [Free Mobile Device Mockups (AI, EPS)](http://uxkits.com/products/mobile-devices-illustrator-template-and-omnigraffle-stencil): A fantastic free Illustrator template and OmniGraffle stencil of mobile devices by UX Kits.
 
 # Collective #100
+- [Inspirational Website of the Week: BaBa Dum](http://babadum.com/): BaBa Dum is a bubbly language learning website with a randomly changing landing page. It's made with some great web technologies including SVG and Canvas. Our pick this week.
+- [WebGL Deferred Shading](https://hacks.mozilla.org/2014/01/webgl-deferred-shading/): Explore how to use the WEBGL_draw_buffers extension to create a scene with a large number of dynamic lights using a technique called deferred shading, which is popular among top-tier games.
+- [How To Animate a Photo: The 2.5D Effect](http://vimeo.com/79329423): Learn how to create motion in still photographs, a technique made popular in the film The Kid Stays In The Picture. In this video tutorial, Joe Fellows shows how he's able to bring photos to life using the parallax effect with Photoshop and After Effects.
+- [SVGMagic: Cross browser SVG](http://svgmagic.bitlabs.nl/): An interesting jQuery plugin by Dirk Groenen that creates a fallback for SVG images by generating a PNG file and replacing the SVG with it.
+- [User Timing API](http://www.html5rocks.com/en/tutorials/webperformance/usertiming/): In this HTML5 Rocks article, Alex Danilo explains the User Timing API which provides a mechanism you can use to instrument your web application to identify where your application is spending its time.
+- [fit.js](http://soulwire.github.io/fit.js/): Need to fit an element into another one while preserving its aspect ratio? Fit.js will help you achieve that. Made by Justin Windle.
+- [Squarespace Logo](http://www.squarespace.com/logo): Are you starting a business from scratch and need a logo or identity mockup? The Squarespace logo will come in handy. You can read more about this tool in the article Logos Made Simple on the Squarespace blog.
+- [Free Font: Margot](http://www.behance.net/gallery/Margot-Free-Font/13819879): Margot is a cheerful type face designed by talented Adrià Gómez.
+- [Endangered species of the web: the image](http://christianheilmann.com/2014/01/23/endangered-species-of-the-web-the-image/): In this article of the series that explores the "strange animals" of the Web, Christian Heilmann writes about the history of the image and how to use it properly.
+- [scrollReveal.js](http://julianlloyd.me/scrollreveal/): This script lets you manage the fading in of elements when they enter the viewport. Made by Julian Lloyd.
+- [CSS Colours](http://colours.neilorangepeel.com/): Neil Hainsworth created this little tool that will list you the CSS colors with their names, categorized by shades.
+- [⌘ + SPACE: Dribbble powered portfolios](http://cmdspace.com/): Want to create an instant, mazing looking portfolio with your Dribbble shots? This site will do exactly that.
+- [Designing Useful Interfaces](http://drt.fm/office-hours/jason-santa-maria/): Jason Santa Maria explains his creative process, becoming a better designer, working with type and and how he stays productive.
+- [Mondrian](http://mondrian.io/): Mondrian is a free vector graphics web app like Adobe Illustrator or Inkscape which was now open-sourced by Artur Sapek.
+- [Stock photos that don't suck](https://medium.com/p/62ae4bcbe01b): Dustin Senos compiles this small, yet highly useful list of sites that offer free qualitative stock photos.
+- [6 Round Icons (PSD)](http://dribbble.com/shots/1385178-FREEBIE-6-Round-Icons): A set of carefully designed, real looking round icons by Justas Galaburda from Studio4.
+- [Twitter GUI (PSD)](http://dribbble.com/shots/1384278-Freebie-Twitter-GUI-PSD-New-home-template): Marie Dehayes created this fantastic mockup of the new Twitter UI.
+- [YouTube Kaleidoscope](http://www.youtubekaleidoscope.com/): A fantastic design concept of how YouTube could look in the future. Designed by Thomas Squire.
+- [Border-radius generator](https://developer.mozilla.org/en-US/docs/Web/CSS/Tools/Border-radius_generator): A helpful tool on the Mozilla Developer Network for creating border radii.
+- [Free Font: Air Strip Arabic](http://www.behance.net/gallery/Air-Strip-Arabic/14000637): An elegant and modern Arabic typeface designed by Ibrahim Hamdi.
+- [My Mind](http://my-mind.github.io/): My Mind is a web application developed by Ondřej Žára for creating and managing Mind maps.
+- [nanoGALLERY](http://nanogallery.brisbois.fr/): A jQuery image gallery plugin that is easy to integrate. It supports touch and is responsive, fast and you can pull images from Flickr, Picasa, Google+ photo albums and more. Made by Christophe Brisbois.
 
 # Collective #99
+- [Inspirational Website of the Week](http://thelifecycle.roblutter.com/): The Lifecycle Adventure by Rob Lutter is a beautifully designed website that presents an amazing trip perfectly. Our pick this week.
+- [Future of Web Design 2014](http://futureofwebdesign.com/london-2014/?utm_source=codrops&utm_medium=collective&utm_content=FOWD%20London%202014&utm_campaign=Codrops%20Collective): FOWD is 3 day event packed with cutting-edge web design learning and intimate workshops. Session topics include responsive design, UX, HTML5, & CSS3. Register by 31/1 to get the early bird discount.
+- [Animating CSS Shapes with CSS Animations & Transitions](http://sarasoueidan.com/blog/animating-css-shapes/): An excellent in-depth article by Sara Soueidan on animating CSS Shapes. It's definitely time to get excited about this new property!
+- [Nasty Icons](http://nastyicons.com/): A set of outrageous, nasty icons by Vincent le Moign for your next kinky project :)
+- [The Pattern Library](http://thepatternlibrary.com/): An amazing collection of beautiful patterns for inspiration and free usage. A project by Tim Holman and Cluadio Guglieri.
+- [Writing A Better JavaScript Library For The DOM](http://coding.smashingmagazine.com/2014/01/13/better-javascript-library-for-the-dom/): An interesting article by Maksim Chemerisuk on writing a better JavaScript library for the DOM.
+- [Ifvisible.js](http://serkanyersen.github.io/ifvisible.js/): This script will check if a user is currently looking at a page or interacting with it. A project by Serkan Yerşen.
+- [Jack In The Box](https://github.com/matthieua/jackInTheBox): With this library you can control CSS animation as you scroll down a page. By default, it should be used to trigger animate.css animations, but any animation library can be used. A script by Matthieu Aussaguel.
+- [countUp.js](http://inorganik.github.io/countUp.js/): countUp.js by Jamie Perkins is a dependency-free, lightweight JavaScript "class" that can be used to quickly create animations that display numerical data in a more interesting way.
+- [Face Substitution](http://auduno.github.io/clmtrackr/examples/facesubstitution.html): An awesome face substitution demo by Audun Mathias Øygard that's using the JavaScript library clmtrackr.
+- [speaking.io](http://speaking.io/): Zach Holman, who has spoken at many technical conferences, gives some useful advice for public speakers.
+- [177 Design icons (AI, PSD)](http://freebiesbug.com/psd-freebies/177-design-icons-ai-psd/): Robin Kylander designed these exclusive free icons for Freebiesbug. 
+- [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More](http://css-tricks.com/css-animation-tricks/): Zach Saucier will show you some awesome CSS animation tricks over at CSS-Tricks. 
+- [Free Font: KAIJU](http://www.behance.net/gallery/KAIJU-(Free-Font)/13701753): Anothony James designed this beautiful sans serif typeface which comes in regular and bold.
+- [Bulletproof Accessible Icon Fonts](http://filamentgroup.com/lab/bulletproof_icon_fonts/): Read how to implement bulletproof font icons in this article by Filament Group.
+- [Cerebro](http://cerebro.maxmert.com/): Cerebro is an amazing WebGL experiment that shows your Google analytics data on a beautiful globe. Made by Maxmert.
+- [JavaScript Kinetic Scrolling](https://github.com/ariya/kinetic): A great collection of demos and tutorials of the JavaScript kinetic scrolling series by Ariya Hidayat.
+- [Making the Web Sweeter with Food Network and Cupcakes](http://blogs.adobe.com/webplatform/2014/01/16/making-the-web-sweeter/): Read about how the Adobe Web Platform Team made the awesome Cupcakes demo using CSS Regions and CSS Shapes.
+- [Google Map Builder](http://googlemapbuilder.mynameisdonald.com/): A fantastic Google Maps builder by Donald Sutherland.
+- [Ilepixeli Icons (AI, EPS)](http://dribbble.com/shots/1383631-ilepixeli-icons): Some great free icons by Piotr Makarewicz. Send a link to the designer if you use them.
+- [The Future of UI and the Dream of the '90s](https://medium.com/ux-ux-human-interfaces/a0b0cd7173c): An inspiring article by Helen Tran on the future of interface design.
 
 # Collective #98
+- [Inspirational Website of the Week](https://glass.eleks.com/): It takes a long time to load, but it's definitely worth the wait. Eleks' Google Glass experiment website is our pick this week.
+- [GLSL-Transition](http://greweb.me/glsl-transition/): GLSL-Transition is a fantastic project by Gaëtan Renaudeau that leverages the powers of WebGL Shaders (GLSL) to create amazing transition effects.
+- [Slip.js](https://github.com/pornel/slip): Slip.js is an excellent UI library for interactive swiping and reordering of elements in lists on touch screens.
+- [iCheck](http://fronteed.com/iCheck/): Need to style some checkboxes and want them to look the same across all browsers? Then iCheck (for jQuery and Zepto) will make your work easy by creating customized checkboxes and radio buttons.
+- [Hover.css](http://ianlunn.github.io/Hover/): A great project for hover effects by Ian Lunn.
+- [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/): An excellent article by Ian Feather on the reasons why at lonelyplanet.com they chose SVG over icon fonts. 
+- [Flexible CSS cover images](http://nicolasgallagher.com/flexible-css-cover-images/): Read how Nicolas Gallagher implemented the flexible cover images that appear in his posts.
+- [Flat Apple Devices MockUp (PSD)](http://graphicburger.com/flat-apple-devices-mockup/): A great set of Apple device mockups including iPhone, iPad, iMac and MacBook for responsive web design showcases.
+- [CSS: User Agent Selectors](http://rog.ie/blog/html5-boilerplate-addon): How to use CSS attribute selectors to target specific browsers? Rogie King explains how to do it.
+- [Unify: Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/): Unicode characters are not supported equally among devices. John Holt Ripley created this unicode test suite where you can check where a unicode character is supported and where not.
+- [Top Pens of 2013](http://codepen.io/2013/popular/): Check out the most popular pens of 2013 on Codepen. A set of 100 creative pens are waiting to get checked out. 
+- [Free flat round icons set](http://roundicons.com/free-icons/): If you need some pixel-perfect, round and flat icons for your next project, you'll definitely find RoundIcons interesting. You can download a set of 60 icon for a tweet or a like.
+- [Free Font: Homizio Nova](http://atfg.co/font/homizio-nova): Homizio Nova is a slick and elegant sans-serif font designed by Álvaro Thomáz.
+- [Picjumbo: Free photos](http://picjumbo.com/): This site offers some high-quality and meaningful photography for personal or commercial usage.
+- [How To Create an Easy Abstract Blur Pattern Design](http://blog.spoongraphics.co.uk/tutorials/how-to-create-an-easy-abstract-blur-pattern-design): A great tutorial on how to create a stylish pattern design by Chris Spooner.
+- [Fragmentation of masked and clipped content](http://blogs.adobe.com/webplatform/2014/01/08/fragmentation-of-masked-and-clipped-content-part-1/): Learn all about fragmentation of masked and clipped content in this Adobe article. Also, read the second part here.
+- [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/): A beautiful presentation of Bryan Gardiner's "Origins of Common UI Symbols" on Readymag designed by Shuffle Magazine.
+- [Free Font: Fancy Me](http://coloursandbeyond.com/introducing-my-first-font/): A dreamy and pretty font on Colors & Beyond.
+- [48 Free Icons](http://dribbble.com/shots/1368416-48-Free-Icons-Get-them): Robin Kylander created this brilliant vector icon set with 48 icons for free.
+- [When To Use The Button Element](http://css-tricks.com/use-button-element/): Read about when to use a hyperlink or a button element in your HTML in this article by Chris Coyier.
 
 # Collective #97
+- [Inspirational Website of the Week](http://www.aleeforoughi.com/): Alee Foroughi's website has some very creative elements with interesting effects and some fresh shapes. Our inspirational website pick for this week.
+- [The Tumbler](http://andrew-hoyer.com/experiments/tumbler/): A great experiment by Andrew Hoyer that shows a relaxing physics simulation realized with technologies such as the Box2dWeb physics engine, SVG and the Web Audio API.
+- [Snowroller](http://christmasexperiments.com/2013/21/): One of the fantastic Christmas experiments where you can create a snowman in a very realistic way. Made by Einar Öberg.
+- [Up On The Wall: How Working Walls Unlock Creative Insight](http://uxdesign.smashingmagazine.com/2014/01/02/how-working-walls-unlock-creative-insight/): A great in-depth article by Laura Busche on the different uses of inspiration boards as invaluable tools for design thinking.
+- [Planetary.js](http://planetaryjs.com/): Finally a great library for creating stunning globe visualizations for the web. Being highly customizable it also supports dragging and zooming. Developed by Brandon Tilley.
+- [Free Font: Odin Rounded](http://www.behance.net/gallery/Odin-Rounded-Free-font/13437769): Odin Rounded is an interesting experimental font by Frank Hemmekam.
+- [Magnifier.js](http://mark-rolich.github.io/Magnifier.js/): Magnifier.js is a very useful JavaScript library for applying magnifying effects on images. One of the great features is the zooming in and out functionality with the mouse wheel. Made by Mark Rolich.
+- [Perspective Mockups using CSS3 3D Transforms](http://thecodeplayer.com/walkthrough/perspective-mockups-css3-3d-transforms): A great walk-through and demo on the Code Player: mobile app mockups in perspective with CSS3 3D transforms.
+- [I Love Ligatures](http://iloveligatures.tumblr.com/): Who doesn't love and drool over beautiful ligatures? Check out this Tumblr that collects inspirational shots of ligatures.
+- [Passweird](http://www.passweird.com/): Passwords don't need to be made of boring letters, numbers and special characters. Passweird will generate brilliantly weird and strong password strings that you won't forget.
+- [Flat Design vs. Realism](http://www.intacto.com/2013flatvsrealism/): 2013 was the year of the flat vs. skeuomorphic battle and now you can play the battle game in this great web app by inTacto. 
+- [Type & Grids](http://www.typeandgrids.com/): Type & Grids was relaunched and the new site offers two excellent free mobile-first HTML5 templates with beautiful typography.
+- [Saved.io](http://saved.io/): A fantastic bookmarking tool: to save a link in the cloud, type saved.io/ in front of any URL in your browser's address bar.
+- [North](https://github.com/Snugug/north): North is a set of standards and best practices for developing modern web based properties. Included are standards and best practices for all aspects of a project, from kick off through development.
+- [Colors](http://clrs.cc/): No wonder that CSS default color strings are rarely used as they are just "ugh!". But no more ugly colors! Colors.css redefines the default CSS color strings. Made by Adam Morse. 
+- [Typewrite](https://typewrite.io/): Typewrite is a real-time collaborative writing environment with Markdown support, versioning and Dropbox syncing.
+- [144 Outline Icons (PSD, AI)](http://freebiesbug.com/psd-freebies/144-outline-icons-psd-ai/): Katarina Stefanikova designed these pixel-perfect outline icons exclusively for Freebiesbug.
+- [Agency Portfolio Theme (PSD)](https://www.behance.net/gallery/GerduKreatip-Agency-Portfolio-Theme/13457689): A very nice agency portfolio template by talented Andreansyah Setiawan.
+- [Orbit Viewer](http://orbits.wthr.us/orbitviewer.html): Fantastic WebGL magic that will show you the orbits of spacecrafts and other objects like comets and asteroids. A Chrome Experiment by Kevin Gill.
 
 # Collective #96
+- [Inspirational Website of the Week](http://hellomonday.com/): The amazing website of "Hello Monday" is a masterpiece of design, interaction and effects. Our pick this week.
+- [Unison.js](http://bjork24.github.io/Unison/): Unison.js is a light-weight plugin that lets you declare breakpoints in a unified way across CSS, HTML and JavaScript. Implementing responsive functionality becomes easier with this kind of shared breakpoint information.
+- [Type Rendering Mix](http://typerendering.com/): Type Rendering Mix detects your browser's text rasterizer and antialiasing method and adds classes to the HTML element so that you can style typography to create consistent font rendering. Made by Tim Brown and Bram Stein.
+- [SnowBox - Sculpt and share your own snowthingie](http://www.snwbx.com/): Create your own grotesque or real looking digital snowman with this fantastic Christmas experiment by Claudio Guglieri, Emil Karlsson and Jaume Sánchez Elias
+- [ConfCal - A simple calendar for web and digital conferences](http://confcal.org/): ConfCal is a really useful calendar that collects all web and digital conferences in one place. Created by Alex Cowles.
+- [Uinames.com](http://uinames.com/): Not good in inventing names for your UI mockups? Uinames.com is a great tool for generating real "fake" names for your designs and mockups.
+- [The critical rendering path](http://www.feedthebot.com/pagespeed/critical-render-path.html): Understand the concept of the critical render path and learn how to optimize it in this insightful article by Patrick Sexton.
+- [SVG Files: From Illustrator to the Web](http://design.tutsplus.com/tutorials/svg-files-from-illustrator-to-the-web--vector-20899): Learn the whole process of creating a SVG file and making it ready for the web in this article by Ian Yates on tuts+.
+- [Presenting: Fluidbox](https://medium.com/coding-design/9c7fe9db92c7): Terry Mun shows how he re-created and improved Medium's distraction-free lightbox module. The result is "Fluidbox" and you can check out a demo here.
+- [White Stripes UI Kit (PSD)](https://www.behance.net/gallery/White-Stripes-UI-Kit-Free-PSD/13342789): A very light and elegant UI Kit with some useful components created by Heyllow Lab.
+- [Icon Set (AI)](http://dribbble.com/shots/1357137-Icon-Set-144): A beautiful and clean vector icon set designed by Katarina Stefanikova. It contains 144 useful icons.
+- [LICEcap: Simple animated screen captures](http://www.cockos.com/licecap/): If you don't know it yet: LICEcap by Cockos is a light-weight application that can capture an area of your desktop and save it directly to .GIF or .LCF. 
+- [Pure CSS Pythagoras tree](http://codepen.io/scottkellum/pen/hzEKH): Scott Kellum created this awesome pen that represents a Pythagoras tree made only with HTML and CSS.
+- [Circles: Circular SVG graphs](https://github.com/lugolabs/circles): Circles by lugolabs is a light-wheight JavaScript library that generates circular graphs in SVG with animation-support.
+- [Printable Paper](http://inspirationhut.net/printable-paper/): A great section on InspirationHut where you can download and print out different paper types, from isometric paper to iPhone wireframes.
+- [New Web Animations engine in Blink drives CSS Animations & Transitions](http://updates.html5rocks.com/2013/12/New-Web-Animations-engine-in-Blink-drives-CSS-Animations-Transitions): Alex Danilo tells the exciting news of Blink's next-generation animation model implementation in Chrome Canary.
+- [Christmas Tree](https://github.com/anvaka/atree): A cool little two spiral JS Christmas tree made by Andrei Kashcha.
 
 # Collective #95
+- [Inspirational Website of the Week](http://rsq.com/): RSQ does not only help sell shit online since 1977 but they also have a brilliantly designed website with some cool effects and a great natural language questionnaire in the Join Us section.
+- [Myth](http://www.myth.io/): Myth, a fantastic preprocessor for CSS, will let you write modern CSS without having to worry about browser support or even current spec approval statuses. It's like a polyfill for CSS.
+- [SpinKit](http://tobiasahlin.com/spinkit/): A great collection of beautifully designed loading indicators animated with CSS by Tobias Ahlin.
+- [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/): Jake Archibald explains what JavaScript Promises are and why they are so extremely useful, i.e. for async success/failure handling. 
+- [Free Font: Kari](http://www.behance.net/gallery/Kari-Typeface/12823479): Kari is an elegant and beautiful typeface designed by Javier Rivero.
+- [The science behind fonts (and how they make you feel)](https://ooomf.com/blog/the-science-behind-fonts-and-how-they-make-you-feel/): An insightful article by Mikael Cho on how typographic choices impact the readers disposition and the scientific research behind it.
+- [Application Layout with CSS3 Flexible Box Module](https://hacks.mozilla.org/2013/12/application-layout-with-css3-flexible-box-module/): Simon Speich shows how to implement a fluid fullscreen application layout using CSS flexbox.
+- [Switchery](http://abpetkov.github.io/switchery/): Switchery by Alexander Petkov lets you turn your default HTML checkbox inputs into beautiful and easy to customize iOS 7 style switches. 
+- [Really Simple Responsive HTML Email Template](https://github.com/leemunroe/html-email-template): A simple, but extremely useful responsive HTML email template by Lee Munroe.
+- [Line Menu Icon... That Is A Menu](http://css-tricks.com/line-menu-icon-menu/): Chris Coyier shows how to make an animated menu that transforms from a menu icon into a full menu.
+- [The Runtime Performance Checklist](http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/): Paul Lewis explains the importance of not only making sites load fast but providing good performance while using the site as well. He dissects seven runtime performance problems and gives some tips on how to fix them.
+- [Project Hubs: A Home Base for Design Projects](http://24ways.org/2013/project-hubs/): Brad Frost writes about project hubs, a website where all the key design and development materials can be accessed by a project team to avoid the usual managing mess over emails and revisions of a project.
+- [A Moment to Breathe](http://alistapart.com/article/a-moment-to-breathe): Nick Cox shares his experience and insights on how to reach a better work-life balance with improved sleep habits and meditation. 
+- [Christmas Gifs](http://christmasgifs.org/): What would be Christmas without Christmas Gif(t)s? Merry Giffing with these artsy masterpieces! :)
+- [Merry Christmallax](http://ihatetomatoes.net/merry-christmallax/): And Merry Scrolling with this beautifully made Christmas site by Petr Tichy and Jason Mitsios (design).
+- [NTH-TEST](http://nth-test.com/): If you are not a natural-born understander of nth-child and nth-of-type you should definitely check out this awesome test site by Paul Maloney.
+- [Free Font: Merry Scriptmas](http://www.myfonts.com/fonts/nootype/merry-scriptmas/): Nico Inosanto designed Merry Scriptmas, a very elegant Christmas font that will come in handy for your Christmas designs.
+- [Free Font: Hallo Sans](http://www.behance.net/gallery/Hallo-Sans-Free-typeface/13212059): Hallo Sans is a clean and sophisticated typeface designed by Fredrik Staurland.
+- [Zepto Builder](https://github.com/e-sites/Zepto-Builder): If you are using Zepto.js, you'll definitely find this builder very useful. It will let you generate a custom version of Zepto that just includes the modules you need.
+- [Free Font: Hungarumlaut Infinity](http://www.hungarumlaut.com/typefaces/infinity.html): This spacy pictogram-dingbat font was created for the branding identity of the 'To the infinity and beyond' exhibition. It was designed by Adam Katyi and you can get is for a Tweet.
+- [Flat Responsive Showcase (PSD)](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd-vol2): A great showcase PSD by Pixeden with smart layers that let you insert your project screenshots with ease.
+- [Flat Holiday Icons (PDF, PNG, AI)](http://dribbble.com/shots/1349705-Freebie-Flat-Holiday-Icons): Some sweet holiday freebies by Cat Lo including a set of super-cute icons and free holiday cards.
 
 # Collective #94
+- [Inspirational Website of the Week](http://fixedagency.com/): The website of "Fixed Digital Agency" is a playful color explosion with some nifty effects. Our pick this week.
+- [Canvas - Simplify iOS Development](http://canvaspod.io/): With the aim to simplify iOS development for both designers and developers, Meng To and Jamz Tang developed Canvas. It will help you create animations without coding.
+- [The Web Needs Containment](http://aerotwist.com/blog/the-web-needs-containment/): Paul Lewis writes about the shortcomings of HTML when it comes to basic concepts like the view and how primitives like that would help us build better web apps.
+- [Fast Image Filters with WebGL](http://phoboslab.org/log/2013/11/fast-image-filters-with-webgl): WebGLImageFilter is a small JavaScript library for applying a chain of filters to an image for browsers with WebGL support by Dominic Szablewski.
+- [Simple Line Icons (AI, EPS, SVG, PSD)](http://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd): A great set of simple line icons designed by Mirko Monti.
+- [The Design of WordPress 3.8](http://mattnt.com/2013/12/12/the-design-of-wordpress-3-8/): Read about the new design of "Parker", the latest WordPress version, in this article by Matt Thomas.
+- [E-Commerce Template (PSD)](http://enzolivolti.com/freebies/): A beautiful website PSD template by the talented designer Enzo Li Volti.
+- [Responsive Photosets](https://medium.com/coding-design/7742e6f93d9e): Learn how to create responsive photosets with jQuery and CSS like seen on Tumblr.
+- [Flatastic Mobile UI Kit (PSD)](http://thedesigninspiration.com/flatastic-mobile-ui-kit/): A huge set of hundreds of mobile UI elements with a flat design for your next project.
+- [Creating a Film Grain Effect with CSS3](http://viget.com/inspire/film-grain-effect): A smart technique by Doug Avery for creating a film grain effect with CSS.
+- [CSS Variables in Firefox Nightly](https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/): Very exciting news from Mozilla: Firefox Nightly (version 29) supports variables. Chris Heilmann explains what you'll be able to do.
+- [Bumpy Metaballs](http://www.clicktorelease.com/code/bumpy-metaballs/): Jaume Sánchez Elias created this stunning three.js demo. If you don't like the blood-like look you can choose another surface material.
+- [Flat Christmas](http://icons8.com/2013/12/06/flat-christmas-free-icon-pack-for-all-platforms/): Some great flat Christmas icons by Icon8 for all platforms.
+- [Vim.js](http://coolwanglu.github.io/vim.js/web/vim.html): Lu Wang gives us a JavaScript port of Vim.
+- [Grunt for People Who Think Things Like Grunt are Weird and Hard](http://24ways.org/2013/grunt-is-not-weird-and-hard/): Chris Coyier explains how to use Grunt in a practical way in this 24Ways article.
+- [Challenges & Solutions for Your Responsive Navigation](http://blog.teamtreehouse.com/challenges-solutions-responsive-navigation): Allison Grayce explores some useful resources for responsive navigation over at the Treehouse blog.
+- [Free Font: Free Calligraphy](http://www.behance.net/gallery/Free-Calligraphy-font/12971031): An interesting, artistic font by Ibrahim Eraslan.
+- [404 - File not found](http://www.acm.uiuc.edu/sigarch/projects/sensornode/): A brilliant 404 page with a depressed server expressing its frustration.
+- [Install Flash, bitch!](http://installflashbitch.tumblr.com/): A Tumblr dedicated to documenting websites that refuse to provide HTML5 VIDEO.
+- [Knwl.js](https://github.com/loadfive/knwl.js): An interesting project by LoadFive that let's you scan through text for data that may be of interest to check if it's spam. 
 
 # Collective #93
+- [Inspirational Website of the Week](http://oneiota.com/): One Iota is a great example of smart transitions and interesting effects. Exploring the site is fun and the loading effects for images are very nice. Our pick this week.
+- [Surveying the Big Screen](http://alistapart.com/article/surveying-the-big-screen): While we are all worried about how to lay out our content and design for tiny screens, we barely think about larger screens. Mike Pick dives into design patterns for larger screens in this A List Apart article. 
+- ["View mode" approach to responsive web design](https://medium.com/design-ux/914c7d3795fb): Daniel Wiklund describes the "view mode" approach for RWD and shows how dividing different functions of a webapp into individual views can improve user experience.
+- [Christmas experiments (2nd edition)](http://christmasexperiments.com/): Unveil one fantastic creation each day this month in this second edition of the fabulous Christmas experiments.
+- [SVG Tabs (Using an SVG Shape as Template)](http://css-tricks.com/svg-tabs-using-svg-shape-template/): In this great tutorial, Chris Coyier shows how to use SVG tabs on your website.
+- [Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques): Learn about canvas drawing techniques in this interactive tutorial by Juriy Zaytsev.
+- [Learning jQuery with Street Fighter and Hadoukens](http://www.thinkful.com/learn/intro-to-jquery): Learn jQuery by example from this practical guide by Carl Sednaoui. 
+- [Using CSS Regions With CSS Shapes For A Better Reading Experience](http://sarasoueidan.com/blog/css-regions-with-shapes-for-readability/index.html): Learn about the readability pitfalls of CSS Shapes and how to avoid creating unreadable layouts in this article by Sara Soueidan. 
+- [Oceanica – 120 Nautically Inspired Icons (AI)](http://alphateck.com/free-vector-file-120-nautical-icons/): A great icon set by Nick G. Botner. Pay with a tweet and it's yours.
+- [Coding Towards Accessibility](http://24ways.org/2013/coding-towards-accessibility/): Charlie Perrins shares some thoughts and some practical tips for building accessible interfaces in this insightful 24 Ways article.
+- [Imitating calc() Fallback or Fixed-Width Sidebar In Responsive Layout](http://osvaldas.info/imitating-calc-fallback-fixed-width-sidebar-in-responsive-layout): Learn about an interesting use case of the CSS calc() function in this article by Osvaldas Valutis.
+- [Chrome DevTools for Mobile: Screencast and Emulation](http://www.html5rocks.com/en/tutorials/developertools/mobile/): Paul Irish will show you how you can use Chrome DevTool to remotely debug your mobile apps and use mobile emulation.
+- [Zoomerang.js](https://github.com/yyx990803/zoomerang): Zoom in and zoom out on (almost) anything in your page with this useful script by Evan You.
+- [Life](https://github.com/cheeaun/life): Life by Lim Chee Aun is a timeline of important events visualised in a simple way. You can fork the project and create your own timeline.
+- [Hacker Typer](http://hackertyper.net/): Next time you're sitting in a Starbucks thinking about your next prank, why not try this fantastic little devilish site? Start typing and unveil the (wannabe) hacker in you ;)
+- [Colorpeek - Simply Share Colors](http://colorpeek.com/): With Colorpeek by Tyler Sticka you can easily share CSS colors. Read about how it works in this article over at CSS-Tricks.
+- [Free Font: Exo 2.0](http://www.behance.net/gallery/Exo-20/10265899): Those of you who use and love Exo by Natanael Gama, will be happy to know that there is a new and improved version available. Also, check out in the Google Web Font library.
+- [21 free e-commerce Icons (PSD)](http://dribbble.com/shots/1335684-e-commerce-Icons-freebie): A sweet e-commerce icon set by Virgil Pana.
+- [iPad Air Perspective Mockup (PSD)](http://www.pixeden.com/psd-mock-up-templates/psd-ipad-air-perspective-mockup): Another fantastic and pixel perfect mockup by Pixeden, this time of the iPad Air in perspective.
+- [15 Christmas Icons (AI)](http://dribbble.com/shots/1337052-15-Christmas-Icons): The perfect little set for Christmas themed designs.
 
 # Collective #92
+- [Inspirational Website of the Week](http://midoriaoyama.jp/): Midori Aoyama's website is a celebration of coolness and fresh design. Subtle, but interesting hover effects and a great color scheme make it our pick this week.
+- [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/post/68085482982/polygon-feature-design-svg-animations-for-fun-and): David Zhou from Vox Media tells the story behind the fantastic PlayStation 4 and Xbox One Review sites that shine because of their animated SVGs.
+- [Iconmelon: SVG icons library for the web](http://iconmelon.com/): If you have read last week's article "SVG Icons FTW" by Oleg Solomka, you've probably checked out his great SVG icon library. Iconmelon will give you the SVGs and all the markup and CSS needed to start with your interactive icons in your next project. 
+- [Ocean Wave Simulation](http://david.li/waves/): A suberb ocean wave simulation in WebGL with a CSS 3D and Canvas UI by David Li.
+- [60fps scrolling using pointer-events: none](http://www.thecssninja.com/javascript/pointer-events-60fps): CSS Ninja Ryan Seddon explains how to make use of pointer-events: none when scrolling to avoid unnecessary paints. The brilliant idea is by Christian Schaefer.
+- [Synchronized Cross-device Mobile Testing](http://www.html5rocks.com/en/tutorials/tooling/synchronized-cross-device-testing/): Addy Osmani gives an overview of the great tools available for syncronized device testing including Ghostlab, Remote Preview, Adobe Edge Inspect and Grunt.
+- [Cleanest CSS spinner, ever](http://lea.verou.me/2013/11/cleanest-css-spinner-ever/): Le Verou codes the classic spinner in a clean, maintainable and reusable way in CSS.
+- [Free Font: Mohave](http://www.behance.net/gallery/Mohave-Free-Typefaces/8668939): Mohave is a beautiful all caps display typeface designed by Gumpita Rahayu.
+- [Smallicons Icon Set (SVG, PNG, PSD)](http://www.smashingmagazine.com/2013/11/29/freebie-smallicons-icon-set/): A fantastic freebie over at Smashing Magazine: Smallicons, a set of 54 flat icons is several formats, created and designed by Nick Frost and Greg Lapin. 
+- [Logo Mock-Ups (PSD)](http://www.behance.net/gallery/PSD-Logo-Mock-Ups/12373389): GraphicBurger's extremely awesome collection of 15 free PSD logo mockups with fantastic styles.
+- [Free Font: Pancetta Pro Regular & Italic](http://www.myfonts.com/fonts/konstantynov/pancetta-pro/): Pancetta is a sophisticated and modern typeface designed by Andriy Konstantynov. You can get two variants for free.
+- [URL Rewriting for the Fearful](http://24ways.org/2013/url-rewriting-for-the-fearful/): Drew McLellan writes the first of this year's 24 Ways articles on URL rewriting. It's a useful guide with some tips and snippets for common rewrite and redirection scenarios.
+- [Behind the Design: Khan Academy Avatars](http://viget.com/inspire/behind-the-design-khan-academy-avatars): Take a look behind the scenes and see how the Khan Academy Avatars were designed. An article by Joseph Le. 
+- [Responsive Comments](http://responsivecomments.com/): An interesting and simple solution involving HTML comments for conditional client side loading by Adam Chambers. 
+- [The HTML5 <meter> Element](http://css-tricks.com/html5-meter-element/): Learn about this lesser known HTML element in the detailed guide by Pankaj Parashar over at CSS-Tricks.
+- [SKOKOV - Free Corporate Web Design Template (PSD)](http://freeforwebdesign.com/freebies/skokov-free-corporate-web-design-template-psd): A great looking corporate web design template by Free For Web Design.
+- [Face the Animals: Animal Line Icon Set](http://www.behance.net/gallery/Face-the-AnimalsAnimal-Line-Icon-Set/12422325): A stunning set of animal icons in a beautiful "line style" by Tae S. Yang. They are free for personal use.
+- [Free Font: Grenale #2 Nor Demi](http://www.myfonts.com/fonts/insigne/grenale-2/): Grenale #2 is a glamorous font family designed by Jeremy Dooley. Grenale #2 Nor Demi is for free.
 
 # Collective #91
+- [Inspirational Website of the Week](http://altspace.com/): AltSpace is a fresh looking website with great use of advanced technologies and slick transition effects. Our pick this week.
+- [Ionic: Advanced HTML5 Hybrid Mobile App Framework](http://ionicframework.com/): Ionic offers a library of mobile-optimized HTML, CSS and JS components for building highly interactive apps. It is built with Sass and optimized for AngularJS. It's in alpha and it looks like a very promising framework for developing hybrid mobile apps in HTML5.
+- [The Future Of Video In Web Design](http://coding.smashingmagazine.com/2013/11/18/the-future-of-video-in-web-design/): In this article by Sean Fioritto you will find inspiration, how-tos and a few technical goodies to get you started with modern video on the Web.
+- [IKONS: 264 free vector icons](http://ikons.piotrkwiatkowski.co.uk/index.html): Piotr Kwiatkowski designed this fantastic free icon set. It contains 264 vector icons.
+- [What Screens Want](http://frankchimero.com/what-screens-want/): A beautifully written and insightful article by Frank Chimero on digital canvases and how they evolved.
+- [Mobile Web Development Tooling (Slides)](http://addyosmani.com/blog/mobile-web-workflow/): Addi Osmani dives into cross-device development, testing, and performance evaluation of multi-device webapps in these slides.
+- [Cross-browser filters with CSS and SVG](http://www.broken-links.com/2013/11/20/cross-browser-filters-css-svg/): Understand how CSS filter effects work and how to achieve cross-browser effects in this article by Peter Gasston.
+- [The Hobbit Experience: Bringing Middle-Earth to Life](http://www.html5rocks.com/en/tutorials/casestudies/hobbit/): Dive into this amazing case study with Daniel Isaksson on how "A Journey Through Middle-earth" was made.
+- [Free Font: Darect Font](http://www.behance.net/gallery/Darect-Font-(Free-Ai-fully-editable)/12197175): Darect Font by Peter Kocur is an interesting typeface with a unique character.
+- [70 Free Icons (PSD)](http://dribbble.com/shots/1316420-70-Free-Icons-Get-em): Robin Kylander made this set of pixel-perfect icons great for app design.
+- [Foundation 5 by Zurb](http://foundation.zurb.com/): Foundation is one of the most robust and versatile responsive frameworks out there and now Zurb has released the fifth version. If you are migrating from the previous version make sure to check out the migration guide.
+- [Creatavist](https://creatavist.com/cms/): Creativist is a great new publishing system for stories, produced by the award-winning publisher Atavist.
+- [Why Responsive Images Is So Hard](http://css-tricks.com/responsive-images-hard/): Chris Coyier summarizes why it seems to be so hard for everybody to figure out and agree on a solution for responsive images in HTML.
+- [Designing Device Assets: Templates and Tips](http://viget.com/inspire/designing-device-assets-templates-techniques-and-tips): A fantastic and complete set of Photoshop templates for device assets by Blair Culbreth. It includes favicons, Apple touch icons, startup images for iPads and iPhones old and new, and Windows tiles for IE10 and IE11.
+- [Taming data tables](http://csswizardry.com/2013/11/taming-data-tables/): Harry Roberts will show you how to approach the problem of styling complicated table structures.
+- [Responsive Design Won't Fix Your Content Problem](http://alistapart.com/column/responsive-design-wont-fix-your-content-problem): Karen McGrane explains how making a website responsive does not just involve rearranging and squeezing content into smaller containers but also adjusting the content strategy. 
+- [DynoSRC](http://dinosrc.it/): DynoSRC by Jason Anderson is a general solution for efficiently delivering JS resources to clients, using diff-based updates as assets change over time.
+- [Tab Bar Icons iOS 7 Vol4 (PSD, AI, EPS)](http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol4): Another great set by Pixeden of 32 Tab Bar Icons in iOS 7 style.
+- [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap): Bootstrap style buttons with Font Awesome by Bearded Hen.
+- [Snake Game in 30 lines of JavaScript](http://jsfiddle.net/Uk2PP/9/): Snake in 30 lines of JavaScript? Here you go!
 
 # Collective #90
+- [Inspirational Website of the Week](http://www.polygon.com/a/ps4-review/): The great PS4 review website has some stunning SVG animations and some cool styles and effects. Our pick this week.
+- [An Introduction To DOM Events](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/): Wilson Page gives a great overview on how DOM events work and how we can make use of them to solve common problems. 
+- [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html): It's time to get serious with CSS Flexbox and this excellent cheat sheet by Sean Fioritto will help you get started.
+- [HTML5 Time Tracker](http://unlayered.com/time/): A smart HTML5 time tracker web app made by Juani Ruiz Echazú. Define the cycle length and simple add what you were doing after you're done.
+- [HTML Imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/): Eric Bidelman shows how the new HTML Imports, which are part of the Web Components cast, will make it very simple to include HTML documents in other HTML documents.
+- [A super simple starting point for 2D JavaScript games](http://learnjs.io/blog/2013/11/16/simple-2d-game/): Seth Vincent shares his work on creating a simple starting point for 2D JavaScript games.
+- [Flexible Google-style loader with CSS](http://lea.verou.me/2013/11/flexible-google-style-loader-with-css/): A nice CSS version of the subtle Google apps loader by Lea Verou.
+- [CSS Mac Plus](http://hop.ie/blog/macplus/): Donovan Hutchinson created this stunning animated CSS 3D version of a Apple Mac Plus.
+- [ROBO BOOGIE](http://roboboogie.codeclub.org.uk/): A really cool competition for kids to create some fancy robot dance moves. It's organized by Code Club, a really great organization with the aim of giving children the chance to learn to code. 
+- [Introducing the Whiteboard Drum - WebRTC and Web Audio API magic](https://hacks.mozilla.org/2013/11/introducing-the-whiteboard-drum-webrtc-and-web-audio-api-magic/): Take a look behind the scenes of Whiteboard Drum by Tatsuya Shinyagaito, an interesting music application that is a great example of what can be achieved using the Web Audio API and getUserMedia().
+- [Have a Hairy Movember](http://haveahairymovember.com/): Let this talking Canvas mustache enchant you for some sensual touches during this year's Movember.
+- [Free WordPress Theme: Bearded](http://bonfirelab.com/portfolio/bearded-free-wordpress-theme/): A beautiful and clean WordPress theme by Hermanto Lim from Bonfirelab.
+- [CSS Text filling with water](http://codepen.io/lbebber/pen/xrwja): A great pen by Lucas Bebber with a wavy loading animation for text. 
+- [Responsive images - end of year report](http://html5doctor.com/responsive-images-end-of-year-report/): A must-read by  by Bruce Lawson on the current status of responsive images and the problematic of deciding on a sensible solution. 
+- [Sticky Navigation Menus with stickUp](http://lirancohen.github.io/stickUp/): A useful jQuery plugin by Liran Cohen that "sticks" an element to the top of the browser window while scrolling past it, always keeping it in view.
+- [Apollo.js](https://github.com/toddmotto/apollo): Apollo is a light-weight, standalone DOM class manipulation API for adding, removing, toggling and testing the existence of classes on an element. Made by Todd Motto.
+- [Free Font: Sketchetik Fill Light](http://www.myfonts.com/fonts/hiekkagraphics/sketchetik-fill/): An interesting hand-drawn font by Ossi Gustafsson. The light variant is for free. 
+- [Free Vector Infographic Kit (EPS)](http://www.trentsalazar.com/resources/Infographic_1.html): On of a total of three sets of vector elements for flat style infographics. Made by Trent Salazar.
+- [Flat Social Icons (AI + EPS)](http://www.behance.net/gallery/Flat-Free-Social-Icons/12066091): Roberts Ozolins created these qualitative flat social network icons with exact colors and a clear style. 
+- [Type Scale - A Visual Calculator](http://type-scale.com/): A useful visual type scale calculator made by Jeremy Church.
 
 # Collective #89
+- [Inspirational Website of the Week](http://mike-tucker.com/): Mike Tucker's creative online portfolio shows how using a physics engine can bring life to a site and make interaction exciting. Our pick this week.
+- [Creating Non-Rectangular Layouts with CSS Shapes](http://sarasoueidan.com/blog/css-shapes/index.html): In this excellent tutorial Sara Soueidan shows how to use the new and exciting CSS Shapes to create revolutionary creative layouts with ease.
+- [Real-time performance monitoring for mobile apps](http://goo.gl/lhe4f4): If you are a native app developer you should definitely give New Relic's mobile app monitoring a try. It will help you optimize your apps' performance and identify problems before your app users do.
+- [Killer Responsive Layouts With CSS Regions](http://coding.smashingmagazine.com/2013/11/05/killer-responsive-layouts-with-css-regions/): CJ Gammon explains how to use CSS Regions and explores the new opportunities for responsive layouts in this Smashing Magazine article.
+- [High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/): Paul Lewis and Paul Irish explain what animations are less costy and what animated properties will affect paint and layout.
+- [Simptip: a simple CSS tooltip made with Sass](http://arashm.net/lab/simptip/): Simtip by Arash Manteghi is a great CSS tooltip made with Sass. It comes with many features and you can easily customize it.
+- [Glyphs (PSD)](http://glyphs.bulb9.com/): A really great set of useful Glyphs for your next app by Alexey Anatolievich.
+- [Ink: A Responsive Email Framework](http://zurb.com/ink/): With Ink by Zurb you can easily create responsive HTML emails that work on any device & email client.
+- [Creating the iOS Icon Jiggle / Wobble Effect in CSS](http://www.kirupa.com/html5/creating_the_ios_icon_jiggle_wobble_effect_in_css.htm): A tutorial by Kirupa Chinnathambi on how to create the iOS wobble effect with CSS.
+
+- [SVGeneration](http://www.svgeneration.com/): Generate and edit SVG patterns for your website with this fantastic online tool.
+- [Free Font: Clear Sans (Semi Bold & Semi Bold Italic)](http://www.myfonts.com/fonts/positype/clear-sans/): Clear Sans is a beautifully designed geometric sans serif typeface by Neil Summerour. Get the semi bold and semi bold italic variants for free. 
+- [Nice Things Icon Set (128 Icons, PNG + AI Source)](http://www.smashingmagazine.com/2013/11/03/freebie-nice-things-icon-set-png-ai-source/): A stunning set of 128 original, beautiful icons by Chris Behr on Smashing Magazine.
+- [Apple devices icons full/outline (PSD)](http://dribbble.com/shots/1303959-Apple-devices-icons-full-outline-PSD): Mirko Monti shares this great set of Apple device icons for free.
+- [Tetris & The Power Of CSS](http://www.heydonworks.com/article/tetris-the-power-of-css): Heydon Pickering does not recreate Tetris in CSS in this article but he will show you how to leverage the power of the nth-child selector to deal with incomplete grids.
+- [CSS Stats](http://mrmrs.github.io/rprtr/#/): Check out some very interesting CSS stats of many large websites like Amazon, Twitter, Dribbble and so on. You can explore how many selectors, floats, transitions and much more are being used.
+- [The Landscape Of Front-end Development Automation (Slides)](http://updates.html5rocks.com/2013/11/The-Landscape-Of-Front-end-Development-Automation-Slides): Addi Osmani shows how to ease the development process of applications by automating many things in the front-end workflow.
+- [Free Font: Adria Grotesk (Regular)](http://www.myfonts.com/fonts/facetype/adria-grotesk/): Adria Grotesk is a sunny humanist typeface by Marcus Sterz. The regular variant is for free.
+- [MailChimp Pattern Library](http://ux.mailchimp.com/patterns/): MailChimp shares their excellent pattern library of well-defined atomic elements.
+- [CSS Wizardry Ltd. boilerplate contract](https://github.com/csswizardry/Contract): The contract of CSS Wizardry Ltd. by Harry Roberts that is easy to understand, to the point and without any legal gibberish.
+- [LESS Hat](http://lesshat.com/): You've probably heard of LESS Hat, a very useful LESS mixin library made by the same team that brought you CSS Hat. The new version comes with 86 smart mixins that will ease your development flow.
+- [OpenNote](https://github.com/FoxUSA/OpenNote): OpenNote is a web based alternative to Microsoft OneNote (T) and EverNote. It comes with a full WYSIWYG editor, touch friendly UI and upload manager.
 
 # Collective #88
+- [Inspirational Website of the Week](http://www.enjoyyourprivacy.com/): Enjoy Your Privacy has a really interesting app preview for the desktop and some nice typography effects. Our pick this week.
+- [Snazzy Maps](http://snazzymaps.com/): Snazzy Maps is an excellent repository of different styles for Google Maps.
+- [Building an amazing fullscreen mobile experience](http://www.html5rocks.com/en/mobile/fullscreen/): A great tutorial with some helpful tips on how to make your webapp ready for the mobile fullscreen, "installed web app" experience by Paul Kinlan.
+- [Musical Keyboard - JS Dynamic Audio Synth](http://keithwhor.com/music/): An emulated keyboard, a synthesizer, that spans three musical octaves (C3-B5) created by Keith William Horwood.
+- [Ionicons](http://ionicons.com/): The free premium icon font from the Ionic Framework has a lot of useful icons designed by Ben Sperry.
+- [Black Tie - Free Handsome Bootstrap Themes](http://www.blacktie.co/): A great collection of beautifully designed and free Boostrap themes.
+- [Free Font: Glamor](http://dribbble.com/shots/1290571-Glamor-Chic-Modern-Free-Type-Family): A truly glamorous and chique font by Hendrick Rolandez.
+- [Easy to accomplish VSCO Cam effect in Photoshop](http://www.gomediazine.com/tutorials/easy-to-accomplish-vsco-cam-effect-in-photoshop/): Learn how to achieve the awesome "faded" look for photographies in this tutorial by Simon Birky Hartmann.
+- [Flexbox Video Tutorial](http://www.sketchingwithcss.com/flexbox/): An "interactive" video tutorial on flexbox by Sean Fioritto.
+- [Magic Move: Animate DOM transitions](https://github.com/maccman/jquery.magicmove): A really helpful jQuery library for transitions between DOM states by Alex MacCaw.
+- [Free Font: TUA](http://www.behance.net/gallery/TUA-Type/4497179): An interesting uppercase font designed by Shadz XIII.
+- [Nexus 5 Mockup (PSD)](http://dribbble.com/shots/1291675-Nexus-5-Mockup-PSD): A perfectly designed Nexus 5 mockup by Kreativa Studio.
+- [Mobile Design Inspiration](http://inspirationmobile.tumblr.com/): A great Tumblr for mobile design inspiration by Denis Pakhaliuk.
+- [Using Dark Patterns for Good](http://www.uxbooth.com/articles/using-dark-patterns-for-good/): An interesting read by Marli Mesibov on how dark patterns can help designing better user interfaces.
+- [Pizza Pie Charts](http://zurb.com/playground/pizza-pie-charts): Create responsive pie charts with this easy-to-use plugin by Zurb.
+- [Eye Switch](http://codepen.io/simurai/details/eycrz): A really nice CSS switch by simurai.
+- [Free Icon Set "Softies" (PSD, PNG)](http://dribbble.com/shots/1293169-Free-Icon-Set-Softies): Kenny Sing designed these stunning "soft" icons with vibrant colors. 
+- [CodePath Android Cliffnotes](https://github.com/thecodepath/android_guides/wiki#getting-started): If you are into Android development you will definitely find this fantastic resource with extensive open-source guides for Android very helpful. Created by CodePath.
+- [formatter.js](https://github.com/firstopinion/formatter.js): With formatter.js by Jarid Margolin you can format HTML input to match a specified pattern.
 
 # Collective #87
+- [Inspirational Website of the Week](http://bananacafe.com.br/): Banana Café surprises with a colorful them and some pretty cool 3D hover effects. Our pick this week.
+- [Smart Transitions In User Experience Design](http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/): A very insightful article by Adrian Zumbrunnen on some great examples of smart transitions and subtle animation patterns that improve user experience on websites.
+- [Calculating element vertex data from CSS transforms](http://blog.keithclark.co.uk/calculating-element-vertex-data-from-css-transforms/): Learn how to generate advanced vertex data for CSS transformed elements and see how to use this data to shade elements using a light source in this fantastic article by Keith Clark.
+- [Cargo Cult CSS](http://www.kapowaz.net/articles/cargo-cult-css): A very insightful article by Ben Darlow that dissects the problems of pop methodologies for writing and managing CSS such as OOCSS and BEM.
+- [Creating game-style parallax scrolling: Zombie Edition](http://dev.opera.com/articles/view/creating-game-style-parallax-scrolling-zombie-edition/): Elli Bishop shows you how to do game-style parallax scrolling with a zombielicious demo. Also, check out the interactive Walking Dead infographic to see the concept in action.
+- [Free Font: Chula](http://www.behance.net/gallery/Chula-typography-(free)/11602507): Gabriela Roh shares this delicate and fashionable font for free.
+- [Snap.svg](http://snapsvg.io/): From the creator of Raphaël, Dmitry Baranovskiy, comes another fantastic library that makes working with SVG super easy.
+- [Offline.js](http://github.hubspot.com/offline/docs/welcome/): Offline.js is a useful library that automatically alerts users when they've lost Internet connectivity. It captures AJAX requests which were made while the connection was down, and remakes them when it's back up.
+- [doCapture](http://skakunmedia.com/docapture/): With doCapture you can create high-res website screen captures in the exact size you need.
+- [Content Snippets](http://www.contentsnippets.com/): Content Snippets collects specific copy examples from websites and applications, to serve as inspiration for writing professionals.
+- [Stereoscopic CSS](http://hop.ie/blog/stereoscopic): Donovan Hutchinson takes 3D-style effects one step further and dives into stereoscopy with a great demo where you need to cross your eyes to see the stunning effect.
+- [180 Beautiful Flat Icons (AI, EPS,PDF, PNG)](http://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free): A great set of 90 flat round icons in two variations by Elegant Themes.
+- [Newton](https://github.com/hunterloftis/newton): Newton is an easy-to-use, feature-rich physics engine for JavaScript created by Hunter Loftis.
+- [Using CSS Shapes to Enhance Visual Storytelling](http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/): Peek into the future and read about how CSS Shapes can be applied for creating fantastic "out-of-the-box" layouts. Also, check out the Alice in Wonderland demo code on GitHub. Note that not all browsers support CSS Shapes yet.
+- [iPad Air (PSD)](http://www.pixeden.com/psd-mock-up-templates/ipad-air-psd-vector-mockup): Always offering the most recent device mockups, Pixeden has released yet another excellent vector mockup, this time of the iPad Air.
+- [Opening type](http://codepen.io/diegopardo/full/GqEho): A fantastic pen by Diego Pardo that shows a creative hover effect on cut out letters.
+- [Slidr.js](http://www.bchanx.com/slidr): Slidr.js is a lightweight JavaScript library by Brian Chan for creating slides with subtle transitions.
+- [100 PSD mock-ups (PSD)](http://www.webdesignerdepot.com/2013/10/free-download-100-psd-mock-ups/): An incredible set of useful product mockups by PSDCovers.com for Webdesigner Depot.
+- [Avoiding Unnecessary Paints: Animated GIF Edition](http://www.html5rocks.com/en/tutorials/speed/animated-gifs/): Paul Lewis explains why animated GIFs can cause unnecessary paints and how to debug and fix that using Chrome DevTools' Show paint rectangles tool.
+- [iWatch Mock-Up](http://dribbble.com/shots/1280333-iWatch-Mock-Up): An absolutely stunning product concept of a "smartwatch" by Thomas Bogner. 
+- [Remote Jobs](http://remotejobs.io/): A great new site for finding remote job openings for web professionals.
+- [Flat Design User Interface Elements (PSD)](http://dribbble.com/shots/1279654-Freebie-Flat-Design-User-Interface-Elements): Marie Dehayes shares this beautiful flat design UI kit for free.
+- [Gratisography](http://www.gratisography.com/): On Gratisography you can find free and qualitative high-resolution pictures to use in your personal and commercial projects. 
+- [Free Font: KOMODA](http://www.behance.net/gallery/KOMODA-Font/11623957): Joanna Angulska designed this exquisite and beautiful condensed uppercase font.
 
 # Collective #86
+- [Inspirational Website of the Week](http://www.andremaurice.it/): A very nice fashion website with lots of subtle effects and interesting navigation. Our pick this week.
+- [Text Compression for Web Developers](http://www.html5rocks.com/en/tutorials/speed/txt-compression/): Colt McAnlis explains how to properly compress your site's text-based assets with a great summery of compression formats and tools.
+- [Flat UI and Forms](http://alistapart.com/article/flat-ui-and-forms): In this A List Apart article Jessica Enders dives into flat UI and form design and gives some great insights on why less isn't always simpler.
+- [Best Of Both Worlds: Mixing HTML5 And Native Code](http://mobile.smashingmagazine.com/2013/10/17/best-of-both-worlds-mixing-html5-native-code/): Peter Traeg shows how mixing HTML5 and native code can help leverage the advantages of both approaches for building mobile solutions.
+- [Slanted tabs with CSS 3D transforms](http://lea.verou.me/2013/10/slanted-tabs-with-css-3d-transforms/): A great CSS technique for creating slanted tabs with pseudo-elements by Lea Verou.
+- [Free Font: Norwester](http://jamiewilson.io/norwester/): A clean condensed geometric uppercase font by Jamie Wilson.
+- [Odometer](http://github.hubspot.com/odometer/): Odometer is a JavaScript and CSS library for smoothly transitioning numbers. It uses performant CSS transitions with a fallback for unsupported browsers.
+- [Apple Mice](http://codepen.io/joshbader/details/fKjra): Josh Bader created this fantastic homage to all the Apple Mice over the years. Done using HTML/CSS only, no JavaScript.
+- [Navicon Transformicons: Animated Navigation Icons with CSS Transforms](http://sarasoueidan.com/blog/navicon-transformicons/): Bennett Feely and Sara Soueidan collaborated on this great tutorial that explains how to create animated navigation icon transformations.
+- [Free Vector Icons from Chapps (PSD)](http://dribbble.com/shots/1277721-Free-Vector-Icons-from-Chapps): An elegant lined vector icon set by Dmitriy Chuta.
+- [Mobile-first Responsive Web Design and IE8](http://www.theguardian.com/info/developer-blog/2013/oct/14/mobile-first-responsive-ie8): The Guardian's responsive design team share some code to help make old browsers work with future-friendly CSS media queries.
+- [dolly.js](http://lunarlogic.github.io/dolly.js/): Dolly.js is a simple and generic jQuery UI widget that adds excel-like cloning functionality to your tables. Made by Lunar Logic.
+- [Behance Style Flat UI Kit (PSD)](http://www.uipixels.com/behance-style-flat-ui-kitpsd/): A clean Behance-style UI kit from UI Pixels.
+- [Halloween Vector Art Pack Vol2 (AI, EPS)](http://www.pixeden.com/conceptual-vectors/halloween-vector-art-pack-vol2): Some really nicely designed Halloween vectors by Pixeden for your next themed project.
+- [iOS 7 iPad Retina GUI Template](http://uijunction.com/ios-7-ipad-retina-gui-template/): A fantastic iPad GUI template by UI Junction. You can download it by sharing.
+- [Portfolio Archive (PSD)](http://dribbble.com/shots/1276197-Portfolio-Archive-PSD): A great PSD template by spovv.
+- [FontawesomePro](http://fontawesome.pro/): If you work with Font Awesome, you can train you knowledge about each icon's name with this nice game and also help provide feedback for icon naming.
+- [5 Advanced Mobile Web Design Techniques You’ve Probably Never Seen Before](http://www.mobify.com/blog/5-advanced-mobile-web-design-techniques-style-com): An interesting design patterns showcase of Style.com's adaptive website, developed by their team and one of Mobify's engineers.
+- [Thinking Responsively - Web design for a new generation of devices](https://medium.com/p/b38fc8e672e7): Another nice read about RWD, its concept and importance by JUMP.
+- [Seene: Share life in 3D](http://seene.co/): Instagram in 3D? Seene is a really cool app that lets you capture, share and discover 3D photos easily and instantly, all on your iPhone.
 
 # Collective #85
+- [Inspirational Website of the Week](http://mario.ign.com/): The Museum of Mario is a fantastic interactive experience made with modern web technologies. Out pick this week.
+- [Gone In 60fps – Making A Site Jank-Free](http://addyosmani.com/blog/making-a-site-jank-free/): Learn how to use Chrome DevTools for performance diagnosis and fixing rendering issues from this video by Addy Osmani from the SmashingConf 2013.
+- [Development Is Design](http://bradfrostweb.com/blog/post/development-is-design/): Brad Frost shares his thoughts on why front-end development is not something detached from the design process and how HTML and CSS development actually is design.
+- [Creating geometric patterns in Illustrator](http://veerle.duoh.com/design/article/creating_geometric_patterns_in_illustrator): Learn how to create stylish geometric patterns in Illustrator from this tutorial by Veerle Pieters.
+- [Free Font: Rose](http://www.behance.net/gallery/Rose-Free-Font/11350077): Rose is a beautiful and romantic typeface by Kadu Supanik.
+- [Lightening Your Responsive Website Design With RESS](http://mobile.smashingmagazine.com/2013/10/08/responsive-website-design-with-ress/): Learn how to use RESS (responsive design with server-side components) for creating high-performance mobile websites in this article by Ronan Cremin over at Smashing Magazine.
+- [Free Font: Plethora 1984](http://onocreates.com/works/plethora.html): A unique swirly uppercase font by ONO Creates.
+- [So We Wanted To Build A File Uploader... (A Case Study)](http://coding.smashingmagazine.com/2013/10/11/we-wanted-to-build-a-file-uploader/): Konstantin Lebedev gives some fantastic insights on building a file uploader.
+- [Prioritize visible content](http://www.feedthebot.com/pagespeed/prioritize-visible-content.html): FeedTheBot is great resource for understanding and applying the Google webmaster guidelines by Patrick Sexton. This part is about prioritizing visible or "above-the-fold" content.
+- [Touch Type Game](http://games.djordjeungar.com/touchtype): An addictive game where you need to type fast to reach the next level.
+- [JavaScript remake of MacPaint](http://www.cloudpaint.com/client/index.php): Cloudpaint is a remake of the vintage MacPaint done in JavaScript made by Martin Braun.
+- [Responsive Webfont Icons](http://webstandardssherpa.com/reviews/responsive-webfont-icons): Understand the benefits of Webfont icons and how to use them in you project in this tutorial by Jason Cranford Teague.
+- [Building Web Apps With Yeoman And Polymer - Scaffold your webapps with modern tooling](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/): Addy Osmani shows you how to use Yeoman, a workflow of tools for web apps to streamline creating apps using Polymer, a library of polyfills and sugar for developing apps using Web Components.
+- [fleep.io](https://fleep.io/): A promising looking new app for group chats with some interesting features.
+- [Zoomquilt](http://zoomquilt.org/): Zoomquilt is a fantastic project that will zoom you through some wonderful artwork.
+- [Case Study: Redesigning Commit for iOS 7](http://nathanbarry.com/redesigning-commit-ios-7/): An insightful case study on the redesign of an iPhone app by Nathan Barry.
+- [iOS 7 Alternate Color Kits (PSD)](http://medialoot.com/item/ios-7-color-ui-kits/): A nice freebie containing all the essential iOS 7 UI elements in 5 different color themes by Tony Thomas for MediaLoot.
+- [iOS7 style UI kit (PSD)](http://www.behance.net/gallery/ios7-style-ui-kit/11459737): A nice iOS 7 style UI kit composition including some free resources.
+- [Free programming books](https://github.com/vhf/free-programming-books): A fantastic collection of free programming books for many languages.
+- [Free Font: Anson](http://mikkonuuttila.com/anson/): A clear and elegant typeface made by Mikko Nuuttila.
+- [Inspecting :before/:after content in Chrome DevTools](http://www.youtube.com/watch?v=AcKlJbmuxKo): Finally you can inspect :before and :after pseudo elements with Chrome DevTools (Canary). Check out this video by Eric Bidelman to see how.
+- [What does designing in the browser mean?](https://medium.com/design-ux/3ccb1dfad980): Brian Krall explains what "designing in the browser" means and how the process behind it looks.
+- [Free icons set: Adore](http://dribbble.com/shots/1271305-Adore-FREE-icons-set): If you need a break from flat icon designs then Jackie Tran's creation is the right thing for you: a free set of pixel perfect and beautiful icons.
 
 # Collective #84
+- [Inspirational Website of the Week](http://www.fontwalk.de/): This week's pick is a beautifully designed scroll experience where you get to meet five outstanding fonts. It's the second edition of FontShop's type presentation.
+- [Intro to CSS Masking](http://www.youtube.com/watch?v=vV3h5OetmSI): See how CSS masking and clip paths work in this great introduction by Razvan Calimanto. Very nice in-browser presentation.
+- [Real Time Application Monitoring](http://goo.gl/RfFQ3Z): If you are developing a web or mobile application you will definitely find New Relic's monitoring very useful. You'll be able to get an overview of page load times, error rates, slow transactions, and a list of servers running the app and a lot more. 
+- [VideoSWS HTML5 Video Player Comparison](http://praegnanz.de/html5video/): Video "See What Sucks" is a very insightful comparison of HTML5 video players. You can test all players and get an overview of their differences. The site was created by Philip Bräunlich and Gerrit van Aaken.
+- [Performance Tooling](http://www.youtube.com/watch?v=HAqjyCH_LOE): Paul Irish shows how to use Chrome DevTools to improve performance on a website. The event was recorded live at the #perfmatters event hosted by the San Francisco HTML5 User Group.  link to the slides
+- [Line icon set for UI & more](http://www.behance.net/gallery/Line-icon-set-for-UI-more-Infinitely-scalable/10712283): Situ Herrera shares these beautiful vector-based UI icons in AI, EPS, and PSD.
+- [Web Audio API Loops](http://forestmist.org/blog/web-audio-api-loops/): Learn how to make audio loops with the Web Audio API in this great tutorial by  Daniel Gagan. Don't miss to see the demo here.
+- [Mozilla Appmaker](http://appmaker.mozillalabs.com/): A very recent and promising-looking project by Mozilla for creating mobile apps. It's pre-alpha at this point so it might be a bit buggy.
+- [Mapsicon Country Maps](https://github.com/djaiss/mapsicon): Mapsicon by Régis Freyd is a free collection of maps for most of the countries in the world. Many different sizes and SVG versions are available.
+- [Free Font: AC Mountain](http://www.behance.net/gallery/AC-Mountain-(Free-Font)/11228499): Adrian Candela designed this fine typeface that got inspired by a wrought-iron sign board.
+- [Welcome to the new JSHint website](http://jshint.com/blog/new-site/): JSHint is an excellent tool for detecting errors and potential problems in your JavaScript code. The new site comes with the option for instant feedback and insights on your code.
+- [Designing iOS7 style icons](http://www.campaignmonitor.com/blog/post/4080/designing-ios7-style-icons): Some very useful tips on how to design delicate iOS7 style icons from the Campaign Monitor blog.
+- [3D Piano Player with three.js](http://www.rgba.org/r3d/3d-piano-player/): An amazing 3D Piano player demo made with Three.js and MIDI.js. Created by Borja Morales.
+- [requestAutocomplete - Take my money, not my time](http://www.html5rocks.com/en/tutorials/forms/requestautocomplete/): Jake Archibald introduces the genius of requestAutocomplete and how it can ease the payment process by requesting payment details from the browser, which stores them on the user's behalf.
+- [Free iPad & iPhone 5s Mockups (PSD)](http://dribbble.com/shots/1259837-Free-iPad-iPhone-5s-Mockups-PSD): Some great Apple devices mockups by Regy Perlera.
+- [Yummi-loader](http://gummibearlab.github.io/Yummi-loader/): A LESS file with some CSS3 animations that allows for adding a on/off class to the body element for fancy loading effects. Made by the Gummibear Lab.
+- [Google Web Designer](https://www.google.com/webdesigner/): Google's new WYSIWYG editor that let's you create interactive HTML5-based designs. Probably a great tool for creating cross-device, rich media ads.
+- [PHP Image Compression & Caching](https://github.com/nielse63/php-image-cache): Image Cache is a very useful PHP class that compresses and caches an image, then moves it to a new directory, and returns the new source for the image.
+- [36 Thinicons (PSD)](http://dribbble.com/shots/1261032-36-Thinicons-Free-PSD): A very fine icon set with 36 app icons by Rovane Durso.
+- [Blueprint Wireframe Kit (PSD)](http://www.behance.net/gallery/Free-Blueprint-Wireframe-PSD-Kit/10952285): Some nice elements for creating a blueprint style wireframe by Göksel Vançin.
+- [Polygon Backgrounds](http://www.behance.net/gallery/Polygon-Abstract-Backgrounds/11194493): A collection of stylish and colorful high-resolution polygon backgrounds by Shantha Abeyrathne.
+- [Long Shadow Tutorial](http://psdchat.com/tutorials/tutorial-long-shadow/): There have been many generators and CSS versions out there but if you'd like to know how to create long shadows on your designs with Photoshop then this tutorial will enlighten you.
+- [Perspective App Screens Mock-Up (PSD)](http://www.pixeden.com/psd-mock-up-templates/perspective-app-screens-mock-up-8): A fantastic 3D app screens perspective mockup by Pixeden.
 
 # Collective #83
+- [Inspirational Website of the Week](http://www.wrist.im/): The Wrist website by Matt Johnston is all about exploring typography, colors, clock mechanics, and everything else that goes into watch design.  The animated watch illustrations are stunning and the flat design combined with harmonic colors makes this our pick this week.
+- [BackgroundCheck](http://www.kennethcachia.com/background-check/index.html): An absolutely brilliant script that automatically switches to a darker or a lighter version of an element depending on the brightness of images behind it. Made by Kenneth Cachia.
+- [RulersGuides.js](http://mark-rolich.github.io/RulersGuides.js/): RulersGuides.js by Mark Rolich is a Javascript library which enables Photoshop-like rulers and guides interface on a web page.
+- [JSModeler](https://github.com/kovacsv/JSModeler): JSModeler by Viktor Kovacs is an interesting JavaScript framework for creating and visualizing 3D models.
+- [CSSconf.eu 2013 - Intro.css](http://www.youtube.com/watch?v=KKM71-YeJp8): Jed Schmidt will make you laugh with CSS. Check out this great and funny introduction of the CSSconf 2013.
+- [Optimizing UI icons for faster recognition](http://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/): Alla Kholmatova explains what is important for icon design and which factors play a role when creating recognizable icons for user interfaces.
+- [BlendMe.in](http://blendme.in/): BlendMe.in is an incredibly useful Photoshop extensions that allows to access tons of free icons for direct usage in your design.
+- [Tools for image optimization](http://addyosmani.com/blog/image-optimization-tools/): A great collection of image optimization tools by Addy Osmani.
+- [Good Content Is Too Valuable To Die](http://www.smashingmagazine.com/2013/09/19/good-content-is-too-valuable-to-die/): Vitaly Friedman reminds us how important good web content is and how sad the removal of excellent articles like the ones of .net magazine is.
+- [Designing In The Open](http://bradfrostweb.com/blog/post/designing-in-the-open/): A great article about working publicly on a website design, the pros and cons, including examples and tips by Brad Frost.
+- [Creating a Realistic Rain Effect with Canvas and JavaScript](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/): Marek Brodziak shows how to use his fantastic project rainyday.js to create an incredibly realistic looking rain effect. Make sure to check out the demos here.
+- [One Page Scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html): A great plugin by Pete R. for creating an Apple-like one-page scrolling website like the iPhone 5s website.
+- [This is Now Clone](https://github.com/thegregthomp/now-clone ): A clone project by Greg Thompson of the very popular This is Now live instagram feed sites. The goal was to create a simple to follow, light-weight version of what the Now project accomplished. 
+- [Solved By Flexbox — Cleaner, hack-free CSS](http://philipwalton.github.io/solved-by-flexbox/): A fantastic showcase by Philip Walton of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+- [Drawingboard.js](http://leimi.github.io/drawingboard.js/): Drawingboard.js by Emmanuel Pelletier is a canvas-based drawing app that you can integrate easily on your website.
+- [Flat Rounded Square UI Kit (PSD)](http://www.webappers.com/2013/09/24/free-download-flat-rounded-square-ui-kit/): A pixel-perfect UI kit designed by Freepik for WebAppers.
+- [<dialog> element: Modals made easy](http://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy): Chrome Canary has landed support for the <dialog> element behind a flag. Eiji Kitamura explains how this can be used to display popups in a web page. Also, check out this demo.
+- [How To Create Flat Style Breadcrumb Links with CSS](http://line25.com/tutorials/how-to-create-flat-style-breadcrumb-links-with-css): Learn how to create a clean looking, flat style breadcrumb navigation with CSS from this tutorial by Chris Spooner from Line25.
+- [Free Font: PEYO Regular](http://www.behance.net/gallery/PEYO-Regular-Free-Font/11042687): PEYO by Shannon Lim is a playful, uppercase, geometric sans serif typeface designed for display type uses such as headlines, posters and titles. 
+- [Free Font: Paihuen Mapuche](http://www.behance.net/gallery/Paihuen-Mapuche-Free-Font/11121691): Benjamín Rivera created this exquisite looking font with a unique touch. 
+- [A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App](http://www.mobify.com/blog/beginners-guide-to-perceived-performance/): An excellent in-depth article by Kyle Peatt on how to improve the perceived performance of a mobile site.
+- [Free iPhone Mockups (PSD)](http://dribbble.com/shots/1252765-Free-iPhone-Mockups-PSD): Some really professional looking and nice iPad mockups by Regy Perlera.
 
 # Collective #82
+- [Inspirational Website of the Week](http://www.paulineosmont.com/): The website of graphic and web designer Pauline Osmont has very interesting hover effects and creative transitions. Our pick this week.
+- [Image Compression for Web Developers](http://www.html5rocks.com/en/tutorials/speed/img-compression/): Colt McAnlis dives into the topic of image compression for web developers, how important it is to optimize images and how to choose the right format.
+- [TogetherJS](https://togetherjs.com/): TogetherJS is a Javascript library by Mozilla that adds collaboration features and tools to your website allowing for real time interaction.
+- [Assorted CSS and UI experiments](https://github.com/hakimel/css): Some assorted CSS and UI experiments by Hakim El Hattab including the Flexing Pagination and Device Loop
+- [Addressing The Responsive Images Performance Problem: A Case Study](http://mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/): In this article Anders Andersen and Tobias Järlund explain the "padding-bottom" responsive image technique which they have implemented on the mobile version of a Swedish news site.
+- [What do you stand to make?](http://standtomake.com/): "What do you stand to make" is a great interactive tool by Hamish Macpherson for calculating ones earning potential. Great UI with a natural language based form.
+- [Focus transition](http://n12v.com/focus-transition/): Nikita Vasilyev shares this neat transition idea when focusing on links and input elements.
+- [7 Habits of Highly Effective Media Queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/): Some great advice on how to maximize the efficiency of media queries with some very useful references by Brad Frost.
+- [Pace](https://github.com/HubSpot/pace): Pace will automatically monitor your AJAX requests, event loop lag, document ready state, and elements on your page to automatically indicate the progress. Inspired by NProgress.js and our Creative Loading Effects.
+- [Corporate Identity Mockup (PSD)](http://mockup.simonvonallmen.ch/): A beautiful and complete corporate identity mockup by Simon von Allmen. 
+- [A Complete Guide to the Table Element](http://css-tricks.com/complete-guide-table-element/): A very thorough and complete guide to the table element by Chris Coyier.
+- [FireShell](http://getfireshell.com/): With Fireshell by Todd Motto you can get started with you project quickly using HTML5 boilerplate, Sass OOCSS setup and Grunt.js.
+- [jQuery Mapael](http://www.neveldo.fr/mapael/): jQuery Mapael by Vincent Brouté is a jQuery plugin based on raphael.js that allows you to display dynamic vector maps.
+- [A visual guide to Sass & Compass Color Functions](http://jackiebalzer.com/color): Learn visually about the Sass & Compass color functions from this guide by Jackie Balzer.
+- [Sloppy UI](http://sloppyui.tumblr.com/): A blog that collects glitches in UIs of iOS apps. Great resource for seeing what can go wrong and avoid mistakes.
+- [Responsive elements](http://kumailht.com/responsive-elements/): Responsive elements by Kumail Hunaid is a great little JavaScript library that allows elements to adapt and respond to the area they occupy.
+- [The design process of my ‘Collections’ WordPress theme for The Theme Foundry](http://veerle.duoh.com/design/article/the_design_process_of_my_collections_wordpress_theme_for_the_theme_foundry/): A very detailed and extensive article on the design process of the Collections theme by Veerle Pieters.
+- [Frontify](http://frontify.com/): With Frontify you can interactively specify designs and generate living front-end style guides.
+- [Vex Dialogs](http://github.hubspot.com/vex/docs/welcome/): Another great library by HubSpot: A modern and tiny dialog library for easily styleable dialogs with lots of options and a simple API. Made by HubSpot.
+- [Free Font: ROUNDA](http://www.behance.net/gallery/ROUNDA-(Free-Font)/10955401): Ina Dimitrova designed this creative typeface inspired by the circle shape.
+- [Free Font: WIKINGG](http://www.behance.net/gallery/WIKINGG-free-font/10962939): Wikingg is the first type project by Slava Krivonosov. A unqiue uppercase font. 
 
 # Collective #81
+- [Inspirational Website of the Week](http://www.elitegraphics.com.au/): The website of Elite Graphics combines great, clean design with a variety of subtle and engaging effects. Our pick this week.
+- [CLNDR.js](http://kylestetz.github.io/CLNDR/): CLNDR by by Kyle Stetz is a jQuery plugin for creating calendars with a different twist: it doesn't have any markup but instead the developer supplies an HTML template and the plugin provides a set of data to use within in.
+- [Responsive Navigation On Complex Websites](http://mobile.smashingmagazine.com/2013/09/11/responsive-navigation-on-complex-websites/): Jon Rundle shares his experience and illustrate the techniques involved in implementing a responsive navigation on large websites.
+- [Annyang: Voice control for websites](https://www.talater.com/annyang/): Are the web's clicking days numbered? Annyang is a fantastic JavaScript library that lets your visitors control your site with voice commands. Made by Tal Ater.
+- [complete.ly](http://complete-ly.appspot.com/): An interesting JavaScript library for auto-completion created by Lorenzo Puccetti.
+- [json.human.js](http://marianoguerra.github.io/json.human.js/): With json.human.js you can convert JSON to a human readable HTML representation. By Mariano Guerra.
+- [E-Commerce Icon Set (33 Icons, PNG, PS, AI)](http://www.smashingmagazine.com/2013/09/13/freebie-e-commerce-icons-33-png-ps-ai/): A fantastic set of 33 beautifully crafted, flat e-commerce icons designed by Responsive.
+- [iPhone 5s Vector Mockup (PSD)](http://www.pixeden.com/psd-mock-up-templates/iphone-5s-psd-vector-mockup): A detailed and pixel-perfect iPhone 5s vector mockup template by Pixeden.
+- [jQuery Fullscreen Editor](http://burakson.github.io/fseditor/): This jQuery plugin that adds a fullscreen mode option to a common text area.
+- [Arcade Fire / Just a Reflektor](https://www.justareflektor.com/): A music video by Arcade Fire that lets the visitor interact with the video via desktop and mobile device.
+- [CSS Length Explained](https://hacks.mozilla.org/2013/09/css-length-explained/): An insightful article on length units in CSS by Tim Chien from Mozilla.
+- [iPhone 5S Flat Design (PSD)](http://dribbble.com/shots/1235442-iPhone-5S-Flat-Design-Free-PSD): A flat style iPhone 5s by Emrah Demirag from UI Pixels.
+- [The Beginner's Guide to three.js](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js): A great tutorial by Nick Pettit on how to create an interactive 3D graphic with three.js.
+- [brace.io](http://brace.io/): Brace looks like a very promising project: Dropbox hosted websites with versions and history. It's not live yet but you can sign up to get early access.
+- [EntourageBox](http://www.entouragebox.com/): EntourageBox let's others who don't use the same Cloud storage services easily share files with you.
+- [Quick Tip: Add a Progress Bar to Your Site](http://tutorialzine.com/2013/09/quick-tip-progress-bar/): Learn how to use the new NProgress jQuery plugin to add a progress bar to a web page.
+- [jquery.tweetable.js](https://github.com/dukerson/jquery.tweetable.js): A simple jQuery plugin for making sentences and snippets easily tweetable for your users. Made by Justin Duke.
+- [Radius Raid](http://js13kgames.com/entries/radius-raid): Radius Raid is a fantastic little browser game made by Jack Rugile for the Js13kGames challenge.
+- [Free Font: Canter](http://fontfabric.com/canter-free-font/): Canter by Christopher J. Lee is an elegant condensed typeface that comes in six weights.
+- [iPhone 5c (AI)](http://dribbble.com/shots/1234040-iPhone-5c-Vector): With the arrival of the new iPhone 5c, you'll find this freebie by Petshopbox useful.
+- [Signal Icon Set](http://dribbble.com/shots/1235393-Signal-Icon-Set): A great signal icon set by Azis Hertanto from Simple Icon.
+- [Flat HTC One 3D Mockup (PSD)](http://dribbble.com/shots/1235569-Flat-HTC-One-3D-Mockup-FREEBIE): A nice, flat mockup of an HTC One in perspective. 
 
 # Collective #80
+- [Inspirational Website of the Week](http://tour.kathart.dk/): A really nice and creative way to meet a design agency. Our pick this week.
+- [Flat And Thin Are In](http://www.smashingmagazine.com/2013/09/03/flat-and-thin-are-in/): Adrian Taylor dives into the story of flat design, how it evolved and how to make the new trend work for your next design.
+- [animo.js](http://labs.bigroomstudios.com/libraries/animo-js): Animo.js is a really useful tool for managing CSS animations. It allows to control the time and sequence of firing animations and more. Made by Daniel Raftery.
+- [favico.js](http://lab.ejci.net/favico.js/): Create a favicon that moves with animated badges, images or videos.
+- [Perimeter.js](http://github.e-sites.nl/perimeter.js/): Perimeter.js is a very interesting script that will creates an invisible perimeter around a target element and monitor mouse breaches.
+- [HelloRun](http://hellorun.helloenjoy.com/): HelloRun is a fantastic HTML5 game by HelloEnjoy.
+- [UIbox](http://www.uibox.in/): UIbox is a curated HTML, CSS, JS UI component library.
+- [Brainy Icons](http://handdrawngoods.com/store/brainy-icons-free/): Brainy Icons Free is a set of 36 hand-drawn free education icons. The icons are available as AI, EPS, PSD and PNG. Made by Hand Drawn Goods.
+- [The iOS Design Cheat Sheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/): A really great and useful collection of all the important dimensions of icons and commonly used elements for iOS 7. Made by Ivo Mynttinen.
+- [Getting Started With HTML5 Game Development](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/): Learn how to get started with HTML5 game development from this guide by Austin Hallock and Robert Nyman.
+- [Free Font: Corduroy Slab](http://www.behance.net/gallery/Corduroy-Slab-Free/10761523): Corduroy Slab is a charismatic dipslay slab font face by Ryan Welch.
+- [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/): Steve Losh gives some great advice on how to write a technical documentation properly.
+- [Free Font: Born](http://www.carlosdetoro.com/born-en/): Born is a very elegant and sophisticated humanist typeface by Carlos de Toro.
+- [It's Flat! (SVG)](http://medialoot.com/item/its-flat-48-free-vector-icons/): A great freebie by MediaLoot: a set of 48 free vector icons, created in Photoshop using vector shapes only.
+- [Android Devices (AI)](http://dribbble.com/shots/1224225-Freebie-Android-Devices): A set of Android devices by Ian Mintz.
+- [Mobiles Wall](http://www.mobileswall.com/): A great spot to find some beautiful high-quality mobile wallpapers.
+- [Jumpstarting WebGL](http://christianostman.com/sthlmjs/): A creative presentation by Christian Ostman on WebGL (in WebGL).
+- [Piatto – A Free Flat Style Landing Page (PSD)](http://wegraphics.net/downloads/piatto-a-free-flat-style-landing-page-psd/): A free flat style landing page as PSD by Nathan Brown for WeGraphics.
+- [Cheat Sheet for Favicon Sizes and Types](https://github.com/audreyr/favicon-cheat-sheet): A very useful cheat sheet including all the favicon sizes and types. Complied by Audrey Roy.
+- [Spacedeck](https://spacedeck.com/): Spacedeck is a fantastic platform for visual collaboration - from developing ideas and concepts to sharing work with clients, Spacedeck will provide all the tools needed.
+- [Web Performance 2.0](http://gorkamolero.com/work/thought/Web-performance-2.html): Gorka Molero points out how performance has been overlooked when creating responsive websites.
+- [Skill Swap!](http://www.skillswap.in/): With Skillswap you can find people with the skill you need and in return, you can offer your skills.
+- [Gusto Email Template (PSD)](http://www.bestpsdfreebies.com/freebie/gusto-email-psd-template/): A really nice email template by PSD Freebies.
 
 # Collective #79
+- [Inspirational Website of the Week](http://www.bienvillecapital.com/): The website of Bienville Capital is beautifully designed and has some smooth transitions with a light typography. Our pick this week.
+- [Custom Elements: defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/): Eric Bidelman explains how Custom Elements will allow web developers to define new types of HTML elements and create much more meaningful and maintainable web apps.
+- [Salvattore](http://salvattore.com/): Rolando Murillo and Giorgio Leveroni developed Salvattore, a brilliant jQuery Masonry alternative with CSS-driven configuration.
+- [Stop Designing for "Users"](https://medium.com/design-ux/9c5e582b3ec8): "Design for Activities, Not Individuals" — that's the message of this interesting article by Mike Long.
+- [Free Font: South Rose](http://www.behance.net/gallery/South-Rose-Free-Typeface/10522583): Sydney Goldstein designed South Rose, a font that is inspired by the South Rose Window at the Notre Dame Cathedral.
+- [Streamline Icon Set (SVG)](https://www.iconfinder.com/iconsets/streamline-icon-set-free-pack): A gigantic icon set that consists of 100 clean and meaningful icons designed by Webalys.
+- [Fun with Sass & font icons](http://jaydenseric.com/blog/fun-with-sass-and-font-icons): Jayden Seric shows how to use icon fonts with Sass.
+- [Ballicons (PSD, PNG)](http://ballicons.net/): Get 15 of these pixel-perfect flat icons for free. Designed by Nick Frost.
+- [device.js](https://github.com/matthewhudson/device.js): Device.js by Matthew Hudson makes writing conditional CSS and JavaScript based on device operating system, orientation and type easy. It inserts CSS classes into the <html> element allowing for custom targeting.
+- [Parallax.js](https://github.com/wagerfield/parallax): This parallax script by Matthew Wagerfield reacts to the orientation of a smart device and where no gyroscope or motion detection hardware is available, the position of the cursor is used instead.
+- [intention.js](http://intentionjs.com/): Intention.js offers a light-weight and clear way to dynamically restructure HTML in a responsive manner. By WSJ Design.
+- [Free Font: Sabado Alternative](http://www.behance.net/gallery/Sabado-Alternative-(Free-typefamily)/10621779): Sabado Alternative is an exquisite and unique type family designed by Frank Hemmekam.
+- [Create CSS3: Easy CSS3 Generator](http://www.createcss3.com/): With Create CSS3 you can quickly style an element with all the fancy and hard to remember properties and copy the generated code.
+- [Connected UX](http://alistapart.com/article/connected-ux): Aarron Walter shares his experience on how a connected approach to data research has helped understand problems and ultimately made usability improvements possible.
+- [Long Flat Shadow Generator (PSD)](http://www.pixeden.com/miscellaneous/long-flat-shadow-generator-psd): Another helful long shadow generator PSD, this time by Pixeden.
+- [Visualising JavaScript Processing Over Time With DevTools Flame Charts](http://addyosmani.com/blog/devtools-flame-charts/): If you'd like to have an insight on your app's JavaScript processing over time, then you'll definitely find this video and article by Addy Osmani on DevTools Flame Charts very useful.
+- [The HTML5 progress Element](http://css-tricks.com/html5-element/): Pankaj Parashar dives into the HTML5 progress element, how to us and style it.
+- [drumbit](http://www.pluraldev.com/drumbit/): This drum machine is a wonderful example of how to use the Web Audio API by João Carlos Santos.
+- [Physics"R"us](http://peppercode.net/physicsRus/play.html): Physics"R"us by Ju Hyung Lee is a 2D physics engine written in JavaScript.
+- [Force Margin/Space Between List and Floated Image](http://perishablepress.com/margin-list-floated-image/): Jeff Starr shares this smart technique that will fix the "collapsed" margin problem.
+- [ChocolateChip UI](http://www.chocolatechip-ui.com/): ChocolateChip-UI is a framework for making mobile Web apps based on three components: semantic HTML5 markup, CSS and JavaScript.
+- [Bootstrap 3 Grid Builder using Angular JS](http://jaykanakiya.com/bootstrap-grid-builder/): A helpful tool for creating Bootstrap 3 layouts using Angular JS. Made by Jay Kanakiya.
+- [wri.pe](https://wri.pe/): A simple, yet powerful note taking service that can be used anywhere. It supports Markdown, automatic calendar entries from dates and offers useful shortcuts.
+- [Free Font: Sanotra](http://www.behance.net/gallery/SANOTRA-TYPEFACE/10657871): Sanotra by Emraan Mayow is a beautifully creative typeface with a free lite version.
 
 # Collective #78
+- [Inspirational Website of the Week](http://acko.net/): Hackery, Math & Design by Steven Wittens is our pick this week. Take a look and get blown away not only by the fantastic and unique effects but also by the superb content.
+- [Semantic CSS With Intelligent Selectors](http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/): A brilliant article by Heydon Pickering on an alternative approach to styling Web documents other than the popular object-oriented CSS based one.
+- [FlowType.JS](http://simplefocus.com/flowtype/): A great script that will adjust the font size and line height of text depending on the size of the containing element. Made by Simple Focus.
+- [justdelete.me](http://justdelete.me/): A fantastic website that aims to be a directory of URLs to enable you to easily delete your account from web services. Made by Robb Lewis and designed by Ed Poole.
+- [Modern long shadow icons (PSD)](http://www.webdesignerdepot.com/2013/08/free-download-modern-long-shadow-icons/): A set of pixel-perfect flat icons with fashionable long shadows by WebIconSet.com for Webdesigner Depot.
+- [NProgress.js](http://ricostacruz.com/nprogress/): A slick progress bar script by Rico Sta. Cruz. It featuring realistic trickle animations to convince your users that something is happening.
+- [Detecting Critical CSS For Above-the-Fold Content With Paul Kinlan (Video)](http://addyosmani.com/blog/detecting-critical-above-the-fold-css-with-paul-kinlan-video/): See this demo by Addy Osmani and Paul Kinlan of a new experimental bookmarklet that detects critical CSS for above the fold content. The idea is to "inline" the initially needed (above-the-fold) CSS to prevent render-blocking for the initially visible part of a website.
+- [Comparing and contrasting ins, del, and s](http://html5doctor.com/ins-del-s/): Learn about these elements that semantically indicate added or removed information from this great article by Oli Studholme over at HTML5 Doctor.
+- [Basiliq: Freehand UI Kit](http://cloudcastlegroup.com/blog/basiliq): A fantastic freebie by Cloud Castle. In includes over three hundred design elements specifically for prototyping with a hand-crafted look.
+- [JavaScript Best Practices (Part 1)](http://www.thinkful.com/learn/javascript-best-practices-1/): The first part of a very useful guide on JS best practices. Adapted from a popular slideshow by Christian Heilmann.
+- [Photoshop and Adobe Illustrator CS6 Shortcut Cheatsheets](http://www.zerolag.com/infographics/): Some great cheatsheets for Adobe Illustrator and Photoshop by ZeroLag.
+- [Thin Round Icons (PSD)](http://www.designkindle.com/2013/08/19/thin-round-icons/): A slick set of 35 clean round icons by Sebastien Gabriel on Design Kindle.
+- [Great Responsive Web Design is a Matter of Process](https://medium.com/p/270048a88c70): Jacey Gulden summarizes what it takes to approach responsive web design the right way and how to re-think the web design process.
+- [Free Font: Nighttime](http://2ttf.com/Rz0BxPHH): An exquisite typeface designed by Bettina Wolmersen made with iFontMaker.
+- [Washicons Icon Font](http://lucijanblagonic.github.io/Washicons/): A fantastic icon font with washing related icons by Lucijan Blagonic.
+- [Freebie Pack](http://noahzwillinger.com/portfolio/freebie-pack/): A pack of freebies by Noah Zwillinger that will be an ongoing project. Included are multiple PSD files containing website templates and other useful designs for the web.
+- [Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/): Philip Walton shares his experience on how he learned to decouple his HTML, CSS, and JavaScript in this in-depth article.
+- [42 Long Shadow Social Icons (PSD)](http://www.uipixels.com/42-long-shadow-social-iconspsd/): A great set of long shadow social icons by Uipixels.
+- [Free App Website PSD Template](http://despreneur.com/free-app-website-psd-template/): A very clean and elegant website template by Despreneur.
+- [iPhone 5 Mockup Template (PSD)](http://rayps.com/iPhone5-Mockup-Template): A very nice iPhone 5 mockup template by Ray Design.
 
 # Collective #77
+- [Inspirational Website of the Week](http://abbyputinski.com/): Abby Putinski's website is our pick this week. It is beautifully designed and it let's you explore San Francisco through the eyes of an illustrator.
+- [Introducing Jelly Navigation Menu: When Canvas Meets PaperJS](http://coding.smashingmagazine.com/2013/08/15/jelly-navigation-menu-canvas-paperjs/): See how to apply PaperJS for canvas graphics and TweenJS for animations to create this great jelly-like navigation menu.
+- [Random User Generator](http://randomuser.me/): Need an "ipsum" user? This great API will provide you with a randomly generated user that can be used as a placeholder in web mockups. Designed by Arron Hunt and developed by Keith Armstrong.
+- [Brick](http://mozilla.github.io/brick/): Brick by Mozilla is a bundle of reusable UI components created with x-tags to enable rapid development of cross-browser and mobile-friendly HTML5 web applications.
+- [Medium.js](http://jakiestfu.github.io/Medium.js/docs/): Inspired by Medium's beautiful content editor, Medium.js keeps HTML code within contenteditable semantic, simple, and clean. Made by Jacob Kelley.
+- [Slide-Out Footer](http://tutorialzine.com/2013/08/slideout-footer-css/): Martin Angelov shows how to use a smart CSS trick for creating a nice slide-out effect for a footer.
+- [Ghostlab: Synchronized testing for web and mobile](http://vanamco.com/ghostlab/): Ghostlab is a powerful testing tool for web and mobile apps.
+- [Babbit](http://hoverstud.io/babbit/): A fun and beautifully designed browser game by Hover Studio.
+- [Web Performance Crash Course](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik): Ilya Grigorik's crash course on web performance optimization will teach you everything from network bottlenecks to JavaScript performance.
+- [Single element CSS-only camera](http://kojika17.com/demo/4lines/): This amazing camera	was created by styling the body element only!
+- [jQuery Flat Shadow](https://github.com/peachananr/flat-shadow): This jQuery plugin by Pete R. will automatically cast a shadow on elements, creating the trendy long flat shadow look.
+- [HTML5 Device mockups](http://aarnis.com/): With Pixelsign you can create live HTML5 mockups of popular devices to showcase your work.
+- [Free Font: Braxton](http://fontfabric.com/braxton-free-font/): Braxton is an elegant script font designed by Evgeny Tkhorzhevsky.
+- [Free Icon Set (Ai, EPS, PDF, PNG)](http://dribbble.com/shots/1198520-Free-Icon-Set): A fantastic free set of pixel-perfect icons in the formats Ai, EPS, PDF and PNG.
+- [Pineapple.io](http://pineapple.io/): Pineapple.io is a central hub of tutorials, tools and assets for developers and designers.
+- [SVG and <image> tag tricks](http://lynn.ru/examples/svg/en.html): Alexey Ten shows this smart trick for graceful degradation of SVG images for older browsers using the <image> tag.
+- [Tipue Search](http://www.tipue.com/search/): Tipue Search is an interesting site search engine jQuery plugin. It doesn't need MySQL, PHP, Perl or Python.
+- [Clank](http://getclank.com/): Clank is an open source HTML/CSS prototyping framework for mobile apps. Think of it as Twitter Bootstrap but for prototyping native apps.
+- [Map Icons](http://map-icons.com/): Map Icons by Scott de Jonge is an icon font for use with Google Maps API and Google Places API using SVG markers and icon labels.
+- [Flat UI Kit (PSD)](http://www.designkindle.com/2013/08/16/flat-ui-kit/): The Flat UI Kit by Jan Dvořák is a collection of clean, resizable web components, all wrapped up in a well organized PSD file.
+- [Koding](https://koding.com/): Koding is an online development environment where developers can program and collaborate online in the browser without having to download the software development kits. The platform supports many popular programming languages, like Python, Java, Perl, Node.js, Ruby, C, C++ and Go.
+- [FancySelect](https://github.com/octopuscreative/FancySelect): FancySelect by Octopus Creative transforms a <select> element into a stylish UI component.
+- [Nutcache](http://www.nutcache.com/index.html): Nutcache is a free multilingual online application for invoicing and time management.
+- [Webflow](https://webflow.com/): Webflow is a visual website editor for responsive designs. It has a great interface and it generates clean production-ready code.
+- [ExtractCSS](http://extractcss.com/): With extractCSS you can get a generated CSS file from IDs, classes and inline styles of a HTML file.
 
 # Collective #76
+- [Inspirational Website of the Week](http://letsyep.com/en/): The Yep! website has a beautiful and fun color scheme, clean typography and smooth scrolling effects. Our pick this week.
+- [Emmet LiveStyle](http://livestyle.emmet.io/): Emmet LiveStyle is a powerful plugin for live bi-directional CSS editing between browser and editor. Currently, it works in Google Chrome, Safari and Sublime Text. Make sure to also check out this Smashing Magazine article by Sergey Chikuyonok: Introducing LiveStyle: Better, Stronger And Smarter CSS Live Reload.
+- [JavaScript Kinetic Scrolling: Part 1](http://ariya.ofilabs.com/2013/08/javascript-kinetic-scrolling-part-1.html): Ariya Hidayat is going to uncover the mystery of kinetic scrolling via several easy-to-digest code examples in this series of tutorials.
+- [A guide to using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/): A great guide by Thinkful on how to use GitHub pages to host your website and to practice Git.
+- [Arbitrary anchors for any element on your page](http://briangonzalez.org/arbitrary-anchor): A useful jQuery plugin for smooth anchor scrolling within a page. Made by Brian Gonzalez.
+- [Multiplane Design with SVGs and CSS 3D Transforms](http://blog.teamtreehouse.com/multiplane-design-with-svgs-and-css-3d-transforms): A great experiment by Nick Pettit using 3D transforms and SVGs to create a multiplane design.
+- [A Responsive Web Design Process](http://heliom.ca/blog/posts/a-responsive-web-design-process): Tristan L’Abbé from Heliom gives some insight on the responsive web design process and offers a responsive design starting PSD.
+- [Autoprefixer](https://github.com/ai/autoprefixer): With the powerful Autoprefixer by Andrey Sitnik you can write your CSS rules without vendor prefixes and because it compiles CSS once on deploy it doesn't impact client-side performance.
+- [Designers checklist advices](http://adrien-heury.net/designers-checklists/index.html): Advice by great designers presented in a stylish way. Made by Adrien Heury.
+- [Absolute Horizontal And Vertical Centering In CSS](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/): Stephen Shaw summerizes all the centering methods for absolutely positioned elements in this article.
+- [One Second of the Internet](http://onesecond.designly.com/): Check out how many Google searches are made, Reddit votes are cast, Instagram photos are uploaded, YouTube videos are watched and so on in just one tiny second.
+- [Using WebGL to Add 3D Effects to Your Website](http://html5hub.com/using-webgl-to-add-3d-effects-to-your-website/): A great article and demo by Guillaume Lecollinet that shows the possibilities of adding cool effects to your website using WebGL.
+- [Delivery](https://delivery.layervault.com/): A great free service by LayerVault that lets you share design work with clients and teammates.
+- [How to Do a Procedural City in 100 Lines](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/): Jerome Etienne explains the code behind "city", a demo recently released by @mrdoob. 
+- [Free Font: Dense](http://www.behance.net/gallery/Dense-typeface/10231891): An elegant and clean typeface by Charles Daoud. It comes in three weights: thin, regular and bold.
+- [RED UI – User Interface Design Kit (PSD)](http://www.cssauthor.com/user-interface-design-kit-psd/): A great freebie by Css Author in PSD format.
+- [24 Free Clothes Icons (AI)](http://pixel-fabric.com/24-clothes-icons-20): An amazing set of 24 clothes icons by Pixel Fabric as Adobe Illustrator file.
+- [Devs Do Art](http://devsdoart.com/): An intriguing compilation of fine artworks composed by developers :)
+- [Atmosphere Apps backgrounds (JPG)](http://medialoot.com/item/atmosphere-apps-backgrounds/): Some nice backgrounds for your next mobile app design by Media Loot.
+- [Rails Startup Template](https://github.com/dennybritz/rails_startup_template): A useful startup template for Ruby on Rails 4 applications by Denny Britz.
+- [Flattastic UI kit](http://www.webdesignerdepot.com/2013/08/free-download-flattastic-ui-kit/): A beautifully designed UI Kit by Vlade Dimovski brought to you by Webdesigner Depot.
 
 # Collective #75
+- [Inspirational Website of the Week](http://hellohikimori.com/): Usually we're not big fans of sound effects on websites but HELLOHIKIMORI's website is just out of this world. Very interesting effects happen as the site elements build up in front of you. Dive in and enjoy.
+- [MockUPhone](http://mockuphone.com/): Wrap your app screenshots into a device mockup using this great tool by FileSquare.
+- [Animated line drawing in SVG](http://jakearchibald.com/2013/animated-line-drawing-svg/): Jake Archibald explains how to smoothily animate an SVG line drawing.
+- [The "Other" Interface: Atomic Design With Sass](http://coding.smashingmagazine.com/2013/08/02/other-interface-atomic-design-sass/): An interesting article by Robin Rendle on improving our current best practices of project organization based on the principles of atomic design introduced by Brad Frost.
+- [Responsive Pricing Table (PSD, HTML, CSS)](http://wegraphics.net/downloads/free-responsive-pricing-table/): A clean and elegant pricing table over at WeGraphics.net.
+- [tidyTime.js](http://git.aaronlumsden.com/tidytime.js/): TidyTime.js by Aaron Lumsden takes any regular time and changes it into a more human friendly expression.
+- [SimpleSlideView](http://blog.cloudfour.com/simpleslideview/): A great plugin (jQuery or Zepto) for the classic sliding views by Cloud Four.
+- [DevTools: Working with CSS Preprocessors](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors): Learn how to live-edit your preprocessor source files in the Chrome DevTools.
+- [Skeuocard](http://kenkeiter.com/skeuocard/): Definitely a great example for using skeuomorphism: Skeuocard by Kenneth Keiter progressively enhances credit card inputs to provide a skeuomorphic interface.
+- [Perspective App Screen Mock-Up (PSD)](http://www.pixeden.com/psd-mock-up-templates/perspective-app-screen-mock-up-5): A fantastic mobile app screen mockup in perspective by Pixeden.
+- [Free WordPress Theme: Empo](http://www.anarieldesign.com/free-wordpress-theme/): An elegant and responsive WordPress theme by Anariel Design which comes with a detailed documentation and some customization options. Download it from WordPress.org.
+- [PSD.rb](http://cosmos.layervault.com/psdrb.html): A Ruby library by LayerVault that opens up the PSD format and allows you to easily work with Photoshop documents.
+- [Creating a 3D Game With Three.js and WebGL](http://buildnewgames.com/webgl-threejs/): In this tutorial Nikhil Suresh shows you how to get into 3D game development with Three.js and WebGL.
+- [The classList API](http://html5doctor.com/the-classlist-api/): Derek Johnson writes about the classList API and shows you what you can do with it.
+- [Music Player (PSD)](http://dribbble.com/shots/1180121-Music-Player-Free-PSD): A slick music player concept by Atique with a free PSD.
+- [Free Font: PHANTOM](http://www.behance.net/gallery/PHANTOM-(Free-typefamily)/10144459): An elegant uppercase display typeface designed by Frank Hemmekam.
+- [Sign in form (PSD)](http://www.behance.net/gallery/Sign-in-Flat-design/10064339): A PSD freebie of an elegant sign in form by Faure Benjamin.
+- [PW Small Icons (ttf)](http://www.peax-webdesign.com/goodies/free-icons/pw-small-icons-free/pw-small-icons-free.html): A beautiful sketched icon font by Peax Webdesign.
+- [Free Font: Look Up](http://www.behance.net/gallery/Look-Up-Free-Font/10119611): Filiz Sahin did it again: Look Up is a playful and unique font that will give your project a special touch.
+- [Free Font: Parley](http://www.behance.net/gallery/Parley-free-typeface/10170485): Parley is an interesting geometric font by Filipe Rolim.
+- [WelcomeMat.co](http://welcomemat.co/): Haven't you always wanted to include one of those fancy ASCII drawings into your website's source? Now you can find some great inspiration on WelcomeMat.co created by Zac Halbert.
 
 # Collective #74
+- [Inspirational Website of the Week](http://100ansdetour.fr/): A beautifully designed hommage to celebrate 100 years of the Tour de France. Some great effects and a brilliant way to present data made us pick this website for this week's inspiration.
+- [UIkit](http://www.getuikit.com/index.html): UIkit is an open source, lightweight and modular front-end framework for developing web interfaces made by the YOOtheme team.
+- [codeshare.io](http://codeshare.io/): A fantastic app for real-time code sharing in your browser. Developed by Lee Munroe.
+- [Is This The Future of The Airline Website?](http://www.f-i.com/fi/airlines/): "What if there was a better way to book a flight?" Dive into the what ifs of this excellent case study by Fi, Fantasy Interactive.
+- [iOS 7 Wireframe Kit](http://blakeperdue.com/ios7-wireframe-kit/): A very useful wireframe kit for Adobe Illustrator made by Blake Perdue.
+- [Practical Typography](http://practicaltypography.com/): Learn about real typography from this complete online book by Matthew Butterick.
+- [200 Vector Icons](http://www.webdesignerdepot.com/2013/07/free-download-200-vector-icons/): An incredible set of useful vector icons by FreeVector.com for Webdesigner Depot. Pay with a tweet to get the set.
+- [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): Some general CSS notes, advice and guidelines by Harry Roberts.
+- [VerbalExpressions](https://github.com/jehna/VerbalExpressions): VerbalExpressions by Jesse Luoto is an extremely useful JavaScript library that will help you construct difficult regular expressions.
+- [likeastore.](https://likeastore.com/): Wouldn't it be great to store all the things that you've favorited on Twitter or Stackoverflow, and also starred on GitHub in one place? This beautifully designed app (beta) will do exactly that.
+- [Macbook Template (PSD)](http://dribbble.com/shots/1166281-Macbook-Template-PSD-FREE): A beautiful MacBook Air PSD template for your next work presentation by David Kovalev.
+- [Free Font: Newgeo](http://www.lettering-shop.com/producto/newgeo/): An interesting typeface with four styles by the Lettering Shop.
+- [Loading animation with CSS](http://dabblet.com/gist/6046779): A brilliant CSS trick by Lea Verou for recreating the ContextAd loading animation.
+- [Free Font: Public Enemy](http://www.behance.net/gallery/Public-Enemy-Font/9983737): A clean typeface with a unique character designed by Tomas Velez.
+- [Free Font: BoB](http://www.behance.net/gallery/BoB-Font/9982645): A unique typeface designed by Zarni.
+- [File Type Icons](http://www.webiconset.com/file-type-icons/): File Type Icons by Web Icon Set is a great set of 62 stylish file extension icons in AI, ICO and PNG.
+- [Setting subheads with CSS](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/): Learn how to style beautiful subheads with CSS in this tutorial by Marko Dugonjić on Typekit.
+- [Backbone.js Deconstructed (Part 1)](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed): Cody Lindley will teach you everything about Backbone.js that you have been missing from the documentation or tutorials around. A great resource.
+- [Table-to-JSON](http://lightswitch05.github.io/table-to-json/): A jQuery plugin by Daniel White that converts an HTML table into a JavaScript object. Great for working with user-editable tables or accessing output from 3rd party tools.
+- [Simple Responsive Images With CSS Background Images](http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/): A clever and simple approach for dealing with responsive images using background images. By Stephen Thomas for Smashing Magazine.
+- [Guardpost: Free email validation API for web forms](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/): Guardpost is a free email address validation service by Mailgun by Rackspace. Given an arbitrary address guardpost validates address based off syntax checks (RFC defined grammar), DNS validation, spell checks, and if available, Email Service Provider (ESP) specific local-part grammar.
+- [ChessBoardJS](http://chessboardjs.com/): ChessBoardJS by Chris Oakman is a standalone JavaScript chess board. It is designed to be "just a board" and expose a powerful API so that it can be used in different ways.
+- [Alpha transparency in Chrome video](http://updates.html5rocks.com/2013/07/Alpha-transparency-in-Chrome-video): Chrome Canary now supports video alpha transparency in WebM making it possible to play videos with transparent backgrounds.
 
 # Collective #73
+- [Inspirational Website of the Week](http://thecongress-movie.com/): Some nice transitions and an interesting layout are the reason we've picked the website of the movie "The Congress" as inspirational website of the week.
+- [DAUX.IO](http://daux.io/): Daux.io is a very useful documentation generator that uses a simple folder structure and Markdown files. It comes with a lot of features and it creates custom documentations on the fly. 
+- [Meet the Ipsums](http://meettheipsums.com/): A great place to meet all the "Ipsums" in a stylish way. Created by Tim Holman and Claudio Guglieri.
+- [Authentic Design](http://www.smashingmagazine.com/2013/07/16/authentic-design/): A wonderful article by Dmitry Fadeyev on the deeper meaning of the current "flat" design trend.
+- [Date for humans](http://matthewmueller.github.io/date/): Date by Matthew Mueller is an English language date parser for node.js and the browser.
+- [DevTools Snippets](https://github.com/bgrins/devtools-snippets): A collection of helpful snippets to use inside of browser development tools by Brian Grinstead.
+- [imagefill.js](http://johnpolacek.github.io/imagefill.js/): Imagefill.js is a useful jQuery plugin when working with responsive images/designs. It makes images fill their containers and be centered.Made by John Polacek.
+- [SculptGL](http://stephaneginier.com/sculptgl/): SculptGL by Stéphane Ginier is an amazing sculpting application powered by WebGL. It features dynamic subdivision, decimation, uniformization and adaptive sculpting.
+- [iOS 7 iPad (AI)](http://dribbble.com/shots/1157005-iOS-7-iPad-AI-Download): An amazing resource by Kim Ruelo: the iOS 7 iPad GUI as AI file with all the elements needed for creating a mockup.
+- [Looking Into the Future of Sass](http://davidwalsh.name/future-sass): Hugo Giraudel gives us an overview of all the cool new features coming to Sass.
+- [ChooseALicense.com](http://choosealicense.com/): Here you can find a great overview of the OSS licenses and which one is suitable for your project.
+- [Free Font: Verano](http://www.tipomatica.com/tipos/verano.html): A very relaxed and summerly font by Joan Alegret.
+- [Free Font: Summit](http://lisidesign.com/font/summit): A very elegant font inspired by geometric sans serifs made by Luke Lisi. You can download the font for free, but support is welcome.
+- [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/): Alan Greenblatt shows us how to apply SVG filters to achieve a variety of effects on images. If you are into convolution matrices this might be interesting to you.
+- [Filter Effects & Blend Modes](http://vimeo.com/70171265): Divya Manian talks about the exciting Filter Effects and Blend Modes. Don't forget to check out the slides too. 
+- [Free Font: FurFont](http://www.behance.net/gallery/FurFont/7742089): An interesting and unique typeface designed by Milya Ptitsyna.
+- [Animography](http://animography.net/): Animography.net is a webshop and typefoundry that provides motion designers, video editors and others in the field of the moving image with amazing animated typefaces. The typefaces are easy to use, customizable and scalable without any loss of quality.
+- [Understanding Sass lists](http://hugogiraudel.com/2013/07/15/understanding-sass-lists/): Another great, in-depth article by Hugo Giraudel on Sass lists, how to create and use them.
+- [Free Flat Vector Icons (PSD, AI, PNG)](http://medialoot.com/item/free-flat-vector-icons/): Some beautiful flat vector icons from MediaLoot designer Tony Thomas.
+- [RBush](https://github.com/mourner/rbush): RBush is a high-performance JavaScript library for 2D spatial indexing of points and rectangles by Vladimir Agafonkin. It is based on an optimized R-tree data structure with bulk insertion support.
+- [Remy Sharp's workflow with devtools #3: full coding stack](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/): In this video Remy Sharp shows how to use "workspaces" in Chrome's devtools to allow writing to files. 
+- [The Compass port of normalize.css](https://github.com/JohnAlbin/normalize.css-with-sass-or-compass): If you are using Sass/Compass then you'll find this port of normalize pretty useful which includes legacy IE support variables, CSS3 box sizing mixin and vertical rhythm mixins. Made by John Albin Wilkins.
+- [GitHub's on your phone](https://github.com/blog/1559-github-s-on-your-phone): Now you can visit GitHub with your mobile phone and get an optimized mobile web view.
+- [Hicons (PNG, AI)](http://happytodesign.com/hicons/): A sweet and useful icon set made with clean lines. Designed by Vlad from HappyToDesign.
 
 # Collective #72
+- [Inspirational Website of the Week](http://yourtour.withgoogle.com/en/): A great web experience to honor the 100th edition of the Tour of France. "Your Tour" is full of surprises and great examples of Google product uses. Our pick this week.
+- [Use your browser as Notepad](http://www.fizerkhan.com/blog/posts/Use-your-browser-as-Notepad.html): Ever thought about using your browser as an editor? Fizer Khan shows us how to do it by playing with the Data URI scheme and the contenteditable attribute.
+- [Chrome DevTools Revolutions 2013](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/): An excellent recap of Paul Irish's Google I/O 2013 talk "Chrome DevTools Revolutions 2013" on HTML5Rocks.
+- [The Illusion of Speed](http://youtu.be/bGYgFYG2Ccw): A short video of Steve Souders' cool Ignite presentation, "The Illusion of Speed", at Velocity 2013. Check out this Forbes article for a great summary.
+- [Choosing A Responsive Image Solution](http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/): Making your website responsive comes with a lot of challenges, one of them being how to handle images. Sherri Alexander explores some useful solutions for responsive images in this Smashing Magazine article.
+- [tabulous.js](http://git.aaronlumsden.com/tabulous.js): If you think that tabs are our of fashion and boring, think again and take a look at this stylish jQuery tabs module by Aaron Lumsden.
+- [Simple State Manager](https://github.com/jonathan-fielding/SimpleStateManager): Simple State Manager by Jonathan Fielding is a responsive state manager which allows you to target JavaScript at different browser widths.
+- [Why mobile web apps are slow](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/): Drew Crawford gets to the core of why mobile web apps are slow in this in-depth and detailed article. Good Sunday read!
+- [S Gallery: A Responsive jQuery Gallery Plugin with CSS3 Animations](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/): A gallery plugin by Sara Soueidan that makes use of HTML5's FullScreen API, CSS animations and transitions.
+- [JS Sequence Diagrams](http://bramp.github.io/js-sequence-diagrams/): A really awesome JavaScript library by Andrew Brampton that turns text into vector UML sequence diagrams using Jison to parse the text and Raphaël to draw the image.
+- [Free Font: Primary Sans](http://www.behance.net/gallery/Primary-Sans/9205391): Primary Sans is a sans serif typeface designed by Georgia Roussos as an appealing font for primary school children.
+- [Digging into my slides about Sass](http://hugogiraudel.com/2013/07/08/digging-into-my-slides-sass/): A great write-up by Hugo Giraudel about his recent talk at KiwiParty about the power of Sass.
+- [Getting started with CSS sourcemaps and in-browser Sass editing](https://medium.com/what-i-learned-building/b4daab987fb0): If you have seen the previously mentioned "Chrome DevTools Revolutions 2013" by Paul Irish and would like to dig into the Sass editing feature, then you'll find this tutorial by Tim Lucas really useful.
+- [UI Kit (PSD)](http://premiumpsds.co/?work=ui-kit): A beautiful PSD of a UI Kit by PremiumPsds for your next design.
+- [Just design](http://www.itsmegangray.com/just-design/#.UeJ1tz7F2PE): Megan Gray shares her experience and thoughts around the misconceptions of what the job of a designer is. A refreshing read.
+- [Surfing Icons (PSD)](http://wegraphics.net/downloads/surfing-icons-free-download/): A set of 12 pixel-perfect, scalable, flat icons from WeGraphics.
+- [Tab Bar Icons iOS 7 Vol2 (PSD, AI, EPS)](http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol2): The second volume of the great iOS7 styled tab bar icon set by Pixeden.
+- [Free Font: Lasco](http://www.behance.net/gallery/Lasco-FREE-FONT/9783599): Comic Sans, make way for this stylish successor! Lasco is an excellent, super-clean comic font by Lasko Dzurovski.
+- [Useful GitHub patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/): If you work a lot with GitHub you'll find these patterns really useful. Put together by Jake Benilov.
+- [Giphy: GIF Search Engine](http://giphy.com/): Finally a place where you can search for GIFs in style and "play" the GIFs only on hover.
+- [Free Font: Cittadino Symbols](http://www.behance.net/gallery/Cittadino-Symbols-Free-Font/9771223): Dmitry Goloub created this complete and free set of public transport icons as a font.
+- [So You Wanna Build a Crowdfunding Site?](https://hacks.mozilla.org/2013/07/so-you-wanna-build-a-crowdfunding-site/): Learn how to build a crowd-funding website in less than 300 lines of code in this tutorial by Nick Liow and Robert Nyman from Mozilla. 
+- [atMedia.info](http://atmedia.info/): @media.info by Knetik Media helps you to quickly and effectively identify required media queries for specific devices. 
 
 # Collective #71
+- [Inspirational Website of the Week](http://flandriatype.com/): This week's inspirational website "Flandria" is a beautiful example for presenting a typeface in a creative way. 
+- [ElementTransition.js](http://dan-silver.github.io/ElementTransitions.js/): A fantastic wrapper by Daniel Silver for our Page Transitions that allows you to use more than one animatable element per page and add transitions straight from HTML tags.
+- [CSS Balls](http://hop.ie/blog/balls/): A fantastic tutorial on how to style circles to look like realistic spheres by Donovan Hutchinson.
+- [Designers’ Friend Ltd.](http://designersfriend.co.uk/): A very original approach to designing a website by showing it's source and making it interactive. A fantastic website by Andy Mathieson.
+- [Sizing (Web) components](https://medium.com/p/8f433689736f): Changing the size of a framework component isn't always easy but we surely need to do it quite often. Simurai suggests a technique that will make things easier: using EM units for every CSS property that has a direct impact on a component's size and then simply resizing the font size.
+- [Voyeur.js](http://dunxrion.github.io/voyeur.js/): Voyeur is a very useful JavaScript library that lets you transverse and manipulate the DOM in a straightforward way.
+- [Long Shadow Generator](http://graphicburger.com/long-shadow-generator/): If you are enjoying the new long shadow trend and would like to try to design something with it, then this Photoshop style by GraphicBurger will come in very handy. It works with smart objects and is available for two directions at 45 degrees.
+- [Making a 60fps Mobile App](http://aerotwist.com/blog/making-a-60fps-mobile-app/): Paul Lewis shares his experience and thoughts on building a mobile app that runs at 60fps.
+- [Ultimate Free Icon Set: 1000 Free Icons](http://sixrevisions.com/freebies/icons/free-icons-1000/): A gigantic freebie created by Freepik.com for Six Revisions. It contains 1000 vector icons and it comes in PNG, EPS and AI.
+- [Free Font: Morden](http://www.behance.net/gallery/Morden-Free-Font/9600469): A very creative typeface following the current trends by Andrea Buttieri.
+- [Sketchplanations](http://www.sketchplanations.com/): Sketchplantations will explain you one thing each day in a sketch. Learn some really interesting things by visual explanation. 
+- [Side Projects](http://sideprojects.web3canvas.com/): An awesome collection of side projects of designers and developers around the world. Maintained by Surjith SM.
+- [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html): Marc Hinse shares his CSS-based solution for keeping the aspect ratio of elements on resize.
+- [A Few More Words on Accessible Dialogs/Modals](http://drublic.de/blog/accessible-dialogs-modals/): Hans Christian Reinl shares a function that allows tabbing through a modal dialog and keep the focus within the modal while it is active.
+- [The Modular Canvas: A Pragmatic Workflow for Designing Applications](http://www.jetcooper.com/blog/the-modular-canvas/): Gabriel O'Flaherty-Chan form Jet Cooper suggests a modular approach for a more efficient application design process.
+- [Free Font: Puzzle font](http://www.teresaarroyo.com/70496/1533022/design/puzzle-font): Teresa Arroyo shares this interesting puzzle font for free. You can download an editable PDF and use it freely.
+- [Progressive enhancement is still important](http://jakearchibald.com/2013/progressive-enhancement-still-important/): If you have seen the slides of Nicholas C. Zakas "Enough with the JavaScript already!" then you might be interested in Jake Archibald's thought on progressive enhancement.
+- [Writing DRYer vanilla CSS](http://csswizardry.com/2013/07/writing-dryer-vanilla-css/): Harry Roberts gives some tips on how to write DRYer CSS by following the principle of avoiding repeating the parts of your CSS that are most likely to change.
+- [Free Font: Mir Medium](http://www.myfonts.com/fonts/juliasys/mir/): Mir is a very interesting and unique typeface designed by Julia Sysmäläinen and you can get the medium weight for free.
 
 # Collective #70
+- [Inspirational Website of the Week](http://www.moresleep.net/): Moresleep is our inspirational website of the week because of the minimal color scheme and slick effects.
+- [Aristochart](http://dunxrion.github.io/aristochart/): Aristochart is an open source, highly customizable and flexible line charting library for canvas created by Adrian Cooney.
+- [Media Queries Are Not The Answer: Element Query Polyfill](http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/): Tyson Matanich has written a proof-of-concept polyfill for element queries, the possibly better long-term solution alternative to media queries. 
+- [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/): A very useful boilerplate for style guides with five different parts that will help you maintain consistency in your next project. Created by Brett Jankord.
+- [Free iOS 7 icons in vector](http://icons8.com/free-ios-7-icons-in-vector/): An amazing free set of 240 iOS 7 icons made by VisualPharm.
+- [Mobile Web Problems and How to Avoid Them](http://bradfrostweb.com/blog/post/mobile-web-problems/): Brad Frost gives some interesting insights on the most common mobile web problems collected over two years on "WTF Mobile Web".
+- [HTML5 Genetic Algorithm 2D Car Thingy](http://rednuht.org/genetic_cars_2/): A great demonstration of the power of genetic algorithms: this program uses a simple genetic algorithm to evolve random two-wheeled shapes into cars over generations. Written by Rafael Matsunaga using Box2D and Canvas.
+- [Mastering CSS Layout with Flexbox](http://www.sketchingwithcss.com/samplechapter/): Some great practical examples of flexbox layouts by Sean Fioritto from his upcoming book "Sketching with CSS".
+- [Contrailz](http://buff.ly/18fFJMP): An interesting visualization of flight paths over some large cities of the world.
+- [Face to GIF](http://hdragomir.github.io/facetogif/): Face to GIF is a fantastic little webapp that lets you record yourself and created infinitely looping GIFs.
+- [CSS Shredder](http://www.inserthtml.com/2013/06/css-shredder/): Johnny Simpson shows you how to create a fun CSS shredder with 3D transforms, animations and the clip property.
+- [Chance](http://chancejs.com/): Chance by Victor Quinn can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else. Very useful for creating some diversity while writing automated tests.
+- [Free Font: Quirky Nots](http://www.behance.net/gallery/Quirky-Nots-(Free-Font)/9550009): Quirky Nots is a fun and beautiful font designed by Amit Jakhu.
+- [Tactile Design Kit](http://tactiledesignkit.com/): The tactile design kit is a printable, interactive web design kit created to facilitate client conversation and brainstorming during the discovery and design phase.
+- [Free Font: Foresee ](http://www.behance.net/gallery/Foresee-Free-typeface/9514833): Foresee is a unique typeface for your next creative project by Arnaud Le Roux.
+- [Free Font: Hanoi Typeface](http://www.behance.net/gallery/Hanoi-Typeface-Free-Font/9511555): Hanoi Sleek by Alex Dale is a sharp display font with a unique touch.
+- [Promo – Flat Style Landing Page (PSD)](http://wegraphics.net/downloads/promo-flat-style-landing-page-psd/): Promo is a clean and flat landing page PSD template by Nathan Brown for WeGraphics.
+- [Cross-hatching GLSL shader](http://www.clicktorelease.com/code/cross-hatching/): An interesting cross-hatching GLSL shader made by Jaume Sanchez using three.js.
+- [yass.js: Yet Another SrcSet implementation](http://eightmedia.github.io/yass.js/): Yass.js is a light-weight, mobile-first standalone srcset implementation by J. Tangelder.
+- [Using SVG for sprites – a cautionary tale](http://adrianosmond.com/using-svg-for-sprites-a-cautionary-tale/): Adrian Osmond shares some insights on how SVG sprites can create more jank than PNG ones.
+- [FROONT: Visual responsive web design](http://froont.com/): A promising looking visual editor with a drag and drop interface for creating responsive websites.
+- [35+ Real Estate Logos ( Ai, Eps)](http://www.blugraphic.com/2013/06/25/35-real-estate-logos-ai-eps/): A great set of free real estate logo templates by blugraphic.
+- [Display PSD Theme](http://www.bestpsdfreebies.com/freebie/display-psd-theme/): A clean and minimal PSD website template with four different pages designed by Michael Reimer.
+- [Minimal UI Kit (PSD)](http://manoz.dunked.com/minimal-ui-kit): A very nice UI kit that was inspired by Google+. For your next minimal design project.
+- [PivotTable.js](https://github.com/nicolaskruchten/pivottable): PivotTable.js is a jQuery Pivot table library with drag and drop functionality. Made by Nicolas Kruchten at Datacratic.
+- [Long shadow design](http://je.roon.io/long-shadow-design): Read about an interesting new trend: long shadow design. Flatty, make way for this new kid on the block! An article by Jeff Escalante.
 
 # Collective #69
+- [Inspirational Website of the Week](http://toolofna.com/): Great typography, interesting layouts and subtle effects can be found on the website of "Tool of North America". Our pick this week.
+- [Progression.js](http://git.aaronlumsden.com/progression/): A very useful jQuery plugin that gives users real time hints and progress updates as they complete forms. Made by Aaron Lumsden.
+- [Adapting To A Responsive Design (Case Study)](http://mobile.smashingmagazine.com/2013/06/18/adapting-to-a-responsive-design-case-study/): Matt Gibson from Cyber-Duck gives some interesting insights on why they abandoned a separate mobile website and reviews their process of creating a new responsive design in this case study on Smashing Magazine.
+- [Working around a lack of element queries](http://filamentgroup.com/lab/element_query_workarounds/): An insightful article on some tentatives for solving the problem with media queries being relative to the browser window size and not to the element itself. A great discussion with some additional ideas follows. 
+- [Flippant.js](http://mintchaos.github.io/flippant.js/): Flippant.js by Christian Metts is a small library for flipping elements in 3D. It has no dependencies and it's easy to customize.
+- [Fontastic](http://fontastic.me/): If you are working with icon fonts then Fontastic will help you with a better workflow: an intuitive and beautifully designed interface will make all the steps for generating your custom icon font super easy.
+- [Sass & Compass Buttons](http://alexwolfe.github.io/Buttons/): Buttons by Alex Wolfe is a CSS button library built with Sass and Compass that you can easily customize.
+- [Add Narration to Your Slide Deck With HTML5 Audio](http://html5hacks.com/blog/2013/06/17/add-narration-to-your-slide-deck-with-html5-audio/): Kevin Lamping explains how to add your voice to your slide deck with HTML5 audio.
+- [Code Problems](https://github.com/blakeembrey/code-problems): A great collection of common code problems solved in JavaScript. It was created by Blake Embrey and you can contribute.
+- [Instant Server](http://instantserver.io/): If you need a virtual private server instantly for some quick testing then this is definitely the most uncomplicated option.
+- [Mini Mail Application (PSD)](http://www.premiumpixels.com/freebies/mini-mail-application-psd/): A pixel-perfect mini mail application mockup by Ionut Zamfir on PremiumPixels.
+- [Phoria 3D](http://www.kevs3d.co.uk/dev/phoria/): Phoria.js by Kevin Roast is a JavaScript library for simple 3D graphics on a canvas 2D renderer that does not use WebGL.
+- [200 Foodie Pack: A Free Set Of Food Icons](http://www.smashingmagazine.com/2013/06/17/foodie-icons/): Some really nice food icons by Freepik featured by Smashing Magazine. The icons come in the formats PNG, AI and EPS.
+- [Vectory mini free (PNG)](http://www.icojam.com/blog/?p=589): Vectory mini by Icojam is a free version of Vectory icons and includes 40×40 sized PNGs.
+- [Flat Browsers Set (PSD)](http://www.pixeden.com/psd-web-elements/flat-psd-browsers-set): A set of flat browsers including Chrome, Safari and Firefox by Pixeden.
+- [SVG Workflow for Designers](http://danielmall.com/articles/svg-workflow-for-designers/): Dan Mall explains how to create an efficient workflow for SVG as a designer.
+- [Free Font: Track type](http://fontfabric.com/track-free-font/): Tracks type is an all caps font inspired by railway tracks. It was designed by Gumpita Rahayu.
+- [Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): A great and useful list of frontend development resources that were collected over time by Dimi Navrotskyy. You can contribute as well and a website is planned.
+- [CSS Typography Cheat Sheet](http://www.newnet-soft.com/blog/csstypography): Some tips and insights around CSS typography by Sven Read.
+- [Free website PSD: GoodInc.](http://www.blazrobar.com/2013/free-psd-website-templates/free-psd-good-inc-free-website-design-psd-templates/): A beautiful, flat travel website blog design by Blaz Robar.
 
 # Collective #68
+- [Inspirational Website of the Week](http://one.htc.com/experienceit/index.html): An awesome zoom effect will make a visit to the "Experience the new HTC One" page a truly interesting experience. Our pick this week.
+- [Mason.js](https://github.com/DrewDahlman/Mason): An intruiging jQuery plugin by Drew Dahlman which lets you create gapless grid layouts.
+- [Introducing HTML Inspector](http://philipwalton.com/articles/introducing-html-inspector/): With HTML Inspector by Philip Walton you can easily test your markup in the browser and make sure its valid. You can also define your own rules and extend it.
+- [Cube Slam](https://www.cubeslam.com/): A great game that was build using WebRTC, the exciting open web technology that allows you to video chat with others in the browsers, withou the need for any plugin.
+- [The 100 Meter Scroll](http://the100meterscroll.com/): Let the fastest scroller win! On this website you can test your scrolling skills and scroll 100 meter or 283.500 pixels on time.
+- [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/): If you are a web developer then you are undoubtly using the web developer tools of your browser. This collections of useful "secrets" will give you more insight on developer tools and make your work easier. Curated by Andi Smith.
+- [DPI love](http://dpi.lv/): Easily find the DPI/PPI of any screen with this tool by Lea Verou.
+- [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/): In this in-depth tutorial, Sacha Greif shows us how to use Meteor to create a useful app in just 45 minutes.
+- [Flat Icons Brownie Theme (PSD)](http://dribbble.com/shots/1113492-Flat-Icons-Brownie-Theme): A beautiful flat "brownie" icon theme by Sunbzy. The icons in the PSD are pixel perfect and vector-based.
+- [iOS 7 GUI (PSD)](http://www.teehanlax.com/tools/ios7/): With this great GUI kit for Photoshop by Teehan+Lax you can start desiging iOS 7 apps right away. 
+- [Google Trends](http://www.google.com/trends/hottrends/visualize?nrow=10&ncol=10): A very cool way to experience the Google search trends around the world. Select the grid type in the little menu in the top left corner.
+- [Understanding 3D Transforms](http://dev.opera.com/articles/view/understanding-3d-transforms/): Tiffany Brown explains the CSS 3D transform properties and shows how to use them in this excellent and very detailed tutorial.
+- [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/): What are interfaces comprised of and how can we construct design systems in a more methodical way? Brad Frost's idea of "atomic design" tries to answer those questions.
+- [Image masking with HTML5 Canvas](http://christianheilmann.com/2013/06/15/image-masking-with-html5-canvas/): A little script by Christian Heilmann for image masking with the canvas element.
+- [Magic - CSS3 Animations with special effects](http://www.minimamente.com/magic-css3-animations/): A set of magical CSS animations for elements by Christian Pucci.
+- [Apple Mac Pro page deconstructed](http://ihatetomatoes.net/apple-mac-pro-page-deconstructed/): See how the showcase page of the new Mac Pro works and learn how they did it from this article by Petr Tichy.
+- [40+ Vector Ribbons (Ai, Eps)](http://www.blugraphic.com/2013/06/15/40-vector-ribbons-ai-eps/): This set by blugraphic is a fresh take on ribbons with a flat twist. You can download them for a tweet.
+- [Stop Doing Internet Wrong](http://www.hanselman.com/blog/StopDoingInternetWrong.aspx): Scott Hanselman shows some examples of how the Internet is done wrong and how it can be done right. A fruitful discussion follows.
+- [There's a map for that](https://github.com/blog/1528-there-s-a-map-for-that): GitHub's latest addition to their visualization family: geographic data. Any .geojson file in a GitHub repository will now be automatically rendered as an interactive, browsable map, annotated with your geodata.
+- [Free Font: ONTWERP](http://www.behance.net/gallery/ONTWERP-FREE-FONT/9266773): A unique display font by Emraan Mayow with interesting edges and multiple lines.
+- [Making Infield Form Labels Suck Less II](http://viget.com/inspire/making-infield-form-labels-suck-less-2): Bringing all the desireable properties of the inline form label together, Jeremy Fields from viget shows this minimal and user friendly solution.
 
 # Collective #67
+- [Inspirational Website of the Week](http://www.dieselblackgold.com/): Diesel Black Gold has a very interesting 3D menu and some creative effects. Our pick this week.
+- [Videry: Curated Videos For Web Designers](http://www.videry.me/): A great and inspiring collection of hand-picked videos for web designers to learn and get inspired.
+- [Popular UIs: Free PSDs of Popular Web Interfaces](http://lukechesser.github.io/Popular-UIs/): Popular UIs is a growing collection of popular web UIs reproduced in Photoshop for educational purposes.
+- [Unsplash](http://unsplash.com/): Get free, hi-resolution photos for your website from Unsplash. The collection is updated every ten days.
+- [Next Generation Web Layout: National Geographic Forest Giant](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/): Christopher Gammon takes you behind the scenes of the "National Geographic: Forest Giant" experiment that gives us a glimpse of the future of web layouts using CSS shaders.
+- [Forecast Font](http://forecastfont.iconvau.lt/): Talented Ali Sisk made Forecast Font, a web-font for creating multi-layered, multi-colored weather icons.
+- [Designing for Breakpoints](http://alistapart.com/article/designing-for-breakpoints): A great excerpt from Stephen Hay's new book "Responsive Design Workflow" where he writes about designing with major breakpoints in mind.
+- [Portal CSS](http://hop.ie/blog/portal/): A great tutorial where Donovan Hutchinson shows you how to create and animate a Portal-inspired scene using only CSS.
+- [Cikonss - Pure CSS Responsive Icons](http://cikonss.zzapwebdesign.com/): An interesting set of responsive, IE-friendly CSS-only icons by Milana Cap.
+- [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning): A useful collection of links to blog posts, articles, videos and more for getting started with and learning AngularJS by Jeff Cunningham.
+- [Clown Car Technique: Solving Adaptive Images In Responsive Web Design](http://coding.smashingmagazine.com/2013/06/02/clown-car-technique-solving-for-adaptive-images-in-responsive-web-design/): Learn more about Estelle Weyl's technique for serving adaptive images in responsive web designs using media queries within SVG.
+- [Horizontal Portfolio Layout with CSS3 Animations and jQuery](http://blog.sarasoueidan.com/horizontal-portfolio-layout/): In her latest tutorial, Sara Soueidan will teach you how to create a beautiful horizontal portfolio layout with cool hover effects.
+- [Free Font: Attentica 4F Ultra Light](http://fonts.4thfebruary.com.ua/attentica-4f/): A slick and elegant font designed by Sergiy Tkachenko.
+- [Free Flat Icon Set (PSD)](http://dribbble.com/shots/1104784-Free-Flat-Icon-Set): A stunning and creative take on flat icon design by Barry Mccalvey.
+- [CSS: reset or normalize?](http://the-pastry-box-project.net/oli-studholme/2013-june-3/): Oli Studholme dives into the topic of CSS normalisation, what its advantages are and how it's different from CSS resetting.
+- [HTC One and Galaxy S4 (PSD)](http://dribbble.com/shots/1104725-HTC-One-and-Galaxy-S4-PSD): Some lovely smartphone mockups by Bluroon in PSD format.
+- [Avenir: A Free Coming Soon HTML Template](http://wegraphics.net/downloads/avenir-a-free-coming-soon-html-template/): An elegant and modern "Coming Soon" template by Nathan Brown for WeGraphics.
+- [Free iPhone Mockup (PSD)](http://dribbble.com/shots/1101808-Free-iPhone-Mockup-PSD-White): A beautiful "Hand with iPhone" mockup by Joe Mortell for your next project.
+- [Case Study: Inside World Wide Maze](http://www.html5rocks.com/en/tutorials/casestudies/world_wide_maze/): Peek behind the scenes of World Wide Maze, a game that uses great HTML5 features.
+- [easel.ly: Create and share visual ideas online](http://www.easel.ly/): An interesting site where you can create and share your visual ideas. 
+- [Google Visual Assets Guidelines](http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077): Take a look at part 1 of the visual summary of the guidelines of Google's visual assets.
+- [Unicode Character Table](http://unicode-table.com/en/): A fantastic reference for unicode characters, all in one page with useful info on range, languages and more.
+- [Textual Motion Blur](http://rmcmillan.net/labs/motionblur): A great demo by Ross McMillan where text is blurred on scroll. Use Chrome or Firefox to see the effect (not mobile).
+- [Free Font: Tenso Regular](http://www.exljbris.com/tenso.html): From the foundry that brought you epic fonts like Museo comes yet another beautifully crafted typeface: Tenso. Get the regular style for free.
 
 # Collective #66
+- [Inspirational Website of the Week](http://www.rezo-zero.com/): Lovely color, interesting typography and smooth page transitions make REZO ZERO our pick this week.
+- [The State Of Responsive Web Design](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/): An excellent in-depth article by Stéphanie Walter on the current state of responsive web design, what's possible now and what will be in the future, and what needs to be improved.
+- [Tourist.js](http://easelinc.github.io/tourist/): Tourist.js by easel.io is a simple library for creating guided tours through your app. It's best suited for complex, single-page apps rather than websites. 
+- [React - A JavaScript library for building user interfaces](http://facebook.github.io/react/index.html): React by Facebook is a JavaScript library for building user interfaces. It uses a declarative paradigm, it computes the minimal set of changes necessary to keep your DOM up-to-date, and it works with the libraries and frameworks that you already know.
+- [Pure](http://purecss.io/): Pure is a set of minimal, responsive CSS modules by Yahoo. It's a minimal CSS foundation that allows easy adaption.
+- [Colourco.de](http://colourco.de/): A great tool for picking HSL colors. You can use different color rules like monochromatic, analogic, complement, triad and quad colors.
+- [The Playground Vector Animation Process](http://playgroundinc.com/blog/the-playground-vector-animation-process/): If you'd like to look behind the scenes of the awesome SVG animations of Playground, then we recommend this article series that explains the process. 
+- [The Inspiration Stream](http://veerle.duoh.com/inspiration): If you are searching for high-quality inspiration sources then you should check out the Inspiration Stream on Veerle Pieters' blog. You will find carefully hand-picked design gems that will get your creative juices flowing.
+- [Criticue - Get Feedback for Your Website](http://criticue.com/): Criticue has an awesome peer review concept for websites: submit your feedback and get some back in return.
+- [Ladda](http://codepen.io/hakimel/full/gkeha): Ladda by Hakim El Hattab is a UI concept which merges loading indicators into the action that invoked them. 
+- [jQuery Unveil](http://luis-almeida.github.io/unveil/): jQuery Unveil by Luís Almeida is a light-weight version of Lazy Load with support for serving high-resolution images to devices with retina displays.
+- [gif.js](http://jnordberg.github.io/gif.js): Gif.js by Johan Nordberg is a JavaScript GIF encoder that runs in your browser.
+- [Countable.js](http://radlikewhoa.github.io/Countable/): Countable is a very useful JavaScript function to add live paragraph-, word- and character-counting to an HTML element. Countable is a small, zero-dependency library  developed by Sacha Schmid.
+- [jQuery Resizable Columns](http://dobtco.github.io/jquery-resizable-columns/): A great plugin for resizing columns of tables. Grab the column headers in the demo (hover in between columns) and drag them to see it in action.
+- [Free Font: Merula Font](http://www.behance.net/gallery/Merula-Font/8893213): Merula typeface is a free font designed by Frank Hemmekam and inspired by Futura. 
+- [How GitHub Uses "Deprivation Testing" To Hone Product Design](http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design): Read about how GitHub uses a brand-new method of UX testing in this interesting interview with Chrissie Brodigan by Chris Dannen.
+- [Free Font: Chomp!](http://www.behance.net/gallery/Chomp-Typeface/8979307): A very interesting typeface designed by Bayley Design and available for free.
+- [Poster Frame Mockups (PSD)](http://www.blugraphic.com/2013/05/27/poster-frame-mockups-psd-vector/): A fantastic mockup collection of PSD poster frames illustrated and designed in Photoshop, Illustrator and 3D Studio Max by blugraphic.
+- [SketchMine](http://sketchmine.co/): Sketchmine is a collection of free .sketch files designed by the Sketch community. Curated by Maxime Cormier.
+- [Webfonts.info](http://www.webfonts.info/): If you're interested in getting some inspiration for web fonts usage then you'll find this gallery interesting: it is a well-curated MyFonts webfonts showcase.
+- [Logos In Pure CSS](http://www.bchanx.com/logos-in-pure-css-demo): Controversial or not, this collection of CSS logos by bchANx is definitely worth checking out.
+- [Lazy.js](http://dtao.github.io/lazy.js/): If you have used Underscore or Lo-Dash then you definitely should check out Lazy.js, another great utility library for JavaScript that uses lazy evaluation.
+- [Flat UI Kit (PSD)](http://dribbble.com/shots/1083847-Flat-UI-Kit-Free-PSD): Devin Schulz designed this beautiful flat UI kit that you can download for free.
 
 # Collective #65
+- [Inspirational Website of the Week](http://findandform.com/): Find and Form won our hearts this week because of their really nice hover effects, the clean typography and simplicity.
+- [Picksum Ipsum - Movie Lorem Ipsum Text Generator Alternative](http://www.picksumipsum.co.uk/): A fresh new dummy text generator with lines from some of the hardest Hollywood legends. Made by Creare.
+- [Screensiz.es](http://screensiz.es/): A super-useful collection of screen specifications of the most popular devices and monitors currently on the market. Made by Type/Code.
+- [CSS Tube Map](http://www.csstubemap.co.uk/): The CSS Tube Map is an absolutely fantastic HTML5/CSS/JS replica of the London Underground network diagram. It was created by talented John Galantini.
+- [Minimalect](http://groenroos.github.io/minimalect/): Oskari Groenroos created this jQuery plugin for replacing select elements with a nicely styled control element.
+- [Color Swatches](http://maxmackie.com/jquery.swatches/): A great jQuery plugin by Max Mackie that turns a single div into a lovely color palette. On hover, the HEX color code shows. 
+- [Css Tv: Css News](http://css.tv/): If you'd like to browse through the latest blog articles related to CSS, then you'll find Css Tv interesting. 
+- [Fizzy-Cam](http://tholman.com/fizzy-cam/): Tim Holman's next stroke of genius: Fizzy-Cam. It uses WebGL with three.js, custom WebGL shaders, WebRTC and headtrackr.
+- [Reactive CSS Transitions](http://codepen.io/kindofone/full/rGcfs): A wonderful pen by Yogev Ahuvia: each block reacts to its neighbors by transforming its border-radius and color.
+- [Free Font: Rispa](http://www.behance.net/gallery/Rispa-Regular-Typeface/8803693): A really beautiful and interesting display typeface by Konrad Bednarski. You can download a free test version with basic glyphs. 
+- [Beat Petite](http://stuartmemo.com/beat-petite/): Beat Petite by Stuart Memo is a sample-free drum machine made with the Web Audio API.
+- [Easy Responsive Tabs to Accordion](https://github.com/samsono/Easy-Responsive-Tabs-to-Accordion): Samson Onna created this jQuery plugin for responsive tabs which will adapt to any screensize and change to an accordion when needed.
+- [Pure CSS3 Lightsaber Checkboxes](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes): These are definitely the most creative and geeky checkboxes you'll come across these days: lightsaber checkboxes! Made by Nicholas Cerminara from Scotch.io.
+- [Thin Stroke Icons (PSD)](http://dribbble.com/shots/1079999-Thin-Stroke-Icons): A lovely set of thin stroke icons by Victor Erixon.
+- [Clipping Magic](http://clippingmagic.com/): Clipping Magic is a really useful tool for removing backgrounds and clipping images. If you need a quick clip, this will definitely be interesting to you.
+- [Anchorify.js](https://github.com/willdurand/anchorify.js): Anchorify.js by William Durand is a dead simple jQuery plugin for automatically creating anchored headings in your HTML documents. It guarantees uniqueness of the anchor names, and is able to reuse existing IDs. 
+- [Free Font: MNSTR](http://www.myfonts.com/fonts/gaslight/mnstr/): An impact-full display typeface for posters and headlines by Roman Shchyukin.
+- [Free Weather Vector Icons (AI, EPS)](http://simonlockyer.info/free-weather-vector-icon-pack/): A set of fine and creative weather icons designed by Simon Lockyer.
+- [Cosmo mini free (PNG)](http://www.icojam.com/blog/?p=550): A very nice icon set by Icojam. It's a free version of Cosmo icons and it includes a large set of PNGs. 
+- [Designing CSS Layouts With Flexbox Is As Easy As Pie](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/): In this Smashing Magazine article David Storey explains how to easily use flexbox for solving once complicated centering problems. Flexbox FTW!
+- [Infinite: A Design Blog Template HTML/CSS](http://wegraphics.net/downloads/infinite-a-design-blog-template-htmlcss/): A small and sweet HTML/CSS template for a design blog. Featuring a clean layout based on jQuery Masonry and infinite scroll. Created by Nathan Brown.
+- [Kosmos](https://github.com/judnich/Kosmos): Kosmos by John Judnich allows you to explore a computer-generated 3D universe from your browser. This virtual universe is extremely vast, containing trillions of stars, planets, and moons to explore. Note that this needs extensive WebGL support and might not work well or at all on Windows machine browsers. Please read the system requirements.
+- [Free Font: Volantene Script](http://www.myfonts.com/fonts/catharsis-fonts/volantene-script/): Volantene Script by by Catharsis Fonts (Christian Thalmann) is a fully equipped display typeface inspired by the fine penmanship of Lady Talisa Maegyr-Stark. It comes with an extensive character set and OpenType features like ligatures and contextual alternates.
+- [Minimal Outline Icons (PSD)](http://www.premiumpixels.com/freebies/minimal-outline-icons-psd/): A delicate icon set by Martin Maričák for Premium Pixels. The download includes the icons at 64px and 32px sizes, along with the original PSD. 
+- [Free Font: Qubu Light](http://www.myfonts.com/fonts/hoftype/qubo/): Dieter Hofrichter designed another stunning new typeface and offers the light style for free.
 
 # Collective #64
+- [Inspirational Website of the Week](http://playgroundinc.com/): Playground Inc. is our pick this week because of their stunning SVG animations.
+- [Common Patterns in Styleguides, Boilerplates and Pattern Libraries](http://blog.cloudfour.com/common-patterns/): Following Dave Rupert's idea of "Tiny Bootstraps, for Every Client", Tyler Sticka from Cloud Four creates an incredibly useful spreadsheet which documents common patterns in existing frameworks.
+- [JavaScript Regular Expression Enlightenment](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment): Cody Lindley has put together this essential and excellent guide for JavaScript regular expressions.
+- [Polymer](http://polymer-project.appspot.com/): If you are excited about Web Components (you should be!) then you'll definitely be interested in this promising library.
+- [Providing The Best Mobile User Experience Possible](http://mobile.smashingmagazine.com/2013/05/14/providing-the-best-mobile-user-experience-possible/): Luca Passani gives us some great insights and tips on how to make the mobile user experience better.
+- [Codeblock.js](http://filepicker.github.io/codeblock.js/): Codeblock.js is a jQuery plugin for creating editable and runnable blocks of JavaScript code. This is especially useful for demos and API documentation.
+- [Design & Code (PSD)](http://diogodantas.com/designcode): Diogo Dantas created this clean and elegant PSD website template. Great for customization and soon available coded in HTML & CSS.
+- [GUIFFF](http://guifff.com/): GUIFFF is a collection of animated GIF Dribbble shots. Absolutely superb for some fresh interaction inspiration.
+- [Label.css](http://usablica.github.io/label.css/): Label.css is a smart little style sheet that will make labeling any element a breeze. Made by Hossein Emrani.
+- [Intention vs. Interpretation: What Matters?](http://www.uxbooth.com/articles/intention-vs-interpretation-what-matters/): Thomas Wendt dives into the concept of meaningful user experience and explains the importance of understanding the interplay between designer intention and user interpretation.
+- [Fitgrd Responsive Grid](http://www.fitgrd.com/): Fitgrd is a light-weight responsive grid foundation for rapid prototyping built by abteilungweb.
+- [Multiple Select](http://wenzhixin.net.cn/p/multiple-select/): Multiple Select is a jQuery plugin that will create a check-box based select multi-select element.
+- [20 tips for building modern sites while supporting old versions of IE](http://www.modern.ie/en-us/cross-browser-best-practices): Dave Methvin and Rey Bango give us a great overview of some useful best practices for developing modern websites while supporting old versions of Internet Explorer.
+- [WAAX (Web Audio API eXtension)](https://github.com/hoch/waax): WAAX is an experimental JavaScript library for music and audio programming built on top of Web Audio API in Chrome.
+- [Flat Icons (PNG)](http://www.iconshock.com/icon_sets/flat-icons/): A huge set of flat-style icons from iconShock. You can get a free download link by signing up with your email address.
+- [Free Font: Yuma](http://www.behance.net/gallery/Yuma-Typeface/8758599): Yuma is an interesting, experimental font inspired by traditional Navajo textiles. Designed by Gumpita Rahayu.
+- [24 Flat Icons (PSD)](http://www.premiumpixels.com/freebies/24-flat-icons-psd/): Some really beautiful flat icons designed by Jan Dvořák for Premium Pixels.
+- [Handy Sass Mixins](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/): If you are using Sass, you'll definitely find these handy mixins by Jake Bresnehan interesting for your next project.
+- [On Scroll Device Changing](http://codepen.io/P233/full/LCBby): Talented Peiwen Lu created this cool pen that changes the devices on scroll.
+- [CSS only 3d Macbook Air](http://codepen.io/neoberg/full/istyp): A awesome pen by Burak Can of a CSS-only MacBook Air with animation.
+- [Free Vector Device Icon Pack (PSD)](http://wegraphics.net/downloads/free-vector-device-icon-pack/): A set of pixel-perfect popular media devices by Nathan Brown for WeGraphics.
+- [Free Font: Cool Weekdays](http://www.myfonts.com/fonts/myhandwritings/cool-weekdays/): Roland Hüse designed this packages inspired font and offers the thin italic style for free.
+- [7Min: A Quick Workout Timer](http://7-min.com/): And now it's time to get off your lazy programmer's butt and work out! You can do it in style with the help of this brilliant 7 minute workout timer.
 
 # Collective #63
+- [Inspirational Website of the Week](http://www.designembraced.com/): The clean and smart portfolio by creative/art director and designer Anthony Goodwin is our pick this week.
+- [Slides: Create and share beautiful presentations](http://slid.es/): With Slides (formerly rvl.io) you can create and share beautiful presentations for free. It is built by Hakim El Hattab and Owen Bossola.
+- [Hoverboard - Beautiful portfolios for designers & coders](http://hoverboard.io/): If you'd like to try a new and fresh way of showcasing your work and your thoughts than you'll like Hoverboard.
+- [CSS Modal](http://drublic.github.io/css-modal/): Hans Christian Reinl developed these perfectly accessible and responsive CSS-only modals.
+- [Map Icons Designer](http://www.webiconset.com/map-icons/): Map Icons Designer is a set of 200 amazing map icons in PSD Vector Shape & PNG format. They can be used as Google Map Icons, Location Markers or Point of Interests (POI) on any map.
+- [Free eBook: The Smashing Editor's Choice](http://www.smashingmagazine.com/2013/05/07/smashing-editors-choice-free-ebook/): "The Smashing Editor's Choice: A Smashing Library Treat" is a free eBook by Smashing Magazine that contains a wide range of topics, including new coding techniques, user experience strategies, responsive design and mobile solutions by some great authors.
+- [Spread](http://codepen.io/MathiasPaumgarten/full/ydipI): In this pen by Mathias Paumgarten you can cause a Origami-like plane creation with a click (or more).
+- [GitHub ArchiveRoom](http://archiveroom.net/): GitHub ArchiveRoom is a very impressive 3d visualization of whole GitHub archives. It is developed by Vlad Filippov.
+- [How To Avoid Duplicate Downloads In Responsive Images](http://mobile.smashingmagazine.com/2013/05/10/how-to-avoid-duplicate-downloads-in-responsive-images/): David Newton explores some issues of the fallbacks for the new <picture> element and shows how to solve them.
+- [fartscroll.js](http://theonion.github.io/fartscroll.js/): Just for fun by the Onion: let your website emit some fart noises as you scroll!
+- [Two.js](http://jonobr1.github.io/two.js/): Two.js is a two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
+- [Flat iPhone 4/5 Mockups (PSD)](http://www.premiumpixels.com/freebies/flat-iphone-45-mockups-psd/): Josh Laincz created this set of beautiful flat iPhone 4 and 5 mockups for Premium Pixels. 
+- [Free Font: Valkyrie](http://www.behance.net/gallery/Valkyrie-Free-Type-Family/8574721): Valkyrie is an exquisite serif type family that is especially suitable for fashion-related design. It was designed by Hendrick Rolandez.
+- [Sketch Icons (Freebie)](http://dribbble.com/shots/1063118-Sketch-Icons-Freebie): Brett Jones shows what great work can be done with Sketch 2 and offers this lovely icon set for free on Dribbble.
+- [Adobe Explores the Future of Responsive Digital Layout with National Geographic Content](http://blogs.adobe.com/webplatform/2013/05/06/adobe-explores-the-future-of-responsive-digital-layout-with-national-geographic-content/): CSS Shaders are really exciting and Adobe shows their power in a digital layout experiment with some great content from National Geographic. Note that you'll need Chrome Canary installed and properly configured in order to see the awesome effects.
+- [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/): Learn how you can improve runtime performance by preventing unnecessary paints in your website in this insightful article by Paul Lewis for HTML5Rocks.
+- [Free Font: Before Breakfast](http://www.simonstratford.com/before-breakfast/): Simon Stratford offers this charming handwritten font that he designed just before breakfast using the iFontMaker app.
+- [Free Font: Idealist Sans](http://www.myfonts.com/fonts/glen-jan/idealist-sans/): Elena Kowalski designed this clean and modern display font and you can download the light and the regular styles for free.
+- [Mini AJAX File Upload Form](http://tutorialzine.com/2013/05/mini-ajax-file-upload-form/): Martin Angelov from Tutorialzine shows how to create a nice AJAX file upload form in this great tutorial.
+- [Naked WordPress](http://bckmn.com/naked-wordpress/): Naked WordPress is a naked, commented WordPress theme for designers who don't really want to deal with WordPress or for coders who want guidance for the structure.
+- [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE): Addy Osmany will show you some great features of Chrome DevTools like Workspaces that is great for developing applications.
+- [Ghost: Just a Blogging Platform](http://tryghost.org/): Ghost looks like a very promising Open Source blogging platform. It could be the next great writing engine, and you can back the project on Kickstarter.
 
 # Collective #62
+- [Inspirational Website of the Week](http://worldbakingday.com/): World Baking Day is a beautifully designed website with a smart organization of content, lots of interesting effects and some fancy page transitions.
+- [Here is today](http://hereistoday.com/): This site will put your notion of where today is into perspective. With some sleek animations the day of today is being positioned on a scale to provide some insight of the age of earth, life and the universe. Made by Luke Twyman from Whitevinyl.
+- [Browser Usage/Feature Statistics](http://btoe.ws/browserstats): This application made by Ben Toews takes data from caniuse.com and presents it in a pack chart powered by D3 for visualizing browser support of features. 
+- [Gallery CSS](http://benschwarz.github.io/gallery-css/): Ben Schwarz made this CSS for a simple gallery carousel; no JavaScript needed, you only need to use the styles and build your gallery with it.
+- [Magnific Popup, A Truly Responsive Lightbox (For jQuery And Zepto.js)](http://coding.smashingmagazine.com/2013/05/02/truly-responsive-lightbox/): Magnific Popup is an open-source responsive lightbox plugin created by Dmitry Semenov. Read the article to get an idea of how it was build and learn about the features.
+- [Zelda: A Link to the CSS](http://flippinawesome.org/2013/04/29/zelda-a-link-to-the-css/): Donovan Hutchinson recreated part of the opening sequence of "Zelda: A Link to the Past" using HTML and CSS only.
+- [MixItUp - A CSS3 and JQuery Filter & Sort Plugin](http://mixitup.io/): MixItUp is a light-weight but powerful jQuery plugin that provides beautiful animated filtering and sorting of categorized and ordered content. It plays nicely with your existing HTML and CSS, making it a great choice for fluid, responsive layouts. 
+- [Dookie](http://labs.voronianski.com/dookie-css/): Dookie by Dmitri Voronianski is a CSS library that is built on top of the Stylus preprocessor and it provides a couple of useful mixins, utilities and functions.
+- [Mandolin Man](http://b.illbrown.com/mandolin/): Play the mandolin with your keyboard on this great website created by Bill Brown.
+- [Free Flat Icons](http://dribbble.com/shots/1054478-Free-Flat-Icons): Jan Dvořák created this lovely set of free flat icons.
+- [Itch A Skitch - HTML5 Canvas Powered Etch A Sketch](http://itchaskitch.com/): Itch A Skitch is an HTML5 canvas powered Etch A Sketch. Itch your skitch with your keyboard, save it, and share it. It was developed by Jack Rugile .
+- [Shape Shifter](http://codepen.io/stuffit/full/HoyAD): Shape Shifter is a fantastic canvas experiment by Kenneth Cachia. Make sure to check out all the different demos.
+- [Free Font: Distorted Fashion](http://www.behance.net/gallery/Distorted-Fashion-Free-Font/8441641): Distorted Fashion is an interesting free font by Scribblez Grafix. It's uppercase only and designed for magazine display use.
+- [Infinite Scrolling: Let's Get To The Bottom Of This](http://uxdesign.smashingmagazine.com/2013/05/03/infinite-scrolling-get-bottom/): In this Smashing Magazine article, Yogev Ahuvia goes to the bottom of the infinite scroll, it's advantages and it's downsides, and how to use it properly.
+- [Intern: A next-generation JavaScript testing stack](http://theintern.io/): Intern, from SitePen Labs, combines all the best features from various testing tools (plus a few new ones of their own) into a single, versatile, easy-to-use, standards-based browser testing stack for JavaScript.
+- [Free Colorful Icons (PSD)](http://dribbble.com/shots/1053792-Free-Colorful-Icons): Michael Dolejš shares this colorful and flat icon set for free.
+- [Where Does My Tweet Go?](http://wdmtg.com/): A beautiful web app by MFG Labs to visualize the spreading of a tweet.
+- [Retinize It](http://retinize.it/): Artiom Dashinsky created these useful Photoshop actions for preparing designs for iOS or optimized for Retina-display websites.
+- [Embedding Canvas and SVG charts in emails](http://mir.aculo.us/2013/04/30/embed-canvas-and-svg-charts-in-emails/): Thomas Fuchs shares his experience on how they managed to embed Canvas and SVG charts in the weekly report emails of Freckle Time Tracking.
+- [iio Engine: an Interactive App Framework for HTML5 built with Canvas & JavaScript](http://iioengine.com/): The iio Engine by Sebastian Bierman-Lytle is a JavaScript framework that streamlines the development of HTML5 applications. The core platform is open source, and free to use and extend for any purpose.
+- [Free Font: Espuma Pro Regular](http://www.myfonts.com/fonts/konstantynov/espuma-pro/): Designed by Andriy Konstantynov, Espuma Pro is a soft and friendly humanist sans-serif font family with a strong calligraphic aftertaste. The regular style is for free.
+- [Free Font: Myra Caps](http://www.myfonts.com/fonts/4thfebruary/myra-4f-caps/): Myra Caps is a unique and free font designed by Sergiy Tkachenko.
 
 # Collective #61
+- [Inspirational Website of the Week](http://www.adamhartwig.co.uk/): Adam Hartwig's website is just an explosion of creativity; it's incredible fun to explore it. Our favorite this week.
+- [Web Colour Data](http://webcolourdata.com/): An excellent tool to discover the colors of a website and get a better insight on what colors are used in which types of design. Made by Ri Liu and Bo Jeanes.
+- [Thank God We Have A Specification!](http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/): Rodney Rehm puts together a collection of useful things to know about CSS transitions, the quirks and issues and some tips on how to avoid the pitfalls.
+- [Infographic Design Process](http://veerle.duoh.com/design/article/the_design_process_of_my_infographic_about_women_cycling_for_grinta): Veerle Pieters gives us some inspiring insight on her work process using one of her latest infographic projects. A great read for any graphic designer.
+- [The Nature of Problems](http://frankchimero.com/blog/2013/04/the-nature-of-problems/): Read about the very nature of problems, the (wrong) ideas that we have about them and how important it is to recognize them for what they are, in this article by Frank Chimero.
+- [Bklyn Icon Set](http://www.behance.net/gallery/Bklyn-Icon-Set-Free-download/8326439): Bklyn is a free little icon set that symbolizes contemporary Brooklyn culture. It was designed by Gulay Inceoglu.
+- [Editr](https://github.com/Idered/editr): Editr by Kasper Mikiewicz is an open-source, ACE based HTML, CSS and JavaScript playground that you can easily setup and host on your server.
+- [Free Font: Verb Condensed Extralight](http://www.myfonts.com/fonts/yellow-design/verb-condensed/): Verb Condensed from Yellow Design Studio is a modestly condensed version of the original Verb family, taking on more classic sans-serif proportions. You can get the Extralight style for free.
+- [Animating with Physics](http://taybenlor.com/2013/04/19/animating-with-physics.html): Ben Taylor talks about the difference between classic UI animations and the use of a physics engine to simulate more real animations in applications.
+- [Your First Backbone.js App – Service Chooser](http://tutorialzine.com/2013/04/services-chooser-backbone-js/): In this tutorial by Martin Angelov you can learn how to create a service chooser form with Backbone.js which lets you choose a set of items from a list.
+- [Clown Car Technique for Responsive Images](https://github.com/estelle/clowncar): A brilliant and interesting technique by Estelle Weyl for serving responsive images using SVG and media queries.
+- [Flexgrid: a flexbox-based CSS grid](http://ptb2.me/flexgrid/): Flexgrid is a promising looking, next-generation web page layout framework based on flexbox. It uses the same responsive 12 column grid and CSS class names as Bootstrap.
+- [Understand CSS Background Size](http://codepen.io/herihehe/full/aLwGt): A very useful demo by Heri Setiawan that will enlighten you on how background-size and background-position work.
+- [Creating a Radial Menu in CSS](http://dabblet.com/gist/3979221/cb69c5e8ccf0745fff2c94b47b27b108931f1a15): Ana Tudor's created this radial menu with some wicked CSS techniques.
+- [Hyperspace](http://codepen.io/noahblon/full/GKflw): Noah Blon catapults you through space with Warp speed in this awesome pen.
+- [Responsive Inspector](https://chrome.google.com/webstore/detail/responsive-inspector-beta/memcdolmmnmnleeiodllgpibdjlkbpim?hl=en): A Chrome extension for visually inspecting media queries and toggling breakpoints by Piotr Walczyszyn and Filip Łysyszyn.
+- [Snap.js](https://github.com/jakiestfu/Snap.js): Snap.js is an excellent library by Jacob Kelley for creating beautiful mobile shelfs in JavaScript. Check out the demo and drag to the sides to reveal the menus.
+- [Spring Time Icon Pack (AI)](http://dribbble.com/shots/1041308-Spring-Time-Icon-Pack): A beautifully designed set of spring time icons made by Zachary VanDeHey.
+- [Freebie: Flat iOS Icons (PSD)](http://dribbble.com/shots/1038478-Flat-iOS-iCons-PSD-Freebie): Thomas Giavarini created this set of pixel-perfect flat iOS icons.
+- [jQuery Annotated Source](http://robflaherty.github.io/jquery-annotated-source/): Dig deep into the source of jQuery with this fantastic book-like way of showing the source code. Made by Rob Flaherty.
+- [Pocket Pictograms](http://www.edharrisondesign.com/pocketpictograms/): A beautiful collection of illustrations by Ed Harrison based on pocket-sized objects presented in an interesting way.
+- [Cake](http://codepen.io/fixcl/full/nKFDr): Marco Barría created this super-cute cake with a fantastic, animated candle flame in Codepen.
+- [Free Font: Weather Icon Font](http://fonts.artill.de/collection/artill-weather-icons): Some really nice and clean weather icons that can be used freely in non-commercial projects. Made by Lukas Bischoff.
+- [Free Font: Estragon Free](http://www.myfonts.com/fonts/stabenfonts/estragon-pro/): Estragon, designed by Johannes Steil, is a vivid sans-serif text face with venetian influences, suitable especially for books. There is a free version available.
 
 # Collective #60
+- [Inspirational Website of the Week](http://www.paperandpaint.dk/): Paper & Paint redefines scrolling effects but adding subtle movements to images. A smooth experience with a great design.
+- [jQuery 2.0 Released](http://blog.jquery.com/2013/04/18/jquery-2-0-released/): The arrival of jQuery 2.0 is an epic milestone: reduced size, no more support for IE6/7/8, custom builds for even smaller files and more.
+- [WireKit: iPhone App Wireframing Kit](http://dribbble.com/shots/1029485-WireKit-An-iPhone-App-Wireframing-Kit): Adam Whitcroft created this excellent wireframe kit with the most common UI elements from an iPhone 5.
+- [shame.css](http://csswizardry.com/2013/04/shame-css/): Harry Roberts suggests to separate nasty, hacky, quick-fix CSS from all the well-defined CSS rules and add it to a shame.css that can then be worked on and cleaned. Just brilliant!
+- [Free Font: Bamq](http://www.behance.net/gallery/Bamq-Typeface-Free-download/8173553): A beautiful and unique typeface design by Gulay Inceoglu inspired by the modern minimalist architecture.
+- [Flexy Boxes](http://the-echoplex.net/flexyboxes/): Flexy Boxes is a very useful flexbox playground and code generator by Pete Boere.
+- [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/): A great compilation of the pseudo-elements to style form controls by TJ VanToll.
+- [Verlet-JS](http://subprotocol.com/verlet-js/): Verlet-JS a simple Verlet integration physics engine written in JavaScript by Sub Protocol. Check out the examples to see it in action.
+- [The Tragedy of Perfectionism](http://schifter.me/perfectionism/): A very inspiring read by Magnus Schifter-Holm about the fabric of perfectionism. If you are interested in entrepreneurial philosophy you'll definitely like this article.
+- [bluePen CSS Editor](http://bluepeneditor.com/): With bluePen you can edit your website's CSS online in real time and save your modifications.
+- [Pure CSS3 breadcrumb navigation](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation): A great walkthrough on The Code Player of a pure CSS3 breadcrumb navigation.
+- [Animating flexboxes: the lowdown](http://dev.opera.com/articles/view/animating-flexboxes-the-lowdown/): Chris Mills plays around with flexboxes, animations and transitions and shares his insights in this tutorial.
+- [Wired 1.0](http://yo.pixxel.co/): Wired is a wireframe kit for sketch app including a .png and .eps kit for everyone else. Created by Mark Collins.
+- [Vexel - Redraw any image with pure CSS!](http://lvivski.com/vexel/): Did you know that you can create quite impressive pixel re-creations of any image just with CSS? Try this fun tool and see how.
+- [FlexNav - Flexible, Device Agnostic Navigation](http://jasonweaver.name/lab/flexiblenavigation/): FlexNav is a jQuery Plugin for responsive menus that makes using complex site navigation easy.
+- [flatApples (PSD)](http://dribbble.com/shots/1032646-flatApples-download): Some nice, flat Apple devices for your mockups by Stoyan Daskaloff.
+- [Preventing the Performance Hit from Custom Fonts](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/): A round up of Chris Coyier on how to optimize performance when it comes to loading web fonts.
+- [Eldorado mini free](http://www.icojam.com/blog/?p=380): Eldorado mini is a free version of Eldorado icons and includes 40×40 sized pixel-perfect PNGs.
+- [Sly: Scrolling Library](http://darsa.in/sly/): Sly is a JavaScript library for one-directional scrolling with item based navigation support. It depends on jQuery 1.7+ and is developed by Darsain.
+- [LayoutIt!](http://www.layoutit.com/): With LayoutIt! and its drag & drop interface builder you can create your front-end code simple and quickly with Bootstrap.
+- [Slate Collection of Stylized Apple Product PSDs](http://brightbrightgreat.com/2013/04/16/free-download-slate-collection-of-stylized-apple-product-psds-retina-ready-fully-scalable-mockups/): Another great collection of useful Apple product templates for your mockups by Bright Bright Great.
 
 # Collective #59
+- [Inspirational Website of the Week](http://intothearctic.gp/): Our pick this week, "Into the Artic" by Greenpeace is a wonderful example of great effects and interesting interactivity.
+- [Hack Your Maps](http://alistapart.com/article/hack-your-maps): Young Hahn shows how to integrate web maps into your designs in this in-depth A List Apart article.
+- [PLTTS - Find your perfect color palette](http://pltts.me/): With PLTTS it's easy to find the matching color-palette for a project you are working on. Type in a HEX code and search for a palette with a specific color.
+- [Drop-Down Navigation: Responsive and Touch-Friendly](http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly): A very useful approach for creating a touch-friendly multi-level navigation by Osvaldas Valutis.
+- [Transitional Interfaces](https://medium.com/design-ux/926eb80d64e3): Pasquale D’Silva explains the importance of how animation can provide context and help users understand how information flows.
+- [Simplicity Vector Icon Set](http://www.webiconset.com/simplicity-vector-icon-set/): Some clean and beautiful icons by Web Icon Set for your next website or web app.
+- [Advanced cross-browser flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/): Chris Mills shows some advanced techniques for a cross-browser friendly usage of Flexbox.
+- [iPad and iPhone 5 Wireframe Freebie](http://www.imcatsmith.com/blog/ioswireframefreebie/): Cat Smith created these beautiful device wireframes with keyboard and status bar.
+- [csscss](https://github.com/zmoazeni/csscss): Keep your CSS lean with csscss: it will parse any CSS files you give it and let you know which rule sets have duplicated declarations.
+- [Tunnel vision 3D CSS](http://codepen.io/peterwestendorp/full/JEomi): A mesmerizing pen by Peter Westendorp that shows what can be done with CSS 3D transforms, border-radius and border-style.
+- [GoodUI](http://www.goodui.org/): A website that features some great ideas for a good UI organized by Jakub Linowski.
+- [Responsive Nav: A Simple JavaScript Plugin For Responsive Navigation](http://coding.smashingmagazine.com/2013/04/09/javascript-plugin-for-responsive-navigation/): Viljami Salminen created this great JavaScript plugin for a solid responsive navigation.
+- [Free Font: Distractor](http://www.simonstratford.com/distractor/): A new font by Simon Stratford loosely based on Bevan and inspired by old letterpress styles and hand printed lettering. 
+- [Log: Console.log with style](http://adamschwartz.co/log/): Bored by the default looks of the console? Now you can have Console.log with custom style.
+- [7 Billion World - 7 billion people on 1 page](http://www.7billionworld.com/): See how all seven billion people of the world fit onto a single website. You are somewhere there, too.
+- [HEX to RGB Converter](http://hex.colorrrs.com/): Need to convert a HEX color code into a RGB value and vice versa? This website does exactly that in a very stylish and simplistic manner.
+- [Cute CSS3-only animals](http://codepen.io/SaraSoueidan/full/lkLdu): Sara Soueidan created some absolutely cute CSS-only animals with beautiful detail.
+- [SVG Climacons Animated w/ CSS](http://codepen.io/noahblon/full/lxukH): Noah Blon made a fantastic animated SVG version of Adam Whitcroft's Climacons with CSS.
+- [Moot: Forums and commenting re-imagined](http://moot.it/): If you always thought that there is no hope for bulletin boards then you will find Moot exciting: Moot is a radically different discussion platform, unencumbered by the weight of unnecessary features and distractions. 
+- [Retro Vectors](http://retrovectors.com/): A great resource site packed with great retro vectors that can be used freely in personal or commercial work.
+- [Free Font: Benito Clean Italic](http://www.myfonts.com/fonts/borutta/benito/): Mateusz Machalski designed Benito, a proportional, geometric woodtype. You can get the Clean Italic style for free.
 
 # Collective #58
+- [Inspirational Website of the Week](http://portraits.aol.com/): Portraits has a beautiful, clean and flat design brought to the next level. Subtle effects and a great color scheme make it our pick this week.
+- [Chardin.js](http://heelhook.github.io/chardin.js/): Chardin.js by Pablo Fernandez is a very useful jQuery plugin that creates a simple overlay to display instructions on elements. It is inspired by the recent Gmail new composer tour. 
+- [Media Queries are a Hack](http://ianstormtaylor.com/media-queries-are-a-hack/): Ian Storm Taylor brings it to the point in this must-read article: for writing modular an re-usable components we need something better than media queries, we need "Element Queries". 
+- [Asm.js: The JavaScript Compile Target](http://ejohn.org/blog/asmjs-javascript-compile-target/): John Resig explains what's behind the exciting Asm.js technology and asks Senior Researcher at Mozilla Research David Herman some questions about it.
+- [SVG Patterns Gallery](http://philbit.com/svgpatterns/): Inspired by Lea Verou's CSS3 Patterns Gallery, Philip Rogers created this handy SVG Patterns collection with Base64 CSS code snippets for each pattern.
+- [Metrize Icons](http://www.alessioatzeni.com/metrize-icons/): Alessio Atzeni created this huge set of 300 free metro style icons for designers and developers.
+- [Superhero.js](http://superherojs.com/): Superhero.js is a collection of the best articles, videos and presentations on creating, testing and maintaining large JavaScript applications.
+- [FESS: Fat Expanded Style Sheets](http://www.fess.me/): This is what we were all waiting for! Finally a CSS converter that will expand your CSS to the maximum! Watch your line numbers and properties grow as you fess up your stylesheet ;) A fun project by Dew.
+- [CSS Masking](http://www.html5rocks.com/en/tutorials/masking/adobe/): Dirk Schulze shows how to do some amazing things with CSS Masking.
+- [Can we get rid of gradient prefixes?](http://lea.verou.me/2013/04/can-we-get-rid-of-gradient-prefixes/): Which vendor prefixes are still needed and which ones can we start to omit? Lea Verou shares some insights and stats on the topic.
+- [Beach GUI (PSD)](http://dribbble.com/shots/1014962-Beach-GUI): A clean and beautiful freebie by Mike Clarke.
+- [bootstrap-wysiwyg: Tiny WYSIWYG rich text editor for Bootstrap](http://mindmup.github.io/bootstrap-wysiwyg/): A tiny (5KB, < 200 lines) JQuery Bootstrap plugin that turns any DIV into a WYSIWYG rich-content editor, inspired by CLEditor and bootstrap-wysihtml5. 
+- [Free Font: Otsu Slab Medium](http://www.myfonts.com/fonts/tegetype/otsu-slab/): The OTSU SLAB family by Thierry Gouttenègre is a new slab-serifs typefaces family based on a geometric design. The medium style is free.
+- [How Far is it to Mars?](http://www.distancetomars.com/): See how far Mars would be if the Earth were 100px wide on this great site by David Paliwoda and Jesse Williams.
+- [Photoset Grid](http://stylehatch.github.io/photoset-grid/): Originally created for Style Hatch Tumblr themes, this simple jQuery plugin arranges images into a flexible grid, based on Tumblr's photoset feature. 
+- [Free Responsive Wireframes](http://dribbble.com/shots/1017934-Free-responsive-wireframes-GIF): Some great templates for wireframing responsive websites by Chris Bannister.
+- [Sequi Typeface](http://www.behance.net/gallery/Sequi-FREE-Typeface/7987725): Sequi is an experimental typeface project by João Andrade and all styles are for free, light, regular and bold.
+- [jQuery Mobile Flat-UI Theme](https://github.com/ququplay/jquery-mobile-flat-ui-theme): A stylish flat theme for jQuery Mobile by Michal Kuklis. It's based on Flat-UI by Designmodo.
+- [A Pen by Mark Kahn](http://codepen.io/cwolves/pen/gykbc): Mark Kahn created this amazing pen that involves some serious hypocycloid madness. 
+- [ThreeBar](https://www.threebar.net/): ThreeBar is a service designed to help promote content to your readers by showing a message at the top of a page. It comes with a powerful analytics platform to track the performance.
+- [Flat Braun UI (PSD)](http://dribbble.com/shots/1008464-Flat-Braun-UI-psd): Remember the pixel-perfect Braun UI by Adrien Olczak? Well, this is the flat rebound and it looks just awesome!
+- [Wine Glasses Icons (PSD)](http://dribbble.com/shots/1015007-Wine-glasses-icon-set): Need to design a website related to wine? Andrus Valulis shares this set of different wine glass types with us.
+- [datamock.js](http://marksteve.com/datamock.js/): With datamock.js by Mark Steve Samson you can easily add filler data to your mockups.
 
 # Collective #57
+- [Inspirational Website of the Week](http://heliom.ca/): A nice, clean design and an interesting horizontal navigation made us chose heliom as the website of the week.
+- [iCheck: Customized checkboxes and radio buttons with jQuery](http://damirfoy.com/iCheck/): Damir Foy created iCkeck, a light-weight and easy-to-use jQuery plugin for cross-browser customization of checkboxes and radio buttons.
+- [Hex Color Tool](http://hexcolortool.com/): A great and useful tool created by Denis Leblanc for generating color palettes by adding white or black to a hex color.
+- [Flat 3D Mockup Kit](http://www.freesbie.it/resources/flat3d/): An absolutely stylish mockup set by Frank Rapacciuolo for your next app or website showcase. Six mockups are for free and you can get the whole amazing set for only $8.
+- [Introduction to Custom Filters (aka CSS Shaders)](http://updates.html5rocks.com/2013/03/Introduction-to-Custom-Filters-aka-CSS-Shaders): Read this great article and watch the presentation on CSS Shaders by Paul Lewis on HTML5 Rocks.
+- [Sidr: jQuery plugin for creating side menus](http://www.berriart.com/sidr/): Sidr is a jQuery plugin for creating responsive Facebook-like side menus.
+- [Skycons](http://darkskyapp.github.com/skycons/): Skycons is a set of ten animated weather glyphs, procedurally generated by JavaScript using the HTML5 canvas tag.
+- [Bespoke.js: DIY Presentation Micro-Framework](http://markdalgleish.com/projects/bespoke.js/): Mark Dalgleish created Bespoke.js, a presentation framework that works with CSS transitions and supports touch events and keyboard navigation.
+- [jQuery Pin](http://webpop.github.com/jquery.pin/): A plugin by Mathias Biilmann that let's you create sticky notes to be added to the side of a text.
+- [Make a 3D iPhone with CSS](http://hop.ie/blog/rotating-phone): Donovan Hutchinson shows us how to create a rotating 3D iPhone with CSS. 
+- [Flat Surface Shader](http://wagerfield.github.com/flat-surface-shader/): Simple, lightweight Flat Surface Shader written in JavaScript for rendering lit triangles to a number of contexts. Currently there is support for WebGL, Canvas 2D and SVG. Created by Matthew Wagerfield and Tobias van Schneider.
+- [Responsive progress meter](http://codepen.io/codedsignal/full/fwpaF): This pen by Oliver Turner shows a responsive progress meter created with an interesting technique.
+- [CSS: Everything is global and how to deal with it](http://www.adobe.com/devnet/html5/articles/css-everything-is-global-and-how-to-deal-with-it.html): Philip Walton talks about the fundamental workings of CSS - it's global nature and how to make the best of it.
+- [3D-ifying Documents Using CSS Transforms](http://blog.crocodoc.com/post/46369766700/3d-ifying-documents-using-css-transforms): Cameron Lakenen from Crocodoc explains how they use SVG to do some fancy 3D effects when converting documents.
+- [Apple flat devices (PSD)](http://dribbble.com/shots/997747-Apple-flat-devices-Episode-2-PSD): Pierre Borodin shares some beautiful flat design Apple devices in PSD format.
+- [Draggabilly](http://draggabilly.desandro.com/): With Dragabilly from David DeSandro you can easily make elements draggble. Great thing: it supports IE8+ and multi-touch.
+- [Printing The Web](http://drublic.de/blog/printing-the-web/): A great overview by Hans Christian Reinl on how to make a website print-friendly.
+- [Grunge Stamp Borders Multi-Pack](http://wegraphics.net/downloads/grunge-stamp-borders-multi-pack/): This resource by WeGraphics features 12 grunge stamped style vector borders. A bonus of 8 worn paper textures are included for use with the stamp shapes.
+- [Navigation For Mega-Sites](http://www.smashingmagazine.com/2013/03/27/navigation-mega-sites/): An interesting article about navigation structures for information-heavy websites by Paul Boag for Smashing Magazine.
+- [Free Font: Quant Light](http://www.myfonts.com/fonts/hoftype/quant/): Another stunning and beautiful font-family by Hoftype: Quant. You can get the light style for free.
+- [Easy High DPI Images](http://www.html5rocks.com/en/mobile/easy-high-dpi-images/): A great guide by Boris Smus on how to serve high quality images on the web without complicated methods, but by changing your workflow and adapting for the future.
+- [Padlet](http://padlet.com/): With Padlet you can create anything on a blank "wall" and share it with others.
 
 # Collective #56
+- [Inspirational Website of the Week](http://awardonline.com/): AWARD is our pick this week: it has a stylish retro look with some lovely effects.
+- [Discover DevTools: Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/): Discover DevTools is an interactive Code School training course that will teach you how to take advantage of Chrome DevTool's powerful suite of resources and speed up the development and debugging of your web apps.
+- [jQuery Nested](http://suprb.com/apps/nested/): Nested is a jQuery plugin which allows you to create multi-column, dynamic grid layouts - without gaps.
+- [FlatDesign: A showcase of flat UI design](http://fltdsgn.com/): A great gallery of websites with flat UI design to get inspired with the new trend.
+- [Chart.js](http://www.chartjs.org/): Chart.js is a easy-to-use and slick JavaScript library for creating all kinds of graphs.
+- [Responsive Web Design With Physical Units](http://mobile.smashingmagazine.com/2013/03/21/responsive-web-design-with-physical-units/): Get a grip of resolution media queries with the help of this excellent Smashing Magazine article by Radu Chelariu.
+- [Working with flexbox: The new specification](http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html): An in-depth article by Steven Bradley on the new flexbox specification with some practical examples.
+- [Tell W3C: We don't want the Hollyweb](http://www.defectivebydesign.org/no-drm-in-html5): Did you already hear about the W3C proposal for Encrypted Media Extensions? If not, you are not the only one, and if you'd like to understand why it's so controversial you should check out the discussion on Hacker News and Reddit, and this post by Ian Hickson. Defective by Design is also collecting signatures against it to be delivered to the W3C.
+- [My Style](https://github.com/karthikv/my-style): My Style is a Google Chrome extension by Karthik Viswanathan that allows you to insert custom CSS into pages, immediately see the visual results, and have that CSS persist for future visits.
+- [Go Vertical](http://cognition.happycog.com/article/go-vertical/): Anthony Colangelo talks about vertical media queries and how they can, despite their rarity, be meaningful for some devices.
+- [Let's Build a Lightweight Blog System (part 2)](http://tutorialzine.com/2013/03/simple-php-blogging-system-part-2/): The second part of an in-depth tutorial on how to create a blog system by Martin Angelov.
+- [Automatic Table of Contents](http://css-tricks.com/automatic-table-of-contents/): Learn how to dynamically create a table of contents for a web page in this tutorial by Chris Coyier.
+- [Common Misconceptions About Touch](http://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php): In this excellent article, Steven Hoober talks about common misconceptions about touchscreens and gives some useful design guidelines.
+- [Intro.js](http://usablica.github.com/intro.js/): With Intro.js by Afshin Mehrabani you can create better introductions for websites and features with a step-by-step guide for your projects.
+- [Strikingly: Simple, beautiful sites in minutes](http://www.strikingly.com): With the Strikingly site builder you can quickly create and publish a mobile-optimized site that looks simple and great.
+- [Picozu Online Image Editor](http://www.picozu.com/editor): Picozu (beta) is an image drawing and photo retouching application. It's build with HTML5, JavaScript and CSS3; so make sure you use a modern browser if you'd like to play with it.
+- [jQuery Panzoom](https://github.com/timmywil/jquery.panzoom/): Panzoom by Timmy Willison is a progressive plugin for providing panning and zooming functionality for an element. It supports the same browsers as jQuery 2.0 and can be used with jQuery 1.9.0+ or jQuery 2.0+. Rather than setting width and height on an image tag, Panzoom uses CSS transforms and matrix functions to take advantage of hardware/GPU acceleration in the browser.
+- [Two-Column Mobile Layouts Outperform Three-Columns by 29%](http://www.zurb.com/article/1182/two-column-mobile-layouts-outperform-thre): Some useful insights about how a two-column layout performs better than a three-column layout from ZURB.
+- [There's more to the CSS rem unit than font sizing](http://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/): Roman Rudenko explains the rem unit and shows us some interesting alternative uses of it.
+- [Free Font: Lev Serif Handline](https://www.fontspring.com/fonts/typefaith-fonts/lev-serif): Lev is a beautiful slab serif font designed by Leon Hulst, TypeFaith Fonts. You can get Lev Serif Handline for free.
 
 # Collective #55
+- [Inspirational Website of the Week](http://www.skybox.org/): Skybox has some smooth sliding transitions and interesting hover effects, combined with a unqiue layout and typography. Definitely our pick this week. 
+- [Browserdiet: How to lose weight (in the browser)](http://browserdiet.com/): A superb front-end performance guide put together by real experts who work on large sites.
+- [Designing A Better Mobile Checkout Process](http://uxdesign.smashingmagazine.com/2013/03/14/designing-a-better-mobile-checkout-process/): A great article by Derek Nelson on how to optimize the mobile checkout process for a better user experience.
+- [Swipe Touch Slider](http://swipejs.com/): Swipe.js is responsive image slider with touch support developed by Brad Birdsall.
+- [Css-only Alternative to the Select Element](http://pepsized.com/css-only-alternative-to-the-select-element/): Learn how to create a slick select-like drop-down list with CSS only in this tutorial by Paulina Hetman.
+- [The Era of Symbol Fonts](http://alistapart.com/article/the-era-of-symbol-fonts): Brian Suda gives a great overview of symbol fonts and how they help to improve perfomance and how to use them in an optimal way.
+- [OverAPI.com - Collecting all the cheat sheets](http://overapi.com/): At OverAPI you can find an extensive collection of cheat sheets you'll definitely find useful as a web developer.
+- [The Clambake for Emails & Retina Images](http://www.zurb.com/playground/clambake): With the Clambake by Aaron Kahlhamer for ZURB you can add retina-ready graphics, like your logo, to a responsive email.
+- [Let's Build a Lightweight Blog System – Part 1](http://tutorialzine.com/2013/03/simple-php-blogging-system/): Start learning how to create a light-weight blog system with PHP and CSS3 in this tutorial by Martin Angelov.
+- [Canvas Query](http://canvasquery.com/): Canvas Query is a wrapper library for HTML5 canvas which allows it to be used with jQuery-like syntax. It also offers a lot of commonly used image manipulation methods mainly convenient for game developers.
+- [Timepiece Rounded](http://timepiece.inostudio.de/): An interesting OpenType font displaying time, like 17:23:25, as an analogue Clock.
+- [iPhone and iPad (PSD)](http://dribbble.com/shots/982443-Iphone-Ipad-Freebies): A great looking iPhone and iPad template by Agence Me.
+- [Free Sketched Icon Fonts](http://www.peax-webdesign.com/goodies/free-icons/icones-gratuites/icon-font.html): Peax shares three amazing sets of hand-drawn sketched icon fonts. Check them out: font 1, font 2 and font 3
+- [iOS 6 switch style checkboxes with pure CSS](http://lea.verou.me/2013/03/ios-6-switch-style-checkboxes-with-pure-css/): Some great looking CSS-only iOS switches by Lea Verou.
+- [Pixi Renderer](https://github.com/GoodBoyDigital/pixi.js): Pixi.js is a fast HTML5 2D renderer engine that uses WebGL with a canvas fallback that enables it to work across all modern browsers both, desktop and mobile. 
+- [CSS3 text-shadow effects](http://codepen.io/juanbrujo/full/yGpAK): Jorge Epuñan created some fantastic text-shadow effects on Codepen.
+- [Shadow DOM 201 - CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/): Learn more about the Shadow DOM and what you can do regarding CSS and styling from this article by Eric Bidelman.
+- [Free Font: Shinto](http://www.behance.net/gallery/Shinto-Free-Font/7630997): A fresh new display font from Golden Black.
+- [Move a Cube With Your Head or Head-Tracking With WebGL](http://learningthreejs.com/blog/2013/03/12/move-a-cube-with-your-head/): Experiment with headtrackr.js and three.js, and learn how to do head tracking in WebGL in this article by Jerome Etienne.
+- [iPhone 5 Template + (PSD)](http://dribbble.com/shots/984085-iPhone5-Template): A pixel-perfect and improved iPhone 5 template by Dash.
+- [Social Media Image Maker](http://www.autreplanete.com/ap-social-media-image-maker/): A great place to resize and retouch your social media images.
+- [Minimal Apple Product Templates](http://wegraphics.net/downloads/minimal-apple-product-templates/): Some really nice, flat apple product templates by WeGraphics for your next mockup.
 
 # Collective #54
+- [Inspirational Website of the Week](http://handsome.is/): Handsome is our pick this week. It's an elegantly designed website with a unique portfolio section that has some subtle transitions with shadows and lights.
+- [MagicSuggest](http://nicolasbize.github.com/magicsuggest/): MagicSuggest by Nicolas Bize is an auto-suggest combobox with Bootstrap theme using jQuery.
+- [Building A Better Responsive Website](http://mobile.smashingmagazine.com/2013/03/05/building-a-better-responsive-website/): A great read about creating responsive websites and an adjusted workflow by Jeremy Girard.
+- [Mixing Responsive Design and Mobile Templates](http://css-tricks.com/mixing-responsive-design-and-mobile-templates/): Chris Coyier explains how a mixed mobile strategy can work for your site; with insights on the development of Codepen.
+- [Donuts](http://www.larentis.eu/donuts/): Need some clean, subtly animated dashboard gauges? You might like Donuts, a jQuery plugin developed by by Mattia Larentis.
+- [Free Font: Technik Mono](http://www.myfonts.com/fonts/carnoky/technik-mono/): Technik Mono is a complementary monospaced version of Technik typeface. Technik Mono 50 is available for free.
+- [The One Pixel Rule](http://blog.mengto.com/the-one-pixel-rule/): Meng To explains the importance of 1px and what the rule means for app design.
+- [Better Navigation Through Proprioception](http://alistapart.com/column/better-navigation-through-proprioception): Some interesting insights on how to apply the concept of proprioception to create better navigation patterns by Cennydd Bowles.
+- [Corporate Identity Photoshop Mock-up (PSD)](http://www.blugraphic.com/2013/03/08/blugraphic/): Bluegraphic released this clean and complete corporate identity mockup set for free.
+- [Breaking down Amazon’s mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown): A very interesting look into the magic behind the fast drop-down menu of Amazon by Ben Kamens.
+- [dsgnjbs - All of the best design jobs in one place](http://www.dsgnjbs.com/): Tom Cavill developed this great site that shows design jobs from the best job sites out there.
+- [Free Font: Supergrass](http://www.behance.net/gallery/Supergrass-free-font/7377431): Luca Ferrario shares this interesting and fun hand-drawn typeface for free. 
+- [Horizontal centering using CSS fit-content value](http://www.red-team-design.com/horizontal-centering-using-css-fit-content-value): Learn about the experimental fit-content value for widths in CSS and how it could become an interesting problem-solver.
+- [Handy Icons Vol2 – Free Web Font Kit](http://wegraphics.net/downloads/handy-icons-vol2-free-web-font-kit/): This resource includes 99 hand drawn icons that have been converted to a webfont for easy integration into your projects.
+- [:focus tooltip](http://codepen.io/vpegado/full/daugx): Some sweet tooltips folding out on focus of the input fields by Victor Pegado.
+- [Koken: Creative website publishing](http://koken.me/): Koken is a free system designed for photographers, designers, and creative DIYs to publish independent websites of their work.
+- [Map Markers (PSD)](http://dribbble.com/shots/973117-Map-Markers-PSD): Some really nice map markers by Gaston Figueroa.
+- [The Foundation for Responsive Design – Flexibility](http://www.webappers.com/2013/03/05/the-foundation-for-responsive-design-flexibility/): Emily Lewis dives into the main foundations of responsive web design and explains how to employ flexibility.
+- [Free Outline Icons](http://vandelaydesign.com/blog/icon-sets/free-outline-icons/): A very useful set of almost 200 icons that come in handy for a wide variety of web and app design projects.
+- [Free Font: Corbert](http://www.myfonts.com/fonts/northernblock/corbert/): Jonathan Hill designed Corbert, a geometric sans serif typeface influenced by Bauhaus and the early modernist era. The regular and the italic styles are for free.
+- [Using SVG](http://css-tricks.com/using-svg/): Learn how to use SVG in a web project from Chris Coyier. With some important facts and useful tips.
+- [Free Font: Astroman](http://www.behance.net/gallery/Astroman-Typeface/7530581): Astroman is an original and unique display typeface by Darren McArdel.
+- [10 Business Card Templates (PSD)](http://www.hongkiat.com/blog/free-businesscard-templates/): A great freebie release by Honkiat: 10 clean and modern business card templates.
+- [Flat UI Blog (PSD)](http://www.designkindle.com/2013/03/06/flat-ui-blog/): Riki Tanone has put together a set of blog widgets with a "flat" design. 
+- [Make your website printable with CSS](http://www.netmagazine.com/tutorials/make-your-website-printable-css): Responsive design isn't just about screen size; it also means adapting to different media – including print. Adrian Roselli shares some techniques in this .net article.
 
 # Collective #53
+- [Inspirational Website of the Week](http://ponto.ws/): Ponto has a minimal and beautiful design with an interesting, random presentation of their projects on the landing page.
+- [CSS Creatures](http://bennettfeely.com/csscreatures/): A collection of super-cute CSS and HTML creatures with a tweet-to-generate option that will add your own creation. The site was developed by Bennett Feely.
+- [Hint.css - A tooltip library in CSS](http://kushagragour.in/lab/hint/): Hint.css is a tooltip library written in SASS. It does not rely on any JavaScript, just HTML/CSS, and it uses data-* attribute, pseudo elements, content property and CSS3 transitions to create the tooltips.
+- [svg.js - A lightweight JavaScript library for manipulating and animating SVG](http://www.svgjs.com/): If you'd like to use SVG in your web project you'll definitely find this library useful. It's light-weight and comes with many useful features that will take out the pain of using SVG.
+- [WebKit for Developers](http://paulirish.com/2013/webkit-for-developers/): Paul Irish explains some very important things about WebKit, mainly what it is and how it's used by WebKit-based browsers. 
+- [Free Font: Global](http://www.myfonts.com/fonts/dstype/global/): Dino dos Santos and Pedro Leal designed this clean and beautiful typeface and you can get the three medium styles for free.
+- [Try jQuery](http://try.jquery.com/): Try jQuery is a combination of videos, interactive console challenges, and writing code in the browser for learning the basic building blocks of jQuery. 
+- [Spoiler Alert!](http://joshbuddy.github.com/spoiler-alert/): With the Spoiler Alert script you can simple hide specific parts of text or images with a blur. A hover will reveal a bit more and a click will show the "sharp" content. Developed by Joshua Hull. 
+- [Hook.js](http://usehook.com/): Hook.js brings you the mobile "pull to refresh" functionality to the web. Scrolling up again after scrolling down will activate the refresh.
+- [Browserhacks](http://browserhacks.com/): We all know that we shouldn't use them but sometimes browser hacks can come in handy. Browserhacks by Hugo Giraudel and Tim Pietrusky is a useful collection of browser-specific CSS and JavaScript hacks.
+- [Discreet Twitter UI](http://tholman.com/discreet-twitter-ui/): A minimal and interesting UI concept for Twitter buttons by Tim Holman. It only shows the Twitter icon and on hover it will reveal the follow button in a very stylish way.
+- [How to Create Windows-8-like Animations with CSS3 and jQuery](http://blog.sarasoueidan.com/windows8-animations/): Learn how to create some stunning Windows 8 style animations in this tutorial by talented Sara Soueidan.
+- [Responsive web design: the war has not yet been won](http://elliotjaystocks.com/blog/responsive-web-design-the-war-has-not-yet-been-won/): Some very interesting thoughts on RWD by Elliot Jay Stocks with some important points on how some aspects are still misunderstood. An engaging discussion follows.
+- [Carousel Book Layout Using CSS Regions](http://codepen.io/frytyler/full/wdecC): Tyler Fry created this awesome pen that shows some of the powers of CSS regions with transforms.
+- [Loading Animation](http://codepen.io/diegopardo/full/dGlfC): A very cool CSS loading animation by Diego Pardo. The plastic-like letters fade in and out smoothly.
+- [Free Font: Prism](http://www.myfonts.com/fonts/stereotypes/prism/): Sascha Timplan designed Prims, a typeface that was inspired by the sketches of Rudolf Koch for Prisma and the proportions of Avant Garde by Herb Lubalin. You can get the regular style for free.
+- [Kontext](http://lab.hakim.se/kontext/): A context-shift transition inspired by iOS. Created using JavaScript, CSS 3D transforms and CSS Animations by Hakim El Hattab.
+- [Free Font: BillMoney](http://www.jeffreyschreiber.nl/Shop/BillMoney.html): BillMoney is an unique typeface created by Jeff Schreiber and you can download it for a tweet.
+- [HTML's New Template Tag: Standardizing client-side templating](http://www.html5rocks.com/en/tutorials/webcomponents/template/): Eric Bidelman talks about the new <template> element which describes a standard DOM-based approach for client-side templating.
+- [HTML5 forms introduction and new attributes](http://html5doctor.com/html5-forms-introduction-and-new-attributes/): Learn about HTML5 forms from this excerpt from Chapter 6 of Beginning HTML5 and CSS3: The Web Evolved by Christopher Murphy, Oli Studholme, Richard Clark and Divya Manian. Also, don't miss the next article in the series HTML5 forms input types. 
+- [The Problem Of CSS Form Elements](http://coding.smashingmagazine.com/2013/02/27/css-form-elements-problem/): Gabriele Romanato explains the problem of form elements and how the style can be tamed for a consistent look.
+- [Animated CSS3 Photo Stack](http://tutorialzine.com/2013/02/animated-css3-photo-stack/): Learn how to create an animated photo stack, which uses all kinds of fancy effects to transition between a set of images in this tutorial by Martin Angelov.
+- [Typeplate - A typographic starter kit encouraging great type on the Web](http://typeplate.com/): Typeplate is a "typographic starter kit" by Dennis Gaebel that does not make aesthetic design choices, but defines proper markup with extensible styling for common typographic patterns instead. 
+- [Make a calculator using JavaScript and CSS3](http://thecodeplayer.com/walkthrough/javascript-css3-calculator): In this walk-through you'll learn how to create a nice looking calculator with HTML/CSS and some JavaScript.
+- [A Plain English Guide to JavaScript Prototypes](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes): Sebastian Porto shares his knowledge and experience with JavaScript's unique take on prototypes.
+- [Free Font: Savu](http://www.myfonts.com/fonts/hiekkagraphics/savu/): Savu is a hand-lettering font best used as a display typeface. It was published by Hiekka Graphics and the delicate Savu Condensed is available for free.
+- [Deeptissue.js](http://deeptissuejs.com/): Deeptissue.js is a helper library to abstract away the differences between the MSPointer and WebKit Touch APIs. It is developed by Chris Love.
 
 # Collective #52
+- [Inspirational Website of the Week](http://futureinsightslive.com/las-vegas-2013/): The Future Insights Live conference website has a very beautiful and balanced color scheme, excellent typography and some really nice effects.
+- [Anima.js](http://lvivski.github.com/anima/): Have you ever wanted to time and control CSS animations in a simpler and better way? Then this light-weight and powerful JavaScript library might be the right thing for you.
+- [jsdb.io - The Database of JavaScript Libraries](http://www.jsdb.io/): JSDB is a collection of the most popular JavaScript libraries with ratings and some GitHub stats.
+- [Fancy Input](http://dropthebit.com/demos/fancy_input/fancyInput.html): Fancy Input makes typing characters real fun. Yair Even-Or created this awesome jQuery plugin that let's you add some unique effects to typing in an input or textarea.
+- [typeahead.js](https://github.com/twitter/typeahead.js/): Inspired by Twitter's autocomplete search functionality, typeahead.js is a fast autocomplete library with many useful features.
+- [Simple Frontend Boilerplate](https://github.com/codylindley/simple-frontend-boilerplate): Cody Lindley created a frontend boilerplate which serves as a starting point to develop websites or small web applications without forcing a specific MV* framework or module dependency loader.
+- [200 Free Glyphs (PSD)](http://dribbble.com/shots/951731-200-Free-Glyphs): A set of useful and delicate glyphs for your next design by Joel Siddall.
+- [Free Font: Foro Rounded](http://www.myfonts.com/fonts/hoftype/foro-rounded/): Foro Rounded is the softer sister of the succesful Foro family and Hoftype offers the beautiful light style for free.
+- [Using Flexbox: Mixing Old and New for the Best Browser Support](http://css-tricks.com/using-flexbox/): Chris Coyier shows which syntax to use in order to achieve the best browser support for using flexbox for order-controlled grids.
+- [A Complete Guide for Building HTML5 Games](http://www.webappers.com/2013/02/19/a-complete-guide-for-building-html5-games/): Learn all the important things you need to know for building HTML5 games from this in depth-article by David Rousset for WebAppers. 
+- [Pillow UI (PSD)](http://dribbble.com/shots/953694-Pillow-UI-Free-download): A pixel-perfect UI kit with a great color scheme by MediaLoot.
+- [Dos and don'ts of cross-platform mobile design](http://www.netmagazine.com/features/dos-and-donts-cross-platform-mobile-design): In this .net Magazine article, Justin Ferrell explains the fundamental differences between the user expectations of today's most popular mobile platforms, and illustrates how developers can build cross-platform applications without neglecting the user experience.
+- [Making an accessible dialog box](http://www.nczonline.net/blog/2013/02/12/making-an-accessible-dialog-box/): Nicholas C. Zakas shows how to make dialogs easily accessible both by screen readers and those who use only a keyboard.
+- [Free Font: Corbert Regular](http://www.behance.net/gallery/Corbert-Regular-FREE-FONT/7283023): Jonathan Hill designed this geometric sans serif typeface influenced by Bauhaus and the early modernist era. The regular and italic weights are available as freeware.
+- [Front-End CSS Frameworks](http://usablica.github.com/front-end-frameworks/compare.html): A collection of best front-end frameworks for faster and easier web development.
+- [Redacted: A Font for Web and Desktop](https://github.com/christiannaths/Redacted-Font): Based on BLOKK, the wireframe font we featured before, Christian Naths created Redacted which also comes with script versions in two weights: bold and regular. 
+- [Coding a Horizontal Navigation Bar with jQuery Dropdown Menus](http://spyrestudios.com/coding-a-horizontal-navigation-bar-with-jquery-dropdown-menus/): A tutorial by Jake Rocheleau on how to create a stylish horizontal navigation bar.
+- [Magazine design principles applied to web design](http://www.webdesignerdepot.com/2013/02/magazine-design-principles-applied-to-web-design/): Cameron Chapman shows how to apply some great design techniques from print design to web design.
+- [Experimental CSS3 Only Image Slider with 3D Transforms](http://www.inserthtml.com/2013/02/css3-3d-image-slider/): Learn how to create a CSS only image slider from this tutorial by Johnny Simpson.
+- [Web Speech API Demonstration](https://www.google.com/intl/en/chrome/demos/speech.html): This powerful Web Speech API demo shows how speech can be used for more than just simple voice commands. Make sure to read this article about it on the Chrome Blog.
+- [Improving CSS text decorations](http://blogs.adobe.com/webplatform/2013/02/19/improving-css-text-decorations/): See how you can use some great CSS properties and techniques for decorating and beautifying text. 
+- [Free Font: Sanchez Slab](http://www.myfonts.com/fonts/latinotype/sanchez-slab/): Sánchez is a stunning typeface designed by Daniel Hernández. It bears a strong resemblance to the iconic Rockwell and you can download the regular and italic styles for free.
+- [Free Font: Vaccine](http://www.myfonts.com/fonts/paratype/vaccine/): Vaccine from ParaType is an exquisite and unique slab serif font family with a mixture of the usual and one-sided serif. The regular style is free.
+- [Apptastico (PSD)](http://dribbble.com/shots/953161-Apptastico-A-freebie-web-design): This freebie by Christoffer O. Jensen is a super-clean and neatly crafted website design. 
 
 # Collective #51
+- [Inspirational Website of the Week](http://jiouhe.com/): Jiouhe Consultancy offers a very interesting scrolling experience. Not the straight scrolling you are used to.
+- [Flat Pixels](http://sachagreif.com/flat-pixels/): A superb essay by Sacha Greif about flat design and skeuomorphism. You'll definitely understand the ongoing debate about these two styles after reading it.
+- [300 Million Users and Move to WebKit](http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit): Big and exciting news from Opera: the 300 million user strong browser will be using WebKit as its rendering engine and V8 as its JavaScript engine.
+- [Dark Patterns Library](http://darkpatterns.org/): Harry Brignull created DarkPatterns.org. Dark Patterns are user interfaces that are intended to trick people. The purpose of the site is to spread awareness, and to name and shame sites that use Dark Patterns.
+- [color.hailpixel.com](http://color.hailpixel.com/): A different kind of color picker where you can explore hex colors in an intuitive way.
+- [PeerJS: Peer-to-peer data in the browser](http://peerjs.com/): PeerJS provides a complete, configurable, and easy-to-use peer-to-peer data API built on top of WebRTC.
+- [infogr.am: Interactive Infographics](http://infogr.am/): With infogr.am you can easily create beautiful looking and interactive infographics.
+- [Free Font: Salt & Foam](http://www.saltandfoam.com/): Salt and Foam is a free typeface that was inspired by surfing, created by Anna Karatcheva.
+- [Build a Street Fighter Demo with CSS Animations and JavaScript](http://davidwalsh.name/street-fighter): David Walsh shows you how to use animated PNG sprites with the steps() property of CSS animations for building a rad Street Fighter demo.
+- [Responsive Typography](http://webdesign.maratz.com/lab/responsivetypography/): Responsive Typography by Marko Dugonjić is an interesting proof of concept on how face detection can be used to adjust the font size for any given reading distance.
+- [WebKit is the jQuery of Browser Engines](http://ejohn.org/blog/webkit-is-the-jquery-of-browser-engines/): Read what John Resig thinks about the switch of Opera to WebKit and why he believes that WebKit is like the jQuery of browser engines.
+- [Setting Weights And Styles With The @font-face Declaration](http://coding.smashingmagazine.com/2013/02/14/setting-weights-and-styles-at-font-face-declaration/): Laura Franz gives some useful tips and explains some great techniques on how to deal with @font-face weights and styles in this Smashing Magazine article.
+- [Free Font: PROMESH](http://www.behance.net/gallery/PROMESH-A-Free-Athletic-Font/7094057): Paul Reis created this exquisite athletic font that comes in mesh, regular and stitch style.
+- [Free Icons: Sunday Market (PSD)](http://dribbble.com/shots/940934-Sunday-Market-Free-Icons): Some stylish and beautiful free icons by Ezhi Stolz.
+- [Discourse](http://www.discourse.org/): Discourse is a new, free discussion platform with an intuitive concept and some great features.
+- [threesixty jQuery Plugin](http://nick-jonas.github.com/threesixtyjs/): With this jQuery plugin you can easily create draggable 360 views from a set of images.
+- [Cinnamon.js](http://thomaspark.me/2013/02/cinnamon-js-find-in-page-text-using-synonyms/): This script allows your website visitors to find links, images, and other content by their synonyms, using the browser’s built-in search.
+- [Comix I/O](http://cmx.io/): An awesome library for building xkcd-style comic strips using HTML.
+- [UI Elements](http://uielements.net/): This site provides UI designers with a place where they can download hundreds of free (yet high quality) UI elements.
+- [Building Twitter Bootstrap](http://alistapart.com/article/building-twitter-bootstrap): Mark Otto gives us some insight on how Twitter Bootstrap came into existence and how parallel development and collaboration across teams made it become the powerful tool it is today.
+- [The progress element](http://html5doctor.com/the-progress-element/): Learn about the interesting progress element from Ian Devlin in this great article by Ian Devlin for HTML5Doctor.
 
 # Collective #50
+- [Inspirational Website of the Week](http://minimalmonkey.com/): The blog and playground of interactive developer Stephen Burgess is our pick this week. It's super-stylish and has some subtle and interesting animations.
+- [Textillate.js: Plugin for CSS3 Text Animations](http://jschr.github.com/textillate/): Textillate.js by Jordan Schroter is an ease-to-use jQuery plugin for applying CSS3 animations to any text. It uses lettering.js and animate.css.
+- [Lazy Line Painter](http://lazylinepainter.info/): Lazy Line Painter is an awesome jQuery plugin by Cam O'Connell for SVG path animations. It uses the Raphaël library.
+- [Carousel Interaction Stats](http://weedygarden.net/2013/01/carousel-stats/): A very interesting study by Erik Runyon on real interaction statistics of carousels. A great discussion follows.
+- [Squishy Toggle Buttons](http://codepen.io/soulwire/full/bKens): Justin WIndle created some really awesome buttons that simulate squishy rubber (elastomer) buttons, inspired by designs on Dribbble.
+- [Dig deep into CSS gradients](http://hugogiraudel.com/blog/css-gradients): A color wheel with CSS gradients? Ana Tudor gives us some great insight into CSS gradients and what we can do with them.
+- [Make a Web App with Instagram-like Filters](http://tutorialzine.com/2013/02/instagram-filter-app/): An awesome tutorial by Martin Angelov on how to create a web app that allows you to drag a photo from your computer into the browser window, and apply Instagram-like filters to it.
+- [Roole: A language that compiles to CSS](http://roole.org/): Roole is inspired by other CSS preprocessing languages like Sass, LESS and Stylus and it is implemented in JavaScript, so it can be run both on the server side (via node.js) or in a browser (run unit tests to check if Roole works in your browser).
+- [REMux: An Experimental Approach to Responsive Web Design](http://css-tricks.com/remux-an-experimental-approach-to-responsive-web-design/): An interesting take on responsive web design by Dirk Lüth for CSS-Tricks, involving fluid column widths being set in rem units.
+- [Useful Snippets from Code Pad](http://codepad.co/s/6b4558): Some really useful snippets from Code Pad that will make your life easier: SVG to PNG Fallback for Images, Media Queries - Retina, Preserve HTML font-size When iPhone Orientation Changes and CSS (WebKit) filters
+- [iLightBox](http://iprodev.com/ilightbox/): iLightBox is a fresh and revolutionary jQuery lightbox plugin that is packed with features: it comes with fullscreen, retina-ready skins, supports for swipe events, Youtube and Vimeo integration for HTML5 video, and a powerful Javascript API.
+- [How To Create a Simple Collapsing Header Effect](http://line25.com/tutorials/how-to-create-a-simple-collapsing-header-effect): A tutorial by Chris Spooner on how to create a collapsing header effect, where the page header or banner gradually shortens and disappear upon page scroll.
+- [Using background clip for text with CSS fallback](http://nimbupani.com/using-background-clip-for-text-with-css-fallback.html): Divya Manian explains how to use the non-standard, but really useful, background-clip: text with a JS-free fallback.
+- [Csswizardry-grids](https://github.com/csswizardry/csswizardry-grids): Csswizardry-grids by Harry Roberts is a simple, fluid, nestable, flexible, Sass-based and responsive grid system.
+- [Where to Start](http://trentwalton.com/2013/02/07/where-to-start/): Trent Walton gives some great advice on one of the hardest parts of making the transition to building responsive websites: getting started.
+- [Photoshop Etiquette](http://veerle.duoh.com/design/article/photoshop_etiquette): A great article by Veerle Pieters on one of the lesser talked about, but very important parts of using and creating with Photoshop: organization.
+- [Free Font: NIEWE](http://www.behance.net/gallery/NIEWE-free-font/7014233): Niewe is a unique display font that comes with four styles by Zyan Graphics.
+- [Polaris UI Kit + Linecons Icon Set (AI, PDF, PNG, PSD, SVG)](http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/): A beautiful UI Kit and a stunning vector icon set created by the Designmodo team.
+- [Social Fish Freebie (PSD)](http://dribbble.com/shots/937418-Freebie-Social-Fish): Meghan Robichaud offers these absolutely adorable social fish icons from her website for free.
+- [Don’t Put Labels Inside Text Boxes (Unless You're Luke W)](http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php): Should you put labels into text boxes? Caroline Jarrett gives a great overview on why that might not be a good idea.
+- [Cool Kitten](http://jalxob.com/cool-kitten/): Cool Kitten is a parallax scrolling responsive framework (beta) developed by Jalxob.
+- [Packery preview](http://metafizzy.co/blog/packery-preview/): Packery is a promising new layout library which will resolve two of the biggest and oldest issues with Masonry or Isotope, the previous libraries by David DeSandro.
+- [BLOKK: Free Mockup Font](http://www.blokkfont.com/): If your clients don't dig Lorem Ipsum or any other strange filler text, you can try BLOKK which is a free font for quick mock-ups and wireframing.
+- [Kitchen Cooking Vector Set](http://zomgimbored.com/2013/01/26/kitchen-cooking-vector-set-free-download/): If you need to design something cooking-related you'll definitely find this free vector set by Jim Viola very useful.
 
 # Collective #49
+- [Inspirational Website of the Week](http://www.greymattergroup.com/): The website of Grey Matter Group is our pick this week. The design and marketing firm's online portfolio has a really interesting navigation and some slick effects.
+- [ZenPen - The minimal editor for the modern man](https://github.com/tholman/zenpen): Zenpen is a web app for writing minimally while all information is persistant locally, using HTML5 local storage, and sharable via URL Hashes. It was developed by Tim Holman and it is available on GitHub. 
+- [Carousels](http://bradfrostweb.com/blog/post/carousels/): An analysis of the omnipresent carousel or content slider by Brad Frost.
+- [Extra Strength Responsive Grids](http://dfcb.github.com/extra-strength-responsive-grids/): ESRG by John Polacek is an ultra-strong responsive grid system that will take your grid pain away.
+- [Ouroboros Sass/CSS Spinner](http://atomeye.com/projects/sass-css-spinner.html): Tom Genoni created some smooth and slick spinners with Sass and he explains some interesting facts about his experiment.
+- [How to Make a Tumblr-powered News Ticker](http://tutorialzine.com/2013/01/tumblr-powered-news-ticker/): In this tutorial by Martin Angelov you can learn how to develop a widget which cycles through the most recent posts on a Tumblr blog and presents them as news items. 
+- [Simulate "Float: Down"](http://hugogiraudel.com/blog/float-down): A great write-up by Hugo Giraudel on a very specific and interesting layout problem where containers should float vertically instead of horizontally.
+- [Advanced HTML & CSS: Preprocessors](http://learn.shayhowe.com/advanced-html-css/preprocessors): The Advanced Guide to HTML & CSS has another great chapter that will teach you everything you need to know about CSS preprocessors.
+- [The main issue](http://adactio.com/journal/6014/): Read about the latest developments of the suggested "main" element in this article by Jeremy Keith.
+- [CSS3 Stamp effect using radial gradients](http://thecodeplayer.com/walkthrough/css3-stamp): A very interesting CSS-only method to create a stamp effect using radial gradients behind an image.
+- [Free Font: Brooklyn Font](http://www.behance.net/gallery/Brooklyn-Font-Free-Font/6674365): Paul Reis created this interesting display font that is full of character. It's a calligraphy-based typeface and you can download it for free.
+- [What We Learned in 2012](http://alistapart.com/article/what-we-learned-in-2012): What have we learned in 2012? Read the interesting experiences of some of the authors of A List Apart and find out more. 
+- [modern.IE](http://www.modern.ie/): Modern.IE is a new set of tools to help you support modern and older versions of Internet Explorer.
+- [Navigation in Lists: To Be or Not To Be](http://css-tricks.com/navigation-in-lists-to-be-or-not-to-be/): An interesting take on the "navigation as list" dogma by Chris Coyier with a great discussion.
+- [Canvas Query](http://canvasquery.com/): Canvas Query is a wrapper library for the HTML5 Canvas element which allows it to be used with a jQuery-like syntax.
+- [Step by step from jQuery to Backbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md): Get a better understanding of the core abstractions in Backbone.js and learn how to properly move from JavaScript to Backbone.js in this in-depth tutorial by Kim Joar Bekkelund.
+- [How To Create HTML5/CSS3 Columns for All Browsers](http://blog.teamtreehouse.com/how-to-create-html5css3-columns-for-all-browsers): Learn how to create a cross-browser columned layout in this tutorial by Jake Rocheleau.
+- [Free Font: Capita Light](http://www.myfonts.com/fonts/hoftype/capita/light/): Capita is a serif-dominated face in a new style created by Hoftype. You can get the light version for free.
+- [Dance to make Music](http://www.karenlabs.com/music): Create a song when with your (dance)moves. A great experiment by Karen Peng.
+- [Flight](http://twitter.github.com/flight/): Flight is a light-weight, component-based JavaScript framework that maps behavior to DOM nodes. Twitter uses it for their web applications.
+- [BalanceText](https://github.com/adobe-webplatform/balance-text): A jQuery plugin to provide an alternate text wrapping algorithm that will allow for a better text balancing across lines.
+- [Onepager](http://onepagerapp.com/): Easily build a simple beautiful website for your small business with Onepager. They also offer a forever free plan with a limited feature set. 
+- [Toolbar.Js](http://paulkinzett.github.com/toolbar/): Toolbar allows you to quickly create tooltip style toolbars for web applications and websites. You can easily customise it. 
+- [Free Font: Bispo Nova](http://www.myfonts.com/fonts/type-curitiba/bispo/nova%20regular/): Bispo (Nova) is a free font by Jackson Alves. It's a script typeface family made based on italic chancery calligraphy.
 
 # Collective #48
+- [Inspirational Website of the Week](http://handytesten.usedtobe.no/): The Handytest by FINN.no is our pick this week. The interactive test is based on an interesting navigation and it is beautifully designed.
+- [Parsley.js](http://parsleyjs.org/): With the Parsley.js library you can easily validate forms with JavaScript. It's light-weight and highly configurable. 
+- [Sneak Peek Into The Future: Selectors, Level 4](http://coding.smashingmagazine.com/2013/01/21/sneak-peek-future-selectors-level-4/): Andrzej Mazur gives us an overview of some future CSS goodness in this Smashing Magazine article.
+- [The pro's guide to CSS layouts](http://www.netmagazine.com/features/pros-guide-css-layouts): Peter Gasston gives us an overview of some future layout techniques that will make creating websites for all kinds of devices much easier and smarter.
+- [Top Drawer](http://www.jordanm.co.uk/lab/topdrawer): Jordan Moore shows how to create a smooth revealing menu using CSS3.
+- [Retina for web workflow](http://michieldegraaf.com/post/retina-for-web-workflow/): Michiel de Graaf explains how to manage and simplify the extra work that comes with creating websites for retina displays.
+- [css-animations.js](https://github.com/jlongster/css-animations.js): A library that uses the CSS DOM API to access CSS3 keyframe animations, enabling you to control them in your JavaScript.
+- [Quick Tip: Store Data in the Browser with IndexedDB](http://tutorialzine.com/2013/01/simple-indexeddb-dbjs-app/): Learn how to store data in the browser using IndexedDB from this tutorial by Martin Angelov.
+- [WebcamSwiper](https://github.com/iambrandonn/WebcamSwiper): An experiment to control a photo carousel using getUserMedia to watch for swipes left and right with a hand.
+- [Css-only Lavalamp-like Fancy Menu Effect](http://pepsized.com/css-only-lavalamp-like-fancy-menu-effect/): Learn how to create a stylish looking lavalamp menu in this tutorial by Paulina Hetman.
+- [Understand the Favicon](http://www.jonathantneal.com/blog/understand-the-favicon): Jonathan T. Neal shares what he learned about the favicon in this in-depth article.
+- [Free Font: Higher](http://www.behance.net/gallery/Higher-Free-Font/6797841): Higher is an interesting display font created by Marisa Passos.
+- [Setting Up a Local WordPress Testing Environment](http://tutorialzine.com/2013/01/setting-up-local-wordpress-testing-environment/): A detailed tutorial on how to set up WordPress for local testing by Matej Latin for Tutorialzine.
+- [Your logo is still an image… and so is mine!](http://csswizardry.com/2013/01/your-logo-is-still-an-image-and-so-is-mine/): Harry Roberts shares his thoughts and insight on which markup is better for a logo.
+- [Responsive Navigation Menu](http://webdesignerwall.com/tutorials/css-responsive-navigation-menu): Nick La shows us a great technique on how to create a responsive navigation menu without any JavaScript.
+- [Responsive Boilerplate Framework](http://responsiveboilerplate.com/): If you want to start your responsive project then this might be an interesting framework for you: an elegant & minimalistic CSS3 grid system, made with only one container and 12 columns.
+- [The Future of OOCSS: A Proposal](http://philipwalton.com/articles/the-future-of-oocss-a-proposal): A great article by Philip Walton with some interesting suggestions for OOCSS.
+- [Creating 3D worlds with HTML and CSS](http://blog.keithclark.co.uk/creating-3d-worlds-with-html-and-css/): Keith Clark pushes the possibilities of CSS by creating a realistic 3D environment using CSS 3D transforms.
+- [Tiny Monsters](http://tinymonsters.ivank.net/): A really nice little 2D game by Ivan Kuckir written in JavaScript. Your job is to cut small parts from a polygon without touching the tiny monsters inside.
+- [Typography for designers](https://www.makesets.com/typography-for-designers): Find great font resources on this collection site, or simply get inspired.
+- [Slot machine with jQuery and CSS 3D transforms](http://cssnerd.com/2012/09/26/jquery-slot-machine-css3-3d/): Gregor Adams shows us his updated version of a jQuery slot machine, this time in 3D. 
+- [10 Blurred Backgrounds](http://www.behance.net/gallery/10-Blurred-Backgrounds/6801167): A set of free, high-resolution blurred backgrounds (1920x1200px) by Shantha Abeyrathne.
 
 # Collective #47
+- [Inspirational Website of the Week](http://libertine-libertine.net/): Libertine Libertine is a very minimal and clean online store with a super-easy navigation. It makes shopping a real breeze; only the necessary information is shown.
+- [Implementing Off-Canvas Navigation For A Responsive Website](http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/): An in-depth tutorial by  David Bushell on how to create a off-canvas navigation for a responsive website.
+- [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/): Shay Howe started to create a very useful and practical guide to advanced HTML and CSS covering various important topic. You also might want to check out A Beginner's Guide to HTML & CSS.  
+- [Browser Awareness Day](http://browserawarenessday.com/): Browser Awareness Day is a social campaign by teamgeek that aims to educate people about the importance of updated browsers for techies and non-techies alike. They also offer a JS snippet that you can use to add to your site for alerting users if they have an outdated browser.
+- [Live Tools](http://livetools.uiparade.com/index.html): A brilliant collection of generators that allow you to easily create your own UI elements with little coding knowledge. You can also download your creations for use in your websites and online applications.
+- [The Accessibility Project](http://a11yproject.com/): The Accessibility Project is a community-driven effort to make web accessibility easier. You will find helpful articles, a web accessibility checklist and some great resources that will help you maximize the accessibility of a website.
+- [The jQuery Plugin Registry](http://plugins.jquery.com/): The new jQuery plugin site that will make finding, downloading and registering plugins easier and better.
+- [xy.css – Responsive Grid Design](http://xycss.com/): xy.css is a lightweight CSS template for building responsive liquid-grid designs. It brings together the best CSS techniques from around the Web and integrates them into a single, powerful style sheet template.
+- [The Absolute Beginner's Guide to Sass](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass): If you'd like to start out with Sass, you'll definitely find this introduction by Andrew Chalkley helpful.
+- [Testing jQuery Plugins Cross-Version With Grunt](http://markdalgleish.com/2013/01/testing-jquery-plugins-cross-version-with-grunt/): In the light of the recent news that jQuery will be dropping support for IE8 and below in the new version, Mark Dalgleish shows how to test the cross-version capabilities of a jQuery plugin with Grunt.
+- [HTML5 Drag and Drop Avatar Changer with Resizing and Cropping](http://css-tricks.com/html5-drag-and-drop-avatar-changer-with-resizing-and-cropping/): Learn how to create a drag and drop avatar uploader and resizer in this in-depth tutorial by Chris Coyier. 
+- [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/): Philip Walton explains how the z-index is often not fully understood and gives some examples that will teach you some things that you probably did not know.
+- [Source Maps 101](http://net.tutsplus.com/tutorials/tools-and-tips/source-maps-101/): Learn about source maps in this introduction by Sayanee Basu. In the tutorial you'll take a very simple bit of JavaScript and SASS code, run them through various compilers, and then view the original files in the browser with the help of source maps.
+- [Voice Driven Web Apps: Introduction to the Web Speech API](http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API): Glen Shires shows us how the new JavaScript Web Speech API can be used to easily add speech recognition to a website.
+- [Twitter Button Concept](http://codepen.io/bennettfeely/full/ErFGv): Bennett Feely  shares his pen of the beautiful Twitter button concept by Erik Deiner.
+- [Using Unprefixed CSS3 Gradients in Modern Browsers](http://www.webappers.com/2013/01/11/using-unprefixed-css3-gradients-in-modern-browsers/): Jennifer Yu from the Internet Explorer team gives us an overview of the changes for the unprefixed CSS3 gradients syntax in this WebAppers article.
+- [Free Font: V.GER Grotesque](http://www.behance.net/gallery/VGER-Grotesque/6636573): A beautiful font that came out of a students project.
+- [Sharp Pixel-Icons](http://dribbble.com/shots/897668-Sharp-pixel-icons-FREE): For his debut, Natko Hasić shares these tiny pixel gems with us. The set contains 20 sharp pixel icons. 
+- [flowtime.js](https://github.com/marcolago/flowtime.js): Marco Lago created flowtime.js, an HTML5/CSS3/JS presentation framework for easily building HTML presentations.
+- [Empty States](http://emptystates.tumblr.com/): For his brilliant article "Designing for the Empty States", Craig Dennis created this collection of empty states in apps. You can submit your screenshots and get inspired for how to design the empty states of your app.
+- [Maxmertkit](http://www.maxmert.com/): Maxmertkit is a CSS framework that is based on a widget-modifier coding style. Combining widgets with a status, size and modifier you can get your ready-to-use code.
+- [voxel.js](http://voxeljs.com/): voxel.js is a collection of projects that make it easy to create 3D voxel games like Minecraft in the browser based on WebGL. It is written by James Halliday and Max Odgen and you can contribute on GitHub.
+- [Mini Keyboard Game](http://tastatour.co/): Tastatour is a very minimal but fun keyboard game to train your reaction with some rad sound. It was created by Jan Oelze and Dominik Johann.
+- [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/): An excellent in-depth article on performance of websites and apps by Harry Roberts  that aims to give first-hand performance techniques that will help you understand front-end performance and help you make your apps faster.
+- [Flat UI is not the only way forward](http://blog.maxrudberg.com/post/41005209081/flat-ui-is-not-the-only-way-forward): Max Rudberg writes about the latest discussion around the "flat look" and why he believes that it is just a stylistic choice and not the only way to design apps in the future.
 
 # Collective #46
+- [Inspirational Website of the Week](http://mapbox.com/): MapBox has a really clean and beautiful design with a great color scheme and some interesting slideshows and infographics.
+- [Form Follows Function](http://fff.cmiscm.com/): Form Follows Function is a collection of interactive experiences by talented Jongmin Kim. Each experience has a its own unique design and functionality. All the experiences are created in HTML5, the site works beautifully on both desktop and tablet.
+- [Web Developer Checklist](http://webdevchecklist.com/): A useful and complete checklist for your project by Sayed Ibrahim Hashimi and Mads Kristensen.
+- [Typesetting Responsive CSS3 Columns](http://kaikkonendesign.fi/columns/): Tommi Kaikkonen creates a very nice example of a responsive column-based layout using CSS3 columns.
+- [Web Safe Colors](http://websafecolors.info/): Web Safe Colors by Denis Leblanc gives you a useful overview of all the web safe colors with their HEX and RGB value.
+- [App Performance Resources](https://plus.google.com/105201233571140699617/posts/8sLNvCnk8xs): A round-up of useful resources about app performance by Paul Lewis.
+- [Conditional Lightbox](http://bradfrostweb.com/blog/post/conditional-lightbox/): A great article by Brad Frost on conditional lightbox functionality depending on screen size.
+- [Make Pretty Charts For Your App with jQuery and xCharts](http://tutorialzine.com/2013/01/charts-jquery-ajax/): Martin Angelov shows how to use xCharts together with the daterange picker for Twitter Bootstrap in order to build an AJAX-powered chart for your web application that fetches data from a MySQL table.
+- [Bandwidth Media Queries? We Don’t Need ’Em!](http://mobile.smashingmagazine.com/2013/01/09/bandwidth-media-queries-we-dont-need-em/): Yoav Weiss analyzes why the bandwidth media query idea is a bad one and why bandwidth optimization should be better left to the browser.
+- [MIDI.js](http://mudcu.be/midi-js/): MIDI.js ties together, and builds upon frameworks that bring MIDI generation to the browser. Combine it with jasmid to create a web-radio MIDI stream or with Three.js, Sparks.js, or GLSL to create audio-visual experiments. 
+- [ParamQuery Grid](http://paramquery.com/): ParamQuery grid is a light-weight jQuery grid plugin inspired by MS Excel and Google spreadsheet. It's based on the jQueryUI Widget factory which is an excellent design pattern for UI controls with a consistent API. 
+- [Flexible Foundations](http://trentwalton.com/2013/01/07/flexible-foundations/): "Good design could have been made better had we grasped the benefits of the flexible foundation years earlier." Some good thoughts by Trent Walton on RWD and on how we ignored the true flexible nature of the web all this time. 
+- [#50C1AL: jQuery Plugin for Sharing & Displaying Social Network Buttons](http://tolgaergin.com/files/social/index.html): A jQuery plugin for listing profiles and sharing with some nice overlay options.
+- [A Tale of Two Clocks - Scheduling Web Audio with Precision](http://www.html5rocks.com/en/tutorials/audio/scheduling/): Chris Wilson explains some of the least understood topics of Web Audio: how to properly work with the audio clock.
+- [SVG Styling](http://blogs.adobe.com/webplatform/2013/01/08/svg-styling/): An insightful article about the future of SVG and how to use SVG Styling.
+- [Who Says the Web is Just for Squares?](http://viget.com/inspire/who-says-the-web-is-just-for-squares): A tutorial by Trevor Davis from Viget on how to create a grid layout with diamond shapes.
+- [Super Resize Me](http://maximin.tv/srm/): Are you one of those fanatic browser window resizers? Then you can finally put your incredible talent to use and play this fun responsive game by Maximin.
+- [PolyCrypt: A WebCrypto Polyfill](http://polycrypt.net/): The W3C WebCrypto working group is developing a crypto API for the DOM and until all browsers support it you can start get a feel for how to use it with this pure JavaScript implementation by BBN Technologies.
+- [Slide.ly Instant Videos](http://slide.ly/): With Slide.ly you can create slideshow videos using your favorite photos and music and share them quickly with your friends on all popular social networks.
+- [SassMe: Visualize SASS color functions](http://sassme.arc90.com/): With SassMe you can visualize SASS color functions in real-time without compiling by Arc90 Lab.
+- [Junior Front-End Framework](http://justspamjustin.github.com/junior): Junior is a front-end framework for building HTML5 mobile apps with a native look and feel. 
+- [Mosh: Mobile Shell](http://mosh.mit.edu/): Mosh is a remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes. It's a replacement for SSH, being more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.
+- [You Suck at Retina](http://zachholman.com/posts/retina/): Most of us are guilty of that: we really suck at retina. Zach Holman calls out for updating our style sheets and start serving higher-resolution assets for a more retina-friendly web.
+- [SpectragramJS](http://lab.adrianquevedo.com/jquery-spectragram/): SpectragramJS is an easy-to-use jQuery plugin by Adrian Quevedo for the Instagram API to fetch and display photo feeds in your web app.
+- [Profound Grid](http://www.profoundgrid.com/): Profound Grid is a responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control.
+- [Image Picker](http://rvera.github.com/image-picker/): Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface.
 
 # Collective #45
+- [Inspirational Website of the Week](http://www.sevnthsin.com/): This week we picked Seventhsin because of its completely bold and interesting navigation concept in 3D.
+- [All you need to know about CSS Transitions](http://blog.alexmaccaw.com/css-transitions): A great in-depth article by Alex MacCaw on CSS Transitions. Learn how to apply them, optimize and chain them. You will definitely discover a lot of new things from this article.
+- [Regexper](http://www.regexper.com/): Regexper is a brilliant regex visualization tool that will help you understanding any regular expression you are working with.
+- [Easing Functions Cheat Sheet](http://easings.net/): A really useful cheat sheet for all the easing functions you might want to use in your animations or transitions (CSS or JS).
+- [jKit](http://jquery-jkit.com/): jKit is an easy-to-use, cross-platform jQuery-based UI toolkit, that comes with many features you need for any web project.
+- [Designing a Responsive, Retina-friendly Site](http://paulstamatiou.com/responsive-retina-blog-design): An in-depth article on the redesign of his website by Paul Stamatiou with a main focus on designing retina-friendly.
+- [controldeck.js](http://dfcb.github.com/controldeck.js/): With controldeck.js by John Polacek you can control your HTML5 presentations with node.js. Use controldeck.js to run HTML5 presentation frameworks like deck.js, reveals.js and impress.js. You can run it locally or on a node.js server. 
+- [PlaceIt: Generate Product Screenshots in Realistic Environments](http://placeit.breezi.com/): With PlaceIt by Breezi you can simply drag your screenshot into one of the pre-made realistic device environments and voilà, you have your ready-to-use screenshot. 
+- [Responsive Design for Apps — Part 1](http://blog.cloudfour.com/responsive-design-for-apps-part-1/): Jason Grigsby dives into the responsiveness problematic of web apps and JavaScript UI frameworks.
+- [Centurion](http://jhough10.github.com/Centurion/): Centurion is a responsive web framework that was built using SASS and CSS3 media queries and allows for quick prototyping.
+- [75 Free Buttons For Online Payment Service Providers (PNG)](http://pepsized.com/75-free-buttons-for-online-payment-service-providers/): A superb and complete set of online payment service icons that come in two different sizes in PNG format.
+- [Free Font: Ridge](http://www.behance.net/gallery/RIDGE-Typeface/6456873): A beautiful and unique font by Erika Noel Mackley free to use in your next design project.
+- [CoverFlow](http://codepen.io/hjortureh/full/pGlki): A nice pen by Hjörtur Hilmarsson: CoverFlow built with CSS3 and minimal use of JavaScript.
+- [Facebook - New Look & Concept](http://www.behance.net/gallery/Facebook-New-Look-Concept/6504647): Fred Nerby shows us a fresh view of how Facebook could look. A great concept with some interesting ideas.
+- [Free Font: Gutenberg A](http://www.myfonts.com/fonts/alterlittera/gutenberg-a/): Gutenberg A is the free version of the famous B42-type used by Johann Gutenberg in his famous 42-line Bible.
+- [In search of the perfect radius](http://radesign.in/in-search-of-the-perfect-radius/): If you have ever dealt with nested border radii then you'll find this article very useful.
+- [The Making of the Interactive Treehouse Ad](http://css-tricks.com/treehouse-ad/): Learn how the fun and interactive Treehouse ad on CSS-Trick was made from this tutorial by Chris Coyier.
+- [Free Font: VDS](http://www.behance.net/gallery/VDS-FONT-updated/6501941): The free VDS typeface got updated with two more weights. It's a very clean, yet interesting typeface by Artmaker.
+- [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/): Learn about the mysterious Shadow DOM, what it is and what you can do with it from this HTML5Rocks article by Dominic Cooney.
+- [Photoshop Icon Toolkit (AI)](http://dribbble.com/shots/880071-Photoshop-Icon-Toolkit-Green-Design): Some really sweet green icons by The Masked Bear.
 
 # Collective #44
+- [Inspirational Website of the Week](http://www.silktricky.com/): SilkTricky is a great example of an interesting layout combined with interesting effects and slick media integration. Don't forget to watch their intro video :)
+- [Dive into Flexbox](http://weblog.bocoup.com/dive-into-flexbox/): An excellent in-depth article by Greg Smith from Bocoup on the new Flexbox layout mode that is considered the holy grail for layout. The article dives into the revised Flexbox syntax in technical detail and you'll learn what you can do with it.
+- [Learn CSS Layout](http://learnlayout.com/): This site teaches the CSS fundamentals that are used in any CSS layout. You'll learn about all the important CSS properties involved in layout with practical examples.
+- [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/): A list of great talks by various speakers for becoming a better front-end engineer by Smashing Magazine.
+- [Science!](http://24ways.org/2012/science/): Jon Tan takes us on an important journey of the science behind how people scan websites and interact with them. This science helps make decisions on how to design and create a better user experience.
+- [Maskew](http://oxism.com/maskew/): Maskew by Dan Motzenbecker is a light-weight JavaScript library for skewing the shapes of elements without any dependencies.
+- [Free Font: Hammer](http://taulantsulko.com/font.php): Hammer by Taulant Sulko is a modern-looking condensed slab serif typeface with a lot of character.
+- [Vintage Badge Templates](http://wegraphics.net/downloads/vintage-badge-templates-brushes-vectors-and-textures/): This resource by WeGraphics includes 12 brushes and 12 vector badges. The badges are blank, allowing you to layout your own text and embellishments. The download also includes 8 vintage paper textures for use with the badges.
+- [Minimal UI Icon Set](http://breezi.com/blog/free-minimalist-icon-set/): The designers of Breezi have put together a collection of 50 icons that are a great resource for adding the finishing touches to your design project. This handcrafted set is available as PSD and AI source files.
+- [Progressive JPEGs: A New Best Practice](http://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/): Learn why progressive JPEGs are the new best practice and what the challenges and rendering differences for browsers currently are and what's in for the future.
+- [Separation, Abstraction, and Cascading in CSS](http://www.lispcast.com/cascading-separation-abstraction): An interesting article from a different perspective by Eric Normand on what he believes the problems of CSS are.
+- [Gemicon (PSD, PNG)](http://gemicon.net/): Gemicon is a handcrafted icon set with more than 600 icons by Turqois. It comes in three different sizes and each icon was created with a pixel-perfect shape layer in Photoshop. 
+- [Free Font: Vincent](http://dribbble.com/shots/868554-Free-Typeface-VINCENT): Ben Suarez created this interesting typeface perfect for strong titles.
+- [How to Create a Windows 8 RSS Reader App with HTML5](http://www.webappers.com/2012/12/28/how-to-create-a-windows-8-rss-reader-app-with-html5/): A tutorial by David Rousset for WebAppers on how to create a RSS reader app with HTML5 for Windows 8.
+- [How To Deal With Vendor Prefixes](http://css-tricks.com/how-to-deal-with-vendor-prefixes/): A great write-up by Chris Coyier on how to handle vendor prefixes depending on if you are a hand author that will edit CSS directly or if you use preprocessors.
+- [Elusive Icons](http://aristath.github.com/elusive-iconfont/): Elusive Icons is a webfont with 268 icons for you next project. They are Open Source and you can contribute to the project.
+- [Forward E-Commerce Platform](http://getfwd.com/): Forward is a open source platform for custom e-commerce with MongoDB. It comes with many features and it makes customizing easy, with powerful templates and an expressive syntax.
+- [Photobox v1.03](http://dropthebit.com/demos/photobox/): Photobox is a light-weight jQuery image gallery which uses only CSS3 for silky-smooth animations and transitions. It supports modern browsers and was created by Yair Even Or.
+- [CSS3 Gradient Designer](http://dvia.com/gd/): A sophisticated gradient generator tool by Tom Pryor with all the things you need to create a perfect CSS gradient and copy the CSS code. You can also download the source code from GitHub.
+- [Free Font: Blocko](http://www.behance.net/gallery/BLOCKO_typeface-(free)/6430229): Blocko typeface by Jorrit van Rijt is best suited if used in capitals for large headings. If you use it in a project, make sure to drop the author a line.
+- [App Folders Plugin for jQuery](http://app-folders.com/): With jQuery App Folders you can effortlessly arrange items as on an iOS device. It's very flexible and it can be used with any content.
+- [Reuze.me](http://reuze.me/): Reuze is a small front-end framework that makes structuring HTML and CSS for mid to large-sized content-rich sites a breeze. It plays nice with other frameworks such as Foundation and Boostrap but also works equally well on it's own. It's still in beta but new useful features are coming.
 
 # Collective #43
+- [Inspirational Website of the Week](http://www.chevalblanc.com/randheli/en/10-graphic-architecture.html): Cheval Blanc's Randheli slideshow is our pick this week. It has a slick smoothness and and an interesting sidebar navigation. The typography with the cut-out letters enhances the elegant design. 
+- [Why moving elements with translate() is better than pos:abs top/left](http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/): After Hugo Giraudel asked the fundamental question on Twitter, Paul Irish explains why moving elements using translate() is better in terms of performance than using absolutely positioned elements and move them manipulating their top/left values. Also check out Chris Coyier's article A Tale of Animation Performance.
+- [Christmas Experiments](http://christmasexperiments.com/): Christmas Experiments is an advent calendar made by digital artists. Discover some interesting and creative experiments everyday until Christmas.
+- [Parallaxin'](http://www.html5rocks.com/en/tutorials/speed/parallax/): Paul Lewis explains the options and issues you are facing if you are trying to create a smooth parallax effect for your project.
+- [Free Font: Flenja Regular](http://www.myfonts.com/fonts/stereotypes/flenja/): Flenja is an interesting font family with a lot of character by Sascha Timplan. The regular version is for free.
+- [HTML5 Bones](http://html5bones.com/): Ian Devlin created this "back-to-basics" template that will help you get going in HTML5. Because of its helpful inline comments, it can also be used as a guide when building your own HTML5 page from scratch.
+- [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/): Another insightful article from HTML5 Rocks by Paul Lewis about scrolling performance and how to understand and tackle performance issues related to it.
+- [GruntStart](http://tsvensen.github.com/GruntStart/): GruntStart by Tim Svensen gives you the building blocks to quickly get started with Grunt to create an optimized website. Lint, minify and concatenate CSS and JavaScript, and provide simple loss-less image compression throughout a project build.
+- [CSS Masks – How To Use Masking In CSS Now](http://thenittygritty.co/css-masking): Christian Schaefer digs into CSS Masks and shows us some brilliant techniques that can be used right away.
+- [A Responsive Off-Canvas Menu](http://dbushell.com/2012/12/22/a-responsive-off-canvas-menu-with-css-transforms-and-transitions/): A great responsive off-canvas menu using CSS transforms and transitions by David Bushell.
+- [Dcovery: Travel Research Organizer](http://dcovery.com/): Dcovery is a new app that promises stress-free travels by allowing you to collect and organize travel information in a smart way.
+- [jQuery.Shapeshift](http://mcpants.github.com/jquery.shapeshift/): Inspired heavily by the jQuery Masonry plugin, Shapeshift by Scott Elwood is a jQuery plugin that will dynamically arrange a collection of elements into a grid in their parent container (like on Pinterest).
+- [Pure CSS no smoking picto](http://codepen.io/HugoGiraudel/pen/Jqysh): With only two elements, Hugo Giraudel re-created the no smoking sign with CSS. It's a great example of how clip:rect() can be used to create shapes.
+- [Time to update your CSS3](http://generatedcontent.org/post/37949105556/updateyourcss3): A great reminder from David Storey about how to update your CSS3 and which prefixes are actually needed and which ones are not.
+- [Interactive Guide to Blog Typography](http://kaikkonendesign.fi/typography/): A great interactive guide that will help you understand important typography fundamentals.
+- [Webcam Toy](http://webcamtoy.com/app/): Paul Neave's projects are all mind-blowing and one of his latest projects, the Webcam Toy, got featured as a Chrome Experiment. You can do some fun stuff with your webcam, go and check it out. 
+- [Giving Content Priority with CSS3 Grid Layout](http://24ways.org/2012/css3-grid-layout/): An in-depth tutorial by Rachel Andrew about how to use the new CSS3 grid layout. 
+- [Free Font: Myra Caps](http://www.behance.net/gallery/Myra/6367355): An interesting font with beautiful digit design by Sergiy Tkachenko.
+- [Zodiac Signs](http://drbl.in/gjlA): A lovely set of zodiac signs by Finbarrs Oketunji.
+- [Free Font: Boffin Regular](http://www.myfonts.com/fonts/boris-marinov/boffin/): Boffin is a nice, technical typeface by Evolutionfonts and the regular weight is offered fro free.
+- [Live Album Previews with CSS3 and jQuery](http://tutorialzine.com/2012/12/album-photo-previews-jquery/): A tutorial by Martin Angelov from Tutorialzine on how to create a script for previewing the contents of an album with a slideshow-like animation.
+- [Underneath – A Creepy Web Font Kit](http://wegraphics.net/downloads/underneath-a-creepy-web-font-kit/): A font face that is great for creepy grungy titles by WeGraphics. The download includes everything you need in order to use this font in a web project, including HTML and CSS.
+- [How to Create a Windows Store app using HTML and JS](http://www.webappers.com/2012/12/21/how-to-create-a-windows-store-app-using-html-and-js/): Learn how to create a windows store app from this tutorial by the team at MSDN for WebAppers.
 
 # Collective #42
+- [Inspirational Website of the Week](http://www.felixreichle.de/): The brilliant portfolio of Felix Reichle is our pick this week. It has an interesting mix of hand-draw elements and elegant-looking shapes combined with a decent color scheme.
+- [A Comparison of JavaScript Physics Engines](http://www.webappers.com/2012/12/11/a-comparison-of-javascript-physics-engines/): Learn about the differences of JavaScript physics engines from this great article by Chandler Prall for WebAppers. 
+- [Christmas Icon Set (PNG)](http://www.smashingmagazine.com/2012/12/14/christmas-icon-set/): A set of beautiful Christmas-related super-detailed icons made by RocketTheme for Smashing Magazine.
+- [Framote: Remote URL Control](http://framote.com/): Jaime Caballero created Framote, a tool with which you can simply generate a special short link from any URL. You'll be able to change the embedded URL anytime.
+- [Responsive Images: What We Thought We Needed](http://24ways.org/2012/responsive-images-what-we-thought-we-needed/): Some interesting thoughts by Paul Robert Lloyd about the problematic of responsive images and their proposed solutions. An interesting discussion follows.
+- [Handy Icons – Free Web Font Kit](http://wegraphics.net/downloads/handy-icons-webfont-kit/): A large set of 99 hand-drawn icons that have been converted to a webfont by WeGraphics.
+- [Merry Scrolling with skrollr.js](http://pepsized.com/merry-scrolling-with-skrollr-js/): A step-by-step tutorial on how to create a beautifully looking Christmassy scrolling effect by Paulina Hetman from Pepsized.
+- [Numbers.js](https://github.com/sjkaliski/numbers.js): Numbers is an advanced mathematics library for Node.js and JavaScript developed by Steve Kaliski. It provides a comprehensive set of mathematical tools that are currently not available in JavaScript.
+- [Mini Help System with jQuery](http://tutorialzine.com/2012/12/mini-help-system-jquery/): Martin Angelov will show you how to create a small widget which will display some help text for users of a web application. The widget content is going to be searchable in real time, and all matching terms will be highlighted.
+- [Analytics.js](http://segmentio.github.com/analytics.js/): Segment.io gives us this great script that will make integrating analytics a breeze.
+- [Mustaches (AI)](http://www.designkindle.com/2012/12/12/mustaches/): An unmissable set of brilliant mustaches as fully editable Illustrator vector files by Charlie Belvin.
+- [Multiple Devices PSD](http://dribbble.com/shots/859471-Multiple-Devices): A set of beautifully designed and cool looking mobile devices by Armas B.
+- [Free Font: Mr. Wright](http://www.behance.net/gallery/Mr-Wright/6284347): Anthony Schmiedeler designed the exquisite Mr. Wright font for a school project using Fontlab. It's based on the furniture design of Frank Lloyd Wright.
+- [Do we need box-shadow or border-radius prefixes anymore?](http://css-tricks.com/do-we-need-box-shadow-prefixes/): Do we? Read the short and the long answer and explanation by Chris Coyier on CSS-Tricks.
+- [Travel Web Design Template (PSD)](http://cssauthor.com/premium-travel-web-design-template-psd-for-free/): A fun looking travel-related web design template by CSS Author.
+- [Cooking Icons (AI, EPS)](http://dribbble.com/shots/858229-Free-Cooking-Icons): Cosmin Capitanu created this sweet pack of cooking-related vector icons.
+- [Free Font: Christmas Numerals](http://www.artill.de/blog/index.php/2012/12/12-free-font-christmas-numerals/): Stereotypes designed these beautiful Christmas numerals and offers them for free.
+- [Canvas-Driven background images](http://updates.html5rocks.com/2012/12/Canvas-driven-background-images): Eric Bidelman takes a look at canvas-driven background images and shows some demos (mostly Canary).
+- [Free Christmas Email Template (HTML)](http://themedev.me/freebies/free-christmas-email-template-html-version/): A festive Christmas email template by ThemeDev.
+- [Annotary](https://annotary.com/): Annotary helps you bookmark pages, make highlights, take notes, and share with others.
+- [Google Droid-Gangnam in Pure CSS](http://jsfiddle.net/Layke/7hjTC/show/): An Easter-Egg found on the Google Zeitgeist page: Droid-Gangnam.
+- [Toolbar](http://codepen.io/cameronbaney/full/dhKIo): A beautiful toolbar originally designed by Mani, converted to HTML/CSS by Cameron Baney.
+- [CSS3 Generator](http://www.css3generator.in/): A fun little CSS snippet generator for all the fanciness that is hard to remember.
 
 # Collective #41
+- [Inspirational Website of the Week](http://tapmates.com): Tapmates is our pick this week. It has a really original portfolio and they have Geordi La Forge on their team ;)
+- [Photobooth.js](http://wolframhempel.com/2012/12/02/photobooth-js/): Photobooth.js is a jQuery plugin that allows the user to take pictures directly from a website. It also offers real-time adjustments for hue, saturation and brightness and the ability to crop the image.
+- [3D Hartwig Chess Set](http://codepen.io/juliangarnier/fulldetails/BsIih): Julian Garnier will blow your mind with this playable chess set. Nope, it's not WebGL, it's CSS 3D awesomeness plus the Photon and Chess.js library. 
+- [Embracing Touch: Cross-platform Scrolling (Presentation)](http://markdalgleish.com/presentations/embracingtouch/): A visually stunning slideshow presentation by Mark Dalgleish on handling of scrolling overflow in mobile browsers.
+- [Case-Study: JAM with Chrome - How we made the UI rock](http://www.html5rocks.com/en/tutorials/casestudies/jamwithchrome-interaction/): Learn about how JAM with Chrome was made from this great article by Fred Chasen on HTML5 Rocks.
+- [Typespiration](http://typespiration.com/): Rafal Tomal created this inspirational gallery for typography. Here you can find inspirational web font combinations with ready-to-use CSS codes, color schemes and web-safe font families.
+- [FloraJS: Simulate Natural Systems with JavaScript](http://www.florajs.com/): FloraJS is a JavaScript framework by Vince Allen for simulating natural systems in a web browser. In Flora, the "world" is your web browser. DOM elements inhabit the world and behave according to rules meant to simulate a natural environment.
+- [Literally "Canvas"](http://literallycanvas.com/): Literally Canvas is an extensible, open source (BSD-licensed), HTML5 drawing widget that currently supports a minimal set of drawing operations. You can draw, erase, set the color with the eyedropper, undo, redo, pan, and zoom. It depends on jQuery and Underscore.js.
+- [jQRangeSlider](http://ghusse.github.com/jQRangeSlider/index.html): A jQuery UI range selection slider by Guillaume Gautreau that supports dates and works on touch devices.
+- [xCharts](http://tenxer.github.com/xcharts/): xCharts by tenXer is a D3-based JavaScript library for building beautiful and custom data-driven chart visualizations for the web.
+- [How to Make a Mac OS X-like Animated Folder with CSS3](http://tutorialzine.com/2012/12/mac-osx-animated-folder-css3/): Another great tutorial by Martin Angelov on how to make a OS X-like folder with CSS3. 3D transforms, gradients, box shadows and the jQuery UI Drag and Drop are used to achieve an awesome result.
+- [Sprite Sheet Animation with steps()](http://simurai.com/post/37075268994/steps-animation): A great example on how to use steps() in CSS animation for animating sprites by Simurai.
+- [G+ for the Hacker News](https://plus.google.com/communities/104388679763490357266): Communities have arrived in Google+ and there are many awesome ones that you'll definitely find interesting. The Hack News Community is one of them, make sure to check them out.
+- [FastClick](https://github.com/ftlabs/fastclick): Ever felt that tapping in a mobile browser feels a bit laggy? That's because of a delay between the physical tap and the firing of the click event. FastClick is a simple library that will help you get rid of that delay. It is developed by FT Labs, part of the Financial Times.
+- [jHERE](https://github.com/mmarcon/jhere): Are you tired of complicated map APIs? Then you'll love jHERE by Massimiliano Marcon, a simple, yet powerful map API in form of a jQuery plugin that will help you easily add interactive maps to your website. It's very light-weight and you get highly customizable markers, event handling and info bubbles.
+- [Cooky: jQuery Mobile Site Template](http://www.anarieldesign.com/?portfolio=cooky-free-mobile-site-template): Cooky Mobile is a free jQuery Mobile website template by Anariel Design.
+- [Product Landing Page – HTML/CSS Template](http://wegraphics.net/downloads/product-landing-page-htmlcss-template/): This free download by WeGraphics includes a PSD landing page design and a responsive HTML/CSS layout.
+- [Seamless Wood Patterns](http://www.pixeden.com/graphic-web-backgrounds/wood-pattern-background): A great set of six qualitative seamless wood patterns by Pixeden.
+- [GitHub's CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance): The slides of Jon Rohan on GitHub's CSS performance, the challenges involved and the solutions applied for solving CSS performance related problems. The talk was given at CSS Dev Conference in Honolulu, HI 2012.
+- [Crumble: jQuery Feature Tours](http://tommoor.github.com/crumble/): With Crumble you can create a quirky, interactive tour on your website or app. It is developed by Tom Moor and it's using grumble.js.
+- [Blurred Backgrounds](http://vandelaydesign.com/blog/free-resources/blur-bgs/): A set of 14 blurred backgrounds, ready to be used in your next design project.
+- [Extensionizr: Boilerplate for Chrome Extensions](http://extensionizr.com/): Extensionizr by Alex Wolkov is a simple way to jump-start your Chrome extension development. Just select the type of extension you want, choose permissions and you're off. It's inspired by Initializr.
 
 # Collective #40
+- [Inspirational Website of the Week](http://getgoingtoday.org/): Get Going Today from Drexel University is a great example for successfully and beautifully integrating video as the main medium in a website.
+- [One div: The single element HTML/CSS icon database](http://one-div.com/): One div shows us the power of CSS with a library of single element graphic. All icons displayed on the website are created without images, just pure CSS using only one division.
+- [24 Pull Requests](http://24pullrequests.com/): 24 Pull Requests is a yearly initiative to encourage developers around the world to send a pull request every day in December up to Christmas.
+- [Responsive Column Layouts](http://webdesignerwall.com/tutorials/responsive-column-layouts): Nick La shares a nice responsive column layout trick, also used in Themify's WordPress themes, which employs the nth-of-type pseudo-class.
+- [5 APIs that will transform the Web in 2013](http://blog.alexmaccaw.com/the-next-web): CSS Custom Filters, Autocomplete API, Google Chrome Apps, ECMAScript 6 and Web Components are the APIs that will change the web in the coming year. Read what they are and why they rock in this overview by Alex McCaw.
+- [SocialCount, a jQuery Plugin for Lighter & Faster Social Networking Widgets](http://filamentgroup.com/lab/socialcount/): SocialCount is a wonderful contribution by the Filament Group: finally a social plugin that tackles the most concerning issues of including social network buttons and widgets into your site. SocialCount can be easily customized, it works with mouse, touchscreen, or keyboard, it lazy-loads, it's super-small and more.
+- [Heyoffline.js](http://oskarkrawczyk.github.com/heyoffline.js/): Heyoffline.js by Oskar Krawczyk warns your users when their network goes down. It will help you make sure they don't lose anything.
+- [Creative 404 Page](http://ademilter.com/boylebisayfayok): Adem Ilter created a super-creative 404 page for his blog. 
+- [Sidebar: The 5 best design links, every day](http://sidebar.io/): Sidebar by Sacha Greif gives you a daily dose of qualitative and fresh design links.
+- [The WebGL Podcast](http://thewebglpodcast.com/): Learn about the latest news and libraries, as well as tips and tricks to help you get the most out of your WebGL project listening to this awesome podcast hosted by Paul Lewis.
+- [Walkabout.js: An automatic jQuery app tester](https://github.com/ianb/walkabout.js): If you want to test your jQuery app, you'll definitely find this helpful: walkabout.js figures out what your application is paying attention to, and does it. It fills in fields with random values, finds events you listen for and fires those events. It also finds internal links and clicks them.
+- [CSS Architecture](http://engineering.appfolio.com/2012/11/16/css-architecture/): A wonderful, in-depth article by Philip Walton about good CSS architecture. A must-read that will teach you a lot.
+- [jStat: A JavaScript statistical library](http://www.jstat.org/): jStat is a statistical library written in JavaScript that allows you to perform advanced statistical operations without the need of a dedicated statistical language like MATLAB or R.
+- [HTML5 Video Bumpers](http://24ways.org/2012/html5-video-bumpers/): Day 1 of this year's 24Ways articles starts out with Drew McLellan's tutorials about HTML5 video bumpers, short introduction clips that can help brand a video and make it look more professional. 
+- [Scrubby](http://nornagon.github.com/scrubby/): With Scrubby by Jeremy Apthorp you can tweak values in JavaScript without having to recompile it. 
+- [Adapting your WebKit-optimized site for Internet Explorer 10](http://blogs.windows.com/windows_phone/b/wpdev/archive/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10.aspx): Learn how you can adapt a WebKit-optimized site to also support IE10 so that it works on Windows Phone 8.
+- [Should You Use Inline-Blocks As A Substitute For Floats?](http://www.vanseodesign.com/css/inline-blocks/): Steven Bradley explains why sometimes inline-blocks are a good alternative to float, especially if your goal is to lay out blocks in rows, like a grid of images or a horizontal list of links.
+- ["Do you know this guy?" by Internet Explorer](http://www.youtube.com/watch?v=lD9FAOPBiDk): However your relationship with Internet Explorer is, you might find this video funny ...or sad, or hilarious, or desperate, or super-cool, or... just watch for yourself.
+- [Character-Code.com](http://character-code.com/): A nicely organized resource of HTML codes and names for ASCII characters. Super-useful. 
+- [Style Manual: A reference document by Andy Taylor](http://stylemanual.org/): Although Andy Taylor calls it "an absolutely incomplete, personal reference", you will definitely learn some interesting things about punctuation, style and HTML shortcuts from this great resource.
+- [FooTable: jQuery Plugin for Responsive Tables](http://themergency.com/footable/): FooTable is a jQuery plugin that aims to make HTML tables on smaller devices look awesome, no matter how many columns of data you may have in them.
+- [Responsive Email Templates](http://www.zurb.com/playground/responsive-email-templates): A fantastic set of free, responsive email templates by ZURB with many different layouts. 
+- [tabIndent.js](https://github.com/julianlam/tabIndent.js): A Javascript object by Julian Lam that allows you to enhance a plain old textbox with "tab" behavior. It disables the default browser behavior (moving to the next input box), and enhances the existing textbox to capture the "tab" key and replicate behavior similar to that found in editors (inserting a tab character, indentation).
+- [HTML5 Game: Pappu Pakia](http://khele.in/pappu-pakia/): A fun HTML5 game that has been made for the GitHub Game Off 2012. Some tricks and tips that the developers learnt while making this game have been shared on the blog CodeTheory and on CSSDeck.
+- [Dropbox File Uploader With Twitter Bootstrap](http://tutorialzine.com/2012/11/dropbox-photo-crop/): A great tutorial by Martin Angelov on how to use the new DropBox feature, the Dropbox Chooser, in order to create an app that lets users attach a photo from their Dropbox account, crop an area with the Jcrop plugin, and download the result.
+- [The Big Badass List of 205 Useful Twitter Bootstrap Resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): A huge list of useful Twitter Bootstrap resources by Bootstrap Hero.
+- [Fun with face detection, canvas and webcam video](http://www.paulrhayes.com/2012-11/fun-with-face-detection-canvas-and-webcam-video/): Paul Hayes shows us how we can play around with web­cam video data in the browser using getUser­Me­dia API, a video element, a canvas element and a face detection algorithm.
+- [Making 100,000 Stars](http://www.html5rocks.com/en/tutorials/casestudies/100000stars/): Remember 100,000 Stars, the Chrome experiment that is an interactive visualization of the stellar neighborhood and that we featured in Collective #38? Now you can dive into the making-of by Michael Chang on HTML5 Rocks. The project was built with THREE.js and CSS3D and you can learn about the discovery process and some great programming techniques.
+- [Hypnos](http://lab.hakim.se/hypnos/): Hakim El Hattab created another magical experiment called Hypnos.
+- [Free Font: Bourbon](http://www.behance.net/gallery/Bourbon-Typeface/6149195): A sweet, retro sans serif typeface by William Suckling.
+- [Clean Portfolio One Page PSD Template](http://wegraphics.net/downloads/clean-portfolio-one-page-psd-template/): A free PSD template for a clean portfolio website with a light and dark version by WeGraphics.
+- [Respond to change with Object.observe](http://updates.html5rocks.com/2012/11/Respond-to-change-with-Object-observe): Alex Danilo shows you how you can experiment with a new method called Object.observe() that has been proposed to TC39, the standards body overseeing development of ECMAScript (JavaScript). It aims to improve the performance of web applications and you can try it out now in Chrome Canary version 25.
+- [How to record audio in Chrome with native HTML5 APIs](http://codeartists.com/post/36746402258/how-to-record-audio-in-chrome-with-native-html5-apis): Learn about the possibilities and problems when capturing audio with HTML5 in Chrome from this article by Code Artists.
+- [Emmet CSS snippets for Sublime Text 2](https://github.com/P233/Emmet-Css-Snippets-for-Sublime-Text-2): If you are writing you code with Sublime Text 2 and use Emmet but have trouble remembering all the property aliases, you'll love these ST2 snippets that will allow you to use Emmet CSS through autocomplete hints. It can also work with CSS, LESS, SCSS and Sass.
 
 # Collective #39
+- [Inspirational Website of the Week](http://weareanonymous.fr/): Anonymous is a digital production company based in Paris, France, and their website was out pick this week. It has some interesting hover effects and subtle patterns.
+- [Agile Designers](http://www.agiledesigners.com/): The resource that we've all been waiting for: all the tools and websites related to web design & development in one place! Find, submit and check out new resources for your everyday work and inspiration.
+- [Pickadate.js: a lightweight jQuery date picker](http://amsul.github.com/pickadate.js/): Lightweight, easy-to-use and clean; that's how a date picker should be. Pickadate.js is exactly that, give it a try and you'll love it.
+- [Free Font: Prime](http://fontfabric.com/prime-free-font/): Prime is a simple typeface with a techy feel and a strict, geometric origin designed by Max Pirsky.
+- [Code smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/): Harry Roberts explains how to detect bad CSS and gives some great explanations on why and how to avoid certain poor code practices.
+- [Solving design problems](http://design.canonical.com/2012/11/solving-design-problems/): Interaction designer Matthew Paul Thomas shares and explains this poster from the Ubuntu Developer Summit in California about solving design problems.
+- [Art Professions Icon Set (PNG)](http://www.smashingmagazine.com/2012/11/20/art-professions-icons-png/): A free icon set with 34 PNG icons related to arts and designed by BanzaiTokyo for Smashing Magazine.
+- [Long Press jQuery Plugin](http://toki-woki.net/lab/long-press/): Long Press is a jQuery plugin that will ease the writing of accented or rare characters.
+- [Native CSS feature detection via the @supports rule](http://dev.opera.com/articles/view/native-css-feature-detection-via-the-supports-rule/): This great article by Chris Mills explores the CSS @supports rule which is part of the CSS3 Conditional Rules Module Level 3 and which provides a perfect mechanism for selectively applying CSS based on feature support.
+- [Free Font: Flex Display](http://www.behance.net/gallery/Flex-Display-free-font/6032321): Flex Display, developed by Álvaro Thomáz, is a free geometric thin display font.
+- [Batch: 300 icons, now for free (PSD)](http://adamwhitcroft.com/batch/): Adam Whitcroft created these 300 icons for web and user interface design and now they are completely free. Each icon is a single Photoshop shape layer, meaning they can be scaled up—and down—without loss of quality.
+- [Harsh Color-Stop Gradients](http://www.bookcasey.com/harsh/): Harsh is a really nice Compass extension for randomly generated CSS3 gradients with harsh color stops like magical diamonds.
+- [Duri.me: a super simple dataURI tool](http://duri.me/): Patrik Larsson and Tiago Duarte created this useful tool for converting images to Base-64 code.
+- [How to Create Retina Graphics for your Web Designs](http://line25.com/tutorials/how-to-create-retina-graphics-for-your-web-designs): Chris Spooner shows us why and how to create retina graphics in this Line 25 tutorial.
+- [Responsive Menu Concepts](http://css-tricks.com/responsive-menu-concepts/): Tim Pietrusky introduces some great concepts for responsive menus in this CSS-Tricks article.
+- [API for extracting semantic image data](http://cloudinary.com/blog/api_for_extracting_semantic_image_data_colors_faces_exif_data_and_more): Cloudinary, the cloud-based image management and manipulation solution offers a great API for extracting semantic image data like colors, Exif data and even faces.
+- [AjaxGetContent jQuery Plugin](http://www.implico.pl/lang-en/ajaxgetcontent_dynamic_ajax_website,7.html): Don't want a page jump but simply load everything on you website with AJAX? The web agency Implico offers their jQuery plugin for AJAX based content loading for free. Read how to use it and check out the website examples. 
+- [Sizing type, leading and vertical dimensions with rem-units](http://miekd.com/articles/sizing-type-leading-and-vertical-dimensions-with-rem-units/): A very informative article on understanding and using rem units for making type and vertical spacing resize responsively. 
+- [Be careful who you build for](http://www.jordanm.co.uk/post/36129060691/be-careful-who-you-build-for): Jordan Moore shares some interesting thoughts on the new "resizing disease" that web designers and developers acquired lately.
+- [Free Vector Page Doodles (AI, EPS)](http://wegraphics.net/downloads/free-vector-page-doodles/): WeGraphics shares this great pack of hand-drawn page doodles. The pack includes arrows, stars, hearts, skulls, and various other doodles.
+- [CSS3 Monochrome Icon Set](http://cssdeck.com/labs/css3-monochrome-icon-set): A set of 85+ CSS-only icons and glyphs created by Kushagra Agarwal. They are inspired by Glyphicons and Glyphish.
+- [Free Font: Festiva](http://serifchocolate.com/2012/11/19/tipografia-gratis-festiva/): A beautiful, festive font, perfect for Christmas related designs. 
+- [Building A Relationship Between CSS & JavaScript](http://coding.smashingmagazine.com/2012/11/19/building-relationship-between-css-javascript/): Tim Wright explains some important points on how to build a relationship between CSS and JS in this Smashing Magazine article. 
+- [Free Font: FV Deventer](http://www.florisvoorveld.com/portfolio/free-font-fv-deventer/): Floris Voorveld designed this beautiful and delicate font and offers it on his website.
+- [Social Media Tabs (PSD)](http://pixelsdaily.com/resources/photoshop/psds/social-media-tabs/): Tired of the common social media buttons design and want to try out something new? Then you might like this different approach of Pixels Daily.
+- [Free Font: Boros Rounded](http://www.myfonts.com/fonts/victor-berbel/boros-rounded/): Victor Berbel released this interesting and unusual typeface for free.
 
 # Collective #38
+- [Inspiration Website of the Week](http://thequintessentialmagazine.com.au/): The Quintessential Magazine is this week's pick for their interesting design and interactive items.
+- [Mask Watch without Images](http://tolgaergin.com/files/mask-watch/): Based on this great concept by Filip Slováček, Tolga Ergin coded up this watch concept without using any images. 
+- [Free Font: DHD Cool Skinny](http://www.behance.net/gallery/DHD-Cool-Skinny/5918747): Konrad Bednarski designed this beautiful, hand-drawn type called DHD Cool Skinny.
+- [Brand Identity Style Guides From Around the World](http://www.logodesignlove.com/brand-identity-style-guides): A great reference list of identity style guides from different companies and institutions around the globe.
+- [Superfreedraw: World's Biggest Online Drawing](http://www.superfreedraw.com/): Superfreedraw is the biggest drawing worldwide. No censorship. No rules. Enjoy the beauty of pure user-generated nonsense.
+- [ish. Viewport Resizer](http://bradfrostweb.com/demo/ish/): Do we need another viewport resizer? Of course we do! Especially if it has a disco mode!
+- [Garlic.js](http://garlicjs.org/): Garlic.js allows you to automatically persist your forms' text and select field values locally, until the form is submitted. This way, your users don't lose any precious data if they accidentally close their tab or browser.
+- [Content Security Policy 1.0 is Officially Awesome](http://updates.html5rocks.com/2012/11/Content-Security-Policy-1-0-is-officially-awesome): Great news about the Content Security Policy 1.0 specification which got the status of a candidate recommendation. It will allow reducing the risk of cross-site scripting and other content injection attacks in your applications.
+- [ByPeople: A huge free bundle for web professionals](http://www.bypeople.com/): ByPeople off this incredibly big bundle with lots of useful templates and resources for free.
+- [Responsive Background Images with Fixed or Fluid Aspect Ratios](http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios): Rolf Timmermans explains how to scale background images correctly in browsers that don't understand background-size: cover by using a padding technique. 
+- [High-Res Browser Logos](https://github.com/paulirish/browser-logos): Remember those fantastic high-resolution browser logos by Paul Irish? Now you can get them from GitHub.
+- [Why I switched from LESS to Sass](http://hugogiraudel.com/blog/less-to-sass.html): Hugo Giraudel shares his experience with the CSS preprocessors LESS and Sass and explains why he chose to stick with Sass.
+- [Mastering SVG Use for a Retina Web, Fallbacks with PNG Script](http://www.toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script): In this tutorial Todd Motto explains how we can link an SVG through an image element, providing PNG fallbacks with Modernizr and jQuery/JavaScript.
+- [Free Font: Geogram](http://www.behance.net/gallery/geogram-typeface-free-font/5920909): Geogram typeface by Filiz Sahin is a new font exploration based on modern geometric shapes. The font contains lower case letters and numbers of the shapes. 
+- [Stairway Navigation (A jQuery Plugin?)](http://css-tricks.com/stairway-navigation-a-jquery-plugin/): An interesting "stairway" navigation hover effect where the hovered item becomes the "tallest" stair.
+- [100,000 Stars](http://workshop.chromeexperiments.com/stars/): The Google Data Arts Team created this stunning Chrome experiment: 100,000 Stars is an interactive visualization of the stellar neighborhood that shows the real location of over 100,000 nearby stars. 
+- [Hand Cursors (PSD)](http://dribbble.com/shots/819703-Hands-Cursors): Claudio Guglieri offers these useful hand cursors that can come in very handy in your next design project.
+- [Light Kit (PSD)](http://dribbble.com/shots/819751-Light-Kit-Ps): Angelo Wellens shares his Light Kit PSD which contains a set of fancy lighting effects for images.
+- [CSS Wiggle](http://codepen.io/hakimel/full/jEdxA): Hakim El Hattab created this mesmerizing experiment using CSS animations and the CSS blur filter.
+- [CSS Swinging Panel Menu](http://codepen.io/sethabbott/full/cewzF): Seth Abbott coded this CSS menu that uses keyframe animations to create a swinging panel effect for the sub-navigation.
+- [A Comprehensive Collection of Free UI Kits & Templates](http://www.webappers.com/2012/11/12/a-comprehensive-collection-of-free-ui-kits-templates/): This is a very useful collection compiled by Web Appers. It contains a list of UI and template freebies found around the web. 
+- [Free Font: Wave me in](http://www.behance.net/gallery/WAVE-ME-IN-Free-Font/5858295): Another great font experiment by Filiz Sahin.
 
 # Collective #37
+- [Inspirational Website of the Week](http://www.claudiocalautti.com/en/): Claudio Calautti's website is our pick this week. The web designer's and 
+front-end developer's website has some interesting effects and plays with creative shapes and layouts.
+- [JAM with Chrome](http://www.jamwithchrome.com/): JAM with Chrome is an awesome collaborative live music experience in your browser, that makes use of several web technologies and Google products, to allow you and up to three of your friends to jam together in real time. Read the case study by Oskar Eriksson on HTML5Rocks.
+- [Wireframe.cc](http://wireframe.cc/): Wireframe.cc is a minimal wireframing tool with which you can create simple wireframes of websites and mobile apps. And the best thing: it's 100% free.
+- [How to Recreate the New Ebay Site Scrolling Effect](http://pepsized.com/how-to-recreate-the-new-e-bay-site-scrolling-effect/): In this great tutorial, PeHaa will show you how to create the scrolling effect (CSS-only) that you might have spotted on the new Ebay site. 
+- [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/): In this in-depth article, Addy Osmani explains some important aspects of JavaScript engines that will help you understand how to avoid common pitfalls and how to write better code.
+- [Liffect: Effects for Lists](http://ademilter.com/lab/liffect/): Explore and generate some useful and interesting animation effects for HTML lists by Adem Ilter.
+- [Ratchet: Easy Prototype iPhone Apps](http://maker.github.com/ratchet/): With Ratchet you can easily create prototype iPhone apps with simple HTML, CSS and JS components.
+- [Create a TV Screen 404 Page with Clever CSS Tricks](http://line25.com/tutorials/create-a-tv-screen-404-page-with-clever-css-tricks): Learn how to design and code up a super-creative 404 page in this tutorial by Chris Spooner.
+- [Free Font: Razor](http://www.behance.net/gallery/Razor-Free-Font/5836021): Jeff Schreiber designed this delicate and interesting font and you can download it for a tweet or donate.
+- [bootup.js: Cache and load static files from local storage](https://github.com/TradeMe/bootup.js): With this little script you can cache and load static files from local storage. This makes it easier to manage Javascript and other files for offline use, or just to improve the start up time of your web app.
+- [Make a Google Powered Shopping Search Website](http://tutorialzine.com/2012/11/google-product-search/): Learn how to use the Google's Shopping Search API in this great tutorial by Martin Angelov from Tutorialzine.
+- [Fotor Beta](http://www.fotor.com/): If you haven't heard about it already: Fotor is a powerful and easy-to-use online photo editor. It comes with many useful and fun effects and you can also use the iPhone and Android apps for your mobile phone.
+- [Cedvel: Grid System Design App](http://cedvel.com/): Cedvel is a prototype application for designing grid systems. It aims to ease the grid design process and help you explore more alternatives.
+- [Metro Social Media Icon Set](http://vandelaydesign.com/blog/free-resources/metro-icons/): The slick and free Metro icon set was designed by Kawsar Ali especially for readers of the Vandelay Design Blog. 
+- [Snippic Online Photobooth](http://www.snippic.com/): With Snippic you can create beautiful and fun photobooth-like pictures or even a video using your webcam.
+- [Proto: Rapid Prototyping Toolkit](http://adamwhitcroft.com/proto/): Proto by Adam Whitcroft helps you create responsive layout concepts by providing a set of predefined CSS classes. All what you need to get going is the proto.scss file and some basic HTML.
+- [Free Font: Facunda](http://bybu.es/portfolio/facunda-free-font/): Facunda is a beautiful condensed display font available for free in five different styles.
+- [jPanelMenu jQuery Plugin](http://jpanelmenu.com/): jPanelMenu is a jQuery plugin that creates a panel-like menu similar to the ones seen in mobile apps like Facebook, as well as in many native iPhone applications.
+- [Free Font: DHD Cool Regular](http://www.behance.net/gallery/DHD-Cool-Regular-Free-typeface/5801397): DHD Cool Regular is a cool and pretty much regular uppercase typeface with some irregularities by Konrad Bednarski.
+- [50 Mini Icons (PSD)](http://www.premiumpixels.com/freebies/50-mini-icons-psd/): Victor Erixon designed these lovely icons for Premium Pixels and you can download them for free (registration required).
+- [Toolbox (PSD)](http://dribbble.com/shots/805648-Tool-Box-Free-PSD): Sanadas Young created this stunning freebie of a toolbox.
+- [Emoticons & Smilies Icon Set (PNG, PSD)](http://www.webiconset.com/emoticons-smilies-icon-set/): A free icon set by Webiconset.com. It includes the popular emoticons and smilies in PNG and PSD format.
+- [The Facebook Loading Animation in CSS](http://css-tricks.com/the-facebook-loading-animation-in-css/): Fabrice Weinberg will show you how to create the Facebook loading animation using CSS only.
+- [Minimal Light User Interface Freebie](http://dmonzon.com/freebies/minimal-light-user-interface-freebie/): A beautiful and light user interface kit with a unique character by Diego Monzon. 
 
 # Collective #36
+- [Inspirational Website of the Week](http://www.themealings.com.au/): The Mealings are a truly charming and talented couple and you will notice that instantly when you visit their website. Definitely this week's pick!
+- [Polyfilter: A CSS Filters Polyfill](https://github.com/Schepp/CSS-Filters-Polyfill): Make CSS Filters work almost everywhere with this fantastic polyfill by Christian Schaefer. It takes the official CSS filters syntax and translates it to the different equivalent techniques that each browser knows for those effects.
+- [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/): Tom Wiltzius shows you how to start optimizing performance of your web app and make it feel more "native".
+- [Extended Entypo Glyph Set](http://www.smashingmagazine.com/2012/11/03/free-glyph-set-entypo-eps-pdf-psd-web-font/): The updated Entypo Glyph Set is a free set of 284 pictograms by Daniel Bruce. The icons are available as EPS, PDF and Photoshop PSD files as well as desktop typefaces (TrueType, OpenType) and Web fonts.
+- [Milky UI Kit (PSD)](http://dribbble.com/shots/792758--GIF-Milky-UI-Kit): A beautiful and free UI Kit by incredibly talented Celegorm. 
+- [Emmet: Next Generation Zen Coding](http://docs.emmet.io/): Emmet (previously known as Zen Coding) is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow. You can type CSS-like expressions that will be dynamically parsed, and produce your required output.
+- [Montage HTML5 Framework](http://montagejs.org/): The Montage framework lets you develop rich HTML5 applications that use JavaScript on both, the front-end via the browser, and back-end via Node.js. You can build rich UIs in the client, and use a service-oriented back-end to handle data persistence and server-side logic, all using one language. 
+- [Free Font: Poly Type](http://www.behance.net/gallery/POLY-TYPE-(Free-Font)/5762503): If you need an extravagant and abstract font for your next project, Poly Type might be interesting to you. Zafer Degerli designed this exquisite artistic font.
+- [Flexplorer: CSS Flexbox Explorer](http://bennettfeely.com/flexplorer/): Understand the holy grail of all box models, the new CSS flex layout model, with this great online tool by Bennett Feely. 
+- [IcoMoon App](http://icomoon.io/app/): With the IcoMoon app you can browse and select icons to combine them to a font and download them. You can also import SVG images or your own fonts.
+- [Resume (PSD)](http://dribbble.com/shots/778518-Resume-Free-PSD): Rob Hendricks created this stunning-looking resume and offers the PSD for free to learn from it.
+- [Free iPad Mini Vector Mock-up (PSD)](http://medialoot.com/item/free-ipad-mini-vector-mock-up/): A great new freebie by MediaLoot: a high-resolution vector-based mock-up of the new iPad mini. It also includes Smart Objects for adding your own screenshots to the devices.
+- [FreelancePro: Online Reputation Building](http://www.freelancepro.me/): If you are a freelancer, you might find this app quite useful. With FreelancePro you can create a professional reputation profile to market yourself and automatically receive relevant job matches. It's still in private beta, so you will have to send an invitation request.
+- [Icon Sketch Template (PDF)](http://dribbble.com/shots/794841-Icon-Sketch-Freebie): If you design icons, you might find this little printable icon sketch template by Jayson Lane very useful.
+- [rwdgrid: Responsive Grid System](http://rwdgrid.com/): Rwdgrid is yet another grid system based on the popular 960 grid. It is responsive and you'll find it easy to understand and use if you have worked with the 960 grid system. 
+- [JSter JavaScript Library Catalog](http://jster.net/): JSter is a community-driven catalog of the most useful JavaScript libraries. It makes it easy to find the right tool for specific projects. 
+- [Buttons And Switches (PSD)](http://dribbble.com/shots/797923-Buttons-And-Switches-PSD): Designer MVBen will make your jaw drop with all his creations and these buttons and switches are yet another example of perfect detail.
+- [Responsive Showcase (PSD)](http://www.pixeden.com/psd-web-elements/responsive-showcase-psd): Present your responsive project with this great new freebie of Pixeden.
+- [Retro Style Vector Arrows (AI, EPS)](http://wegraphics.net/downloads/free-retro-style-arrow-vectors/): Some free and useful retro-looking vector arrows by WeGraphics. 
+- [CSS3 Tucked Corners](http://www.red-team-design.com/css3-tucked-corners): Catalin Rosu shows you how to create a tucked corner effect solution which allows the usage of a pattern as a background for the containing block.
+- [Dark Chart UI Kit (PSD)](http://dribbble.com/shots/787700-Dark-Chart-UI-Kit): Melissa Phillips offers this sharp-looking and unique chart UI kit for free.
+- [Basics of Implementing Gravity with HTML5 Canvas](http://codetheory.in/basics-of-implementing-gravity-with-html5-canvas/): Learn how to understand the basics of implementing natural gravity in your canvas app.
 
 # Collective #35
+- [Inspirational Website of the Week](http://www.evanshalshaw.com/bondcars/): This infographic website by Evans Halshaw will blow your socks off, especially if you are a Bond fan and car appreciator!
+- [Touch Gesture Icons (PSD, EPS, PNG)](http://www.mobiletuxedo.com/touch-gesture-icons/): A set of brilliant free touch gesture icons designed for multi-touch devices.
+- [Creating a True Cross-Browser Drop Shadow Effect With CSS3 & SVG](http://demosthenes.info/blog/600/Creating-a-True-CrossBrowser-Drop-Shadow-Effect-With-CSS3-amp-SVG): Dudley Storey will show you how to create a really great cross-browser solution for using the new drop-shadow filter. Also check out his in-depth article on the difference between the drop-shadow filter and box-shadow.
+- [Striking.ly: Create Beautiful One-Pagers](https://www.striking.ly/): With Striking.ly you can create simple and stunning-looking one-page websites quickly, easily and for free. 
+- [Create a Trendy Retro Photo Effect Purely with CSS](http://line25.com/tutorials/create-a-trendy-retro-photo-effect-purely-with-css): A great retro photo effect tutorial using CSS only by Chris Spooner.
+- [Ligature Symbols](http://kudakurage.com/ligature_symbols/): A super-useful free font with a complete collection of many icons ready to be used as a web font.
+- [Colorful CSS3 Animated Navigation Menu](http://tutorialzine.com/2012/10/css3-dropdown-menu/): A detailed tutorial by Martin Angelov on how to create a colorful drop-down menu using only CSS3 and the Font Awesome icon font.
+- [Responsive CSS Framework Comparison](http://responsive.vermilion.com/compare.php): If you are planning to use a responsive CSS Framework in your next project but are not sure which one fits your needs best, then check out this great comparison of Bootstrap vs. Foundation vs. Skeleton.
+- [Using the PageVisibility API](http://www.html5rocks.com/en/tutorials/pagevisibility/intro/): Joe Marini shows us what the new PageVisibility API is all about and what it can be useful for.
+- [Viewport Resizer: Responsive Design Bookmarklet](http://lab.maltewassermann.com/viewport-resizer/): Viewport resizer is a bookmarklet created by Malte Wassermann for testing any website’s responsiveness.
+- [GitHub Game Off](https://github.com/blog/1303-github-game-off): Github is throwing its own game jam! You have the entire month of November to create a web-based game and you are encouraged to use open source libraries, frameworks, graphics, and sounds. 
+- [The New Awwwards is coming](http://www.awwwards.com/the-new-awwwards-its-coming.html): If you like to browse Awwwards for new web design inspiration then you might want to assist their re-vamp which will come out today (28th of October)!
+- [Free Font: Indi 36](http://www.behance.net/gallery/Indi-36-FREE-FONT-DOWNLOAD/5687897): An interesting and creative font experiment by John Grilla.
+- [Fine Uploader](http://fineuploader.com/index.html): This project attempts to achieve a user-friendly file-uploading experience over the web. It's built as a JavaScript plugin for developers looking to incorporate file-uploading into their website.
+- [Kort: Thumbnail Preview Concept](http://lab.hakim.se/kort/): An interesting thumbnail preview concept by Hakim El Hattab, which works for hover and touch.
+- [$.url(): Simple URL Parser](https://github.com/websanova/jquery-url): If you need a simple and light-weight URL parser for jQuery then this might be just right for you.
+- [Create Shaped Avatars With CSS and Webkit](http://designshack.net/articles/css/create-shaped-avatars-with-css-and-webkit/): Learn how to create interesting looking avatar shapes in this tutorial by Joshua Johnson (WebKit only).
+- [The Real Beauty of CSS3 Box Shadows](http://codetheory.in/the-real-beauty-of-css3-box-shadows/): A nice introduction to box shadows and what can be done with them. With some additional interesting resources.
+- [Digital Bits](http://fc12.johncaserta.info/triennial/): In his workshop John Caserta asked his students to do the following: "Collect objects that you find in and around your apartment, and draw them using HTML and CSS." Check out the results!
+- [Makisu: A CSS 3D Drop-Down Concept](http://soulwire.github.com/Makisu/): Makisu by Justin Windle is an experimental CSS 3D drop-down concept, wrapped up in a jQuery plugin.
+- [Dashboard Elements (PSD)](http://vandelaydesign.com/blog/free-resources/dashboard-psd/): A free PSD with dashboard elements designed by Grzegorz Grzelak for Vandelay Design.
+- [Bucketlistly: Social Bucket List](https://www.bucketlistly.com/): Bucketlistly is a gorgeous web app that helps you complete your long life goals through collaboration. You can snap a photo, grab a location, describe how you accomplished it and attached it to your achievement so that your friends or other people with same interests can accomplish the same goal as you.
+- [jq-tiles: jQuery Slideshow Plugin](http://elclanrs.github.com/jq-tiles/): With jq-tiles you can create many interesting slide transitions in your slideshow. It is a jQuery plugin that leverages the power of CSS3 and comes with a lot of options.
+- [Cut&Slice me Photoshop Plugin](http://www.cutandslice.me/): Use this free Photoshop Plugin to export your assets to different devices in seconds. Improve your workflow by just naming your layers.
+- [Equations for Organic Motion](http://codepen.io/soulwire/full/kqHxB): This test sheet is yet another great creation by Justin Windle. It displays the results of equations for organic movements.
+- [Free Font: Doux](http://www.myfonts.com/fonts/dmitry-savin/doux/): Dmitry Savin created this interesting and beautiful font and you can download it for free.
 
 # Collective #34
+- [Inspirational Website of the Week](http://tunebow.com/): This week's inspirational website is Tunebow, a new kind of minimal online radio experience. The simple layout with its extravagant touch and sweet navigation icons makes it our pick this week.
+- [How To Design A Mobile Game With HTML5](http://mobile.smashingmagazine.com/2012/10/19/design-your-own-mobile-game/): In this Smashing Magazine tutorial, Eoin McGrath shows you how to create a cross-platform mobile game with HTML5.
+- [Splash Vector Graphics on Your Responsive Site](http://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/): In this HTML5 Rocks tutorial, Alex Danilo shows you the advantages of and how to use SVG for responsive websites.
+- [Kera: Guide your Users](https://www.kera.io/): Kera lets you build in-app tutorials that can interact with page elements like buttons, text inputs and forms.
+- [Retro Portfolio: Full PSD Pack](http://opendept.net/photoshop-freebies/retro-portfolio-full-psd-pack/): To celebrate their 1500th sales of the Retro Portfolio Theme, OpenDept shares the pixel-perfect PSD for free. 
+- [Free Font: LSTK Clarendon](http://www.behance.net/gallery/LSTK-Clarendon-FREE-FONT-DOWNLOAD/5557076): Studioelastic gives us their hand-lettered bad-ass version of the English slab serif typeface, Clarendon. 
+- [Responsive Grid—A—Licious 3](http://suprb.com/apps/gridalicious/): Since its release as a jQuery plugin back in 2008, Grid—A—Licious has come a long way. And now Andreas Pihlström has completely rewritten it and made it responsive.
+- [Call-To-Action Buttons (PSD)](http://www.bestpsdfreebies.com/freebie/call-to-action-buttons/): Michael Reimer offers three styles of beautiful call-to-action buttons for free. The PSDs are easily customizable.
+- [Constraint Validation: Native Client Side Validation for Web Forms](http://www.html5rocks.com/en/tutorials/forms/constraintvalidation/): Learn about and how to use HTML5 constraint validation, a native means of implementing client side validation on web forms.
+- [Responsive Sketch Sheets by ZURB](http://zurb.com/playground/responsive-sketchsheets): If you are designing responsive layouts, you'll love these responsive sketch sheets by ZURB!
+- [BootMetro: Metro Style Web Framework](http://aozora.github.com/bootmetro/): If you want your app to have the Windows 8 MetroUI feeling then BootMetro might be interesting to you.
+- [Movie Icon Set (PSD, PNG, JPG)](http://www.smashingmagazine.com/2012/10/09/freebie-movie-icon-set/): A pixel-perfect, beautiful free icon set with 10 movie-related concepts. The icons are released under a Creative Commons Attribution license.
+- [Moving the Still: A GIF Festival](http://movingthestill.tumblr.com/): Get inspired by the first ever large-scale, open call for original animated GIFs. This truly is a festival!
+- [Filepicker.io: Easy File Uploads & Cloud Storage Integration](https://www.filepicker.io/): Filepicker.io comes with a powerful API that will make accessing cloud-stored content easy.
+- [A Classless Class — On Using More Classes in Your HTML](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/): An interesting article with some fun analogies on why and when using classes in your HTML can be a good thing.
+- [Bountify: Get Coding Tasks Solved](https://bountify.co/): "Post a bounty. Get code." That's the slogan of Bountify, a platform where you can post tough coding tasks with cash bounty ($1-250) to motivate fellow hackers.
+- [3D iPhone 5 Mockup (PSD)](http://www.pixeden.com/psd-mock-up-templates/3d-view-iphone-5-psd-vector-mockup-2): Show your app preview from a different angle with this very detailed and versatile vector-based 3D mockup of the iPhone 5 by Pixeden. Check out the black version, too.
+- [Cambelt: Functional Placeholder Images](http://cambelt.co/): With Cambelt you can generate functional placeholder images. You can simply set the source "src" property of an image file to Cambelt's website, with the dimensions of the image that you want and it will generate a fitting dummy image. 
+- [Classic Photography WordPress Theme](http://vandelaydesign.com/blog/wp-themes/classic-photography/): "Classic Photography" is the latest free WordPress theme by Vandelay Design. It has many useful features, it's responsive and you can easily customize it.
+- [34Grid: Responsive Grid System](http://34grid.com/): 34Grid is a responsive grid system based on the "equally distributed columns for each row" layout idea.
+- [Redactor: jQuery WYSIWYG Editor](http://imperavi.com/redactor): Redactor is an extremely light and fast jQuery WYSIWYG editor that lets you upload files and images using drag-n-drop, set up auto-save and develop your own plugins and extensions.
+- [Rescue.js: Find JS Errors](http://rescuejs.com/): With Rescue.js you can "kill" all bugs in your JavaScript. It catches the errors that are already happening on your web pages and then they are sent securely to the application servers for you to review and fix.
+- [Intelligist jQuery Plugin](http://srobbin.com/jquery-plugins/intelligist/): Intelligist is a jQuery plugin by Scott Robbin that makes it easy to share and demo code in-page, using GitHub gists.
+- [The Infinite Grid](http://www.alistapart.com/articles/the-infinite-grid/): Chris Armstrong writes about infinite grids — grids that are made for mediums without fixed dimensions.
+- [Free jQuery UI Themes Collection](http://www.webresourcesdepot.com/free-jquery-ui-themes-collection/): A great collection of free jQuery UI themes by WebResources Depot. 
+- [Free Font: LSTK GaraPen Tiny](http://www.behance.net/gallery/LSTK-GaraPen-Tiny-FREE-FONT-DOWNLOAD/5556992): And another exquisite font by studioelastic.com: LSTK GaraPen Tiny, a sweet tiny font for creepy-cool projects.
+- [Free Font: Bokeh](http://www.behance.net/gallery/Bokeh-free-font/5537207): An interesting font for special design projects.
+- [2400 Flag Icon Set (PNG)](https://www.gosquared.com/resources/2400-flags): GoSquare released this absolutely epic set of 2400 pixel-perfect flag icons completely for free. It comes in two variants, flat and glossy, and in 5 different sizes. 
 
 # Collective #33
+- [Web Platform](http://www.webplatform.org/): This platform will help us all to make a better web: Adobe, Apple, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera and the W3C are the Web Platform Stewards that united for creating an open resource for the web.
+- [Inspirational Website of the Week](http://ideakites.com/): This week's pick is Ideakites for their interesting navigation concept and clean typography.
+- [LearnStreet](http://www.learnstreet.com/): LearnStreet is an early-stage startup focused on changing the way people of all backgrounds and skill levels learn how to code. 
+- [Designing Better JavaScript APIs](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/): If you are developing your own utilities and libraries and plan to make them accessible to others, read this great Smashing Magazine article by Rodney Rehm.
+- [Pikaday: JavaScript Datepicker](http://dbushell.com/2012/10/09/pikaday-javascript-datepicker/): Pikaday is a light JavaScript date picker by David Bushell. Modular CSS makes it easy to customize.
+- [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html): A light-weight and easy-to-use CSS/JS library that uses CSS3 styles for more than just rich button design. Made by Ace Subido.
+- [Sellbox: Sell your Dropbox Files](http://sellboxhq.com/): Sellbox let's you sell any file you host in your Dropbox account (5% fee) in just a few seconds.
+- [Free Responsive Website Template](http://www.anarieldesign.com/?portfolio=proximet-free-responsive-site-template-business-card): Proximet is a free responsive website template by Anariel Design. It comes with a free business card design.
+- [Dark Gold UI Kit](http://www.pixel-fabric.com/dark-gold-ui-kit-4): The Dark Gold UI Kit by Pixel Fabric contains common web UI elements like buttons, sliders, pagination and more. The well organized and fully layered PSD allows an easy usage.
+- [Advanced Search Form for WordPress](http://fearlessflyer.com/2012/10/how-to-create-an-advanced-search-form-for-wordpress/): Learn how to create an advanced search form in WordPress from this tutorial by Fearlessflyer.
+- [Responsive Web Design Makes It Hard To Be Fast](http://www.guypo.com/technical/responsive-web-design-is-bad-for-performance-there-i-said-it/): An interesting article by Guy Podjarny on the complexity and difficulty that comes with responsive websites. Some insightful points follow in the comments.
+- [Selfstarter: Build Your Own Crowdfunding Site](http://selfstarter.us/): Selfstarter is an open source starting point for building your own ad-hoc crowdfunding site made by Lockitron.
+- [Free Font: Sanchez Condensed (Regular & Italic)](http://www.myfonts.com/fonts/latinotype/sanchez-condensed/): Sánchez, designed by Daniel Hernández, is a serif typeface belonging to the classification slab serif. The regular and italic variants are for free.
+- [FontDropper 1000](http://www.webink.com/fontdropper): FontDropper 1000 is a bookmarklet that let's you easily test or design with web fonts from WebINK.
+- [Toggle Switches (PSD)](http://www.graphicsfuel.com/2012/10/toggle-switches-ui-elements-psd/): Some pixel-perfect and colorful toggle switches from GraphicsFuel for your next interface design.
+- [Web Developer Economics: Monthly Service Costs](http://css-tricks.com/web-developer-economics-monthly-service-costs/): Chris Coyer compiled a very insightful list of services for web developers and freelancers that he uses and their associated costs. As usual, with some great additional info in the comments.
+- [Delta jQuery UI Theme](http://blog.kiandra.com.au/2012/09/delta-a-free-jquery-ui-theme/): Kiandra offers this nice jQuery UI theme (dark & light) for free. If you have every tried to create a custom jQuery UI theme, you will appreciate this a lot!
+- [Manymo Android Emulators](http://www.manymo.com/): If you are developing for Android, you'll definitely want to give the emulators of Manymo a try.
+- [Free T-Shirt Mockup (PSD)](http://wegraphics.net/downloads/free-t-shirt-mockup-psd-files/): An easy-to-edit T-Shirt mockup PSD by WeGraphics.
+- [Free Font: Slinkster](http://www.myfonts.com/fonts/will-ryan/slinkster/): Need an impactful font for large display? Slinkster by Will Ryan is an intricately unique display fontface created by carefully overlapping equally-sized circles.
+- [Free iOS 6 Vector GUI (PSD)](http://dribbble.com/shots/761351-IOS-6-GUI-Itunes-App-Store): A superb PSD resource by Christophe Béghin: a full vector GUI based on iOS 6, iTunes & App Store. 
+- [AppView: iPhone App UI Theme](http://medialoot.com/item/free-iphone-app-template-appview/): AppView is a beautiful iPhone app UI template as vector-based, layered and fully organised PSD file.
+- [Red Dwarf](http://jrvis.com/red-dwarf/): Red Dwarf, by Rick Viscomi, beautifully visualizes the global positions of any given GitHub repository's stargazers (people who "star" the project). 
+- [Cacoo: Create Diagrams and Collaborate](https://cacoo.com/): Cacoo is a free online drawing tool that allows you to create a variety of diagrams such as site maps, wire frames, UML and network charts. 
 
 # Collective #32
+- [Inspirational Website of the Week](http://typecode.com/): Typecode is a really nice mix of clean design and surprising effects. The typography is super-clean and the navigation is very interesting.
+- [Free Font: COCO](http://dribbble.com/shots/759587-COCO-Free-Fashion-Typefamily): A free and beautiful fashion typefamily by Hendrick Rolandez.
+- [Wordcam: Instagram Image Search by Location](http://worldc.am/): With Worldcam you can easily find the latest Instagram photos from around the world, just add the location and a keyword. The site is built using the APIs from Instagram, Foursquare, Geonames and Geoplugin.
+- [Free Invoice Creator by Paydirt](https://paydirtapp.com/free_invoice_creator): Make an invoice to save, print, or download as a PDF – totally free, from the folks at Paydirt, the modern time tracking and invoicing app for freelancers and small teams.
+- [Pictonic Free Social Icons Font](https://pictonic.co/free): Pictonic is a great place to create custom icon fonts for your projects. Check out this free social icon font pack with 230 super-useful icons.
+- [Create a Cool Website with Fancy Scrolling Effects](http://line25.com/tutorials/create-a-cool-website-with-fancy-scrolling-effects): Chris Spooner will show you how to use a couple of readily available jQuery plugins to quickly put together a cool little single page website, complete with fancy but light-weight scrolling effects.
+- [Google Maps UI Controls (PSD)](http://www.premiumpixels.com/freebies/google-maps-ui-controls-psd/): A set of free Google maps UI controls by Premium Pixels that will come in handy for mocking up mapping in your next design project.
+- [Allofthelights.js](http://www.megaptery.com/allofthelights/): Allofthelights.js is a jQuery plugin by Pierre Vion. It will allow you to "turn off the light" and enjoy your videos.
+- [Simple Social Icons Vol. 1 (PSD)](http://www.pixeden.com/social-icons/simple-social-icons-vol1): A great freebie by Pixeden: a set of 22 social icons in vector mask layers in one practical PSD.
+- [NodeCellar: Sample Application with Backbone.js, Twitter Bootstrap, Node.js, Express, and MongoDB](http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js-twitter-bootstrap-node-js-express-and-mongodb/): Christophe Coenraets shares the client application that uses the previously built RESTful API. The Node Cellar application allows you to manage (retrieve, create, update, delete) the wines in a wine cellar database. The client application is built with Backbone.js and Twitter Bootstrap.
+- [Pure CSS Mona Lisa](http://codepen.io/jaysalvat/details/HaqBf): Jay Salvat made a fun experiment: he re-created the Mona Lisa painting using CSS box-shadows with the help of a PHP class that will automatize the "image to box-shadow" process.
+- [Todo List App in Wordpress](http://tutorialzine.com/2012/10/todo-app-wordpress/): Martin Angelov shows us how to create a really nice AJAX-ed to-do list application on the /todo URL of your WordPress site. 
+- [Interface Sketch: Free Sketch Templates](http://interfacesketch.tumblr.com/): Some really helpful, printable sketch templates for web, mobile and tablet.
+- [Blue UI Kit (PSD)](http://www.icondeposit.com/design:130): A pixel-perfect, blue UI kit by Matt Gentile for your next app design project.
+- [A CSS Style Guide](https://github.com/byrichardpowell/CSS-Style): A small, concise style guide for writing CSS that scales by Richard Powell. Learn about the rules, the reasoning and the sources.
+- [TypeScript](http://www.typescriptlang.org/): TypeScript is a new language developed by Microsoft for application-scale JavaScript development. It is a typed super-set of JavaScript that compiles to plain JavaScript.
+- [Multiple Columns Layout with CSS3](http://www.hongkiat.com/blog/css3-multi-columns/): A tutorial by Thoriq Firdaus on how to create a magazine-like multi-column layout with CSS3.
+- [Free Wood Textures](http://vandelaydesign.com/blog/free-resources/wood-textures-2/): Get some high-resolution free wood textures for your next design project.
+- [slideControl.js jQuery Plugin](http://nikorablin.com/slideControl/): Nik Korablin built this jQuery plugin that allows you to easily make sliders for range inputs.
+- [LazyMeter: Daily To-Do List](http://www.lazymeter.com/): A new approach for to-do lists: kiss your overwhelming to-do list goodbye, and start using the only to-do list you’ll finish every day.
+- [Free Font: Moby](http://www.floodfonts.com/freefont/moby.html): A creative typeface by Floodfonts. Moby was created in 2002 by Felix Braden as a corporate and headline font for the Cologne based design bureau Glashaus.
+- [Flowplayer Version 5](http://flowplayer.org/): Flowplayer has released a brand new version: Version 5.0.0 is raw HTML5 and CSS3, and Flash only simulates the native VIDEO tag. Designed for modern sites where speed and user experience matters.
+- [CSS Image Shapes](http://dabblet.com/gist/3805071/b16a68ca94fe0d03e2486af73017b1d6ed2f3dda): Some interesting experiments with shapes for images in CSS by Ana Tudor.
 
 # Collective #31
+- [Adobe Edge Web Fonts](http://html.adobe.com/edge/webfonts/): No one better than Adobe to move the web forward, not only when it comes to typography: they are offering a free web fonts service in partnership with Google Web Fonts.
+- [Inspirational Website of the Week](http://hipstamatic.com/): Cool effects, brilliant typography and an impressive slider make the web presence of Hipstamatic our pick this week.
+- [Lenticular.js: Tilt-controlled Images](http://lenticular.attasi.com/): The creator of Photon, Tom Giannattasio, gives us yet another jaw-dropping experiment: lenticular.js creates tilt-controlled images for mobile devices. 
+- [The Web Aesthetic](http://www.alistapart.com/articles/the-web-aesthetic/): Paul Robert Lloyd tells us to embrace not only the technical side of the responsive web but also the aesthetic one, i.e. the design part.
+- [Free Font: 400ml](http://marcoterre.com/index.php/2012/400ml-type/): Marco Terre is offering this beautiful and super-creative typeface for free.
+- [Payhip: Sell Your eBooks](https://payhip.com/): With Payhip you can upload and sell your e-books directly to your fans and followers and get paid instantly via PayPal.
+- [Colorful Tags (PSD)](http://designmoo.com/29874/tags/): Nicola Armellini designed these slick and colorful tags for you to use in your next design project.
+- [Jetstrap: Interface-building Tool for Twitter Bootstrap](http://jetstrap.com/): Jetstrap is a web-based interface building tool for Twitter Bootstrap. You can rapidly build web apps by using HTML snippets and create advanced components easily.
+- [App Tooltip (PSD)](http://www.pixeden.com/mobile-apps/tooltip-ios-app-ui-psd): A great freebie from Pixeden: a super-slick tooltip or contextual menu designed with iOS apps in mind.
+- [Wilderness Survival Vectors (AI, EPS, PDF)](http://zomgimbored.com/2012/09/28/wilderness-survival-vectors-free-download/): Some versatile wilderness survival vectors by James Viola, maybe for your next Zombie-apocalypse project! Comes in EPS, AI and PDF.
+- [Getting Started with CSS Custom Filters](http://alteredqualia.com/css-shaders/article/): Learn about the futuristic new CSS feature that will be a definite game-changer: CSS custom filters (formerly known as CSS shaders) are a new browser feature for applying user-created visual effects HTML elements. Note that this feature is not yet implemented in most of the browsers (try it in Chrome Canary).
+- [Free Font: Alt Matey V2](http://www.myfonts.com/fonts/andreas-leonidou/alt-matey-v2/): And here is another creative free font; it's called Alt Matey V2 and was designed by Andreas Leonidou who creates some unique typefaces.
+- [CSSHórus: CSS Framework](http://csshor.us/): CSSHórus is a CSS framework by João Firmino for easy and fast development of responsive and mobile websites. It contains 16 grid columns and basic element styles for your web project.
+- [CSS Flexbox Please!](http://demo.agektmr.com/flexbox/): Learn about the CSS Flexible Box Layout Model by experimenting with it! Eiji Kitamura created this little web tool that will allow you to edit the flexbox values in see it in action.
+- [HTML5 Blank WordPress Theme](http://html5blank.com/): HTML5 Blank by Todd Motto is, like the name says, a blank WordPress theme that you can use for rapid WordPress project and theme development.
+- [Free Font: Beams](http://www.behance.net/gallery/Beams-(Free-Font)/5271023): Beams is a capital typeface designed by Altay Dagistan with a futuristic look.
+- [MobileMozaic](http://www.mobilemozaic.com/): MobileMozaic is a gallery site that collects the best designed iPhone apps. A very nice feature is the UI pattern filter.
+- [Kittydar: Face Detection for Cats](http://harthur.github.com/kittydar/): If you haven't used it yet, you might want to: Kittydar will detect the faces of cats in a picture! :)
+- [Free Font: Pathway](http://www.behance.net/gallery/Pathway-Typeface/5225965): William Suckling created Pathway, a script-like font with an artistic touch, free to download.
+- [Free Android Icons](http://dribbble.com/shots/740229-Android-Icons-PNG-PSD-SHAPE): Coşkun Deniz created these pixel-perfect Android icons in several formats for you to use freely.
+- [CSSrefresh: Automatic CSS refresh](http://cssrefresh.frebsite.nl/): CSSrefresh is a small JavaScript file that monitors the CSS files included in your webpage. As soon as you save a CSS file, the changes are directly implemented, without having to refresh your browser.
+- [Mural.ly: Social Mind Mapping Tool](http://beta.mural.ly/): If you haven't heard of it yet: Mural.ly is much more than just a social mind mapping tool. It let's you collect, share and collaborate on aggregated data and media.
+- [Free Font: Civita Light](http://www.myfonts.com/fonts/hoftype/civita/light/): Civita is a gorgeous new "Modern Type" designed by Dieter Hofrichter of Hoftype. The light version is for free.
 
 # Collective #30
+- [Inspirational Website of the Week](http://startupgiraffe.com/): Startup Giraffe is our pick this week. It has a fresh color scheme and some really nice structures and effects.
+- [CSS FilterLab](http://html.adobe.com/webstandards/csscustomfilters/cssfilterlab/): A great place to try out all the new filter awesomeness that is hopefully coming to all modern browsers soon.
+- [Uninvited Redesigns](http://uninvitedredesigns.com/): A blog that collects (and where you can submit) "uninvited" redesigns of existing websites. 
+- [Kube CSS Framework](http://kubeframework.com/): Kube is a new minimal CSS framework. It comes with everything needed and it is responsive.
+- [How Apple Compresses Video Using JPEG, JSON, and <canvas>](https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI): David Bloom digs into the the iPhone 5 website and discovers some interesting techniques Apple used to pull off a cross-browser video implementation.
+- [Free Font: Obey Typeface](http://www.behance.net/gallery/Obey-Typeface/5226223): William Suckling shares this creative display font with us.
+- [DOM Enlightenment](http://domenlightenment.com/): Cody Lindley shares this prerelease of his online book with us. It explores the relationship between JavaScript and the modern HTML DOM. 
+- [Freebiesbug](http://freebiesbug.com/): Here you will find all the latest freebies the web has to offer. You can also submit your own resource here.
+- [SlickMap CSS](http://astuteo.com/slickmap/): SlickMap CSS is a simple stylesheet for displaying finished site maps directly from an unordered list navigation. It was created by  Matt Everson of Astuteo.
+- [Divshot: Web App Interface Builder](http://divshot.com/): With DivShot (beta) you can simply build your web apps with drag-and-drop and export everything to clean HTML and CSS.
+- [Manage Multi-Line Ellipsis in Pure CSS](http://www.mobify.com/dev/multiline-ellipsis-in-pure-css/): Roman Rudenko from Mobify shows us a clever solution for the multi-line ellipsis problem by just using CSS. 
+- [Cirque du Soleil: Movi Kanti Revo](http://www.movikantirevo.com/): This Chrome experiment will blow your socks off: it will use you camera to capture gestures so that you can dive into a magical world. 
+- [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/): Responsive Measure is a simple script that allows you to pass in a selector which generates the ideal font size needed to produce the ideal measure for your text.
+- [Fokus: Emphasized Text Highlighting](http://lab.hakim.se/fokus/): Fokus is another great script by Hakim El Hattab. It can be used to emphasize anything you select, i.e. text selection, by covering the rest of the page with semi-transparent black overlay.
+- [Screensharing A Browser Tab In HTML5?](http://www.html5rocks.com/en/tutorials/streaming/screenshare/): Eric Bidelman shares his experience on how to implement a screensharing-like functionality using only browser technologies.
+- [Jarallax: Easy Parallax Scrolling](http://www.jarallax.com/): Jarallax is an open-source JavaScript library which makes adjusting CSS-based on interaction easy. With Jarallax you can easily create parallax scrolling websites.
+- [24 Free Vector Logo Elements](http://wegraphics.net/downloads/24-free-vector-logo-elements/): This vector set from WeGraphics includes 24 abstract logo elements. They are great to have on hand for creating modern style logo mockups.
+- [CSS3 Patterned Buttons](http://www.red-team-design.com/css3-patterned-buttons): Catalin Rosu shows you how to create some super-slick buttons with a subtle pattern. No images, but a base64 string is used to create the patterned effect.
+- [Awesome Collection Of WebGL Works by Cartelle](http://www.cartelle.nl/toys/): Check out these übercool WebGL experiments by Cartelle, an interactive studio based in Amsterdam. 
+- [Create a Custom WordPress Login Without Plugins](http://line25.com/tutorials/create-a-custom-wordpress-login-without-plugins): In this tutorial by Iain MacDonald you will learn how to customize your WordPress login page without installing any plugins.
+- [trunk8: Intelligent Text Truncation for jQuery](http://jrvis.com/trunk8/): trunk8 is an intelligent jQuery text truncation plugin. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.
+- [prettyCheckable jQuery Plugin](http://arthurgouveia.com/prettyCheckable/): This plugin by Arthur Gouveia replaces the default checkboxes and radio inputs with custom ones. It was made mobile-friendly, i.e. the touch/click area is wide and you can easily customize the looks.
+- [Free Web GUI Pack (PNG & PSD)](http://www.onextrapixel.com/2012/09/25/freebies-free-cool-metallic-and-glassy-web-gui-pack-for-designers/): A beautiful and stylish web UI pack with all the elements you need for your next design. 
+- [Endless Icon](http://www.endlessicons.com/): Endless Icon is a project built by Min Kim where he shares creative stuff with the design community.
 
 # Collective #29
+- [Inspirational Website of the Week](http://stldesignweek.com/): This week we've picked the stunning design of St. Louis Design Week 2012. It has a beautiful color scheme and typography, smart interactions and some lovely animations.
+- [Say Yo to Yeoman](http://net.tutsplus.com/tutorials/tools-and-tips/say-yo-to-yeoman/): Jonathan Creamer shows us how to get started with Yeoman,  a new set of tools, libraries and workflow for rapid webapp development. Yeoman was developed by Paul Irish, Addy Osmani, Sindre Sorhus, Mickael Daniel, Eric Bidelman, and the Yeoman Community.
+- [This Is Responsive
+](http://bradfrost.github.com/this-is-responsive/index.html): "This Is Responsive" is a great collection of patterns, resources and news for creating responsive web experiences.
+- [Fresco Responsive Lightbox](http://www.frescojs.com/): Finally a new lightbox! Nick Stakenburg created Fresco, a truly responsive lightbox that can be used to create stunning overlays that work great at any screen size, in all browsers on every device. Fresco comes with fullscreen zoom, retina-ready skins, YouTube and Vimeo integration for HTML5 video and a powerful Javascript API.
+- [Flick Scrolling](http://simurai.com/post/31460815120/flick-scroll): Simon Lüthi introduces a better touch scrolling concept: When scrolling content on a touch-screen, instead of letting momentum stop the scrolling, you can decide exactly where it should stop, i.e. point where you flicked it.
+- [Free Font: Kelson](http://www.myfonts.com/fonts/armasen/kelson/): Bruno Mello designed this exquisite font family and Armasen is offering it for free including three styles.
+- [Boot snipp](http://bootsnipp.com/): Boot snipp is a library of free design elements and code snippets for the Twitter Bootstrap HTML/CSS/JS framework.
+- [Simple AJAX Note Taking App](http://tutorialzine.com/2012/09/simple-note-taking-app-ajax/): Martin Angelov shows you how to create a simple and beautiful app with PHP and jQuery that lets users write notes.
+- [FoldScroll: Experimental CSS 3D Scroll Behavior](http://soulwire.github.com/FoldScroll/): Don't you love all those new cool stuff that can be done with 3D Transforms? This is yet another awesome experiment involving some interesting 3D folding made by Justin Windle.
+- [Free Grunge Flag Textures](http://wegraphics.net/downloads/free-grunge-flag-textures/): This set includes 10 grunge textured flags in JPG. Included are Great Britain, Brazil, Italy, Soviet Union, Japan, USA, Mexico, Australia, Canada and France.
+- [App Starter Skin (PSD)](http://dribbble.com/shots/729546-App-starter-skin): A pixel-perfect app starter skin PSD by Daryl Ginn.
+- [Apple iPhone 5 Vectorized Mockup](http://pixelb.in/apple-iphone-5-vectorized-mockup-410/): A great mockup of the new iPhone 5 in PSD format by Thom.
+- [jQuery Stick ‘em: Make Content Sticky on Scroll, to a Point](http://viget.com/inspire/jquery-stick-em): Trevor Davis from Viget introduces jQuery Stickem, a plugin that makes items sticky as you scroll, to a point.
+- [rvl.io: Online Editor for reveal.js](http://www.rvl.io/): Now you can create and share animated presentations on the web with rvl.io, the online editor for the popular reveal.js HTML presentation framework.
+- [Free Font: Albatross](http://twelvetwenty.nl/goodies/albatross-free-font): Twelve Twenty offers this gorgeous display font for free (pay with a Tweet). Great for headings, with a regular and a bold version, available in TTF. 
+- [Free Font: Mood Type (EPS)](http://www.behance.net/gallery/Mood-Type-Free-Font/5134733): Mood Type is a beautiful display font project by Filiz Sahin, free for personal and commercial use.
+- [Minimalist Calendar Widget (PSD)](http://pixelsdaily.com/resources/photoshop/psds/psd-a-minimalist-calendar-widget/): A fresh resource by Pixels Daily: a simple, pixel-perfect calendar widget design ready for customization.
+- [pdf.js: PDF Reader in JavaScript](http://mozilla.github.com/pdf.js/): pdf.js is an HTML5 technology experiment that explores building a faithful and efficient Portable Document Format (PDF) renderer without native code assistance.
+- [Classic Digg-Style Radio Buttons with CSS and jQuery](http://speckyboy.com/2012/09/11/classic-digg-style-radio-buttons-with-css-and-jquery/): A tutorial on how to create some slick Digg-style custom radio buttons with CSS and jQuery.
 
 # Collective #28
+- [tiltShift.js jQuery Plugin](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/): A jQuery plugin that uses the CSS3 image filters to replicate the tilt-shift effect. It is a beautiful experiment and it currently only works in Chrome & Safari 6.
+- [Inspirational Website of the Week](http://www.collectiveboom.com/): This week we chose the website of Collective Boom for their creative intro and clean typography.
+- [Enquire.js: Awesome Media Queries in JavaScript](http://wickynilliams.github.com/enquire.js/): Enquire.js is a light-weight JavaScript library with no dependencies for handling CSS media queries by Nick Williams. Read more about it on CSS-Tricks.
+- [Sosa Icon Font](http://www.tenbytwenty.com/sosa.php): Sosa includes 120+ extremely useful icons for any web development project. The download includes the .ttf .eot .svg & .woff files needed to use this icon font with @font-face.
+- [Free Font: Gesta Semi Condensed (Medium)](http://www.myfonts.com/fonts/r-type/gesta-semi-condensed/medium/): Gesta Semi Condensed is a friendly versatile sans serif typeface suitable for corporate and editorial purposes by Rui Abreu. The medium style is for free.
+- [Free Icon Set: Loop Icons](http://www.designkindle.com/2012/09/10/loop-icons/): Loop Icons contains over 100 pixel perfect icons that can be resized to meet your needs. The download includes PNG and PSD formats.
+- [Free Website Templates (PSD)](http://templates.ries.cz/): Graphic Designer Vilém Ries offers some exquisite and pixel-perfect PSDs templates for free. 
+- [Compare Ninja](http://compareninja.com/): With Compare Ninja you can create beautiful comparison tables with just a few clicks.
+- [Decorative CSS Gallery – Part 2](http://webdesignerwall.com/tutorials/decorative-css-gallery-part-2): Learn how to create some very nice thumbnail styles for more interesting and creative image galleries. 
+- [Equalize.js jQuery Plugin](http://tsvensen.github.com/equalize.js/): This useful jQuery plugin by Tim Svensen comes in handy when you need to equalize the height or width of elements on your website.
+- [jQuery Fundamentals Reloaded](http://jqfundamentals.com/): If you have learned jQuery, you probably know "jQuery Fundamentals", a great resource by Rebecca Murphey. The site has been completely rewritten and it now comes with a built-in editor; it's absolutely indispensable if you are starting out with jQuery.
+- [Infinity.js: UITableView for the Web](http://airbnb.github.com/infinity/): Infinity.js by Airbnb speeds up scrolling through long lists and keeps your infinite feeds smooth and stable for your users. It is small, battle-tested, and highly performant.
+- [Sign In Widget (PSD)](http://www.icondeposit.com/design:121): A beautiful and pixel-perfect sign in widget created by Matt Gentile. The PSD is vector-based so you can resize all elements to your needs.
+- [Mini Player Concept](http://labs.javiperez.net/miniplayer/): An absolutely gorgeous little player concept with album flip by Javi Peréz (not all features are enabled). 
+- [Free Font: Halvan Small Caps](http://www.myfonts.com/fonts/driemeyer-design/halvan/small-cap/): Halvan is a delicate and versatile font family by Antje Driemeyer. The small caps style is offered for free.
+- [Woocon Free Icons (PSD)](http://dribbble.com/shots/720779-woocon-freebie): Some cute little icons by Piervincenzo Madeo. You can download and use the PSD for free.
+- [Free UI Kit (PSD)](http://freeuikits.com/free-psd-exclusive-ui-kit-psd/): UIKits.com released another great free UI Kit: Dark Bionic. It comes with some useful and trendy web elements for your next design.
+- [Woodsy: iPhone UI (PSD)](http://dribbble.com/shots/719904-IPhone-wood-Ui-PSD-Freebie): Virgil Pana offers this great freebie for your next rustic mobile app. 
+- [Layers: iPhone App Interface (PSD)](http://pixelsdaily.com/resources/photoshop/psds/layers-iphone-app-interface-psd/): A great new freebie by Pixels Daily: fifteen different interface screens for a fictional iPhone application.
+- [Well Done Team GB!](http://www.welldoneteamgb.com/): A super-neat scrolling experience and tribute to the Olympic team of Great Britain. 
+- [Erlywarn](http://erlywarn.com/): Get instant notification when your website is responding unusually. Minimize your downtime by acting on early warning signs such as sudden changes in response behavior.
+- [TideSDK](http://www.tidesdk.org/): With TideSDK, formerly known as Titanium Desktop, you can create multi-platform desktop apps using HTML5, CSS3 and JavaScript.
 
 # Collective #27
+- [Responsive Design Case Study](http://builtbyboon.com/blog/responsive-design-case-study): A fantastic and detailed case study of a large-scale responsive website. Learn from this great outline of the whole project process, the challenges and solutions for constructing a truly responsive website.
+- [Inspirational Website of the Week](http://www.vitosalvatore.com/): Vito Salvatore's portfolio is our pick this week for its great shapes, elegant typography, stunning effects and smart responsiveness.
+- [Free Font: Stiff Staff](http://fontfabric.com/stiff-staff-font/): A fresh, decorative free font from Font Fabric designed by Borislav Petrov.
+- [Freetile.js: A Masonry Alternative](http://yconst.com/web/freetile/): Freetile is a plugin for jQuery that enables the organization of webpage content in an efficient, dynamic and responsive layout. It can be applied to a container element and it will attempt to arrange it's children in a layout that makes optimal use of screen space, by "packing" them in a tight arrangement.
+- [MapBox - Fast & Beautiful Maps](http://mapbox.com/): MapBox helps you design beautiful maps and publish them across the web and mobile devices at scale.
+- [Draft.im: Get Drafted for Dribbble](http://draft.im/): Whether you have a Dribbble invitation to give, are looking for talented folks, or are looking for an invite, then draft.im is the place to be.
+- [Folyo Quiz: How Good is Your Portfolio?](http://blog.folyo.me/folyo-quiz-how-good-is-your-portfolio/): Sacha Greif created this great quiz which will help you figure out what you're doing right or wrong with your portfolio.
+- [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/): If you liked Hakim El Hattab's modal UI concept then you might find the jQuery plugin by Dmitri Voronianski useful.
+- [Power Buttons (PSD)](http://drbl.in/fdDI): Some pixel-perfect power buttons for your next design by by Michael Donovan.
+- [jsDraw2DX: SVG Graphics Library for JavaScript](http://jsdraw2dx.jsfiction.com/): jsDraw2DX is a JavaScript graphics library that uses SVG to render the graphics on all modern desktop browsers that have SVG support while falling back to VML in older browsers.
+- [HTML5 Boilerplate v4.0.0](http://html5boilerplate.com/#v4.0.0): The 4th version of HTML5 Boilerplate is out - and what a fine version it is! The popular front-end template has undergone some significant changes and if you haven't used it yet, now is the time.
+- [Cool ASCII Animation](http://thecodeplayer.com/walkthrough/cool-ascii-animation-using-an-image-sprite-canvas-and-javascript): In this walkthrough and tutorial over at The Code Player, you can learn how to code a super cool ASCII drawing animation using HTML5 Canvas.
+- [MagicNav.js](http://johnpolacek.github.com/MagicNav.js/): With this jQuery plugin by John Polacek you can easily generate links from elements on your webpage. You can, for example, create a navigation with links from a set of headings.
+- ["position: sticky" Lands in WebKit](http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit): WebKit will be supporting a new CSS position property value: position: sticky. It will finally allow positioning elements like those sticky menus that are positioned relative at first but then behave as if they are fixed from a certain point on.
+- [BigScreen: Library for using the JavaScript Fullscreen API](https://github.com/bdougherty/BigScreen): BigScreen makes it easy to use full screen on your site or in your app. It smoothes out browser inconsistencies and bugs, especially if the element you're working with is inside of an <iframe>. It will also intelligently fall back to the older video full screen API if the element contains a <video> and the older API is available.
+- [Free Vintage Vector Signs](http://wegraphics.net/downloads/free-vintage-vector-signs/): A set of unique vintage vector signs from WeGraphics for your next design.
+- [Media Query Splitting](http://simurai.com/post/30451824480/media-query-splitting): A smart approach to media queries that will not overwrite styles but split them for a cleaner and more modular way of handling stylesheets for RWD.
+- [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/): An enlightening quiz about how Javascript scopes its variables and functions. Learn from the questions and explanations by Made by Knight.
+- [Essential JavaScript: The Top Five Script Loaders](http://www.netmagazine.com/features/essential-javascript-top-five-script-loaders): Jack Franklin gives us a great introduction and overview of some popular script loaders for JavaScript.
+- [Responsive Design Mock-up Pack (PSD)](http://medialoot.com/item/free-responsive-screen-mockup-pack/): A great collection of screen and device mockups as Photoshop .psd files for responsive designs.
 
 # Collective #26
+- [Inspirational Website of the Week](http://2012.fromthefront.it/): From the Front 2012: The Treasure of FrontEnd Island, Front-End Conference is our pick this week. Awesome animations and transitions.
+- [Dark UI Music Player Design (PSD)](http://www.pixeden.com/psd-web-elements/dark-ui-music-player-design-psd): A beautifully detailed free design resource by Pixeden.
+- [Towards A Retina Web](http://coding.smashingmagazine.com/2012/08/20/towards-retina-web/): Reda Lemeden explains the basics and the challenges that are arising from the new wave of high-resolution display standards and how to tackle the challenges when designing for multiple display densities.
+- [Free Font: Casper](http://www.behance.net/gallery/Casper-Typeface/4919301): Michael Chereda shares his latest font experiment with us: the Casper typeface. It's a delicate, clean and readable font with some beautiful ligatures.
+- [Parallax Background Builder](http://web-features.net/): A great WYSIWYG tool for creating your own parallax background. It has a great user interface and is easy-to-use.
+- [Doodle Jump HTML5 Game](http://cssdeck.com/labs/html5-doodle-jump/8): A re-creation of the Doodle Jump using HTML5 Canvas. It does not have all the features like the original game but it's a great experiment and a lot of fun!
+- [oriDomi: Fold up the DOM like paper](http://oridomi.com/): Dan Motzenbecker developed this great script that lets you fold up elements like paper. It has no dependencies and is very light-weight.
+- [FitWeird Bookmarklet](http://davatron5000.github.com/fitWeird/): Paravel gives us yet another useful tool: a bookmarklet that tells you the dimensions of your window in PX and EM. Simple, but very useful when developing responsive websites. 
+- [Realty: Free Wordpress Theme](http://fearlessflyer.com/themes/realty/): Realty is a powerful, responsive and feature-rich WordPress theme for real estate websites.
+- [Tooltipster: jQuery Tooltip Plugin](http://calebjacob.com/tooltipster/): Tooltipster is a lightweight (4,813 bytes minified) jQuery plugin that enables you to easily create clean, HTML5 validated tooltips.
+- [High DPI Images for Variable Pixel Densities](http://www.html5rocks.com/en/mobile/high-dpi/): Boris Smus explains the challenges of pixel density variation among devices and shows how application developers can use several techniques and best practices to tackle the problems.
+- [Free Font: Znikomit No. 25](http://www.glukfonts.pl/font.php?l=en&font=ZnikomitNo25): Grzegorz Luk shares this creative typeface for free. It is very artistic and beautifully ornamented. 
+- [World's Cheapest Camera (PSD)](http://drbl.in/faeB): Adrien Olczak shares this freebie of an IKEA camera that will be given away for free in the end of this year.
+- [Date Range Picker for Twitter Bootstrap](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/): If you are using Twitter Bootstrap, you'll find this date range picker by Dan Grossman very useful. It creates a drop down menu from which a user can select a range of dates.
+- [Drawing Game with Node.js](http://tutorialzine.com/2012/08/nodejs-drawing-game/): Martin Angelov shows you how to create a real-time online drawing game with node.js.
+- [Ideal Forms: Responsive HTML5 Forms](http://elclanrs.github.com/jq-idealforms/): Ideal Forms is a great framework for building and validating responsive HTML5 forms.
+- [13-inch Apple MacBook Air (PSD)](http://www.premiumpixels.com/freebies/13-inch-apple-macbook-air-psd/): A free, fully scalable Apple Macbook Air PSD from PremiumPixels by UI designer Koy Carraway.
+- [BigVideo.js: Background Videos for Websites](http://dfcb.github.com/BigVideo.js/): This plugin by John Polacek allows it to it easily add a fit-to-fill background video to a websites. BigVideo.js is built on top of Video.js from zencoder.
+- [Happy Little Button Freebie (PSD)](http://drbl.in/fafD):  Chris Farina shares this cute and detailed little button with us.
+- [jsPlumb: Visually Connect Elements](http://jsplumb.org/jquery/demo.html): If you did not know it already, jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG or Canvas in modern browsers, and VML on IE 8 and below.
+- [SiteCake CMS](http://sitecake.com/): SiteCake is a easy-to-use, simple CSS editor that allows you to edit your existing website on-the-fly.
+- [Timelines with Chronoline.js](http://stoicloofah.github.com/chronoline.js/): Chronoline.js is a library for making a chronology timeline out of events on a horizontal timescale. It only requires raphael.js to work.
 
 # Collective #25
+- [Inspirational Website of the Week](http://www.mydirtydesk.com/): This week we chose the website of MyDirtyDesk for their great color scheme and creative use of shapes.
+- [Underscores: A Starter Theme for WordPress](http://underscores.me/): Generate your own WordPress starter theme with all the common template files and some helpful tweaks.
+- [Learning to Love the Boring Bits of CSS](http://www.alistapart.com/articles/love-the-boring-bits-of-css/): Peter Gasston shows us the often overlooked but extremely helpful new members of the CSS family. 
+- [Free Font: Cascade](http://wegraphics.net/downloads/cascade-a-free-grunge-font-face/): Cascade is a free grunge font that features bitmap shadows and overlays. It’s a gritty face that is great for t-shirt or poster titles.
+- [Single Element Pure CSS MacBook Pro](http://codepen.io/joshnh/pen/JCGoF): Joshua Hibbert created this awesome CSS experiment on Codepen: a MacBook Pro with just a single element and a clever combination of pseudo-elements box shadows!
+- [Precio UI Set: Free Version](http://vandelaydesign.com/blog/free-resources/precio/): Vandelay Design has released a gigantic UI Pack and is offering a free version with some useful and elegant UI elements for your next design.
+- [JavaScript For Cats](http://jsforcats.com/): If your cat can do it, you can do it: learn JavaScript. A great introduction for novice programmers. 
+- [Hover Effects with CSS Filters](http://thecodeplayer.com/walkthrough/simple-hover-effects-with-css3-filters): Some simple hover effects created with CSS filters (Webkit only) from TheCodePlayer, a great new platform with video style walkthroughs showing cool stuff being created from scratch.
+- [Free Font: Sixta Light](http://www.myfonts.com/fonts/hoftype/sixta/light/): Hoftype released a delicate new font family and offers the light version for free.
+- [PowerTip jQuery Plugin](http://stevenbenner.github.com/jquery-powertip/): PowerTip is a jQuery plugin for creating hover tooltips. It's easy to customize and it has APIs for developers and supports adding complex data to tooltips.
+- [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners): Bob Tabor will teach you the fundamentals of JavaScript programming in these 21 episodes of video tutorials. Tune in to learn concepts applicable to web-based video games, enhanced user interfaces, and dynamic web pages.
+- [fruux: Contacts, Calendars and Tasks Syncing](https://fruux.com/): With this great new app you can easily store, sync and share your data in the cloud.
+- [Polyfill for <img srcset>](https://github.com/borismus/srcset-polyfill): Boris Smus released this useful, spec-compatible and unit-tested polyfill for <img srcset>.
+- [Modal Concept: Avgrund](http://lab.hakim.se/avgrund/): A new modal concept by Hakim El Hattab which aims to give a sense of depth between the page and modal layers. 
+- [Understanding the CSS3 Flexbox](http://benfrain.com/understanding-the-css3-flexbox-flexible-box-layout-module/): Learn how to use CSS3 Flexbox from this updated, in-depth article by Ben Frain.
+- [Peerbind: Connecting Through JavaScript](http://peerbind.com/): Peerbind is a new method of event binding that converts a webpage into a massively interconnected website.
+- [10 Dark Subtle Patterns (PAT)](http://www.premiumpixels.com/freebies/10-dark-subtle-patterns-pat/): Some extremely delicate and subtle dark patterns from Premium Pixels. Perfect for giving some detail to your designs.
+- [Redefining the Introduction to Computer Science](http://ejohn.org/blog/introducing-khan-cs/): John Resig talks about a new project that he has been leading at Khan Academy: Khan Academy Computer Science. It's a learning platform for people with no programming knowledge.
+- [Beautiful Button Design in Action](http://www.noupe.com/design/beautiful-button-design-action-examples-tips-creating-effective-buttons.html): Learn some great tips and techniques for designing effective buttons and get inspired by a great collection of examples.
+- [Useful Legal Documents For Designers (PDF/DOC)](http://www.docracy.com/): A great collection of free and useful legal documents for designers from Docracy.
 
 # Collective #24
+- [Free Font: Citizen Slab](http://www.joelfelix.com/index/#/index/citizen-slab): A stunning vintage font by Joel Felix.
+- [Inspirational Website of the Week](http://www.bangersaustin.com/): Banger's is our choice for this weeks web design inspiration. It has great colors and textures and awesome typography. Beautiful details and a sexy fixed header. Exquisite work by Neighborhood Studio.
+- [Designing For Device Orientation: From Portrait To Landscape](http://uxdesign.smashingmagazine.com/2012/08/10/designing-device-orientation-portrait-landscape/): A great article by Avi Itzkovitch about device orientation and it's challenges and opportunities for creating a better user experience.
+- [Magazine-like Layout for the Web with CSS Regions and Exclusions](http://www.html5rocks.com/en/tutorials/regions/adobe/): Christian Cantrell gives us a great overview and tutorial about CSS Regions and CSS Exclusions.
+- [The Bricks: User Interface Framework](http://designmodo.com/the-bricks/): The Bricks is a set of free user interface components aimed to facilitate the creation of designs and prototypes of websites.
+- [Meny: 3D Menu Concept](http://lab.hakim.se/meny/): Another great new component by Hakim El Hattab: an experimental CSS 3D fold-in menu.
+- [Free Nautical Vector Set](http://www.behance.net/gallery/Nautical-Vector-Pack-Free-Download/1928745): James Viola offers this great set of nautical vector shapes for free.
+- [Adaptor: jQuery Content Slider](http://www.philparsons.co.uk/demos/box-slider/): Adaptor is a light-weight, extensible content slider by Phil Parsons. It aims to provide a simple interface for developers to create cool 2D or 3D slide animation transitions.
+- [HTML5 & CSS3 Fundamentals](http://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners): Bob Tabor teaches you the fundamentals of HTML5 & CSS3 programming in these 21 video episodes.
+- [jBar: jQuery Call-to-Action Bar](http://www.toddmotto.com/jbar-plugin-the-jquery-call-to-action-bar): jBar is a simple and lightweight jQuery notification banner created by Todd Motto. It is an alternative to the Hellobar and it allows you to create a simple call-to-action bar at the top of a website.
+- [Fine UI Kit (free PSD)](http://vandelaydesign.com/blog/free-resources/fine-ui-kit/): An elegant UI Kit by Michael Reimer for Vandelay Design. Free for personal and commercial projects.
+- [Introducing CSS Blending](http://www.adobe.com/devnet/html5/articles/css-blending.html): Rik Cabanier introduces blending for CSS, a newly proposed and useful feature that will allow for different blending modes and interaction between elements.
+- [Free Slab Serif Font: Sreda](http://fontfabric.com/sreda-free-font/): Fontfabric type foundry gives us another great free font: Sreda, a slab serif font designed by Elena Kowalski.
+- [Create CSS3](http://www.createcss3.com/): Create CSS3 is a great online tool by Jason Stockton that let's you generate vendor prefixed CSS. The new version has support for many new CSS3 properties. Read more about it here.
+- [CSScomb: CSS Properties Sorter](http://csscomb.com): CSScomb is an absolutely amazing tool for sorting CSS properties in a pre-defined order. There is an online tool and extensions for several text editors.
+- [Dynamic Light Special FX Brushes](http://wegraphics.net/downloads/dynamic-light-special-fx-brushes/): A superb free brush set from WeGraphics for creating waves of special effects lighting.
+- [DbNinja for MySQL](http://www.dbninja.com/): With DbNinja you can access and administer your MySQL server from anywhere using a browser.
+- [How To Create a Pure CSS Dropdown Menu](http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu): Chris Spooner shows you step-by-step how to create an elegant dropdown menu just with CSS.
+- [“Old” Flexbox and “New” Flexbox](http://css-tricks.com/old-flexbox-and-new-flexbox/): Chris Coyier gives us an update on the current state of the CSS Flexible Box Layout Module which has undergone a lot of changes in the last three years.
 
 # Collective #23
+- [Inspirational Website of the Week](http://goo.gl/FC3v6): Barcamp Omaha 2012 is our web design pick this week. Great design, great typography and some nice subtle effects. But who are we kidding? It was the "BEER ME" bear that won our hearts :)
+- [Free Icon Set: Crisp](http://goo.gl/IlVYR): A pixel-perfect icon set with 108 icons in 3 different sizes by Matt Gentile.
+- [Upverter: Build Electronics Socially](http://goo.gl/fFwru): Upverter is a GitHub-like design and collaboration platform for students, engineers, designers, inventors, makers and hackers that makes it easy to design and share electronics projects. This is just awesome!
+- [Journey Through The JavaScript MVC Jungle](http://goo.gl/xT4hT): In this Smashing Magazine article, Addy Osmani explains in detail why and how to choose a JavaScript MVC framework for an application. Also check out TodoMVC to help you narrow down your choices when it comes to a framework.
+- [Free Wordpress Theme: Photographer](http://goo.gl/cspKn): A clean and beautiful photography Wordpress theme perfect for exhibiting image-based works from Fearless Flyer.
+- [gauge.js: Animated JavaScript/CoffeeScript Gauge](http://goo.gl/z9snP): Create 100% native and cool looking animated JavaScript/CoffeeScript gauges with this awesome script. 
+- [Free iPhone Mockup (PSD)](http://goo.gl/4qYO3): This great freebie by WeGraphics is a layered PSD file consisting of vector shapes. The screen is editable via a single Smart Layer  which allows you to add your design from a simple copy and paste.
+- [Prism: A Modern Syntax Highlighter](http://goo.gl/BSid1): Prism is a new, light-weight and sexy looking syntax highlighter by Lea Verou. It's built with modern web standards in mind and you can easily extend it. Read the article about it here.
+- [A Beginner’s Guide to Using Google Web Fonts](http://goo.gl/yE48b): Learn how to use and integrate Google Web Fonts in this great tutorial by Joshua Johnson.
+- [Create a Google-powered Login Form](http://goo.gl/007Aq): Learn how to build a one-click registration form powered by Google in this in-depth tutorial by Martin Angelov from Tutorialzine.
+- [Piecon: Pie Charts in Your Favicon](http://goo.gl/mCSOm): If you have always wanted to have a little pie chart as you website's favicon, then this tiny JavaScript library will help you with that. It dynamically generates pie charts in your favicons.
+- [Typist jQuery Plugin](http://goo.gl/WZa0i): Typist is a jQuery plugin by David Crawford that allows you to create animated typed text.
+- [BinaryJS: Binary Data for the Web](http://goo.gl/ubt2o): If you want to stream binary data to JavaScript then you'll find this framework useful: BinaryJS is a lightweight framework that utilizes websockets to send, stream, and pipe binary data bidirectionally between browser JavaScript and Node.js.
+- [Kartograph: Beautiful, Interactive Vector Maps](http://goo.gl/YwvwG): Kartograph is a simple and lightweight framework for creating beautiful, interactive vector maps. The client-side library kartograph.js renders pre-generated maps stored in SVG files. You can chose among hundreds of ready-to-use maps or simply generate your own using kartograph.py, the open source Python SVG map generator. Developed by Gregor Aisch.
+- [Cocoa Controls: Custom UI Controls for iOS and Mac OS X](http://goo.gl/7Z6B8): If you have creates iOS apps, you know how laborsome the creation of controls can be. On Cocoa Controls you can now spare time and effort by finding the control you need. You can also submit yours and sellit/share it.
+- [Sidetap Mobile Framework](http://goo.gl/2ivjp): Sidetap is a simple framework that allows you to quickly build platform-independent mobile web interfaces.
+- [Free Font: Benthem](http://goo.gl/OtKqz): An absolutely gorgeous typeface designed by Keith Hayden. Comes in regular and bold.
+- [Gridster.js: Drag-and-drop Multi-column Grids](http://goo.gl/wBdy5): Gridster is a jQuery plugin that allows building intuitive draggable layouts from elements spanning multiple columns. 
+- [Mahatma Gantti: A simple PHP Gantt Class](http://goo.gl/NRrDe): If you ever used Gantt charts for displaying time extensions of activities then you'll definitely find this class very useful. Data is defined as an associative array and you have several options that will simplify your chart creating process.
+- [10 Free Backgrounds](http://goo.gl/xaP73): Another great freebie by Matt Gentile: 10 beautiful backgrounds of 1600x1200 pixels size and in JPEG format.
+- [Free Font: Dayang Senandung](http://goo.gl/C7t1V): An elegant retro serif font by Cenz Qobbal.
+- [Wirefy: A Tool for Rapid Responsive Wireframing](http://goo.gl/FuYPB): Wirefy is a collection of CSS and JavaScript files to help you rapidly experiment with responsive wireframes.
+- [Free Font (Vector): Che's Bone](http://goo.gl/dkflv): An exquisite custom font made for the love of a dog. A truly unique typeface by Filiz Sahin.
 
 # Collective #22
+- [Inspirational Website of the Week](http://goo.gl/XDXNc): 35mm Design by Steve Scavo is our website pick of the week for its bold design and innovative effects.
+- [Responsive Design’s Dirty Little Secret](http://goo.gl/yGzkk): A great article by John Albin Wilkins about how fluid grids cause some unpleasant side-effects: rounding errors. Why they happen and what can we do about it? Read this interesting write-up and the valuable discussion that follows. 
+- [Sneekpeekit: Sketch Sheets](http://goo.gl/7ODI6): Sneekpeekit offers some great mobile, tablet, browser and wireframe sketch sheets for the quick design ideas.
+- [Ninja Power: Open-Source HTML5 Toolset](http://goo.gl/pJFxx): A great article on Ars Technica about three developers behind a new app framework and animation tool explaining their creation.
+- [Free Font: Nexa](http://goo.gl/t8mLp): Fontfabric type foundry offers two styles (light & bold) of this elegant font for free.
+- [Coding A Responsive Resume in HTML5/CSS3](http://goo.gl/A09z7): Jake Rocheleau shows us how to code a responsive single-page resume layout in this tutorial on Hongkiat
+- [Listicons: Arrows & Bullets Webfont](http://goo.gl/FY67x): A modern set of 52 mini arrows and bullet points by MediaLoot for you next project. Includes a practical @font-face kit.
+- [Responsive Web Design is Your Responsibility](http://goo.gl/0v0Ev): Teylor Feliz talks about RWD and gives some tips on how to start creating websites that are responsive.
+- [Images account for 63% of page weight](http://goo.gl/2sbEI): In this recent Tweet, Paul Irish points our some interesting stats about the page weight of a website. Accounting for 63%, images are the biggest concern, making whining about the amount of JS "a bit silly" and demanding for vector-based solutions when going Retina.
+- [tacionJS: Mobile Real-time Presentations](http://goo.gl/gPHke): A jQuery Mobile framework for creating real-time presentations.
+- [php.js - PHP VM with JavaScript](http://goo.gl/MJBhM): Interesting library that reads PHP code and transforms it into JavaScript which can be run in the PHP VM of this library, giving the same results as the PHP.
+- [How can a programmer learn to design websites that don't suck](http://goo.gl/PyF0o): Vasco Pinho shares his thoughts and experience on how to start designing nicer websites as a programmer.
+- [Bookletsworld](http://goo.gl/J6jcp): Create your own e-booklet with this online tool which works with a mobile first approach, making the booklets look great on mobile devices. 
+- [Game-Icons.net: Free Icons for Your Games](http://goo.gl/Isa1I): With almost 900 vector icons, this free set will come in incredibly handy for anybody designing a game. They are licensed under CC BY 3.0 and you can download them all at once.
+- [Sublime Text 2: Package Control and Livereload](http://goo.gl/stgou): Read this summary of how to use a full-featured package manager with Sublime Text 2.
+- [Responsive Design Test](http://goo.gl/azUAC): Want to quickly test your website in different browser sizes (mobile) and have a handy overview? Then you'll like this online tool that let's you load any website into differently sized viewports/devices (from 240 to 1024 pixel) and test their responsiveness.
+- [Free Font: Of Concrete](http://goo.gl/PJIDt): Of Concrete is a grunge font face with a stylized shadow and dirt particles. This is an excellent font for gig poster designs.
+- [Social Media Buttons](http://goo.gl/2huJB): A beautiful set of CSS3 coded, responsive-ready and scalable social media buttons by Todd Motto.
+- [Step by step from jQuery to Backbone](http://goo.gl/EStPD): Kim Joar Bekkelund shares this great guide on how to transition from jQuery to Backbone.js. 
+- [Eric Meyer on the past, present and future of CSS](http://goo.gl/hW3jt): An inspiring .net interview with Eric Meyer, co-founder of An Event Apart, where he talks to Tom May about how he helped make CSS what it is today, and where it's going in the future.
+- [Job Board Hired.im](http://goo.gl/9U5Ic): Hired.im is a new job board where you can find and list jobs for web designers and web developers. But it's not like any other job board: you will actually support a volunteer organization that teaches future designers and developers. Amber Weinberg and Paul Maloney are the brilliant minds behind this platform.
+- [Think Vertical: The Influence of Mobile Design on Orientation](http://goo.gl/WIZR3): Read how mobile web design has influenced our thinking about orientation when designing modern websites. 
+- [forkit.js](http://goo.gl/Al8kI): Hakim El Hattab shares his latest experiment with us: an animated ribbon which reveals a curtain of additional content.
 
 # Collective #21
+- [Middleman](http://middlemanapp.com/): Middleman is a static site generator based on Sinatra. Providing dozens of templating languages (Haml, Sass, Compass, Slim, CoffeeScript, and more). Makes minification, compression, cache busting, Yaml data (and more) an easy part of your development cycle.
+- [Inspirational Website of the Week](http://www.jointlondon.com/): Joint London is our pick for this week's web design inspiration because of it's lightness, absolute coolness and intuitive, but novel navigation. 
+- [Infographic: The History of HTML5](http://visual.ly/history-html5): Wix shows a summary of the history of HTML5 in this colorful infographic.
+- [sketch.js: Boilerplate for JavaScript-based Coding Experiments](https://github.com/soulwire/sketch.js): This is a tiny (~5k) boilerplate for creating JavaScript-based creative coding experiments. It will make setting up Canvas or WebGL experiments a breeze. 
+- [stickyMojo jQuery Plugin](http://mojotech.github.com/stickymojo/): stickyMojo is a contained sticky sidebar jQuery plugin brought to you by MojoTech. It is lightweight, fast, flexible and compatible with Firefox, Chrome, Safari, and IE8+. It will degrade gracefully in older versions of IE.
+- [ViniSketch Designer](http://www.vinisketch.fr/mainSite/en.html): With ViniSketch you can build mobile web applications for multiple devices. The framework is currently compatible with iOS 3+ and Android 2.1+. 
+- [Infinite-social-wall](http://philipbjorge.github.com/Infinite-Social-Wall/): Infinite-social-wall by Philip Bjorge is an isotope-powered social stream based on RSS feeds with a MySQL backend. While it supports the most popular social networks, any RSS feed can be used and displayed. 
+- [Fluid: Mobile Mockups](http://www.fluidui.com/): Create, test and share mobile designs with this feature-rich and easy to use, online mobile mock up builder.
+- [Holder.js](http://imsky.github.com/holder/): Holder by Ivan Malopinsky renders image placeholders entirely on the client side. It works both, online and offline, and offers a chainable API to style and create placeholders with ease.
+- [Backbone.js: Hacker's Guide](http://dailyjs.com/2012/07/19/mvstar-2/): Alex Young gives us a great guided tour through Backbone's source from a more technical perspective. Dive in and learn how it works.
+- [FrameWarp jQuery Plugin](http://tutorialzine.com/2012/07/framewarp-jquery-plugin/): A very useful plugin that will help you display iframes in a nice overlay-like fashion.
+- [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/): If you are interested in online game development, you will love this article that will give you some great insight and example of the world of real time multiplayer.
+- [Visual.ly Launches Social Network for Data Visualization](http://blog.visual.ly/visual-ly-launches-social-network-for-data-visualization/): Visual.ly launches the world's first social network for data visualization. Being part of the Visual.ly community just got better: Visual.ly now improved profiles for members, with real time activity feed and aggregated metrics about the infographics one has shared. 
+- [iosSlider – Touch Enabled jQuery Horizontal Slider Plugin](http://www.iosscripts.com/iosslider): iosSlider is a jQuery plugin which allows you to integrate a customizable, cross-browser content slider into your web presence. Designed for use as a content slider, carousel, scrolling website banner, or image gallery. It has many useful features and is licensed under the Creative Commons – Attribution-NonCommercial 3.0 License.
+- [Enyo JavaScript Application Framework](http://enyojs.com/): Enyo 2 is now out of beta and this truly cross-platform and free framework will make complex app development simple and easy to maintain.
+- [iconmonstr Free Icons](http://iconmonstr.com/): iconmonstr will give you beautiful free and simple icons for your next project. You can search by keywords and download the PNG and SVG file for free. 
+- [gist.io: Writing for Hackers](http://gist.io/): Idan Gazit shows us the new way of writing with those purposes that just don't fit for Twitter, Tumblr or pastebins: Use a public gist on Github and view/share it at gist.io.
+- [Underscore Log](https://github.com/eeColella/Underscore-Log): Underscore Log offers advanced cross-browser JavaScript logging together with Firebug Lite. It standardizes the way you write code and the way the logs are displayed in your browser.
+- [EpicEditor: Markdown Editor](http://oscargodson.github.com/EpicEditor/): Who needs WYSIWYG editors anymore? EpicEditor (beta) is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
+- [Muxi: Professional Social Network](http://www.muxi.com/): Composed of 40 fraternities, Muxi offers its users a platform where they can share their experience, ask questions, find colleagues and more generally connect with people doing the same job.
+- [Chrome Web Lab](http://www.chromeweblab.com/): See the magic of the web brought to life through 5 Chrome Experiments. Make music with people across the world with Universal Orchestra or travel to far away places with the Teleporter.
+- [Free Font: Balls Family](http://www.behance.net/gallery/Balls-Family-Free-Font/4474369): Balls (yes, Balls) is another beautiful font experiment by Give Design realized with Nodebox. The font is created using a random combination of different dots. 
+- [termsfeed: Terms of Service Generator](http://termsfeed.com/free/terms-of-service-generator): Generate your ToS and privacy policy with this free online generator.
+- [Free Blurred Backgrounds](http://dribbble.com/shots/648560-Free-Blurred-Backgrounds): A great pack of high-resolution blurred backgrounds for your next project by Timothy Whalin.
+- [Some things beginners might not know about Sublime Text](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text): Alain Meier has compiled a super-useful list of basic things about Sublime Text that will save your time.
 
 # Collective #20
+- [30 Toolbar Icons for User Interface Design](http://www.webappers.com/2012/07/09/30-toolbar-icons-for-user-interface-design/): WebIconSet designed this great free, pixel-perfect UI icon set for Webappers.
+- [Colorjoe: Scalable Color Picker](http://bebraw.github.com/colorjoe/): Colorjoe is a CSS-based, scalable colorpicker that does not depend on any external images. You can adjust it to your needs making it a great choice for responsive projects. It also has touch-support.
+- [Moqups App](http://moqups.com/): The Moqups App is a really great HTML5 App for creating high fidelity, resolution independent SVG mockups and wireframes.
+- [Magnifying Glass for Image Zoom Using jQuery & CSS3](http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3): If you did not know about thecodeplayer.com then you should definitely check it out. You can assist walkthroughs and learn some great web dev techniques. In this one you can learn how to create a realistic magnifying glass using jQuery and CSS3.
+- [IFTTT "If this then that" Service](http://ifttt.com/): Tired of those doing the same social network actions over and over again? IFTTT has number of channels which triggers on certain conditions and executes a specified action on other channels. You can automate most time consuming tasks by using IFTTT recipes. It provides almost 46 popular channels and rising every day.
+- [Free Font: Amende](http://www.behance.net/gallery/AMENDE-FONT/4466987): Ike Ku shares this exquisite and interesting font for free. 
+- [An Approach on Building an Advanced Initial Boilerplate](http://drublic.de/blog/building-advanced-initial-boilerpalte/): Hans Reinl introduces his version of an intitial package to start a web project, called init. It include some more tools than HTML5 Boilerplate and is especially useful if you use SASS.
+- [CSS3 Family Tree](http://thecodeplayer.com/walkthrough/css3-family-tree): Another great tutorial/walkthrough from thecodepalyer.com: Learn how to display organizational data or a family tree just using CSS, with simple markup (nested lists). Pseudo elements are used to draw the connectors.
+- [Minimal Patterns](http://www.minimal-patterns.com): Find some delicate minimal patterns for your next web project here or submit your own.
+- [Dark UI Kit (PSD)](http://www.premiumpixels.com/freebies/dark-ui-kit-psd/): A delicate new UI Kit from PremiumPixels designed by Swedish designer Victor Erixon.
+- [Free Pavement Textures](http://vandelaydesign.com/blog/free-resources/pavement-textures/): Grab these free high-resolution pavement textures from Vandelay Design fro your design projects.
+- [On/Off FlipSwitch](http://proto.io/freebies/onoff/): An online generator that lets you create custom pure CSS3 On/Off flipswitches with animated transitions.
+- [Which is the Best Code Editor?](http://tutorialzine.com/2012/07/battle-of-the-tools-which-is-the-best-code-editor/): Finally, a great analysis of what code editor is best for whom, and based on some thoughtful ratings, what editor is the best one overall. 
+- [Mini Collection for Prefix & Postfix Input Form](http://www.webstuffshare.com/2012/07/mini-collection-for-prefix-postfix-input-form/): Hidayat Sagita shares this super-useful collection of input fields with a prefix or postfix icon
+- [The CSS Guide](http://inserthtml.com/codex/css-guide-welcome/): Master CSS with this great guide from InsertHTML. It's series which was created to teach you everything you need to know about CSS in order to operate in the web design world.
+- [Logins are Dead, and Mobile Killed Them](https://github.com/harryf/thoughts/blob/master/mobile-killed-the-login.md): Harry Fuecks tells you why logging in with a username and password was killed by Mobile and what direction future solutions could go.
+- [Illustrator Pattern Swatches](http://wegraphics.net/downloads/50-free-herringbone-illustrator-pattern-swatches/): WeGraphics shares this set of 50 Illustrator pattern swatches which features a variety of seamless herringbone patterns in different colors and sizes.
+- [Black UI Kit (PSD)](http://www.icondeposit.com/design:108): Another great dark UI Kit for your next project. This one is by Matt Gentile and it's entirely vector so you can scale the elements.
+- [Create A Sleek On/Off Button](http://www.hongkiat.com/blog/css3-on-off-button/): In this CSS3 tutorial, Thoriq Firdaus shows you how to create a slick On/Off button.
+- [Sci-Fi Vector Pack](http://zomgimbored.com/2012/06/29/sci-fi-space-vector-pack-free-download/): A wonderfully spacy and free vector pack for your next Sci-Fi project.
+- [fontBomb](http://fontbomb.ilex.ca/): Did not like the news you just read? There is a simple solution to that: blow 'em up. Philippe-Antoine Lehoux created this wonderful little tool that let's you plant bombs and blow up any text on a website - with style. 
 
 # Collective #19
+- [Inspirational Website of the Week](http://www.lottanieminen.com/): Lotta Nieminen's portfolio is our choice for this week's website inspiration. It's very clean and it comes with a surprising and smooth content navigation. 
+- [Creating A Volume Controller With jQuery UI Slider](http://www.hongkiat.com/blog/jquery-volumn-slider/): Learn how to code a jQuery UI Slider from a PSD in this great tutorial by Thoriq Firdaus.
+- [PHP - The Right Way](http://www.phptherightway.com/): "PHP: The Right Way" is an easy-to-read, quick reference for PHP best practices, accepted coding standards, and with links to authoritative tutorials around the Web. It's created and maintained by Josh Lockhart.
+- [Free Font: Ashbury Light](http://www.myfonts.com/fonts/hoftype/ashbury/light/): Ashbury derives its inspiration from 18th century transitional types such as Caslon and Baskerville. Get the light style of this elegant font for free.
+- [Free Twitter Logo (EPS/PSD)](http://www.blugraphic.com/2012/07/08/new-twitter-logo-eps-psd/): A great and useful freebie from blugraphic.com: the new twitter logo in EPS and PSD.
+- [Building a Responsive, Mobile-First Navigation Menu](http://azadcreative.com/2012/07/responsive-mobile-first-navigation-menu/): Saddam Azad shows us how to develop a complex responsive navigation menu using the “Mobile-First Approach“. The aim is to present mobile users with a pseudo-native, touch-conducive and interactive interface that enables them to navigate the website with ease. 
+- [Mousetrap](http://craig.is/killing/mice): Mousetrap is a simple and leight-weight library for handling keyboard shortcuts in Javascript. It is a standalone library with no external dependencies.
+- [Free Font: Triac 71](http://www.myfonts.com/fonts/typodermic/triac-seventy-one/): Ray Larabie offers us this exquisite font for free: Triac 71 is a funk related funk font with funky proportions, funky design and funkular execution.
+- [Bromine: JS Library for UI Testing in the Browser](http://cheggeng.github.com/Bromine/): Bromine is a tool for running UI tests in the browser. It provides a simple-to-use flow control mechanism, as well as utilities for executing DOM events.
+- [Brain NN Library](https://github.com/harthur/brain): Brain is a JavaScript neural network library. If you have worked with neural networks, you'll love this JS library. You can also use it in node.js.
+- [Learn Git in 15 Minutes](http://try.github.com/levels/1/challenges/1):  Got 15 minutes and want to learn Git? Then you'll enjoy this easy-to-follow and great step-by-step interactive tutorial by GitHub.
+- [jQuery UI Touch Punch](http://touchpunch.furf.com/): jQuery UI Touch Punch is a small hack that enables the use of touch events on sites using the jQuery UI user interface library. It is tested on iPad, iPhone, Android and other touch-enabled mobile devices.
+- [DZSlides](http://paulrouget.com/dzslides/): DZSlides is a one-page-template to build your presentation in HTML5 and CSS3 by Paul Rouget.
+- [Creating a Slider Control with the HTML5 Range Input](http://www.developerdrive.com/2012/07/creating-a-slider-control-with-the-html5-range-input/): Learn how create a basic HTML5 range input slider to resize an image, with a JavaScript function updating elements in the page as the user alters the range.
+- [Windows Style Dashboard Template (PSD)](http://www.freebiesgallery.com/windows-style-mobile-dashboard/): Asif Aleem shares this beautiful PSD template with us.
+- [Repo.js](http://darcyclarke.me/dev/repojs/): Darcy Clarke brings us Repo.js. It is a light-weight jQuery plugin that lets you easily embed a Github repo onto your site. As a plugin or library author this is a great way to showcase the contents of a repo on a project page.
+- [CSS3 Attribute Selector: Targeting The File Type](http://www.hongkiat.com/blog/css3-attribute-selector/): Learn how to use the CSS attribute selector in order to target specific file types in yet another great tutorial by Thoriq Firdaus. 
+- [Free Font: Troll Bait](http://www.myfonts.com/fonts/typodermic/troll-bait/): Another free font by Ray Larabie: Troll Bait just screams "roleplaying".
+- [Recline.js](http://reclinejs.com/): Recline.js is simple, yet powerful library for building data applications in pure Javascript and HTML.
+- [GitList: An Elegant and Modern Git Repository Viewer](http://gitlist.org/): GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. GitList is free and open source software, written in PHP, on top of Silex and the Twig template engine.
+- [Rivets.js](http://rivetsjs.com/): Rivets.js is a declarative, observer-based DOM-binding facility that plays well with existing frameworks such as Backbone.js, Spine.js and Stapes.js. It aims to be lightweight (1.2KB minified and gzipped), extensible, and configurable to work with any event-driven model.
 
 # Collective #18
+- [Inspirational Website of the Week](http://patrickalgrim.me/): This week we chose the website of product designer Patrick Algrim for its elegant simplicity and subtle effects.
+- [Create A Responsive, Mobile-First WordPress Theme](http://wp.smashingmagazine.com/2012/06/28/create-responsive-mobile-first-wordpress-theme/): Ellen Bauer explains the exciting process of creating a responsive Wordpress theme using the mobile-first approach.
+- [Animating CSS3 Image Filters](http://demosthenes.info/blog/540/Animating-CSS3-Image-Filters): Dudley Storey will show you how to animate the appearance of images using CSS filters and transitions.
+- [Collection of Responsive WordPress Themes](http://www.gonzoblog.nl/2012/06/10-new-free-and-fully-responsive-wordpress-themes/): Are you searching for a real responsive Wordpress theme? Then you will find this roundup really helpful. 
+- [skrollr Animation Library](http://prinzhorn.github.com/skrollr/): Parallax scrolling became a very popular effect in web design and now you can create it with easy using this great library that doesn't have any dependencies. It allows you to animate any CSS property of any element depending on the horizontal scrollbar position.
+- [WordPress Gamification](http://wplift.com/wordpress-gamification-techniques-examples-and-free-plugins): A great collection of techniques, examples and free plugins for gamifying your Wordpress blog by Oliver Dale.
+- [Brackets: Open Source Code Editor](http://brackets.io/): Brackets is an open-source editor for web design and development built on top of web technologies such as HTML, CSS and JavaScript. The project was created and is maintained by Adobe, and is released under an MIT License.
+- [SeuratJS](http://seuratjs.com/): SeuratJS by Greg Smith is a JavaScript library that extends Raphaël and allows for the creation of vivid animations and pixelated artwork using minimal code.
+- [Free Font: Strenuous 3D](http://www.myfonts.com/fonts/typodermic/strenuous/three-d/): Typodermic gives us this great Strenuous family member for free. 
+- [Bitrix24: Social Intranet](http://www.bitrix24.com/): Bitrix24 is a fresh platform for a united work space which handles the many aspects of daily operations and tasks.
+- [Free Stained Canvas Backgrounds](http://wegraphics.net/downloads/free-stained-canvas-backgrounds/): This set of free background textures from WeGraphics includes 12 stained canvas patterns. These are great for applying an old, worn print look to your artwork.
+- [yum.im: Simple Snippet Sharing](http://yum.im): Dead simple, minimalistic snippet sharing. That's how snippet sharing should be. Amen. By Visual Idiot.
+- [Avatars from avatars.io](http://avatars.io/): avatars.io is a hosted, hassle-free user avatar service for your apps and sites. It offers the use of social avatars, gravatars and custom avatars.
+- [Dark Search Box & Drop Down (PSD)](http://www.premiumpixels.com/freebies/dark-search-box-drop-down-psd/): Alexandre Naud designed this super-slick search and drop down, available for free on Premium Pixels.
+- [Free Font: Kocoon Light](http://www.behance.net/gallery/Kocoon-Light-Randomic-Free-Font/4368101): Kocoon is a an amazing experimental font created with the opensource framework Nodebox. You can randomize it and get unique results when exporting it.
+- [QwikVu: Easy Mock-up Sharing](http://qwikvu.com/): QwikVu is a new online app where you can share web design mock-ups with clients.
+- [Moleskine Notebook (PSD)](http://pixelsdaily.com/resources/photoshop/psds/moleskine-notebook-psd/): Beautiful Moleskine notebook, complete with the leather cover, ruled lines, and the classic fabric bookmark by Pixels Daily.
+- [Free Font: FV Granada](http://www.florisvoorveld.com/portfolio/fv-granada/): Floris Voorveld offers the regular version of this stunning neo-grotesque font for free.
+- [colllor: Color palette the right way](http://colllor.com/): When designing, the color palette choice is one of the main aspects. With colllor you can create consistent color palettes with just a few clicks.
+- [Using CSS3 Border-Image](http://www.hongkiat.com/blog/css3-border-image/): Learn how to use this often neglected property in order to create interesting image frames.
 
 # Collective #17
+- [Photon: A CSS 3D Lighting Engine](http://photon.attasi.com/): This is just "wow": a JavaScript library by Tom Giannattasio that adds lighting effects to DOM elements in 3D space. It's WebKit-only because it relies on WebKitCSSMatrix and it's processor-butt-kicking (don't abuse), but you'll just be blown away. 
+- [Responsive Grid System](http://www.responsivegridsystem.com/): Not being a framework or a boilerplate, the Responsive Grid System is a quick, easy & flexible way to create a responsive web site. Want to use different amounts of columns across a page? This will make it super-easy.
+- [Inspirational Website of the Week](http://grupowprojects.com/folicure/): Folicuré's marketing website is our pick of the week because of the cool hover and scrolling effects. Who says the parallax effect is out of fashion? If used with a twist, it's absolutely hip.
+- [Justinmind Prototyper](http://www.justinmind.com/): Create rich and interactive prototypes for web and mobile apps with this online platform.
+- [Using semantic HTML](http://www.adobe.com/devnet/html5/articles/semantic-markup.html): Terry Ryan dives into semantic HTML, explains what is is and why it's important.
+- [Analog Free Grunge Font](http://wegraphics.net/downloads/analog-a-free-grunge-font-from-wegraphics/): Analog from WeGrpahics is a free grunge font that features bitmap dot patterns. This font is excellent for posters, album covers, or websites that need a touch of grunge appeal.
+- [CSS Gradient Finder](http://gradientfinder.com/): Convert an image to its CSS gradient with this awesome online tool written by Aaron Marasco.
+- [Responsive Web Design Newsletter](http://bradfrostweb.com/responsive-web-design-newsletter/): Sign up for this free newsletter by Brad Frost. It will feed you with RWD goodness collected across the web.
+- [Simplistic UI Kit (PSD)](http://dribbble.com/shots/612116-Simplistic-UI-Kit): Super-versatile and stunning UI Kit by Tanveer Junayed.
+- [Cloud-based API for Image Effects](http://cloudinary.com/blog/cloud_based_api_for_applying_effects_on_images): Apply some cool effects to your images without manually processing them, using this great service from Cloudinary. You'll have to sign up for using this. 
+- [Table Editing with Handsontable](http://warpech.github.com/jquery-handsontable/): If you are working with tables in your project, Handsontable will make editing them a breeze. It is a minimalistic approach to an Excel-like table editor in HTML & jQuery by Marcin Warpechowski.
+- [Using SVG clipPath](http://sawyerhollenshead.com/writing/23/using-svg-clippath/): Sawyer Hollenshead explains how to create a SVG clipping path (or mask) in order to make creative link shapes.
+- [Pondasee Front-end Starter Kit](http://tokokoo.github.com/pondasee/): From the minds behind Tokokoo comes this great SCSS & Compass based font-end starter kit that will help you create a powerful themes.
+- [Free Sky UI Kit](http://vandelaydesign.com/blog/free-resources/sky-ui-kit/): A beautiful blue UI Kit by Michael Reimer for Vandelay Design.
+- [Screencasting a Complete Redesign](http://css-tricks.com/screencasting-complete-redesign-get-access-kickstarter/): This is an exciting opportunity to learn the whole web design and web development process: Chris Coyier will do a complete redesign and make every step of it available on a screencast. Back his project and get access to the master's screencasts.
+- [Academic Icon Set (10 Icons + PSD Source)](http://www.smashingmagazine.com/2012/06/18/freebie-academic-icon-set-10-png-psd-icons/): A beautiful and free pixel-perfect, high-quality icon set related to education and academia brought to you by PixelsDaily and Smashing Magazine.
+- [NVD3: Re-usable charts for d3.js](http://novus.github.com/nvd3/): A project for building re-usable charts and chart components for d3.js by Novus.
+- [Free Portfolio Website Template (PSD)](http://www.blugraphic.com/2012/06/23/free-portfolio-website-template-psd/): A beautiful free portfolio website template by blugraphic.
+- [Zero Bundle: Free Goodies for Designers](http://www.zerobundle.com/): Get hands on this awesome free bundle of web design resources before it expires!
+- [The Amazing Powers of CSS](http://updates.html5rocks.com/2012/06/The-amazing-powers-of-CSS): Ilmari Heikkinen shows us some magical and helpful CSS tricks that will make you have several "Aha" moments.
+- [QuoJS: Simplify Mobile Web Development](http://quojs.tapquo.com/): QuoJS is a micro, modular, Object-Oriented and concise JavaScript Library that simplifies HTML document traversing, event handling, and Ajax interactions for rapid mobile web development.
+- [Wordpress Plugin: Dropbox Photo Sideloader](http://wordpress.org/extend/plugins/dropbox-photo-sideloader/): This Wordpress plugin adds a new tab to the Media Uploader, which allows you to pull image files from your Dropbox into WordPress.
+- [Ancillary Free Font](http://www.dafont.com/ancillary.font): A beautiful Sans Serif font with 4 variants by Philip Trammell.
 
 # Collective #16
+- [Responsive Images: What's the problem, and how do we fix it?](http://dev.opera.com/articles/view/responsive-images-problem/): A great overview of the "responsive images problem" and the proposed solutions by Matt Wilcox.
+- [Inspirational Website of the Week](http://www.healinghistories.org/): Healing Stories is this week's inspirational pick because it tells a wonderful story in a beautifully interactive way.
+- [Building Books with CSS3](http://www.alistapart.com/articles/building-books-with-css3/): Nellie McKesson introduces the CSS3 Paged Media Module and shows how to create print-ready paged book layouts with it.
+- [Icon Deposit CSS3 UI Kit (PSD+CSS)](http://www.icondeposit.com/design:100): Matt Gentile shares this beautiful UI Kit with us. It includes the PSDs and the ready-to-use markup with a pixel-perfect design.
+- [Responsive Images With WordPress’ Featured Images](http://mobile.smashingmagazine.com/2012/06/14/responsive-images-with-wordress-featured-images/): This is a very helpful and extensive article by Rachel McCollin on how to make Wordpress handle responsive (featured) images.
+- [Portfolio Basics for Web Design Students: About Me Pages](http://www.studentguidewebdesign.com/portfolio-basics-for-web-design-students-about-me-pages/): On her website "A Student's Guide to Web Design", a wonderful resource for learning and preparing web design students for the design industry, Janna Hagan explains the concept and purpose of the About page and how important it is. 
+- [fc.tape: jQuery widget for sprite animations](http://source.futurecolors.ru/fc.tape/): With fc.tape you can animate a background image (sprite) consisting of picture frames like an old-time movie projector tape.
+- [Free Font: 47](http://dribbble.com/shots/606313-47-Free-Typeface): Hendrick Rolandez created this vintage style font with a unique touch. He offers the bold & italic version for free. 
+- [Supercharge Twitter Bootstrap](http://www.bootstrapcdn.com/): If you use Twitter Bootstrap, this will come in very handy for you: NetDNA hosts all Bootstrap objects on their superfast CDN servers allowing you to save bandwidth and time.
+- [Free Ecology Vector Icon Set](http://www.noupe.com/freebie/exclusive-vector-freebie-ecology-icon-set.html): A charming free vector icon set by Jasmina Stanojevic for Noupe.
+- [Annotator: JavaScript library for making websites annotatable](http://okfnlabs.org/annotator/): If you didn't know about it already: Annotator is an open-source JavaScript library and tool that can be added to any webpage to make it annotatable. Annotations can have comments, tags, users and more.
+- [Rekapi: A keyframe animation library for JavaScript](http://rekapi.com/): Rekapi is a helpful library for making beautiful <canvas> and DOM animations, like graph animations, and it allows you to export your DOM animations to CSS3 @keyframes.
+- [Balloons.IO: Free & ready to go web chat room](http://balloons.io/): Balloons.IO is a free and ready-to-go web chat room. It’s built with the help of node.JS, Express, Socket.IO and Redis and it uses easy-OAuth for authentication with Twitter.
+- [Koloria Free Iconset (PNG)](http://www.graphicrating.com/2012/06/14/koloria-free-icons-set/): From the maker of the epic Quartz Icon Pack, Andy Gongea, comes another pixel-perfect free icon set of more than 160 gorgous icons.
+- [Syte: Personal site with social integrations](http://rigoneri.github.com/syte/): Rodrigo Neri developed Syte: a really simple but powerful packaged personal site that has social integrations like Tumblr, Twitter, Github, Dribbble and Instagram. 
+- [Compressing Multiple CSS Files with PHP](http://www.paulund.co.uk/compress-multiple-css-files): Another useful resource by Paulund: A PHP snippet which will combine mutliple CSS files and remove all comments and spaces, reducing the size of the file and thereby reducing loading times.
+- [List/Grid View Switcher with jQuery](http://vandelaydesign.com/blog/web-development/list-grid-view-switch/): Learn how to build a list/grid view switcher with jQuery in this tutorial by Jake Rocheleau for Vandelay Design.
+- [Dummy: Rapid Prototyping and QA](http://dummy.kerns.dk/): Dummy is a simple PHP-based toolkit that will make rapid prototyping a breeze: You can insert randomly generated strings of placeholder text in commonly needed lengths and formats (e.g., headline, teaser, paragraph) and request different sizes and aspect ratios of images on the fly, and more.
+- [Free File Type Icons (PNG)](http://filetypeicons.com/): The Gentle icon set consists of 20 file type icons of 128 x 128 pixels and in PNG format.
+- [Free PSD Template: Gastronymous](http://designmodo.com/gastronymous/): Gastronymous is a free PSD template meant for websites related to food and/or the food industry. 
+- [Free Galaxy S3 Template (PSD+PNG)](http://dribbble.com/shots/581374-galaxy-s3-psd-template): Eryk Pastwa shares this beautiful vector shape based Galaxy S3 template with us on Dribbble.
+- [Animated CSS3/SVG Loading Bars](http://www.inserthtml.com/2012/06/svg-css3-loading-bar/): Learn how to use CSS animations and SVG to create a loading bar in this tutorial by Johnny Simpso.
+- [3D Buttons with CSS](http://css-tricks.com/circular-3d-buttons/): Brandon Pierce shows you how to create some awesome minimal circular 3D buttons with CSS in this CSS-Tricks tutorial.
+- [Vicons Free Glyph Icon Set (PSD)](http://pixelb.in/vicons-36px-assorted-glyph-set-220/): Victor Erixo shares this really cute icon set with us. It contains some useful glyph icons.
+- [Free Font: Acorn](http://www.behance.net/gallery/Acorn-Typeface/4219543): If you are searching for a free, clean and simple sans-serif hand drawn typeface, you'll love Acorn by William Suckling.
 
 # Collective #15
+- [Percentage Loader jQuery Plugin](http://widgets.better2web.com/loader/): jQuery.PercentageLoader is a jQuery plugin for displaying a progress widget in a more visually striking way than the ubiquitous horizontal progress bar or textual counter.
+- [Lovelicon - A Glyph Icon Set](http://www.purtypixels.com/lovelicon-set-psdpng/): This set includes 96 icons in PNG format and a fully layered, well-organized PSD making it possible to scale or edit the icons according to your needs. Fits nicely into mobile app and web design projects. 
+- [Inspirational Website of the Week](http://www.tagcreativestudio.com/): Tag Creative is our pick for this week's website inspiration. It has some cool parallax scrolling effects with a twist.
+- [Wallpaper Pack - Freebie](http://dribbble.com/shots/598064-Wallpaper-Pack-Freebie): Jamie Peak has released a great pack of 5 super-slick wallpapers for free. 
+- [Select2](http://ivaynberg.github.com/select2/index.html): Select2 is a jQuery-based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. 
+- [How to Build a Stylish CSS3 Search Box](http://speckyboy.com/2012/02/15/how-to-build-a-stylish-css3-search-box/): Learn how to create a nice CSS3 search box using pseudo-elements in this tutorial by Catalin Rosu.
+- [Griffonage Font](http://www.thriftandthistle.co.uk/fonts/griffonage-font/): Griffonage is an uppercase handwritten font with a chalk/pencil/crayon feel. Great for headings, it makes a statement with its rough handwritten scrawl style.
+- [Socialite.js](http://socialitejs.com/): Socialite provides a very easy way to implement and activate various social sharing buttons. It can be activated on document load, on article hover or on any event. Asynchronous Socialite won't cause document rendering to hang while waiting for 50kb of social media.
+- [Focus on the right-hand side](http://www.netmagazine.com/features/focus-right-hand-side): A great article by Chris Da Sie who argues that users instinctively have greater trust for content that appears on the right-hand side of the screen and shows how to make use of that insight.
+- [Braun UI (PSD)](http://dribbble.com/shots/597337-Braun-UI-psd): Adrien Olczak shares the PSD of this lovely set of small user interface icons from "vintage" Braun products.
+- [Why Aren’t You Using SVG?](http://net.tutsplus.com/tutorials/why-arent-you-using-svg/): Jonathan Cutrell asks this fundamental question and explains the advantages of SVG, what it is and how it can be used. It's definitely time to dive into SVG and this article will give you a great introduction.
+- [Haxe Programming Language](http://haxe.org/): If you did not know about it yet, Haxe is a open-source multi-platform programming language that can be compiled to all popular programming platforms. It is strictly typed and its syntax is similar to many common languages.
+- [Responsive Ad Checker](http://matthewjamestaylor.com/responsive-ad-checker): After his great article "Responsive Banner Ads with HTML5 and CSS3", Matthew James Taylor developed the "Responsive Ad Checker" site where one can check HTML5 banner ads at multiple sizes.
+- [jQuery Picture](http://jquerypicture.com/): A tiny (2kb) jQuery plugin to help ease the transition to responsive images until the new format is approved and implemented by browsers. It supports both, figure elements with some custom data attributes and the new proposed picture format. 
+- [12 Free Minimal Web Patterns](http://wegraphics.net/downloads/12-free-minimal-web-patterns/): Another great freebie from WeGraphics: this free pattern set for Photoshop contains 12 minimal pixel patterns for use as web backgrounds. These patterns are subtle and add a touch of texture to your website designs.
+- [jQuery++](http://jquerypp.com/): A collection of useful DOM helpers and special events for jQuery 1.7 and later, providing low-level utilities for things that jQuery doesn't support.
 
 # Collective #14
+- [Understanding CSS Filter Effects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/): Alex Danilo gives us an excellent overview of CSS filters, how to apply them and what their story is.
+- [Inspirational Website of the Week](http://www.blacknegative.com/): The website of blacknegative will simply blow your socks off! It introduces amazing new ways of navigating and showing content. It was designed by Dilshan Arukatti and developed by Sylvain Tran.
+- [Laravel - A Framework For Web Artisans](http://laravel.com/): A new PHP framework is born: Laravel. It is super-clean and offers an expressive syntax for creative and less "painful" PHP web development.
+- [Rearrange content when it’s too wide with jQuery](http://speckyboy.com/2012/05/27/rearrange-content-when-its-too-wide-with-jquery/): Learn how to adapt content to the size available in this tutorial by Alexandre Smirnov.
+- [Game Portfolio Tutorial](http://coding.smashingmagazine.com/2012/05/28/develop-a-one-of-a-kind-cssjs-based-game-portfolio/): In this detailed tutorial, Daniel Sternlicht explains step-by-step how he created his unique retro 2D game portfolio with JavaScript and CSS.
+- [The Ultimate Guide to Web Type](http://www.netmagazine.com/features/ultimate-guide-web-type): Learn how to handle web type correctly in this extended web typography guide by Ilene Strizver.
+- [jQuery Timing Plugin](http://creativecouple.github.com/jquery-timing/): This plugin gives you easy-to-use methods to define timeouts and intervals. It supplements the existing functionality from the jQuery effects queue (fxq) by introducing a new timed invocation chain technique (tic).
+- [HTML5 Rubic's Cube](http://html5rubik.com/): An absolutely awesome web version of the classic Rubic's cube! The page was built using HTML5, CSS3 and JavaScript (with the YUI Library) and you can check out the tutorial to see how it's done.
+- [gmaps.js](http://hpneo.github.com/gmaps/): Have you ever struggled with the usage of the Google Maps API and found it complicated? Gmaps.js allows you to use the potential of Google Maps in a simple way. No more extensive documentation or large amount of code.
+- [Free Carbon Fiber Photoshop Patterns](http://wegraphics.net/downloads/free-carbon-fiber-photoshop-patterns/): This free pattern pack of WeGraphics contains 10 carbon fiber styled textures. The patterns are completely seamless and work great for web backgrounds.
+- [Free Font: Driftwood](http://www.behance.net/gallery/Driftwood-(free-download)/4069245): Heather Burrell shares this beautiful handwritten font with us.
+- [CSS3 Pictogram Buttons](http://www.webstuffshare.com/2012/05/css3-pictogram-button/): Hidayat Sagita shares some hot buttons with us. There are three different types of buttons, all with interesting hover and active states. 
+- [Free Font: Fenix](http://www.myfonts.com/fonts/tipotype/fenix/): An elegant serif typeface by Fernando Díaz.
+- [Free Dribbble Backgrounds Pack](http://drbl.in/ehwg): Haziq Mir shares a wonderful pack of backgrounds that he has been using in his stunning Dribbble shots. Also, check out the rebound by Badhon Ebrahim, another free pack.
+- [UI Pixels - Free PSDs & Resources for Web Designers](http://www.uipixels.com/): Emrah Demirag launched UI Pixels, a website where you can find a collection of free PSDs and other resources for your projects.
+- [Vintage Social Icons](http://webtoolkit4.me/2012/06/03/36-free-vintage-social-icons/): Remember those really cool vintage social icons a long time ago? Well, there is an update from webtoolkit4.me and it contains 15 brand new icons!
+- [How To Create a Cool Blog Post Date Icon with CSS](http://line25.com/tutorials/how-to-create-a-cool-blog-post-date-icon-with-css): Learn how to create a really nice date icon with CSS in this tutorial by Chris Spooner.
+- [Free Icon Set](http://drbl.in/ejnz): You can definitely go nuts with this icon set by Visual Idiot. Sexy! It's more than just simple icons...
+- [Favicons Next To External Links](http://css-tricks.com/favicons-next-to-external-links/): Chris Coyier explains some techniques of placing the respective favicon next to a link.
 
 # Collective #13
+- [Inspirational Website of the Week](http://www.julienrenvoye.com/): With its interesting thumbnail shape, subtle animations and great color scheme, Julien Renvoye's portfolio becomes our pick of the week.
+- [Compass2CSS](http://c2c.briangonzalez.org/): Compile Compass into CSS using this awesome online tool by Brian Gonzalez. This can be useful in a situation when you don't have the power of Sass/Compass, or if you are simply curious to see how Compass implements certain functions. 
+- [Gumby Framework](http://www.gumbyframework.com/): Gumby is a new responsive 960 grid CSS framework that comes with many amazing features. It has support for all of the new HTML5 goodness and you can customize it for your needs. It's great for prototyping since it comes with styles and common interface elements (forms, buttons, tabs, and pure CSS dropdowns and more).
+- [Meteocons](http://www.alessioatzeni.com/meteocons/): Alessio Atzeni gives us this beautiful icon set for free. Meteocons is a set of weather icons which contains more than 40 icons in various formats: PSD, CHS, EPS, SVG, Desktop font and Web font.
+- [The CSS3 Flex Box Specification](http://www.inserthtml.com/2012/05/css3-flex-box-specification-change-layout-design/): Johnny Simpson dives into the CSS3 Flex Box Specification and shows us usage examples and how it simplifies layout design.
+- [WordPress Meet Responsive Design](http://build.codepoet.com/2012/05/11/wordpress-meet-responsive-design/): On the new and great Code Poet, a superb resource for Wordpress designers and developers brought to you by the very developers of Wordpress, you can find this short e-book where Chris Coyier, Ian Stewart and Sara Cannon talk about strategies for designing WordPress sites responsively.
+- [Two Free Fonts: Tikal Sans Medium + Medium Italic](http://www.myfonts.com/fonts/latinotype/tikal-sans/): Miguel Hernández created this wonderful font family with 20 weights, two of which are free: Tikal Sans Medium and Tikal Sans Medium Italic.
+- [vert.x](http://vertx.io/): If you are developing asynchronous applications, you will find vert.x interesting. It's a framework which takes inspiration from event driven frameworks like node.js, combines it with a distributed event bus and sticks it all on the JVM - a runtime with real concurrency and unrivalled performance. Vert.x then exposes the API in JavaScript, Ruby, Groovy and Java.
+- [ddSlick.js](http://designwithpc.com/Plugins/ddSlick): A free light weight jQuery plugin by Prashant Chaudhary that allows you to create a custom drop down with images and description.
+- [On Responsive Typography](http://kupferschrift.de/cms/2012/05/responsive-typography/): Some interesting thoughts by Indra Kupferschmid about how there are several important aspects to typography when it comes to "responsive typography".
+- [Example of getUserMedia and CSS Filters](http://www.raymondcamden.com/index.cfm/2012/5/25/Example-of-getUserMedia-and-CSS): A really great practical example of getUserMedia, the fantastic HTML5 feature that let's you access the user's audio and video devices. Taking it one step further, Raymond Camden adds CSS filters to create a registration form that makes the taken picture become sharper after filling the inputs. 
+- [superscrollorama](http://johnpolacek.github.com/superscrollorama/): After creating scrollorama John Polacek gives us superscrollorama, the jQuery plugin for supercool scroll animations.
+- [HTML for Icon Font Usage](http://css-tricks.com/html-for-icon-font-usage/): What is the best markup for using icon fonts when considering semantics and screen reader friendliness? Chris Coyier covers some useful  techniques with those considerations in mind.
+- [Free Keynote Mockup Templates](http://keynotopia.com/keynote-mockups-templates/): Keynotopia shares some free Keynote Mockup Templates for prototyping mobile, web and desktop apps. 
+- [Fontello Iconic Fonts Composer](http://fontello.com/): If you did not know about it yet: with Fontello you can combine iconic webfonts for your project; adjust glyphs collections, merge symbols from different fonts and access large sets of open source icons.
+- [A New Take on Responsive Tables](http://www.zurb.com/article/982/a-new-take-on-responsive-tables): With all the hype around responsive design, one important element seems to get left behind: the table. A new playround piece of ZURB shows how to create responsive tables with JavaScript and CSS.
+- [Free Ultimate Blurred Background Pack](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/): At WeGraphics you can get this free PSD which contains 20 soft blurred background textures.
+- [Bariol Regular Free Font](http://www.bariol.com/): Atipo gives us one member of this exquisite font family for free: Bariol Regular. 
+- [Ember.js Framework](http://emberjs.com/about/): Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
 
 # Collective #12
+- [Creative Free Fonts](#): Cosmo Path Type by Filiz Sahin
+- [Responsive Images and Web Standards at the Turning Point](http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/): A solution on how responsive images can be put into practice is currently being discussed with the WHATWG and like Mat Marquis puts it "[t]he markup pattern that gets selected stands to have a tremendous influence on how developers build websites in the future. Not just responsive or adaptive websites, either. All websites." 
+- [Inspirational Website of the Week](http://www.urbangap.com/urban12/maggio): The Urban Gap Web Agency will surprise you with all the animations and effects of the beautiful infographics when you scroll the page of the Urban 12 May Challenge.
+- [Creating a Mobile Web Application with Meta Tags](http://speckyboy.com/2012/05/16/creating-a-mobile-web-application-with-meta-tags/): Learn about meta tags and how they can be used to turn a website into a webapp. 
+- [jQuery Verbose Calendar](http://iamjpg.github.com/jQuery-Verbose-Calendar/): This calendar is not just another jQuery calendar. It's a very different approach to showing and using dates.
+- [Presenteer.js](http://willemmulder.github.com/Presenteer.js/): If you like Impress.js then you'll enjoy Presenteer.js. It's a very flexible HTML5 presentation tool that works in one line of code, but is configurable with constructor options and many callbacks.
+- [Freebie Button Pack (PSD)](http://blog.ninetofive.me/psd-freebies/freebie-button-pack/): A really lovely button pack by Zan from Nine to Five.
+- [Weather Forecast Webapp](http://tutorialzine.com/2012/05/weather-forecast-geolocation-jquery/): Learn how to use Geolocation and Yahoo’s APIs to build a simple weather webapp.
+- [Keep your CSS selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/): Harry Roberts writes about how to make CSS selectors as dev-friendly as possible by keeping them short. 
+- [screenfull.js](http://sindresorhus.com/screenfull.js/): A simple wrapper for cross-browser usage of the JavaScript Fullscreen API which lets you show a page or any element in fullscreen. The wrapper is useful for overcoming browser implementation differences.
+- [SASS vs. LESS](http://css-tricks.com/sass-vs-less/): Chris Coyier explains how and why SASS is his preferred choice when it comes to CSS preprocessor languages.
+- [The EU Cookie Law – what to do now](http://boagworld.com/site-content/the-eu-cookie-law-what-to-do-now/): Read this short guide that will help you understand what you have to do on your website in order to comply to the new EU Cookie Law.
+- [CSS Image Replacement for Retina Display Devices](http://www.noupe.com/design/the-mobile-web-css-image-replacement-for-retina-display-devices.html): Learn about CSS Image Replacement Techniques and how to apply them in you mobile website project.
+- [Cookie Control](http://www.civicuk.com/cookie-law/index): Cookie Control enables you to comply with UK and EU law on cookies by obtaining a user's explicit consent for the use of cookies on their computer. There are several plugins available (Wordpress, Drupal, Magento) and you can customize it to your needs.
+- [jQuery Knob](http://anthonyterrien.com/knob/): A slick downward compatible, touchable, jQuery dial.
+- [The Story of Send](http://www.google.com/green/storyofsend/desktop/): Ever wondered what happens when you click the "Send" button in Gmail? Well, now you can take this visually stunning journey and understand what happens to your message.
+- [HTML Shell](http://htmlshell.com/): HTML Shell is a custom boilerplate HTML5 markup generator. No more time wasted in copy pasting all those lines, now you can simply configure and generate it.
+- [HTML5 adaptive images: end of round one](http://html5doctor.com/html5-adaptive-images-end-of-round-one/): More about the responsive images solution proposal and the differences between <picture> and srcset.
+- [Twitter Bootstrap Button Generator](http://www.plugolabs.com/twitter-bootstrap-button-generator/): If you are using Twitter Bootstrap you will love this little generator that let's you create the markup for a custom button.
+- [Complexify](https://github.com/danpalmer/jquery.complexify.js): Dan Palmer created this jQuery plugin that checks password sensibly, with an improved way of indicating password strength. It calculates a rating for the password based on how difficult it would be to brute-force it. 
+- [World Map & Pin (PSD)](http://www.premiumpixels.com/freebies/world-map-pin-psd/): Thom van der Weerd designed this beautiful freebie for Premium Pixels.
 
 # Collective #11
+- [Interactive CSS Selectors](http://twostepmedia.co.uk/cssselectors/): Ben Howdle from Two Step Media will help you understand CSS Selectors in an interactive way. Choose a selector on the left and you'll instantly see the affected elements on the right.
+- [‘Vendor Tokens’ Offer Another Way Out of the CSS Prefix Mess](http://www.webmonkey.com/2012/05/vendor-tokens-offer-another-way-out-of-the-css-prefix-mess/): There is a big discussion going on about whether vendor prefixes are harmful of helpful. Despire their original purpose they are being used all over and many issues are arising from that. Scott Gilbertson from Webmonkey explains Eric Meyer's new proposal for ending the mess.
+- [Inspirational Website of the Week](http://www.purepleasuredesign.com): Ines Maria Gamler's website purepleasuredesign.com has a beautiful mixture of interesting typographic elements, shapes, color and textures.
+- [Znikomit Free Font](http://www.glukfonts.pl/font.php?font=Znikomit): A really beautiful and elegant free font with many Open­Type features by Grzegorz Luk.
+- [JQV Map: jQuery Vector Maps](http://jqvmap.com/): JQVMap is a really cool jQuery plugin that renders Vector Maps using Scalable Vector Graphics (SVG) for modern browsers. Via VML it provides legacy support for older browsers.
+- [Fixed Table of Contents Drop-Down Menu ](http://www.impressivewebs.com/fixed-table-of-contents-drop-down-menu-jquery-plugin/): Louis Lazaris from Impressive Webs is sharing this useful fixed drop-down menu with a table of contents. It is a jQuery plugin and it comes in really handy for making it easy to navigate a page that has a lot of content.
+- [Fixie.js](http://fixiejs.com/): If you design and develop websites, you know how laborsome it can be to add placeholder text. Fixie.js will help you. It is an open source tool that automatically adds filler content to HTML documents.
+- [HTML5 Audio — The State of Play](http://html5doctor.com/html5-audio-the-state-of-play/): In this follow-up article about HTML5 audio, Mark Boas explains how the <audio> element and the associated API developed further and what can be done with it.
+- [Curtain.js](http://curtain.victorcoulon.fr): This plugin allows you to create a web page with multiple fixed panels that unroll with an amusing effect. Exactly like a curtain rises. 
+- [Freebies Gallery](http://www.freebiesgallery.com/): Freebies Gallery is a really useful site where you can download free design resources like PSDs, vector graphics, icons, templates and many more. 
+- [Say No to Faux Bold](http://www.alistapart.com/articles/say-no-to-faux-bold/): Alan Stearns explains in this "A List Apart" article what "fake" bold is and how to avoid using it in your website.
+- [Expert subsets for CSS in 123](http://elliotjaystocks.com/blog/expert-subsets-for-css-in-123/): The future of typography on the web is an exciting one and Elliot Jay Stocks will show you what beautiful things you can do. After his first article about ligatures he digs deeper into the new  font-variant property.
+- [Faye: Simple pub/sub messaging for the web](http://faye.jcoglan.com/): If you are searching for a publish-subscribe messaging system for Node.js or Ruby, this just might be a great solution for you.
+- [How To Build A Real-Time Commenting System](http://coding.smashingmagazine.com/2012/05/09/building-real-time-commenting-system/): Phil Leggetter will show you how to "convert a basic blog commenting system into a real-time engaging experience where you’ll see a comment made in one browser window "magically" appear in a second window".
+- [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/): There are many techniques out there to help you with the "responsive image issue". Chris Coyier put together this great guide that will help you choose the right technique for your needs.
+- [Statik: A Free Bold Style Font Kit](http://wegraphics.net/downloads/statik-a-free-bold-style-font-kit/): WeGraphics offers a great free font: Statik is a bold font face with a hint of static via radio transmission.
+- [JavaScript Canvas Image Conversion](http://davidwalsh.name/convert-canvas-image): David Walsh explains how to convert an image to canvas and vice versa using a couple of lines of JavaScript. 
+- [Free Event Flyer Template (PSD)](http://www.behance.net/gallery/Free-Event-Flyer-Template-(PSD)/3809615): Sam Ridgway gives us a free event flyer template that is print ready, with bleeds and which comes with easy to edit layers.
+- [41 Social Media Icons (PNG)](http://www.premiumpixels.com/freebies/41-social-media-icons-png/): Premiumpixels offers us an amazing set of 41 social networking icons in both 16px and 32px by Prekesh Chavda.
+- [Multilevel CSS3 Menu](http://css.dzone.com/articles/ms-office-style-css3): In this tutorial by Andrey Prikaznov you will learn how to code a MS Office-style CSS3 multilevel menu.
 
 # Collective #10
+- [Typometry Free Font](http://www.behance.net/gallery/Typometry-Free-Font/3831957): A beautiful experimental geometric font from talented Emil Kozole.
+- [Inspirational Website of the Week](http://weareimpero.com/): Impero has some really nifty effects with unusual shapes which gives this web design the special something.
+- [Texturise web type with CSS](http://www.netmagazine.com/tutorials/texturise-web-type-css): Learn how to create some beautiful texturised web typography in this .net tutorial by Trent Walton.
+- [Responsive Grid System](http://responsive.gs/): Try this fluid grid CSS framework for fast, intuitive development of responsive websites. Available in 12, 16 and 24 columns with media queries for all standard devices, clearfix, and optional reset.
+- [Why you should care about CSS page performance](http://boagworld.com/dev/why-you-should-care-about-css-page-performance/): Doug Stewart introduces some interesting points of CSS performance, why we should care about it and what actually matters.
+- [Screenqueries](http://screenqueri.es/): Test your website on different viewport sizes using this awesome tool. You can even test your local sites. It's still in Beta but it's already super-useful and don't forget to watch out for their upcoming responsive design gallery.
+- [Arrrows: The Fully Scalable Icon Font](http://www.arrrows.com/): Tired of creating those little arrows over and over again? Try Arrrows, a fully scalable icon font for your design. Get the free PNG icon set or buy the whole bundle.
+- [Physijs - Physics plugin for three.js](https://github.com/chandlerprall/Physijs): If you have worked with the three.js 3D programming framework, Physijs will be quite interesting to you if you want to add physics to your scene.
+- [Above the Scroll: Does It Matter Anymore?](http://designshack.net/articles/above-the-scroll-does-it-matter-anymore/): Is it still important to consider the "fold" in web design? Carrie gives us this up-to-date exploration of why the "above the scroll" concept should be seen and applied as an evolved concept. 
+- [BEM: The Block, Element, Modifier Approach To Decoupling HTML And CSS](http://bem.github.com/bem-method/pages/beginning/beginning.en.html): Steven Bradley dives into CSS best practices and introduces us to the BEM approach to develop websites. He argues why we should rethink some of our common CSS practices for creating scalable and maintainable websites.
+- [How to Speed Up CSS Rendering](http://www.onextrapixel.com/2012/05/03/css-tricks-how-to-speed-up-css-rendering/): Faraz Karimian tells us how to write our CSS efficiently for speedy browser rendering. Understand which types of rules are impactful and expensive.
+- [Showing Product Information With CSS3 3D Transform](http://www.webstuffshare.com/2012/04/showing-product-information-with-css3-3d-transform/): In this in-depth tutorial, Hidayat Sagita will show you how to create some magic with CSS 3D Transforms.
+- [Creating Android Dock Using jQuery & CSS3](http://www.webstuffshare.com/2012/05/creating-android-dock-using-jquery-css3/): Another superb tutorial by Hidayat Sagita where he shows us how to create the Android dock using CSS3 and some jQuery awesomeness.
+- [Responsive design – harnessing the power of media queries](http://googlewebmastercentral.blogspot.pt/2012/04/responsive-design-harnessing-power-of.html): Responsive web design from Google's perspective: get some important insight on how responsiveness is realized and how to use media queries.
+- [Pilaca Free Font](http://www.behance.net/gallery/Pilaca-Free-Font/3743257): Pilaca is a free display font designed by Pier Paolo.  It is quite powerful in 3d applications. 
+- [Subtle Grunge Minimal Iconset](http://www.rshahin.com/free-subtle-grunge-minimal-iconset-download-vector-files-included/): Rofikul Islam Shahin gives us this free social media icon set (vector files included).
+- [Icon Design in 5 Steps - Free Icon Set from Ramotion](http://abduzeedo.com/icon-design-5-steps-free-icon-set-ramotion): Learn the main steps of icon design and see the beautiful end result. Denis Pakhaliuk from Ramotion writes about the icon creation process and offers a free icon set for download on Abduzeedo.
+- [Toggles, Buttons and Sliders UI Redux PSD](http://dribbble.com/shots/546854-Toggles-Buttons-and-Sliders-UI-Redux): A beautiful set of useful UI Elements from Michael Donovan.
+- [Viewport Sized Typography](http://css-tricks.com/viewport-sized-typography/): Chris Coyier introduces the new CSS3 values for relative lengths: vw, vh, and vmin. They are not quite supported yet, but you can get an idea how powerful and useful they will be for responsive web design.
 
 # Collective #9
+- [A Pure CSS3 Cycling Slideshow](http://coding.smashingmagazine.com/2012/04/25/pure-css3-cycling-slideshow/): In this detailed in-depth tutorial, Alessio Atzeni shows us how to create an infinitely looping slider of images using only CSS3 animation.
+- [TouchTouch – A Touch Optimized Gallery Plugin](http://tutorialzine.com/2012/04/mobile-touch-gallery/): Martin Angelov shares his newest experiment with us: a jQuery plugin that turns a collection of photos on a website into a touch-friendly mobile gallery. It was designed with iOS and Android in mind.
+- [No Cookie Law](http://nocookielaw.com/): Please take a moment to get familiar with this new law of the European Union. The law makes the use of web cookies illegal in Europe without asking people for permission first. This will negatively impact user experience and not solve any privacy issues. Please spread the word to raise awareness and sign the petition in order to make a change. Also, read this article on Speckyboy about the campaign.
+- [Logo Inspiration from Dribbble](#): Antigone Identity by Bruno Fernandes
+- [CSS3 Structural Pseudo-class Expressions Explained](http://www.impressivewebs.com/css3-pseudo-class-expressions/): Learn how pseudo-classes that use a function-like syntax (like for example li:nth-child(4n+2) and others) work. 
+- [Interactive Menu with CSS3 & jQuery](http://www.red-team-design.com/interactive-menu-with-css3-jquery): In this tutorial you will learn how to create a nice menu that will expand its items once you click on them. It uses some CSS3 goodness and also jQuery.
+- [Cubism.js](http://square.github.com/cubism/): This powerful D3 plugin will allow you to create better real-time visualizations of time series. It can pull data from several sources, such as Graphite and Cube.
+- [Skeumorphism and Storytelling](http://tobiasahlin.com/blog/skeumorphism-and-storytelling/): Read about what skeumorphism has to do with storytelling and how usability benefits with skeuomorphic design despite the critique of "making digital things look like real things".
+- [Free Social Icon Pack](http://www.onextrapixel.com/2012/04/24/freebies-social-icons-pack-for-designers-and-developers/): A nice social media icon set from Onextrapixel, made by Stéphanie Walter.
+- [Circular Thumbnail Gallery With CSS](http://designshack.net/articles/css/circlegallery/): In this tutorial you will learn how to create a thumbnail gallery with circular thumbnails that animate on hover.
+- [Easybook](http://easybook-project.org/): Easybook is an application that lets you easily publish books in various electronic formats. It was designed to publish technical programming books, but it can be used for publishing novels, manuals, technical books and websites. It was released under MIT open source license, so you can use it freely and modify it.
+- [Audio Player in HTML5 & CSS3](http://designmodo.com/audio-player/): Learn how to create a beautiful audio player using MediaElement.js in this tutorial. The interface is designed using the Impressionist UI.
+- [Transitions Only After Page Load](http://css-tricks.com/transitions-only-after-page-load/): Learn how to load CSS transitions only after the page is loaded with this little trick.
+- [Accordion Image Gallery with only CSS](http://speckyboy.com/2012/04/25/how-to-build-an-accordion-image-gallery-with-only-css/): Heiko Stiegert shows us how to create a CSS-only accordion image gallery using the CSS3 pseudo-classes :target and :not(). 
+- [Koottam Social jQuery Plugin](http://jobyj.in/koottam-jquery-plugin/): This jQuery Plugin will display your social links together with those interesting numbers. It is themeable, very easy to use and it comes with some useful options.
+- [Real Shadow](http://indamix.github.com/real-shadow/): With this cool jQuery Plugin you can cast photorealistic shadows.
+- [The Two-Click Rule](http://nform.com/blog/2012/04/the-two-click-rule): A very interesting read about the visitors' behavior of a corporate website and what implications it has for designing. 
 
 # Collective #8
+- [PSD Buttons](http://www.alessioatzeni.com/blog/simple-button-ui-psd/): Alessio Atzeni gives us a beautifully clean set of of UI Buttons in this free PSD.
+- [CreateJS Suite](http://createjs.com): CreateJS is a super-suite of useful libraries and tools for creating interactive, HTML5 based web content. As they are modular, the libraries can work independently from each other. You can also mix them and use them as needed. Check out the featured projects to see some of them in action.
+- [Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/): In this HTML5 Rocks tutorial, Brad Frost shows us step-by-step how to create a responsive website which is designed with the mobile-first strategy.
+- [Beercamp: An Experiment With CSS 3D](http://coding.smashingmagazine.com/2012/04/17/beercamp-an-experiment-with-css-3d/): Tom Giannattasio, this year’s Beercamp website organizer, shares some amazing techniques and insights of the 3D experience that pushes the boundaries of what can be done with modern web technologies such as SVG and CSS 3D transforms. Make sure to see the website in action: http://2012.beercamp.com/
+- [CSS Selectors](http://vogtjosh.com/selectors/): If you need a complete reference of CSS Selectors then this is the right site. It's a great overview with links to live examples and visual indication for browser support.
+- [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/): Mike Robinson explains the importance and of semantics in HTML and how to employ HTML5 for writing meaningful markup without getting lost in the confusion that surrounds it. 
+- [Tracking Scroll Depth](http://www.ravelrumba.com/blog/tracking-scroll-depth-jquery-google-analytics/): If you have a website you might have wondered how far down users scroll to see the "below-the-fold" content. Rob Flaherty from Ravelrumba explains how to use jQuery Scroll Depth to record and report scroll events to Google Analytics in order to see the scroll percentage. 
+- [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/): Create heatmaps of a website with this JavaScript library that employs HTML5 canvas.
+- [PageSlide](http://srobbin.github.com/jquery-pageslide/): Have you ever wondered how to slide the whole website and reveal a sidebar panel a lá Path? With this jQuery Plugin you can simply do that and create a really nice effect for showing optional content. Don't forget to check out the responsive demo.
+- [Responsive Viewport Units](http://generatedcontent.org/post/21279324555/viewportunits): The new CSS3 values and units vh, vw, and vmin are arriving and it's time to meet these cool kids. David Storey introduces them and shows us how to use them in a responsive example.
+- [Refactoring >14,000 lines of CSS into Sass](http://wildbit.com/blog/2012/04/16/refactoring-14000-lines-of-css-into-sass/): How do you turn a CSS mess into slick high-performance CSS? You use SASS! Eugene Fedorenko will show you how he did it at Beanstalk and what the advantages over "handcrafted" CSS are.
+- [10 High-Quality Photography Icons](http://vandelaydesign.com/blog/icon-sets/photography/): Iconshock has designed this amazingly detailed icon set for the readers of the Vandelay Design blog. The set includes 10 high-quality photography-related PNG icons.
+- [About CSS Variables](http://drublic.de/blog/about-css-variables/): Now that the CSS Variables Module Level 1 is an actual Working Draft of the W3C, you might be interested in how CSS Variables work. This is a short overview with a couple of examples.
+- [How to use CSS to hide links without href?](http://stackoverflow.com/questions/10185209/how-to-use-css-to-hide-links-without-href): A very interesting question on Stackoverflow about an interesting little problem with even more interesting answers. It will help you undertstand more about CSS Selectors.
+- [200 Free Icons](http://www.webdesignerdepot.com/2012/04/free-download-200-vector-icons-from-inventicons/): Inventicons gives us this fabolous icon set for free. It includes many useful UI icons and is free for personal and commerical use.
+- [Alphageometry - Decorative Typeface](http://www.behance.net/gallery/Alphageometry-Decorative-Typeface/3694751): This is not a font in the classical sense but letters in vector format that you can use to create beautiful decorative illustrations.
+- [cookie.js](https://github.com/js-coder/cookie.js): Have you ever worked with Cookies in JavaScript on your website and find it too messy? This small and independent JavaScript library will help you with setting, getting and removing cookies in the most simple way. It has some very useful methods, accepts several paramteres and allows chaining.
+- [Premium Pixels Icon Set](http://www.icondeposit.com/theicondeposit:28): Matt Gentile did it again: a super-slick icon set, including the Photoshop custom shape file.
 
 # Collective #7
+- [CSS3 Animated Media Queries](http://www.paulund.co.uk/css3-animated-media-queries): Learn how to start using media queries and how to combine CSS transition with them in order to show an animated change of your website elements.
+- [Web Design Inspiration](#): http://bobadilium.com/
+- [Breezi](https://breezi.com/): With Breezi you can design, edit & launch interactive websites in minutes. It's free for those who sign up for the service until the end of April. 
+- [CSS Arrow Please!](http://cssarrowplease.com/): Do you need an arrow shape in pure CSS? Are you tired of looking up how it's done? With this little CSS arrow configurator you can simply create the arrow you need and copy the CSS.
+- [Usability Design Considerations for Web Forms](http://www.onextrapixel.com/2012/04/13/usability-design-considerations-for-web-forms/): Kayla Knight explains the design perspective of web form usability and how certain aspects will make it easier to use a form.
+- [Automatic responsive images in WordPress](http://viewportindustries.com/blog/automatic-responsive-images-in-wordpress/): Learn how to use the Responsive Enhance script in Wordpress in order to serve images with the right resolution.
+- [CSS3 Scroll Effects](http://lab.hakim.se/scroll-effects/): Hakim might call them silly, but they are certainly übercool: some awesome list scroll effects that show how you can go crazy and add some depth to shallow lists.
+- [25 Free Photoshop Image Processing Actions](http://wegraphics.net/downloads/25-free-photoshop-image-processing-actions/): WeGraphics gives us a really useful freebie: some great Photoshop actions for manipulating photos. The set was created by Nathan Brown.
+- [Should the Standard Property Be Omitted for Some CSS3 Features?](http://www.impressivewebs.com/standard-property-omitted-css3-features/): Louis Lazaris explains the problems of listing the standard CSS property after the lines with the vendor-specific notation for some cases.
+- [Retina Images](http://retina-images.complexcompulsions.com/): Retina Images is a PHP/JS solution for serving different images based on the device being used by the viewer.
+- [Media Query & Asset Downloading Results](http://timkadlec.com/2012/04/media-query-asset-downloading-results/): Tim Kadlec shares his insightful test results of how images are downloaded when media queries are involved.
+- [HTML5 Drag and Drop Tutorial](http://css.dzone.com/articles/html5-drag-and-drop-sorting): Andrey Prikaznov shows us how to sort photos into albums using the HTML5 drag and drop functionality.
+- [Canvas Animation Playground](http://htmlivecode.com/canvas-animation-playground/): Matthias Schütz developed HTMLiveCode, a great browser-based editor for real-time HTML/CSS/JS prototyping. Canvas Animation Playground is an experimental tool for creating HTML5 canvas animations built on HMLiveCode.
+- [SweetiePlus Icon Set](http://sublink.ca/icons/sweetieplus/): SweetiePlus is a new and enhanced version of the lovely icon set Sweetie. You can use it under the CC BY-SA 3.0 license and it's useful for websites and apps.
+- [jQuery(This)](http://www.jquerythisplugin.com/): jQuery(This) is a fresh new resource site for jQuery plugins, tutorials and interviews with developers. 
+- [Story Wheel](http://storywheel.cc/): Story Wheel lets you record a story around your Instragram pictures and share it on the web as a nostalgic slideshow. 
+- [Scriffon](http://scriffon.com/): Scriffon is not another blogging platform but a free tool for publishing written work on the web. From essays to short novels, from recipes to how-tos and more.  
+- [Free Font MOLESK](http://www.behance.net/gallery/MOLESK-FONT-(free)/3641829): Molesk is a beautiful font that is part of a fundraising project (Type Factory). 
 
 # Collective #6
+- [Envision.js](http://www.humblesoftware.com/envision): Envision.js is a library for creating fast, dynamic and interactive HTML5 visualizations.  It is a rewrite of HumbleFinance, a library for HTML5 canvas finance visualization.
+- [Awesome Free Fonts](#): Mun typeface by Vincenzo Vuono
+- [Responsive & Retina Content Images using simple CSS & a spacer PNG*](http://www.mattstow.com/responsive-and-retina-content-images.html): Matt Stow shows us how to to use a trick for loading the right-sized images using a spacer PNG.
+- [Happy Easter!](http://marynaaleksandrova.info/labs/happy-easter/): Maryna Aleksandrova gives us some adorable Easter greetings with this CSS3 animation of "dancing" eggs! Don't forget to turn on your sound.
+- [On Responsive Images](http://css-tricks.com/on-responsive-images/): Chris Coyier talks about some possible approaches for serving inline images on websites – the responsive way. Interesting pros and cons and of course, followed by a fruitful discussion.
+- [Micro Icon Set](http://www.icondeposit.com/theicondeposit:27): Matt Gentile gives us this set of 110 vecor icons.
+- [Responsive Layouts, Responsively Wireframed](http://www.thismanslife.co.uk/projects/lab/responsivewireframes/): An interactive experiment with responsive design techniques using simple layout wireframes.
+- [Pure CSS Tool Tips Revisited](http://www.impressivewebs.com/pure-css-tool-tips/): Louis Lazaris perfectionizes CSS tooltips and shows us how we can create a better, bulletproof solution. 
+- [Unquoted Font Family Names in CSS](http://mathiasbynens.be/notes/unquoted-font-family): Understand some very interesting facts about font names in CSS, what's valid and what not and when you can drop the quotes.
+- [WReader Code Lab](http://petelepage.com/webapp-codelab/): If you want to learn how to create modern web applications, this might just be the course for you. With a set of exercises you can dive into all the latest development techniques and design fundamentals. 
+- [Rhinoslider](http://rhinoslider.com/): This jQuery slider/slideshow comes with a handful of interesting effects and a really useful generator that allows for a custom build of the script.
+- [WebPutty](http://www.webputty.net/): WebPutty is a simple CSS editing and hosting service that gives you a syntax-highlighting CSS editor you can use from anywhere, the power of SCSS and Compass, a side-by-side preview pane, and instant publishing with minification, compression, and automatic cache control.You can't create a new account anymore but you can get your own copy of WebPutty since it's been made open source. 
+- [Style Tiles](http://styletil.es/): Samantha Warren shares a remarkable new design process approach with us: Style Tiles. She suggests that the current way of creating too detailed designs for clients can be replaced by the process common in architecture or interior design, a process that will convey just the right amount of the idea to the client. Make sure to also read this in order to have a better picture of what Style Tiles can look like.
+- [Jigsoar Iconset](http://www.jigsoaricons.com/): Jigsoar is a free icon set with 60 vector shapes for your next web development project. It is licensed under the Creative Commons Attribution 3.0 License.
+- [Mobile Navigation Design & Tutorial](http://webdesignerwall.com/tutorials/mobile-navigation-design-tutorial): Learn how to tackle the challenges of a responsive navigation and create a mobile navigation with jQuery in this tutorial.
+- [pep.jquery.js](http://pep.briangonzalez.org/): A lightweight plugin for kinetic-drag on mobile devices and the desktop (click & drag). It uses jQuery's animate functions along with CSS3 animations and it has built-in support for custom start, stop, and drag events; a debugger and the ability to customize your own kinetic easing functions.
+- [HTML5 Drag and Drop... with real upload](http://html5doctor.com/drag-and-drop-to-server/): Remy Sharp shows us how to "drag-and-drop and upload" but with the actual upload part.
 
 # Collective #5
+- [Hammer.js](http://eightmedia.github.com/hammer.js/): Eight Media gives us a JavaScript library for multi-touch gestures which allows for an easy implementation of touch events in your website. 
+- [jQuery Retina Plugin](http://tylercraft.com/projects/jquery-retina-plugin/): Tyler Craft created a jQuery plugin that will swap out an image source for one that is sized for retina displays.
+- [sigma.js](http://sigmajs.org/): sigma.js, by Alexis Jacomy, is an open-source light-weight JavaScript library for drawing graphs, using the HTML canvas element. It is highly customizable and it comes with a lot of options.
+- [How To Add Text Gradients With CSS](http://www.paulund.co.uk/how-to-add-text-gradients-with-css): In this tutorial you will learn a lot about CSS gradients and the background-clip property and how you can apply them to text.
+- [Behance: Free Fonts](#): Drebeden by Serge Shi
+- [CSS3D Clouds](http://www.clicktorelease.com/code/css3dclouds/): Jaume Sánchez coded up this awesome experiment: 3d-like clouds with CSS3 3D Transforms and a bit of JavaScript.
+- [Foresight.js](https://github.com/adamdbradley/foresight.js): Foresight.js can be used to request a suitable image size (think retina enabled devices) and it determines if the network connection speed can handle higher resolution images. It modifies context image requests, but the server does the image resizing. 
+- [Ready or Not, Here Comes HD Web Design](http://designshack.net/articles/html/ready-or-not-here-comes-hd-web-design/): This is a great read about the high-resolution future of the web and what it means for web designers and web developers. 
+- [7 Facts and Myths of HTML5](http://justcreative.com/2012/03/27/html5-facts-and-myths-tips/): With all the HTML5 hype, some myths have established around the fifth version of the web language. Learn some interesting facts and common misconceptions about HTML5 from this article. 
+- [CSS3 Generator](http://css3.pascal-seven.de/): Pascal von Seth gives us this great CSS3 generator with all kinds of properties and options to create CSS3 styles.
+- [Gaussian Blur and CSS3/SVG](http://css-plus.com/2012/03/gaussian-blur/): A really great round-up of blur methods and examples for text and images using SVG and CSS3 by Jamy Golden.
+- [firstImpression.js](http://www.ravelrumba.com/blog/firstimpression-js-library-detecting-new-visitors/): Rob Flaherty gives us this very simple, light-weight, pure JavaScript library for detecting if a visitor to a website is a new visitor.
+- [Timeline](http://timeline.verite.co/): A superb timeline tool that let's you create intuitive and easy-to-use timelines. You can use data from different media sources like Twitter and Youtube. 
+- [SVG animations, CSS Animations, CSS Transitions](http://blogs.adobe.com/webplatform/2012/03/30/svg-animations-css-animations-css-transitions/): An interesting article about combining different animation models and how they work out together (or don't). 
+- [Rainbow Syntax Highlighter](http://craig.is/making/rainbows): Rainbow is a light-weight code syntax highlighting library in JavaScript. It's easy to use, extendable and themeable.
+- [Minimum Paragraph Widths in Fluid Layouts](http://css-tricks.com/minimum-paragraph-widths/): Gustav Andersson shows and explains how to tackle a common text flow problem with a great little technique.
+- [CSS Regions](http://experiments.hertzen.com/css-regions/): There is some hardcore stuff you can do with with CSS Regions. Check out these amazing experiments of clipping, bending and slicing content, and more. Beware, Chrome only!
+- [codestre.am](http://codestre.am): This is something for geeks and it's really awesome: stream and/or record your terminal, with just one command.
 
 # Collective #4
+- [jQuery Scroll Path](http://joelb.me/scrollpath/): Joel Besada created an amazing plugin which you can use to define custom scroll paths to achieve stunning scroll effects.
+- [Responsive Navigation Menu](http://designshack.net/articles/css/code-a-responsive-navigation-menu/): Learn how to create a stylish and responsive navigation menu in this tutorial.
+- [Camera jQuery Slideshow](http://www.pixedelic.com/plugins/camera/): This responsive slideshow uses a light version of jQuery mobile, making it possible to navigate the slides by swiping. It comes with some beautiful transitions and skins and it can be used in fullscreen, too.
+- [Responsive Web Design: Missing the Point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/): Another great article by Brad Frost where he's setting the misconception about responsive web design straight: responsiveness is not some hip new feature - it's a necessity for creating cross-device functioning web sites and optimal user experiences.
+- [Free Icons from Dribbble](#): Glyph UI Icon Set by Matt Gentile
+- [Wookmark jQuery Plugin](http://www.wookmark.com/jquery-plugin): If you've visited wookmark.com already, you probably know their dynamic grid layout. Now the folks of Wookmark have released a free jQuery plugin that does exactly that.
+- [Kalendae: JavaScript Date Picker](https://github.com/ChiperSoft/Kalendae): This framework independent date picker comes with many great features. It uses moment.js to parse the dates and it's easily customizable. 
+- [Moment.js](http://momentjs.com/): Moment.js is a lightweight JavaScript date library for parsing, manipulating, and formatting dates. It makes it super-easy to calculate with and display dates even in multiple languages.
+- [Retro Triangular Pattern Design](http://blog.spoongraphics.co.uk/tutorials/create-a-retro-triangular-pattern-design-in-illustrator): Another great tutorial by Chris Spooner. Learn how to create a cool retro pattern in Illustrator.
+- [tQuery: three.js + jQuery](http://jeromeetienne.github.com/tquery/): tQuery is an extension to the JavaScript 3D library three.js, making it easy to share and build stuff using three.js.
+- [Pure CSS Clickable Events](http://www.ryancollins.me/?p=1041): Ryan Collins shows us how to simulate a click event on an element using only CSS. With a combination of :active an :hover a clicked element will expand and stay expanded until we move out with the mouse. That's just super-clever!
+- [Respect Thy Typography](http://www.smashingmagazine.com/2012/03/14/respect-thy-typography/): In this Smashing Magazine article, Espen Brunborg takes us on a journey and tells us how good typography is not just making letters look fancy but understanding and paying some respect to the long evolution behind the typefaces we're using today.
+- [Using "Infinite" Transition Delays](http://joelb.me/blog/2012/maintaining-css-style-states-using-infinite-transition-delays/): Joel Besada explains how one can maintain CSS style states using super long transition delays. You wouldn't believe what you can do with that amazing trick! 
+- [Create a Responsive Web Design with Media Queries](http://line25.com/tutorials/create-a-responsive-web-design-with-media-queries): Learn from Chris Spooner how to use media queries to create a responsive web design.
+- [Inception Explained](http://www.inception-explained.com/): Scroll this uncredibly creative website to understand the underlying logic of the movie "Inception". A wonderful creation by Matt Dempsey that will blow your socks off!
+- [For a Future-Friendly Web](http://www.alistapart.com/articles/for-a-future-friendly-web/): Brad Frost encourages us in his article to realize how important it is to move forward and become more future friendly when creating content for the rapidly changing web.
 
 # Collective #3
+- [Code Pad](http://codepad.co/): Code Pad is a new platform for developers to share and save code snippets. If you want to get in now, you'll have to request an invite.
+- [UIKit: Modern UI components](http://visionmedia.github.com/uikit/): Some really helpful UI components for many kind of web applications. Very easy to use and to style.
+- [Hagin: Free Font from Fontfabric](http://fontfabric.com/hagin-free-font/): Beautiful "old school" style serif font from Fontfabric.
+- [Sequence: The jQuery Slider Plugin with Infinite Style](http://www.sequencejs.com/): Ian Lunn developed this open source jQuery slider plugin that let's you take control over the CSS3 transitions for the slides making it easy to build a unique slider. It can be used in responsive layouts and it has support for touch devices.
+- [Musings on Preprocessing](http://css-tricks.com/musings-on-preprocessing/): Chris Coyier shares his helpful thoughts and experiences on SASS. A must-read in-depth article followed by a great discussion.
+- [WebGL Fundamentals](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/): Curious about WebGL? This article by Gregg Tavares will give you a really great introduction into the topic and demystify the 2D API...yes, 2D!
+- [CSS Ribbon Menu](http://jacklmoore.com/notes/css3-ribbon-menu/): In this tutorial, Jack Moore will show you how to create a slick CSS ribbon menu using transitions and pseudo-elements. 
+- [turn.js](http://www.turnjs.com/): This jQuery plugin makes it possible to create smooth book-like page transitions. It's a lightweight plugin and it uses hardware acceleration and works on tablets and smartphones.
+- [bear css](http://bearcss.com/): Bear css will generate a CSS template based on your provided markup and the HTML elements used. You can upload your HTML and bear css will create a CSS file for you that you can download. 
+- [Zocial CSS social buttons](http://zocial.smcllns.com/): These CSS buttons are delicious. Sam Collins shares his set of 42 CSS3 font-face vector icon buttons that are easiliy editable and have a beautiful style.
+- [Better Background Images For Responsive Web Design](http://elliotjaystocks.com/blog/better-background-images-for-responsive-web-design/): An interesting article by Elliot Jay Stocks about the problems of the CSS background-size property and how to solve them. 
+- [Glisse.js](http://glisse.victorcoulon.fr/): Glisse.js is a simple, responsive and fully customizable jQuery photo viewer with great CSS3 image transitions.
+- [CSS3 Pseudo-Classes and HTML5 Forms](http://html5doctor.com/css3-pseudo-classes-and-html5-forms/): Peter Gasston will teach you some nifty things about forms and how to make use of some great features of CSS3 and HTML5.
+- [Free Font: Metropolis 1920](http://www.behance.net/gallery/Metropolis-1920/3244285): An absolutely sexy art deco style font by Josip Kelava.
+- [Developing Game Audio with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/games/): Another superb tutorial by HTML5 Rocks: Boris Smus will show you how to use the Web Audio API for game audio development.
+- [Morris.js](http://oesmith.github.com/morris.js/): Morris.js is a lightweight library that uses jQuery and Raphaël to make stunning graphs easily.
 
 # Collective #2
+- [HTML5 Please - Use the new and shiny responsibly](http://html5please.us/): The same brilliant minds that gave us HTML5 Boilerplate, Modernizr & CSS3 Please, now give us HTML5 Please: a very useful resource that summerizes the support and possibilities for all the new properties.
+- [Scrollorama](http://johnpolacek.github.com/scrollorama/): Scrollorama is an awesome jQuery plugin by John Polacek for doing cool and experimental scrolly stuff. Just scroll the page and you'll discover some nice effects.
+- [Font.js - A Powerful Font Toolkit for JavaScript](http://pomax.nihongoresources.com/pages/Font.js/): Mike "Pomax" Kamermans gives us this useful library that adds a font object to the collection of predefined objects available to you when doing JS coding for the web.
+- [Kendo UI - The Art of Web Development](http://www.kendoui.com/): Kendo UI combines everything needed for modern JavaScript development, including a powerful DataSource, universal Drag-and-Drop, Templates, Themes, and UI Widgets.
+- [CSS3/HTML5 Contact Form without Images](http://www.onextrapixel.com/2012/01/23/full-css3-html5-contact-form-with-no-images/): Stéphanie Walter shows how to create a super-slick HTML5/CSS3 contact form from scratch.
+- [Inspiring UI Element Shots](#): Glyph Menu by Lewis Braid
+- [Pick the Right Typefaces for Your Project](http://designshack.net/articles/typography/pick-the-right-typefaces-for-your-project/): Carrie Cousins explains how to make the right font choices and font combinations.
+- [Design Curate](http://designcurate.com/): Design Curate is a new platform for free and commercial resources for designers.
+- [Numberfy](http://www.mitya.co.uk/blog/2012/Jan/Numberfy-add-line-numbers-to-your-textareas-198): Andrew Croxall created this jQuery plugin that lets you add line numbers to textareas.
+- [Nailing Browser Support in CSS3 and HTML5: Invaluable Resources to Use Today](http://designshack.net/articles/css/nailing-browser-support-in-css3-and-html5-invaluable-resources-to-use-today/): In this article Joshua Johnson collects some great resources that help developing cross-browser compatible websites.
+- [Little Notepad Design (PSD)](http://www.premiumpixels.com/freebies/little-notepad-design-psd/): Orman Clark shares another pixel-perfect PSD with the community: a beautiful little notepad design.
+- [deCSS3](http://davatron5000.github.com/deCSS3/): deCSS3 is a bookmarklet for testing if your site degrades gracefully. Get the bookmarklet and see what your site will look like in older browsers that don't support CSS3
+- [The separation of structure, presentation and behavior is dead](http://thinkvitamin.com/design/the-separation-of-structure-presentation-and-behavior-is-dead/): Kevin Dees explains how the separation of structure, presentation and behavior is basically dead in practice and how Divergence is the new rasing pattern.
 
 # Collective #1
+- [Typometry Free Font](http://www.behance.net/gallery/Typometry-Free-Font/3831957): A beautiful experimental geometric font from talented Emil Kozole.
+- [Inspirational Website of the Week](http://weareimpero.com/): Impero has some really nifty effects with unusual shapes which gives this web design the special something.
+- [Texturise web type with CSS](http://www.netmagazine.com/tutorials/texturise-web-type-css): Learn how to create some beautiful texturised web typography in this .net tutorial by Trent Walton.
+- [Responsive Grid System](http://responsive.gs/): Try this fluid grid CSS framework for fast, intuitive development of responsive websites. Available in 12, 16 and 24 columns with media queries for all standard devices, clearfix, and optional reset.
+- [Why you should care about CSS page performance](http://boagworld.com/dev/why-you-should-care-about-css-page-performance/): Doug Stewart introduces some interesting points of CSS performance, why we should care about it and what actually matters.
+- [Screenqueries](http://screenqueri.es/): Test your website on different viewport sizes using this awesome tool. You can even test your local sites. It's still in Beta but it's already super-useful and don't forget to watch out for their upcoming responsive design gallery.
+- [Arrrows: The Fully Scalable Icon Font](http://www.arrrows.com/): Tired of creating those little arrows over and over again? Try Arrrows, a fully scalable icon font for your design. Get the free PNG icon set or buy the whole bundle.
+- [Physijs - Physics plugin for three.js](https://github.com/chandlerprall/Physijs): If you have worked with the three.js 3D programming framework, Physijs will be quite interesting to you if you want to add physics to your scene.
+- [Above the Scroll: Does It Matter Anymore?](http://designshack.net/articles/above-the-scroll-does-it-matter-anymore/): Is it still important to consider the "fold" in web design? Carrie gives us this up-to-date exploration of why the "above the scroll" concept should be seen and applied as an evolved concept. 
+- [BEM: The Block, Element, Modifier Approach To Decoupling HTML And CSS](http://bem.github.com/bem-method/pages/beginning/beginning.en.html): Steven Bradley dives into CSS best practices and introduces us to the BEM approach to develop websites. He argues why we should rethink some of our common CSS practices for creating scalable and maintainable websites.
+- [How to Speed Up CSS Rendering](http://www.onextrapixel.com/2012/05/03/css-tricks-how-to-speed-up-css-rendering/): Faraz Karimian tells us how to write our CSS efficiently for speedy browser rendering. Understand which types of rules are impactful and expensive.
+- [Showing Product Information With CSS3 3D Transform](http://www.webstuffshare.com/2012/04/showing-product-information-with-css3-3d-transform/): In this in-depth tutorial, Hidayat Sagita will show you how to create some magic with CSS 3D Transforms.
+- [Creating Android Dock Using jQuery & CSS3](http://www.webstuffshare.com/2012/05/creating-android-dock-using-jquery-css3/): Another superb tutorial by Hidayat Sagita where he shows us how to create the Android dock using CSS3 and some jQuery awesomeness.
+- [Responsive design – harnessing the power of media queries](http://googlewebmastercentral.blogspot.pt/2012/04/responsive-design-harnessing-power-of.html): Responsive web design from Google's perspective: get some important insight on how responsiveness is realized and how to use media queries.
+- [Pilaca Free Font](http://www.behance.net/gallery/Pilaca-Free-Font/3743257): Pilaca is a free display font designed by Pier Paolo.  It is quite powerful in 3d applications. 
+- [Subtle Grunge Minimal Iconset](http://www.rshahin.com/free-subtle-grunge-minimal-iconset-download-vector-files-included/): Rofikul Islam Shahin gives us this free social media icon set (vector files included).
+- [Icon Design in 5 Steps - Free Icon Set from Ramotion](http://abduzeedo.com/icon-design-5-steps-free-icon-set-ramotion): Learn the main steps of icon design and see the beautiful end result. Denis Pakhaliuk from Ramotion writes about the icon creation process and offers a free icon set for download on Abduzeedo.
+- [Toggles, Buttons and Sliders UI Redux PSD](http://dribbble.com/shots/546854-Toggles-Buttons-and-Sliders-UI-Redux): A beautiful set of useful UI Elements from Michael Donovan.
+- [Viewport Sized Typography](http://css-tricks.com/viewport-sized-typography/): Chris Coyier introduces the new CSS3 values for relative lengths: vw, vh, and vmin. They are not quite supported yet, but you can get an idea how powerful and useful they will be for responsive web design.
 

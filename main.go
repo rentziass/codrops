@@ -32,6 +32,7 @@ func main() {
 	totalDrops, _ := strconv.ParseInt(strings.TrimSpace(issue), 10, 64)
 
 	for i := int(totalDrops); i > 0; i-- {
+	//for i := 130; i > 0; i-- {
 		if i <= latestFetched {
 			break
 		}
@@ -49,10 +50,11 @@ func getDrop(url string, n int) {
 	}
 
 	articles := []*Article{}
+
 	doc.Find(".ct-coll-container .ct-coll-item").Each(func(i int, s *goquery.Selection) {
-		link, _ := s.Find("h2 > a").First().Attr("href")
+		link, _ := s.Find("a").First().Attr("href")
 		a := &Article{
-			Title:       s.Find("h2 > a").First().Text(),
+			Title:       s.Find("h2").First().Text(),
 			Description: s.Find("p").First().Text(),
 			Link:        link,
 		}
@@ -72,7 +74,7 @@ func writeArticlesToFile(n int, articles []*Article) {
 	checkErr(err)
 
 	for _, a := range articles {
-		if a.Link != "" {
+		if a.Link != "" && a.Title != "" {
 			_, err = file.WriteString(fmt.Sprintf("- [%v](%v): %v\n", a.Title, a.Link, a.Description))
 		}
 	}
